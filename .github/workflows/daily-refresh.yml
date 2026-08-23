@@ -1,0 +1,65 @@
+name: Refresh CSE early-career feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 2 * * *"
+    - cron: "15 8 * * *"
+    - cron: "15 14 * * *"
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: internship-pages
+  cancel-in-progress: true
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify classifiers before collecting
+        run: python -m unittest -q
+
+      - name: Collect current CSE internships and fresher jobs
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python collector.py
+
+      # CI has no AI reviewer, so it only prepares the queue. The review itself
+      # happens in the Claude Code workspace; see .claude/skills/internbd-refresh.
+      - name: Build the pending AI review queue
+        run: python ai_review.py queue --batch 40
+
+      - name: Save refreshed data
+        run: |
+          git config user.name "internbd-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/jobs.json data/jobs.js data/seen_ids.json data/notified_ids.json
+          git add data/companies.json data/pending_review.json data/ai_rejected_ids.json
+          git diff --cached --quiet || git commit -m "chore: refresh CSE job feed [skip ci]"
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4

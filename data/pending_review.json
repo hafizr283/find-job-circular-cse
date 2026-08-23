@@ -1,0 +1,21 @@
+{
+  "built_at": "2026-08-23T03:34:13+00:00",
+  "review_version": 1,
+  "dataset_generated_at": "2026-08-23T03:11:39+00:00",
+  "total_jobs": 136,
+  "needing_review": 0,
+  "in_this_batch": 0,
+  "remaining_after_batch": 0,
+  "valid_categories": [
+    "Software Development & Engineering",
+    "AI, Data & Machine Learning",
+    "Cloud, Infrastructure & DevOps",
+    "Cybersecurity & Risk",
+    "Product, Design & UI/UX",
+    "ITES, Support & Customer Success",
+    "Project Management & Agile",
+    "Freelance & Niche Tech",
+    "Other CSE"
+  ],
+  "pending": []
+}

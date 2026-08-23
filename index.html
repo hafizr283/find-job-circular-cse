@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102a43">
+  <meta name="description" content="A frequently refreshed tracker for CSE internships and fresher jobs in Bangladesh.">
+  <title>InternBD | CSE internships and fresher jobs</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="./" aria-label="InternBD CSE jobs home">
+        <span class="brand-mark"><i data-lucide="briefcase-business"></i></span>
+        <span>Intern<span>BD</span></span>
+      </a>
+      <div class="topbar-actions">
+        <span class="refresh-label" id="refreshLabel">Refreshing daily</span>
+        <button class="icon-button" id="sourcesButton" type="button" title="Browse job sources" aria-label="Browse job sources"><i data-lucide="radio-tower"></i></button>
+        <button class="icon-button queue-top-button" id="queueTopButton" type="button" title="Open application queue" aria-label="Open application queue"><i data-lucide="list-checks"></i><b id="queueCount">0</b></button>
+        <button class="icon-button saved-top-button" id="savedTopButton" type="button" title="Show saved jobs" aria-label="Show saved jobs"><i data-lucide="bookmark"></i><b id="savedCount">0</b></button>
+      </div>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    <section class="intro-row">
+      <div>
+        <p class="eyebrow"><span class="live-dot"></span> Bangladesh CSE early-career desk</p>
+        <h1>CSE internships and fresher jobs in one feed.</h1>
+        <p class="intro-copy">Technical openings for students and new graduates across Bangladesh, with original circular links, job type, pay evidence, and deadline checks.</p>
+      </div>
+      <div class="update-stamp">
+        <span>Last checked</span>
+        <strong id="generatedAt">--</strong>
+      </div>
+    </section>
+
+    <section class="stats-strip" aria-label="CSE early-career summary">
+      <div class="stat-item"><span>All openings</span><strong id="totalJobs">--</strong></div>
+      <div class="stat-item stat-accent"><span>Internships</span><strong id="internshipCount">--</strong></div>
+      <div class="stat-item"><span>Fresher jobs</span><strong id="fresherJobCount">--</strong></div>
+      <div class="stat-item"><span>Applications sent</span><strong id="appliedCount">0</strong></div>
+    </section>
+
+    <section class="toolbar" aria-label="Search CSE openings">
+      <div class="search-wrap">
+        <i data-lucide="search"></i>
+        <input id="searchInput" type="search" placeholder="Search role, company, or skill" autocomplete="off">
+        <kbd>/</kbd>
+      </div>
+      <button class="filter-toggle" id="filterToggle" type="button" title="Filters" aria-label="Filters"><i data-lucide="sliders-horizontal"></i><span>Filters</span><em id="filterCount">0</em></button>
+      <div class="sort-wrap">
+        <label for="sortSelect">Sort</label>
+        <select id="sortSelect">
+          <option value="relevance">Best match</option>
+          <option value="deadline">Deadline soonest</option>
+          <option value="newest">Newest</option>
+          <option value="paid">Paid first</option>
+        </select>
+      </div>
+    </section>
+
+    <div class="workspace-grid">
+      <aside class="filter-panel" id="filterPanel">
+        <div class="filter-heading"><h2>Refine the feed</h2><div class="filter-head-actions"><button class="text-button" id="clearFilters" type="button">Clear all</button><button class="mobile-close" id="mobileClose" type="button" aria-label="Close filters"><i data-lucide="x"></i></button></div></div>
+        <fieldset>
+          <legend>Deadline</legend>
+          <div class="select-wrap"><select id="deadlineSelect">
+            <option value="">Any deadline</option>
+            <option value="3" data-window data-label="Closing in 3 days">Closing in 3 days</option>
+            <option value="7" data-window data-label="Closing in 7 days">Closing in 7 days</option>
+            <option value="14" data-window data-label="Closing in 14 days">Closing in 14 days</option>
+            <option value="30" data-window data-label="Closing in 30 days">Closing in 30 days</option>
+            <option value="custom">Custom day count</option>
+          </select><i data-lucide="chevron-down"></i></div>
+          <label class="days-field" id="deadlineCustomWrap" hidden><span>Closing in</span><input id="deadlineDays" type="number" min="0" max="365" step="1" value="7" inputmode="numeric" aria-label="Deadline within how many days"><span>days or less</span></label>
+          <label class="check-row"><input type="checkbox" id="datedOnly"><span>Stated deadline only</span><small id="deadlineKnownCount">0</small></label>
+          <p class="filter-hint" id="deadlineHint">Roles with no stated deadline stay in the list and sort last.</p>
+        </fieldset>
+        <fieldset>
+          <legend>Opening type</legend>
+          <label class="check-row"><input type="checkbox" name="type" value="Internship"><span>Internship</span><small id="internshipTypeCount">0</small></label>
+          <label class="check-row"><input type="checkbox" name="type" value="Fresher job"><span>Fresher job</span><small id="fresherTypeCount">0</small></label>
+        </fieldset>
+        <fieldset>
+          <legend>Pay signal</legend>
+          <label class="check-row"><input type="checkbox" name="pay" value="confirmed"><span>Paid confirmed</span><small id="payConfirmedCount">0</small></label>
+          <label class="check-row"><input type="checkbox" name="pay" value="likely"><span>Allowance mentioned</span><small id="payLikelyCount">0</small></label>
+          <label class="check-row"><input type="checkbox" name="pay" value="unknown"><span>Pay not stated</span><small id="payUnknownCount">0</small></label>
+        </fieldset>
+        <fieldset>
+          <legend>Work mode</legend>
+          <label class="check-row"><input type="checkbox" name="mode" value="Remote"><span>Remote</span></label>
+          <label class="check-row"><input type="checkbox" name="mode" value="Hybrid"><span>Hybrid</span></label>
+          <label class="check-row"><input type="checkbox" name="mode" value="On-site"><span>On-site</span></label>
+        </fieldset>
+        <fieldset>
+          <legend>Location</legend>
+          <div class="select-wrap"><select id="locationSelect"><option value="">Anywhere in Bangladesh</option></select><i data-lucide="chevron-down"></i></div>
+        </fieldset>
+        <fieldset>
+          <legend>Field</legend>
+          <div class="select-wrap"><select id="categorySelect"><option value="">Any field</option></select><i data-lucide="chevron-down"></i></div>
+        </fieldset>
+        <fieldset>
+          <legend>Company quality</legend>
+          <label class="check-row"><input type="checkbox" id="strongCompaniesOnly"><span>Tier A or B only</span><small id="strongCompanyCount">0</small></label>
+          <label class="check-row"><input type="checkbox" id="hideReposts"><span>Hide reposts and agencies</span><small id="repostCount">0</small></label>
+          <p class="filter-hint">Tiers rate the employer for a CSE fresher: training, pay, and how juniors are treated. Unrated is neutral, not bad.</p>
+        </fieldset>
+        <fieldset>
+          <legend>Experience</legend>
+          <label class="check-row"><input type="checkbox" id="noExperienceOnly"><span>No experience required</span><small id="noExpCount">0</small></label>
+        </fieldset>
+        <fieldset>
+          <legend>Freshness</legend>
+          <label class="check-row"><input type="checkbox" id="freshOnly"><span>Found in latest scan</span></label>
+        </fieldset>
+        <fieldset>
+          <legend>Application status</legend>
+          <label class="check-row"><input type="checkbox" id="unappliedOnly"><span>Not applied yet</span></label>
+        </fieldset>
+        <div class="filter-note"><i data-lucide="shield-check"></i><span>Only CSE-related early-career roles are kept. Pay and deadline labels come from listing text.</span></div>
+      </aside>
+
+      <section class="results-panel">
+        <div class="results-header"><div><h2>Open CSE roles</h2><p id="resultSummary">Loading roles...</p></div></div>
+        <div id="jobList" class="job-list" aria-live="polite"></div>
+        <div id="emptyState" class="empty-state" hidden><span class="empty-icon"><i data-lucide="scan-search"></i></span><h3>No roles match those filters</h3><p>Try a broader search or clear one of the filters.</p><button class="outline-button" id="emptyClear" type="button">Clear filters</button></div>
+      </section>
+    </div>
+  </main>
+
+  <div class="modal-backdrop" id="sourcesModal" hidden>
+    <section class="modal" role="dialog" aria-modal="true" aria-labelledby="sourcesTitle">
+      <div class="modal-head"><div><p class="eyebrow">Your source map</p><h2 id="sourcesTitle">Where this feed comes from</h2></div><button class="icon-button" id="sourcesClose" type="button" aria-label="Close source map"><i data-lucide="x"></i></button></div>
+      <p class="modal-copy">LinkedIn public results are collected several times daily. Boards that block dependable automation stay one click away for manual cross-checking. No public tool can guarantee every circular, so use this list as the coverage checklist.</p>
+      <div id="sourceList" class="source-list"></div>
+    </section>
+  </div>
+
+  <div class="modal-backdrop" id="queueModal" hidden>
+    <section class="modal" role="dialog" aria-modal="true" aria-labelledby="queueTitle">
+      <div class="modal-head"><div><p class="eyebrow">Application queue</p><h2 id="queueTitle">Queued roles</h2></div><button class="icon-button" id="queueClose" type="button" aria-label="Close application queue"><i data-lucide="x"></i></button></div>
+      <p class="modal-copy">Export the queue for the local application worker. Your CV and profile stay on this computer.</p>
+      <div id="queueList" class="queue-list"></div>
+      <div class="queue-actions"><button class="outline-button" id="queueClear" type="button">Clear queue</button><button class="primary-button" id="queueExport" type="button"><i data-lucide="download"></i><span>Export queue</span></button></div>
+    </section>
+  </div>
+
+  <script src="data/jobs.js"></script>
+  <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

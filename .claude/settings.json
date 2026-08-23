@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/.claude/hooks/greeting_refresh.py\"",
+            "timeout": 15,
+            "statusMessage": "Checking InternBD feed freshness"
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Bash(python collector.py)",
+      "Bash(python ai_review.py:*)",
+      "Bash(python report.py:*)",
+      "Bash(python seed_companies.py:*)",
+      "Bash(python -m unittest:*)",
+      "Bash(python -m py_compile:*)",
+      "Bash(node --check:*)",
+      "Read",
+      "Edit(data/**)",
+      "Edit(.claude/**)"
+    ]
+  }
+}
