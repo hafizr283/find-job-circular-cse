@@ -18,7 +18,6 @@
     "allow": [
       "Bash(python collector.py)",
       "Bash(python ai_review.py:*)",
-      "Bash(python report.py:*)",
       "Bash(python seed_companies.py:*)",
       "Bash(python -m unittest:*)",
       "Bash(python -m py_compile:*)",
