@@ -1,10 +1,10 @@
 {
-  "built_at": "2026-08-23T11:36:02+00:00",
+  "built_at": "2026-08-23T16:47:35+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-23T11:36:02+00:00",
-  "total_jobs": 142,
-  "needing_review": 38,
-  "in_this_batch": 38,
+  "dataset_generated_at": "2026-08-23T16:47:35+00:00",
+  "total_jobs": 143,
+  "needing_review": 40,
+  "in_this_batch": 40,
   "remaining_after_batch": 0,
   "valid_categories": [
     "Software Development & Engineering",
@@ -18,6 +18,25 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4456808187",
+      "title": "PRE-SALES ENGINEER",
+      "company": "AloIT Consultants",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/pre-sales-engineer-at-aloit-consultants-4456808187",
+      "posted_at": "2026-08-23",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "WE’RE HIRING!!! PRE-SALES ENGINEER Join Our Sales & Marketing Team We are looking for a Pre-Sales Engineer with a strong technical background to join our Sales & Marketing team. The ideal candidate will have a CSE/IT background, previous software development experience, and a passion for understanding technology and presenting software solutions to customers. Key Responsibilities Conduct software "
+    },
     {
       "id": "linkedin-4457857018",
       "title": "QA Automation Engineer",
@@ -36,6 +55,44 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Quality Assurance Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
+    },
+    {
+      "id": "linkedin-4450823304",
+      "title": "Data Analyst - Digital Business & Financial Analytics",
+      "company": "nextjobz",
+      "location": "Gulshan, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/data-analyst-digital-business-financial-analytics-at-nextjobz-4450823304",
+      "posted_at": "2026-08-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4437683462",
+      "title": "Jr. Software Engineer Intern",
+      "company": "nextjobz",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/jr-software-engineer-intern-at-nextjobz-4437683462",
+      "posted_at": "2026-08-11",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4456041193",
@@ -236,24 +293,6 @@
       "description_excerpt": "WHO WE ARE: Ding is the global leader in cross-border value transfer. Since 2006, we’ve moved more than $6BN across borders — putting money directly into the hands of diaspora communities so they can support the families they left behind. Today, we operate in 160+ countries, partner with 600+ mobile operators, and serve some of the world’s most underserved markets with technology that is fast, rel"
     },
     {
-      "id": "linkedin-4447245601",
-      "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
-      "company": "GFGG IT Solutions",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-%E2%80%93-interns-paid-%E2%80%93-onsite-at-gfgg-it-solutions-4447245601",
-      "posted_at": "2026-07-31",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
-    },
-    {
       "id": "linkedin-4449468173",
       "title": "Intern - Robotics & Automation",
       "company": "Kranti Robotics (Kranti Associates Canada Ltd.)",
@@ -270,6 +309,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "About Kranti Robotics Kranti Robotics is a precision automation and systems integration company headquartered in Ottawa, Canada, operating across two pillars: Smart Manufacturing and Digital Transformation . Our Asia office in Dhaka is where a growing team of engineers works on robotics, machine vision, and automation challenges for real industrial applications — from collaborative robots (cobots)"
+    },
+    {
+      "id": "linkedin-4447245601",
+      "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
+      "company": "GFGG IT Solutions",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-%E2%80%93-interns-paid-%E2%80%93-onsite-at-gfgg-it-solutions-4447245601",
+      "posted_at": "2026-07-31",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
     },
     {
       "id": "linkedin-4451084684",
@@ -414,24 +471,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Position: Backend Java Developer Type: Contract Compensation: $60 - $110/hour Location: Remote Commitment: 10-40 hrs/week Role Responsibilities Design, develop, and maintain scalable backend systems using Java and Spring Boot. Architect robust microservices solutions to support complex application requirements. Collaborate with the customer's team to review technical specifications and deliver hig"
-    },
-    {
-      "id": "linkedin-4437683462",
-      "title": "Jr. Software Engineer Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/jr-software-engineer-intern-at-nextjobz-4437683462",
-      "posted_at": "2026-08-11",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Stipend: BDT 7,000 - 12,000 / month",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: SARLEO Location: Dhaka Job Type: Full-Time Workplace Type: On-Site Job ID: IJOB202652609 Job Location & Perks Location: Dhaka (Hybrid Flex — balanced remote & office options). Duration & Hours: 6-Month Internship | 20 to 40 Hours per Week. Stipend: BDT 7,000 - 12,000 / month. Note: Features a clear pathway to transition into a permanent, full-time Engineering role based on performanc"
     },
     {
       "id": "linkedin-4453457373",
