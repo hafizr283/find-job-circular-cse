@@ -104,7 +104,7 @@ The procedure itself lives in `.claude/skills/internbd-refresh/SKILL.md`. Keep t
 
 ## Company reputation registry
 
-`data/companies.json` rates roughly 290 Bangladeshi companies for one specific reader: a CSE fresher deciding where to spend an application.
+`data/companies.json` rates roughly 340 Bangladeshi companies for one specific reader: a CSE fresher deciding where to spend an application.
 
 `company_registry.py` holds the rubric. Five groups, 0-100 total:
 

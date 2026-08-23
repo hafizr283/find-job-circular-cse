@@ -2,11 +2,18 @@
   "use strict";
 
   const data = window.INTERNSHIP_DATA || { generated_at: null, summary: {}, jobs: [], source_directory: [] };
-  const normalizedJobs = (Array.isArray(data.jobs) ? data.jobs : []).map((job) => ({
-    ...job,
-    job_type: job.job_type || (/\bintern(?:ship|s)?\b/i.test(job.title || "") ? "Internship" : "Fresher job"),
-    experience_text: job.experience_text || "",
-  }));
+  const normalizedJobs = (Array.isArray(data.jobs) ? data.jobs : []).map((job) => {
+    const enriched = {
+      ...job,
+      job_type: job.job_type || (/\bintern(?:ship|s)?\b/i.test(job.title || "") ? "Internship" : "Fresher job"),
+      experience_text: job.experience_text || "",
+    };
+    // Lowercase search haystack built once per job instead of on every render pass.
+    enriched._haystack = `${enriched.title} ${enriched.company} ${enriched.location} ${enriched.category} ${enriched.job_type} ${enriched.experience_text} ${enriched.description}`
+      .toLowerCase()
+      .replace(/\s+/g, " ");
+    return enriched;
+  });
   const state = {
     jobs: normalizedJobs,
     query: "",
@@ -30,9 +37,43 @@
   const savedKey = "internbd-saved-jobs";
   const applicationsKey = "internbd-applications";
   const queueKey = "internbd-apply-queue";
-  const saved = new Set(JSON.parse(localStorage.getItem(savedKey) || "[]"));
-  const queue = new Set(JSON.parse(localStorage.getItem(queueKey) || "[]"));
-  const applications = JSON.parse(localStorage.getItem(applicationsKey) || "{}");
+  const dismissedKey = "internbd_dismissed_v1";
+  const themeKey = "internbd-theme";
+
+  // localStorage can hold anything a previous broken script or extension wrote.
+  // Parse defensively; if a stored value is corrupt, overwrite it with the default
+  // so one bad payload cannot crash every load.
+  function readStoredJson(key, fallback) {
+    try {
+      const raw = localStorage.getItem(key);
+      if (raw === null) return fallback;
+      const parsed = JSON.parse(raw);
+      return parsed === null || parsed === undefined ? fallback : parsed;
+    } catch (error) {
+      try { localStorage.setItem(key, JSON.stringify(fallback)); } catch (writeError) { /* storage unavailable */ }
+      return fallback;
+    }
+  }
+
+  function writeStoredJson(key, value) {
+    try { localStorage.setItem(key, JSON.stringify(value)); } catch (error) { /* storage unavailable */ }
+  }
+
+  function readStoredText(key) {
+    try { return localStorage.getItem(key); } catch (error) { return null; }
+  }
+
+  function writeStoredText(key, value) {
+    try { localStorage.setItem(key, value); } catch (error) { /* storage unavailable */ }
+  }
+
+  const asStringArray = (value) => (Array.isArray(value) ? value.filter((item) => typeof item === "string") : []);
+
+  const saved = new Set(asStringArray(readStoredJson(savedKey, [])));
+  const queue = new Set(asStringArray(readStoredJson(queueKey, [])));
+  const dismissed = new Set(asStringArray(readStoredJson(dismissedKey, [])));
+  const rawApplications = readStoredJson(applicationsKey, {});
+  const applications = rawApplications && typeof rawApplications === "object" && !Array.isArray(rawApplications) ? rawApplications : {};
 
   const $ = (selector) => document.querySelector(selector);
   const $$ = (selector) => Array.from(document.querySelectorAll(selector));
@@ -44,18 +85,25 @@
   }
 
   function saveState() {
-    localStorage.setItem(savedKey, JSON.stringify(Array.from(saved)));
+    writeStoredJson(savedKey, Array.from(saved));
     $("#savedCount").textContent = String(saved.size);
   }
 
   function saveApplications() {
-    localStorage.setItem(applicationsKey, JSON.stringify(applications));
+    writeStoredJson(applicationsKey, applications);
     renderSummary();
   }
 
   function saveQueue() {
-    localStorage.setItem(queueKey, JSON.stringify(Array.from(queue)));
+    writeStoredJson(queueKey, Array.from(queue));
     $("#queueCount").textContent = String(queue.size);
+  }
+
+  function saveDismissed() {
+    writeStoredJson(dismissedKey, Array.from(dismissed));
+    renderHidden();
+    populateFilters();
+    renderSummary();
   }
 
   function applicationFor(jobId) {
@@ -197,10 +245,22 @@
     return `<span class="tag tag-exp" title="Smallest stated experience requirement">${escapeHtml(label)}</span>`;
   }
 
+  // The logo is built without any scraped string inside an attribute-embedded
+  // handler. The fallback initials travel through a data attribute and a real
+  // error listener paints them into the parent via textContent, so a crafted
+  // company name can never execute markup or script here.
   function jobLogo(job) {
-    const initials = escapeHtml((job.company || "?").trim().split(/\s+/).slice(0, 2).map((part) => part[0]).join("").toUpperCase());
-    if (!job.logo) return initials;
-    return `<img src="${escapeHtml(job.logo)}" alt="" loading="lazy" onerror="this.parentElement.textContent='${initials}'">`;
+    const initials = (job.company || "?").trim().split(/\s+/).slice(0, 2).map((part) => part[0]).join("").toUpperCase();
+    if (!job.logo) return escapeHtml(initials);
+    return `<img src="${escapeHtml(job.logo)}" alt="" loading="lazy" data-initials="${escapeHtml(initials)}">`;
+  }
+
+  function wireLogoFallbacks(scope) {
+    (scope || document).querySelectorAll(".company-logo img").forEach((img) => {
+      img.addEventListener("error", () => {
+        img.parentElement.textContent = img.dataset.initials || "?";
+      }, { once: true });
+    });
   }
 
   const payRank = (job) => ({ confirmed: 3, likely: 2, unknown: 1, unpaid: 0 }[job.pay_status] || 0);
@@ -209,13 +269,18 @@
   const repostFlagged = (job) =>
     Array.isArray(job.company_flags) && job.company_flags.some((flag) => REPOST_FLAGS.includes(flag));
 
+  function activeJobs() {
+    return state.jobs.filter((job) => !isExpired(job) && !dismissed.has(job.id));
+  }
+
   function visibleJobs() {
     const query = state.query.trim().toLowerCase();
     let jobs = state.jobs.filter((job) => {
       const application = applicationFor(job.id);
-      const haystack = `${job.title} ${job.company} ${job.location} ${job.category} ${job.job_type} ${job.experience_text} ${job.description} ${application.cv_name}`.toLowerCase();
+      const haystack = `${job._haystack || ""} ${application.cv_name}`.toLowerCase();
       const days = daysLeft(job);
       if (isExpired(job)) return false;
+      if (dismissed.has(job.id)) return false;
       if (query && !haystack.includes(query)) return false;
       if (state.savedOnly && !saved.has(job.id)) return false;
       if (state.pay.size && !state.pay.has(job.pay_status)) return false;
@@ -250,7 +315,7 @@
 
   function resultSummary(jobs) {
     if (state.savedOnly) return `${jobs.length} saved ${jobs.length === 1 ? "role" : "roles"}`;
-    if (state.deadlineDays === null) return `${jobs.length} of ${state.jobs.length} roles shown`;
+    if (state.deadlineDays === null) return `${jobs.length} of ${activeJobs().length} roles shown`;
     const dated = jobs.filter((job) => daysLeft(job) !== null).length;
     const window = state.deadlineDays === 0 ? "closing today" : `closing in ${state.deadlineDays} ${state.deadlineDays === 1 ? "day" : "days"} or less`;
     const undated = jobs.length - dated;
@@ -280,7 +345,10 @@
           <div class="job-meta"><span>${icon("map-pin")} ${escapeHtml(job.location || "Bangladesh")}</span><span>${icon("layers-3")} ${escapeHtml(job.category || "Other")}</span><span>${icon(job.work_mode === "Remote" ? "wifi" : "building-2")} ${escapeHtml(job.work_mode || "On-site")}</span></div>
         </div>
         <div class="job-side"><strong>${escapeHtml(job.pay_text || "Pay not stated")}</strong><span class="${deadlineClass}">${escapeHtml(deadline)}</span><span class="${freshnessClass}">${escapeHtml(freshness)}</span></div>
-        <button class="save-button ${active ? "active" : ""}" data-save="${escapeHtml(job.id)}" type="button" title="${active ? "Remove saved job" : "Save job"}" aria-label="${active ? "Remove saved job" : "Save job"}">${icon("bookmark")}</button>
+        <div class="row-actions">
+          <button class="save-button ${active ? "active" : ""}" data-save="${escapeHtml(job.id)}" type="button" title="${active ? "Remove saved job" : "Save job"}" aria-label="${active ? "Remove saved job" : "Save job"}">${icon("bookmark")}</button>
+          <button class="dismiss-button" data-dismiss="${escapeHtml(job.id)}" type="button" title="Not interested" aria-label="Hide ${escapeHtml(job.title)} from my feed">${icon("eye-off")}</button>
+        </div>
         <div class="application-tracker ${application.applied ? "is-applied" : ""}">
           <button class="queue-button ${queued ? "queued" : ""}" data-queue="${escapeHtml(job.id)}" type="button" title="${queued ? "Remove from application queue" : "Add to application queue"}" aria-label="${queued ? "Remove from application queue" : "Add to application queue"}">${icon(queued ? "list-checks" : "list-plus")}<span>${queued ? "Queued" : "Queue application"}</span></button>
           <label class="applied-check"><input type="checkbox" data-applied="${escapeHtml(job.id)}" ${application.applied ? "checked" : ""}><span>${application.applied ? "Applied" : "Mark as applied"}</span></label>
@@ -295,6 +363,7 @@
       saveState();
       renderJobs();
     }));
+    $$('[data-dismiss]').forEach((button) => button.addEventListener("click", () => dismissJob(button.dataset.dismiss)));
     $$('[data-queue]').forEach((button) => button.addEventListener("click", () => {
       const id = button.dataset.queue;
       if (queue.has(id)) queue.delete(id); else queue.add(id);
@@ -316,22 +385,74 @@
       applicationFor(input.dataset.cvName).cv_name = input.value.trim();
       saveApplications();
     }));
+    wireLogoFallbacks(list);
     refreshIcons();
   }
 
+  let toastTimer = null;
+
+  function hideToast() {
+    clearTimeout(toastTimer);
+    $("#toast").classList.remove("show");
+  }
+
+  function showToast(message, undoAction) {
+    const toast = $("#toast");
+    $("#toastMessage").textContent = message;
+    const undo = $("#toastUndo");
+    undo.hidden = !undoAction;
+    undo.onclick = () => {
+      hideToast();
+      if (undoAction) undoAction();
+    };
+    toast.classList.add("show");
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(hideToast, 6000);
+  }
+
+  function dismissJob(id) {
+    const job = state.jobs.find((item) => item.id === id);
+    dismissed.add(id);
+    saveDismissed();
+    renderJobs();
+    if (job) showToast("Job hidden", () => {
+      dismissed.delete(id);
+      saveDismissed();
+      renderJobs();
+    });
+  }
+
+  function restoreJob(id) {
+    dismissed.delete(id);
+    saveDismissed();
+    renderJobs();
+  }
+
+  function renderHidden() {
+    const hiddenJobs = state.jobs.filter((job) => dismissed.has(job.id));
+    $("#hiddenCount").textContent = String(hiddenJobs.length);
+    $("#restoreAllButton").hidden = hiddenJobs.length === 0;
+    $("#hiddenSection").hidden = false;
+    $("#hiddenList").innerHTML = hiddenJobs.length ? hiddenJobs.map((job) =>
+      `<div class="hidden-row"><span class="hidden-label"><strong>${escapeHtml(job.title)}</strong><small>${escapeHtml(job.company)}</small></span><button class="text-button" data-restore="${escapeHtml(job.id)}" type="button" aria-label="Restore ${escapeHtml(job.title)}">Restore</button></div>`
+    ).join("") : `<p class="hidden-empty">Nothing hidden yet.</p>`;
+    $$('[data-restore]').forEach((button) => button.addEventListener("click", () => restoreJob(button.dataset.restore)));
+  }
+
   function populateFilters() {
-    const locations = Array.from(new Set(state.jobs.map((job) => job.location).filter(Boolean))).sort();
-    const categories = Array.from(new Set(state.jobs.map((job) => job.category).filter(Boolean))).sort();
-    $("#locationSelect").insertAdjacentHTML("beforeend", locations.map((item) => `<option value="${escapeHtml(item)}">${escapeHtml(item)}</option>`).join(""));
-    $("#categorySelect").insertAdjacentHTML("beforeend", categories.map((item) => `<option value="${escapeHtml(item)}">${escapeHtml(item)}</option>`).join(""));
-    const count = (status) => state.jobs.filter((job) => job.pay_status === status).length;
-    const typeCount = (type) => state.jobs.filter((job) => job.job_type === type).length;
+    const openJobs = activeJobs();
+    const locations = Array.from(new Set(openJobs.map((job) => job.location).filter(Boolean))).sort();
+    const categories = Array.from(new Set(openJobs.map((job) => job.category).filter(Boolean))).sort();
+    $("#locationSelect").innerHTML = `<option value="">Anywhere in Bangladesh</option>${locations.map((item) => `<option value="${escapeHtml(item)}">${escapeHtml(item)}</option>`).join("")}`;
+    $("#categorySelect").innerHTML = `<option value="">Any field</option>${categories.map((item) => `<option value="${escapeHtml(item)}">${escapeHtml(item)}</option>`).join("")}`;
+    syncFilterUiSelectValues();
+    const count = (status) => openJobs.filter((job) => job.pay_status === status).length;
+    const typeCount = (type) => openJobs.filter((job) => job.job_type === type).length;
     $("#internshipTypeCount").textContent = typeCount("Internship");
     $("#fresherTypeCount").textContent = typeCount("Fresher job");
     $("#payConfirmedCount").textContent = count("confirmed");
     $("#payLikelyCount").textContent = count("likely");
     $("#payUnknownCount").textContent = count("unknown");
-    const openJobs = state.jobs.filter((job) => !isExpired(job));
     const closingWithin = (limit) => openJobs.filter((job) => { const days = daysLeft(job); return days !== null && days <= limit; }).length;
     $$("#deadlineSelect option[data-window]").forEach((option) => { option.textContent = `${option.dataset.label} (${closingWithin(Number(option.value))})`; });
     $("#deadlineKnownCount").textContent = openJobs.filter((job) => daysLeft(job) !== null).length;
@@ -340,16 +461,23 @@
     $("#noExpCount").textContent = openJobs.filter((job) => job.experience_years_min === 0).length;
   }
 
+  function postedToday(job) {
+    const parsed = new Date(job.posted_at);
+    return !Number.isNaN(parsed.getTime()) && parsed.getTime() >= todayStart();
+  }
+
   function renderSummary() {
-    const summary = data.summary || {};
-    $("#totalJobs").textContent = summary.total ?? state.jobs.length;
-    $("#internshipCount").textContent = summary.internships ?? state.jobs.filter((job) => job.job_type === "Internship").length;
-    $("#fresherJobCount").textContent = summary.fresher_jobs ?? state.jobs.filter((job) => job.job_type === "Fresher job").length;
-    $("#appliedCount").textContent = state.jobs.filter((job) => applicationFor(job.id).applied).length;
+    const openJobs = activeJobs();
+    $("#totalJobs").textContent = String(openJobs.length);
+    $("#internshipCount").textContent = String(openJobs.filter((job) => job.job_type === "Internship").length);
+    $("#fresherJobCount").textContent = String(openJobs.filter((job) => job.job_type === "Fresher job").length);
+    $("#newTodayCount").textContent = String(openJobs.filter(postedToday).length);
+    $("#appliedCount").textContent = String(openJobs.filter((job) => applicationFor(job.id).applied).length);
     $("#generatedAt").textContent = formatGenerated(data.generated_at);
     $("#refreshLabel").textContent = data.generated_at ? "3x daily feed" : "Collector not run";
     $("#savedCount").textContent = String(saved.size);
     $("#queueCount").textContent = String(queue.size);
+    $("#scanBanner").hidden = data.scan_status !== "degraded";
   }
 
   function filterCount() {
@@ -369,12 +497,16 @@
     else state.deadlineDays = state.deadlineMode === "" ? null : clampDays(state.deadlineMode);
   }
 
+  function syncFilterUiSelectValues() {
+    $("#locationSelect").value = state.location;
+    $("#categorySelect").value = state.category;
+  }
+
   function syncFilterUi() {
     $$('input[name="type"]').forEach((input) => { input.checked = state.type.has(input.value); });
     $$('input[name="pay"]').forEach((input) => { input.checked = state.pay.has(input.value); });
     $$('input[name="mode"]').forEach((input) => { input.checked = state.mode.has(input.value); });
-    $("#locationSelect").value = state.location;
-    $("#categorySelect").value = state.category;
+    syncFilterUiSelectValues();
     $("#freshOnly").checked = state.freshOnly;
     $("#unappliedOnly").checked = state.unappliedOnly;
     $("#deadlineSelect").value = state.deadlineMode;
@@ -447,8 +579,44 @@
     URL.revokeObjectURL(link.href);
   }
 
+  function debounce(fn, wait) {
+    let timer = null;
+    return (...args) => {
+      clearTimeout(timer);
+      timer = setTimeout(() => fn(...args), wait);
+    };
+  }
+
+  const systemDark = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+
+  function setTheme(theme, persist) {
+    document.documentElement.dataset.theme = theme;
+    const toggle = $("#themeToggle");
+    toggle.innerHTML = icon(theme === "dark" ? "sun" : "moon");
+    toggle.title = theme === "dark" ? "Switch to light mode" : "Switch to dark mode";
+    toggle.setAttribute("aria-label", toggle.title);
+    if (persist) writeStoredText(themeKey, theme);
+    refreshIcons();
+  }
+
+  function initTheme() {
+    const storedTheme = readStoredText(themeKey);
+    const systemPrefersDark = systemDark ? systemDark.matches : false;
+    setTheme(storedTheme === "dark" || storedTheme === "light" ? storedTheme : systemPrefersDark ? "dark" : "light", false);
+    $("#themeToggle").addEventListener("click", () => {
+      setTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark", true);
+    });
+    if (systemDark && typeof systemDark.addEventListener === "function") {
+      systemDark.addEventListener("change", (event) => {
+        if (readStoredText(themeKey)) return;
+        setTheme(event.matches ? "dark" : "light", false);
+      });
+    }
+  }
+
   function bindEvents() {
-    $("#searchInput").addEventListener("input", (event) => { state.query = event.target.value; renderJobs(); });
+    const debouncedSearchRender = debounce(renderJobs, 150);
+    $("#searchInput").addEventListener("input", (event) => { state.query = event.target.value; debouncedSearchRender(); });
     $("#sortSelect").addEventListener("change", (event) => { state.sort = event.target.value; renderJobs(); });
     $$('input[name="type"]').forEach((input) => input.addEventListener("change", (event) => { if (event.target.checked) state.type.add(event.target.value); else state.type.delete(event.target.value); syncFilterUi(); renderJobs(); }));
     $$('input[name="pay"]').forEach((input) => input.addEventListener("change", (event) => { if (event.target.checked) state.pay.add(event.target.value); else state.pay.delete(event.target.value); syncFilterUi(); renderJobs(); }));
@@ -486,20 +654,31 @@
     $("#queueModal").addEventListener("click", (event) => { if (event.target === event.currentTarget) event.currentTarget.hidden = true; });
     $("#queueExport").addEventListener("click", exportQueue);
     $("#queueClear").addEventListener("click", () => { queue.clear(); saveQueue(); renderQueue(); renderJobs(); });
-    $("#filterToggle").addEventListener("click", () => $("#filterPanel").classList.toggle("open"));
-    $("#mobileClose").addEventListener("click", () => $("#filterPanel").classList.remove("open"));
+    $("#restoreAllButton").addEventListener("click", () => { dismissed.clear(); saveDismissed(); renderJobs(); });
+    $("#scanBannerClose").addEventListener("click", () => { $("#scanBanner").hidden = true; });
+    $("#filterToggle").addEventListener("click", () => {
+      const panel = $("#filterPanel");
+      panel.classList.toggle("open");
+      $("#filterToggle").setAttribute("aria-expanded", panel.classList.contains("open") ? "true" : "false");
+    });
+    $("#mobileClose").addEventListener("click", () => { $("#filterPanel").classList.remove("open"); $("#filterToggle").setAttribute("aria-expanded", "false"); });
     $("#sourcesButton").addEventListener("click", () => { $("#sourcesModal").hidden = false; });
     $("#sourcesClose").addEventListener("click", () => { $("#sourcesModal").hidden = true; });
     $("#sourcesModal").addEventListener("click", (event) => { if (event.target === event.currentTarget) event.currentTarget.hidden = true; });
-    document.addEventListener("keydown", (event) => { if (event.key === "/" && document.activeElement.tagName !== "INPUT") { event.preventDefault(); $("#searchInput").focus(); } if (event.key === "Escape") { $("#sourcesModal").hidden = true; $("#queueModal").hidden = true; $("#filterPanel").classList.remove("open"); } });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "/" && document.activeElement.tagName !== "INPUT") { event.preventDefault(); $("#searchInput").focus(); }
+      if (event.key === "Escape") { hideToast(); $("#sourcesModal").hidden = true; $("#queueModal").hidden = true; $("#filterPanel").classList.remove("open"); }
+    });
   }
 
   populateFilters();
   renderSummary();
   syncFilterUi();
   saveQueue();
+  renderHidden();
   renderJobs();
   renderSources();
   bindEvents();
+  initTheme();
   refreshIcons();
 }());

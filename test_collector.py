@@ -1,5 +1,9 @@
+import io
+import tempfile
 import unittest
 from datetime import datetime, timezone
+from pathlib import Path
+from unittest import mock
 
 import collector
 
@@ -296,6 +300,123 @@ class EnrichmentFailureTests(unittest.TestCase):
         collector.fetch_job_detail = lambda job: (_ for _ in ()).throw(RuntimeError("throttled"))
         batch = [self._job(f"linkedin-{index}") for index in range(4)]
         self.assertEqual(collector.enrich_jobs(batch), 4)
+
+
+class FetchRetryTests(unittest.TestCase):
+    """Rate limits back off exponentially; timeouts keep the linear schedule."""
+
+    def setUp(self) -> None:
+        self.sleeps = []
+        sleep_patch = mock.patch.object(collector.time, "sleep", side_effect=self.sleeps.append)
+        sleep_patch.start()
+        self.addCleanup(sleep_patch.stop)
+        urlopen_patch = mock.patch.object(collector.urllib.request, "urlopen")
+        self.urlopen = urlopen_patch.start()
+        self.addCleanup(urlopen_patch.stop)
+
+    @staticmethod
+    def http_error(code: int) -> Exception:
+        return collector.urllib.error.HTTPError(
+            "https://example.com", code, "nope", {}, io.BytesIO(b"")
+        )
+
+    def test_rate_limit_backs_off_exponentially_then_gives_up(self) -> None:
+        self.urlopen.side_effect = self.http_error(429)
+        with self.assertRaises(collector.RateLimitError):
+            collector.fetch("https://example.com")
+        # Two retries on the 5s -> 15s exponential schedule.
+        self.assertEqual(self.sleeps, [5, 15])
+
+    def test_403_is_treated_as_a_rate_limit(self) -> None:
+        self.urlopen.side_effect = self.http_error(403)
+        with self.assertRaises(collector.RateLimitError):
+            collector.fetch("https://example.com")
+        self.assertEqual(self.sleeps, [5, 15])
+
+    def test_rate_limit_recovers_after_backoff(self) -> None:
+        response = mock.MagicMock()
+        response.__enter__.return_value = response
+        response.read.return_value = b"ok"
+        response.headers.get_content_charset.return_value = "utf-8"
+        self.urlopen.side_effect = [self.http_error(429), response]
+        self.assertEqual(collector.fetch("https://example.com"), "ok")
+        self.assertEqual(self.sleeps, [5])
+
+    def test_timeout_keeps_linear_backoff(self) -> None:
+        self.urlopen.side_effect = TimeoutError("slow")
+        with self.assertRaises(RuntimeError) as ctx:
+            collector.fetch("https://example.com")
+        self.assertNotIsInstance(ctx.exception, collector.RateLimitError)
+        self.assertEqual(self.sleeps, [1.5, 3.0])
+
+    def test_other_http_errors_are_not_retried(self) -> None:
+        self.urlopen.side_effect = self.http_error(404)
+        with self.assertRaises(collector.urllib.error.HTTPError):
+            collector.fetch("https://example.com")
+        self.assertEqual(self.sleeps, [])
+
+
+class ScanStatusTests(unittest.TestCase):
+    def test_ok_when_no_source_is_degraded(self) -> None:
+        statuses = [{"status": "ok", "detail_fetch_failures": 2, "detail_fetch_attempted": 9}]
+        self.assertEqual(collector.scan_status_line(statuses), "SCAN_STATUS: OK")
+
+    def test_degraded_reports_the_failure_ratio(self) -> None:
+        statuses = [
+            {"status": "degraded", "detail_fetch_failures": 7, "detail_fetch_attempted": 12}
+        ]
+        self.assertEqual(
+            collector.scan_status_line(statuses),
+            "SCAN_STATUS: DEGRADED (7/12 detail fetches failed)",
+        )
+
+
+class MainGuardTests(unittest.TestCase):
+    """A broken first scan must never be written as an empty feed."""
+
+    def _run_main_with_zero_jobs(self, previous: list) -> int:
+        status = {
+            "name": "LinkedIn Jobs",
+            "status": "error",
+            "count": 0,
+            "closed_dropped": 0,
+            "detail_fetch_failures": 3,
+            "detail_fetch_attempted": 3,
+            "message": "scan failed",
+        }
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            patches = [
+                mock.patch.object(collector, "collect_linkedin", return_value=([], status)),
+                mock.patch.object(collector, "load_previous_jobs", return_value=previous),
+                mock.patch.object(collector, "OUTPUT_FILE", tmp_path / "jobs.json"),
+                mock.patch.object(collector, "JOBS_JS_FILE", tmp_path / "jobs.js"),
+                mock.patch.object(collector, "SEEN_FILE", tmp_path / "seen.json"),
+                mock.patch.object(collector, "NOTIFIED_FILE", tmp_path / "notified.json"),
+            ]
+            for patch in patches:
+                patch.start()
+                self.addCleanup(patch.stop)
+            exit_code = collector.main()
+            wrote_payload = (tmp_path / "jobs.json").exists()
+        self.assertFalse(wrote_payload)
+        return exit_code
+
+    def test_zero_jobs_without_previous_dataset_exits_1_without_writing(self) -> None:
+        self.assertEqual(self._run_main_with_zero_jobs(previous=[]), 1)
+
+    def test_zero_jobs_with_previous_dataset_exits_1_without_writing(self) -> None:
+        previous = [{
+            "id": "linkedin-1",
+            "title": "Software Engineer",
+            "company": "Example",
+            "location": "Dhaka",
+            "url": "https://example.com/job",
+            "source": "LinkedIn",
+            "posted_at": "",
+            "collected_at": datetime.now(timezone.utc).isoformat(),
+        }]
+        self.assertEqual(self._run_main_with_zero_jobs(previous=previous), 1)
 
 
 if __name__ == "__main__":

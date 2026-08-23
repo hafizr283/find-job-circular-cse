@@ -3,9 +3,7 @@ name: Refresh CSE early-career feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 2 * * *"
-    - cron: "15 8 * * *"
-    - cron: "15 14 * * *"
+    - cron: "15 1,6,11,16,21 * * *"
   push:
     branches: [main]
 
@@ -16,11 +14,12 @@ permissions:
 
 concurrency:
   group: internship-pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   refresh-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -34,11 +33,16 @@ jobs:
       - name: Verify classifiers before collecting
         run: python -m unittest -q
 
+      # Capture the log so the final SCAN_STATUS line can be checked later.
+      # pipefail keeps the step red when collector.py itself fails.
       - name: Collect current CSE internships and fresher jobs
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python collector.py
+        shell: bash
+        run: |
+          set -o pipefail
+          python collector.py 2>&1 | tee scan_log.txt
 
       # CI has no AI reviewer, so it only prepares the queue. The review itself
       # happens in the Claude Code workspace; see .claude/skills/internbd-refresh.
@@ -56,10 +60,29 @@ jobs:
 
       - uses: actions/configure-pages@v5
 
+      # Publish only the site files, not the whole repo source.
+      - name: Stage site files for Pages
+        run: |
+          mkdir -p _pages/vendor
+          cp index.html styles.css app.js _pages/
+          cp data/jobs.js _pages/
+          touch _pages/.nojekyll
+          if [ -d vendor ]; then cp -r vendor/* _pages/vendor/ 2>/dev/null || true; fi
+
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _pages
 
       - name: Deploy dashboard
         id: deployment
         uses: actions/deploy-pages@v4
+
+      # Data is already committed and deployed by now, so failing late is safe;
+      # the red X just tells maintainers some detail fetches did not succeed.
+      - name: Flag degraded scan
+        shell: bash
+        run: |
+          if grep -q "SCAN_STATUS: DEGRADED" scan_log.txt; then
+            echo "::warning::Last scan was degraded - some detail fetches failed"
+            exit 1
+          fi

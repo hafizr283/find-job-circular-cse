@@ -164,10 +164,6 @@ class Job:
     clean_title: str = ""
     clean_summary: str = ""
     requirements: list[str] = field(default_factory=list)
-    # scan | report. "report" means a person added this record through report.py
-    # after noticing the scan had missed it. preserve_recent treats the two
-    # differently; see the comments there.
-    origin: str = "scan"
 
 
 def decode_response(raw: bytes, declared_charset: str | None = None) -> str:
@@ -190,6 +186,18 @@ def decode_response(raw: bytes, declared_charset: str | None = None) -> str:
     return raw.decode("utf-8", errors="replace")
 
 
+class RateLimitError(RuntimeError):
+    """The source answered 403/429 and stayed throttled through every retry."""
+
+
+# LinkedIn throttles with 403 and 429. Retrying those on the same ~1.5s linear
+# schedule as a timeout just burns attempts against an active throttle; they get
+# exponential backoff instead. Timeouts and connection errors keep the old
+# linear schedule.
+RATE_LIMIT_STATUSES = frozenset((403, 429))
+RATE_LIMIT_BACKOFF_SECONDS = 5  # Delays grow x3 per retry: 5s, 15s, 45s.
+
+
 def fetch(url: str, timeout: int = 25, retries: int = 2) -> str:
     headers = {
         "User-Agent": USER_AGENT,
@@ -197,15 +205,26 @@ def fetch(url: str, timeout: int = 25, retries: int = 2) -> str:
         "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8",
     }
     error: Exception | None = None
-    for attempt in range(retries + 1):
+    attempt = 0
+    while attempt <= retries:
         try:
             request = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(request, timeout=timeout) as response:
                 return decode_response(response.read(), response.headers.get_content_charset())
+        except urllib.error.HTTPError as exc:
+            # HTTPError subclasses URLError, so it must be caught first.
+            if exc.code not in RATE_LIMIT_STATUSES:
+                raise
+            error = exc
+            if attempt < retries:
+                time.sleep(RATE_LIMIT_BACKOFF_SECONDS * 3**attempt)
         except (urllib.error.URLError, TimeoutError, ConnectionError) as exc:
             error = exc
             if attempt < retries:
                 time.sleep(1.5 * (attempt + 1))
+        attempt += 1
+    if isinstance(error, urllib.error.HTTPError):
+        raise RateLimitError(f"{url} answered {error.code} after {retries} backoff retries")
     raise RuntimeError(f"Could not fetch {url}: {error}")
 
 
@@ -595,6 +614,7 @@ def collect_linkedin() -> tuple[list[Job], dict]:
 
     pages_checked = 0
     for keywords, job_type_hint, experience_filter in SEARCHES:
+        consecutive_rate_limits = 0
         for start in SEARCH_STARTS:
             params = urllib.parse.urlencode(
                 {
@@ -609,10 +629,20 @@ def collect_linkedin() -> tuple[list[Job], dict]:
             try:
                 page_jobs = parse_linkedin_cards(fetch(url), collected_at, job_type_hint)
                 pages_checked += 1
+                consecutive_rate_limits = 0
                 if not page_jobs:
                     break
                 for job in page_jobs:
                     jobs_by_id[job.id] = job
+            except RateLimitError as exc:
+                errors.append(f"{keywords} page {start}: {exc}")
+                consecutive_rate_limits += 1
+                # The keyword is throttled; one more page will not fix that. After
+                # repeated rate-limit failures give up on its remaining pages and
+                # move on to the next keyword instead of burning the scan budget.
+                if consecutive_rate_limits >= 2:
+                    errors.append(f"{keywords}: rate limited repeatedly; skipped remaining result pages")
+                    break
             except Exception as exc:  # One failed query should not stop the refresh.
                 errors.append(f"{keywords} page {start}: {exc}")
                 break
@@ -686,9 +716,9 @@ def fetch_job_detail(job: Job) -> tuple[str, str, str]:
 def classify_job(job: Job, description: str, criteria: str = "") -> Job:
     """Derive every inferred field from detail-page text. No network access.
 
-    Split out of enrich_one so report.py can classify a job it fetched itself,
-    including one from a source that has no LinkedIn detail endpoint at all. The
-    order matters: score_job reads the fields set above it.
+    Split out of enrich_one so the deterministic classifiers can be re-run on an
+    already-fetched job, as ai_review.py backfill does. The order matters:
+    score_job reads the fields set above it.
     """
     combined = f"{description} {criteria}"
     job.job_type = infer_job_type(job.title, description, job.job_type, criteria)
@@ -765,8 +795,9 @@ def load_previous_jobs() -> list[dict]:
 def preserve_recent(previous: list[dict], current: list[Job]) -> list[Job]:
     """Carry forward previously collected records the latest scan did not return.
 
-    Two exemptions apply to records a person added through report.py, and both are
-    load-bearing. See the reported-records note in AGENTS.md before changing them.
+    Records survive at most 14 days and must still pass the closed-posting check,
+    the CSE classifier, and the early-career rules; a stale dataset cannot keep a
+    role alive that a fresh scan would now reject.
     """
     current_ids = {job.id for job in current}
     known_fields = set(Job.__dataclass_fields__)
@@ -775,13 +806,9 @@ def preserve_recent(previous: list[dict], current: list[Job]) -> list[Job]:
             continue
         if raw.get("posting_status") == "closed":
             continue  # Never resurrect a circular the source already closed.
-        reported = raw.get("origin") == "report"
         try:
             collected = datetime.fromisoformat(raw["collected_at"].replace("Z", "+00:00"))
-            # A reported record is exempt from the 14 day window. A job reported from
-            # Bdjobs or a careers page will never appear in a LinkedIn scan, so ageing
-            # it out would silently delete the very record someone asked us to keep.
-            if reported or (datetime.now(timezone.utc) - collected).days <= 14:
+            if (datetime.now(timezone.utc) - collected).days <= 14:
                 raw["is_fresh"] = False
                 job = Job(**{key: raw[key] for key in known_fields if key in raw})
                 combined = job.description
@@ -789,12 +816,7 @@ def preserve_recent(previous: list[dict], current: list[Job]) -> list[Job]:
                 job.experience_text = job.experience_text or infer_experience_text(combined)
                 job.experience_years_min = parse_min_experience_years(f"{job.title} {combined}")
                 job.category = infer_category(job.title, combined)
-                # A reported record also skips the classifier re-check. The classifier
-                # is why the job was missing in the first place, so re-running it here
-                # would drop the record again and make the report look like it worked
-                # and then quietly undo itself. The closed check above and the expired
-                # deadline check in main() still apply to reported records.
-                if reported or (is_cse_related(job.title, combined) and is_early_career(job)):
+                if is_cse_related(job.title, combined) and is_early_career(job):
                     current.append(job)
         except (KeyError, TypeError, ValueError):
             continue
@@ -850,6 +872,16 @@ def send_telegram(new_jobs: list[Job]) -> set[str]:
     return sent_ids
 
 
+def scan_status_line(statuses: list[dict]) -> str:
+    """The one-line scan outcome CI greps for. Printed exactly once per run."""
+    failures = sum(int(entry.get("detail_fetch_failures", 0)) for entry in statuses)
+    attempted = sum(int(entry.get("detail_fetch_attempted", 0)) for entry in statuses)
+    degraded = any(entry.get("status") == "degraded" for entry in statuses)
+    if degraded:
+        return f"SCAN_STATUS: DEGRADED ({failures}/{attempted} detail fetches failed)"
+    return "SCAN_STATUS: OK"
+
+
 def main() -> int:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     previous = load_previous_jobs()
@@ -861,7 +893,18 @@ def main() -> int:
     statuses.append(status)
 
     if not all_jobs and previous:
+        print(scan_status_line(statuses))
         print("Refresh returned no jobs; preserving the previous dataset.", file=sys.stderr)
+        return 1
+    if not all_jobs:
+        # An empty first dataset is indistinguishable from a broken scan, so it
+        # must never be written as if the feed were genuinely empty.
+        print(scan_status_line(statuses))
+        print(
+            "Refresh returned no jobs and there is no previous dataset; "
+            "refusing to write an empty payload.",
+            file=sys.stderr,
+        )
         return 1
 
     all_jobs = preserve_recent(previous, deduplicate(all_jobs))
@@ -897,6 +940,9 @@ def main() -> int:
     payload = {
         "generated_at": generated_at,
         "timezone": "Asia/Dhaka",
+        "scan_status": "degraded"
+        if any(entry.get("status") == "degraded" for entry in statuses)
+        else "ok",
         "summary": {
             "total": len(all_jobs),
             "internships": sum(job.job_type == "Internship" for job in all_jobs),
@@ -961,6 +1007,7 @@ def main() -> int:
             "roles. Re-run the scan later.",
             file=sys.stderr,
         )
+    print(scan_status_line(statuses))
     return 0
 
 

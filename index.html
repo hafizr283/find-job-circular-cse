@@ -3,15 +3,19 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#102a43">
+  <meta name="theme-color" content="#0e7c8a">
   <meta name="description" content="A frequently refreshed tracker for CSE internships and fresher jobs in Bangladesh.">
   <title>InternBD | CSE internships and fresher jobs</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <script>document.documentElement.dataset.theme = (function () { try { var t = localStorage.getItem("internbd-theme"); if (t === "dark" || t === "light") return t; } catch (e) {} return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"; })();</script>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <div class="scan-banner" id="scanBanner" role="status" hidden>
+    <i data-lucide="cloud-alert"></i>
+    <span>Last scan was partial — some listings may have missing details.</span>
+    <button class="icon-button banner-close" id="scanBannerClose" type="button" aria-label="Dismiss partial scan notice"><i data-lucide="x"></i></button>
+  </div>
+
   <header class="topbar">
     <div class="topbar-inner">
       <a class="brand" href="./" aria-label="InternBD CSE jobs home">
@@ -21,6 +25,7 @@
       <div class="topbar-actions">
         <span class="refresh-label" id="refreshLabel">Refreshing daily</span>
         <button class="icon-button" id="sourcesButton" type="button" title="Browse job sources" aria-label="Browse job sources"><i data-lucide="radio-tower"></i></button>
+        <button class="icon-button" id="themeToggle" type="button" title="Switch theme" aria-label="Switch theme"><i data-lucide="moon"></i></button>
         <button class="icon-button queue-top-button" id="queueTopButton" type="button" title="Open application queue" aria-label="Open application queue"><i data-lucide="list-checks"></i><b id="queueCount">0</b></button>
         <button class="icon-button saved-top-button" id="savedTopButton" type="button" title="Show saved jobs" aria-label="Show saved jobs"><i data-lucide="bookmark"></i><b id="savedCount">0</b></button>
       </div>
@@ -41,22 +46,23 @@
     </section>
 
     <section class="stats-strip" aria-label="CSE early-career summary">
-      <div class="stat-item"><span>All openings</span><strong id="totalJobs">--</strong></div>
+      <div class="stat-item"><span>Open roles</span><strong id="totalJobs">--</strong></div>
       <div class="stat-item stat-accent"><span>Internships</span><strong id="internshipCount">--</strong></div>
       <div class="stat-item"><span>Fresher jobs</span><strong id="fresherJobCount">--</strong></div>
-      <div class="stat-item"><span>Applications sent</span><strong id="appliedCount">0</strong></div>
+      <div class="stat-item"><span>New today</span><strong id="newTodayCount">--</strong></div>
+      <div class="stat-item"><span>Applied</span><strong id="appliedCount">0</strong></div>
     </section>
 
     <section class="toolbar" aria-label="Search CSE openings">
       <div class="search-wrap">
         <i data-lucide="search"></i>
-        <input id="searchInput" type="search" placeholder="Search role, company, or skill" autocomplete="off">
+        <input id="searchInput" type="search" placeholder="Search role, company, or skill" autocomplete="off" aria-label="Search role, company, or skill">
         <kbd>/</kbd>
       </div>
-      <button class="filter-toggle" id="filterToggle" type="button" title="Filters" aria-label="Filters"><i data-lucide="sliders-horizontal"></i><span>Filters</span><em id="filterCount">0</em></button>
+      <button class="filter-toggle" id="filterToggle" type="button" aria-expanded="false" aria-controls="filterPanel" aria-label="Filters"><i data-lucide="sliders-horizontal"></i><span>Filters</span><em id="filterCount">0</em></button>
       <div class="sort-wrap">
         <label for="sortSelect">Sort</label>
-        <select id="sortSelect">
+        <select id="sortSelect" aria-label="Sort roles">
           <option value="relevance">Best match</option>
           <option value="deadline">Deadline soonest</option>
           <option value="newest">Newest</option>
@@ -66,11 +72,11 @@
     </section>
 
     <div class="workspace-grid">
-      <aside class="filter-panel" id="filterPanel">
+      <aside class="filter-panel" id="filterPanel" aria-label="Feed filters">
         <div class="filter-heading"><h2>Refine the feed</h2><div class="filter-head-actions"><button class="text-button" id="clearFilters" type="button">Clear all</button><button class="mobile-close" id="mobileClose" type="button" aria-label="Close filters"><i data-lucide="x"></i></button></div></div>
         <fieldset>
           <legend>Deadline</legend>
-          <div class="select-wrap"><select id="deadlineSelect">
+          <div class="select-wrap"><select id="deadlineSelect" aria-label="Deadline window">
             <option value="">Any deadline</option>
             <option value="3" data-window data-label="Closing in 3 days">Closing in 3 days</option>
             <option value="7" data-window data-label="Closing in 7 days">Closing in 7 days</option>
@@ -101,11 +107,11 @@
         </fieldset>
         <fieldset>
           <legend>Location</legend>
-          <div class="select-wrap"><select id="locationSelect"><option value="">Anywhere in Bangladesh</option></select><i data-lucide="chevron-down"></i></div>
+          <div class="select-wrap"><select id="locationSelect" aria-label="Location"><option value="">Anywhere in Bangladesh</option></select><i data-lucide="chevron-down"></i></div>
         </fieldset>
         <fieldset>
           <legend>Field</legend>
-          <div class="select-wrap"><select id="categorySelect"><option value="">Any field</option></select><i data-lucide="chevron-down"></i></div>
+          <div class="select-wrap"><select id="categorySelect" aria-label="Field"><option value="">Any field</option></select><i data-lucide="chevron-down"></i></div>
         </fieldset>
         <fieldset>
           <legend>Company quality</legend>
@@ -125,6 +131,11 @@
           <legend>Application status</legend>
           <label class="check-row"><input type="checkbox" id="unappliedOnly"><span>Not applied yet</span></label>
         </fieldset>
+        <details class="hidden-section" id="hiddenSection">
+          <summary><i data-lucide="eye-off"></i>Hidden jobs <span class="count-pill" id="hiddenCount">0</span></summary>
+          <div id="hiddenList" class="hidden-list"></div>
+          <button class="text-button" id="restoreAllButton" type="button" hidden>Restore all</button>
+        </details>
         <div class="filter-note"><i data-lucide="shield-check"></i><span>Only CSE-related early-career roles are kept. Pay and deadline labels come from listing text.</span></div>
       </aside>
 
@@ -153,8 +164,13 @@
     </section>
   </div>
 
+  <div class="toast" id="toast" role="status" aria-live="polite">
+    <span id="toastMessage"></span>
+    <button class="toast-undo" id="toastUndo" type="button">Undo</button>
+  </div>
+
   <script src="data/jobs.js"></script>
-  <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.js"></script>
+  <script src="vendor/lucide.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

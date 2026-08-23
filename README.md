@@ -22,7 +22,7 @@ Three problems that pattern matching alone got wrong:
 
 ## How companies are rated
 
-`data/companies.json` rates around 290 Bangladeshi companies for one reader: a CSE graduate deciding where to spend an application. Each company earns a 0-100 score from five groups:
+`data/companies.json` rates around 340 Bangladeshi companies for one reader: a CSE graduate deciding where to spend an application. Each company earns a 0-100 score from five groups:
 
 | Group | Max | Question it answers |
 | --- | --- | --- |

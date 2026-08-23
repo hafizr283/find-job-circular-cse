@@ -17,9 +17,17 @@ Flow
 Nothing here is required. With no verdict file the dataset keeps the regex
 result, which is the documented no-AI default.
 
+Token budget
+------------
+The review pass runs on a human-supervised assistant, so every queued job costs
+real context. The queue stays deliberately lean: DEFAULT_BATCH is small and each
+entry carries only a short description excerpt (REVIEW_EXCERPT), not the full
+12,000-character collector text. The most-doubtful-first ordering is untouched,
+as is all scoring and classification logic.
+
 Usage
 -----
-    python ai_review.py queue [--batch 40]   Build the pending-review queue.
+    python ai_review.py queue [--batch 25]   Build the pending-review queue.
     python ai_review.py apply                Merge data/ai_verdicts.json.
     python ai_review.py status               Show what still needs review.
 """
@@ -29,6 +37,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -48,11 +57,14 @@ COMPANIES_FILE = DATA_DIR / "companies.json"
 # Bump when the review instructions change enough that old verdicts are stale.
 REVIEW_VERSION = 1
 
-DEFAULT_BATCH = 40
+# Token reduction: a smaller default batch keeps one review pass inside a
+# single context window; anything left waits for the next pass.
+DEFAULT_BATCH = 25
 
-# How much description text the reviewer sees per job. Enough to reach a
-# requirements block without flooding the review context.
-REVIEW_EXCERPT = 2600
+# How much description text the reviewer sees per job. Deliberately short: the
+# queue is for triage, and the reviewer opens the source URL for the full
+# circular when a decision needs more text.
+REVIEW_EXCERPT = 400
 
 VALID_CATEGORIES = (
     "Software Development & Engineering",
@@ -124,11 +136,7 @@ def queue_priority(job: dict, reasons: list) -> tuple:
 
 
 def queue_entry(job: dict, reasons: list) -> dict:
-    """One pending-review record: what the reviewer needs and nothing more.
-
-    report.py builds targeted queues through build_queue, so this shape is the
-    single definition of what a reviewer is handed.
-    """
+    """One pending-review record: what the reviewer needs and nothing more."""
     return {
         "id": job.get("id", ""),
         "title": job.get("title", ""),
@@ -147,35 +155,24 @@ def queue_entry(job: dict, reasons: list) -> dict:
     }
 
 
-def build_queue(
-    batch: int = DEFAULT_BATCH,
-    only_ids: list | None = None,
-    extra_reason: str = "",
-) -> dict:
+def build_queue(batch: int = DEFAULT_BATCH) -> dict:
     """Write data/pending_review.json.
 
-    By default this selects the jobs the regexes were unsure about. Passing
-    only_ids restricts it to named jobs and skips the confidence test entirely,
-    which is how report.py forces a specific job back in front of the reviewer
-    after someone reported it as misclassified.
+    Selects the jobs the regexes were unsure about, most doubtful first, capped
+    at batch entries.
     """
     payload = load_json(JOBS_FILE, {})
     jobs = payload.get("jobs", []) if isinstance(payload, dict) else []
     registry = CompanyRegistry.load()
 
-    wanted = {str(value) for value in only_ids} if only_ids else None
     candidates = []
     for job in jobs:
-        if wanted is not None and str(job.get("id")) not in wanted:
-            continue
         reasons = review_reasons(job, registry)
-        if extra_reason:
-            reasons = [extra_reason] + reasons
         if reasons:
             candidates.append((job, reasons))
     candidates.sort(key=lambda pair: queue_priority(pair[0], pair[1]))
 
-    selected = candidates if wanted is not None else candidates[:batch]
+    selected = candidates[:batch]
     queue = {
         "built_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "review_version": REVIEW_VERSION,
@@ -278,10 +275,10 @@ def persist_dataset(
 ) -> dict:
     """Re-join company ratings, rescore, rebuild the summary, write both files.
 
-    Every path that mutates the dataset ends here: apply_verdicts, backfill, and
-    each mutating report.py command. Scoring depends on the company tier, so the
-    join has to happen before the rescore, and both have to happen before the
-    summary counts tiers. Keeping that order in one place is the point.
+    Every path that mutates the dataset ends here: apply_verdicts and backfill.
+    Scoring depends on the company tier, so the join has to happen before the
+    rescore, and both have to happen before the summary counts tiers. Keeping
+    that order in one place is the point.
 
     extra_summary carries caller-specific diagnostics that rebuild_summary does not
     know about, such as backfill's reclassified count.
@@ -320,10 +317,23 @@ def apply_verdicts() -> dict:
     if not isinstance(verdicts, list) or not verdicts:
         raise SystemExit("data/ai_verdicts.json has no verdicts to apply.")
 
+    # A verdict whose review_version does not match the current version was
+    # written against older review instructions; applying it would silently
+    # re-introduce whatever the bump was meant to fix. Skip and count instead.
     by_id = {}
+    stale_verdicts = []
     for verdict in verdicts:
         if isinstance(verdict, dict) and verdict.get("id"):
+            if verdict.get("review_version") != REVIEW_VERSION:
+                stale_verdicts.append(str(verdict["id"]))
+                continue
             by_id[str(verdict["id"])] = verdict
+    if stale_verdicts:
+        print(
+            f"Skipping {len(stale_verdicts)} stale-version verdict(s): "
+            f"{', '.join(stale_verdicts[:10])}",
+            file=sys.stderr,
+        )
 
     companies_payload = load_json(COMPANIES_FILE, {"companies": []})
     if isinstance(companies_payload, list):
@@ -331,8 +341,8 @@ def apply_verdicts() -> dict:
     companies = companies_payload.setdefault("companies", [])
 
     company_changes = {"added": 0, "updated": 0, "skipped": 0}
-    for verdict in verdicts:
-        entry = verdict.get("company") if isinstance(verdict, dict) else None
+    for verdict in by_id.values():
+        entry = verdict.get("company")
         if isinstance(entry, dict) and entry.get("name"):
             company_changes[merge_company(entry, companies)] += 1
     companies_payload["generated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
@@ -390,6 +400,7 @@ def apply_verdicts() -> dict:
         "review_version": REVIEW_VERSION,
         "reviewed_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "verdicts_applied": updated,
+        "verdicts_skipped_stale": len(stale_verdicts),
         "jobs_dropped": dropped + len(closed_now),
         "verified_total": sum(job.get("review_status") == "verified" for job in kept),
         "companies_added": company_changes["added"],
@@ -440,8 +451,6 @@ def backfill() -> dict:
         job.setdefault("clean_title", "")
         job.setdefault("clean_summary", "")
         job.setdefault("requirements", [])
-        # Records collected before report.py existed were all scan-collected.
-        job.setdefault("origin", "scan")
 
         if years is not None and years >= collector.EXPERIENCE_YEARS_CEILING:
             reclassified.append((job.get("id"), job.get("title", "")[:60], years))
@@ -520,8 +529,10 @@ def main(argv: list | None = None) -> int:
         verified = review["verified_total"]
         added = review["companies_added"]
         touched = review["companies_updated"]
+        stale = review.get("verdicts_skipped_stale", 0)
         print(
             f"Applied {applied} verdicts, dropped {removed} jobs, {verified} verified, "
+            f"skipped {stale} stale-version, "
             f"companies added {added}, companies updated {touched}"
         )
         return 0

@@ -30,6 +30,7 @@ import re
 from pathlib import Path
 
 import collector
+import ai_review
 
 ROOT = Path(__file__).resolve().parent
 JOBS_FILE = ROOT / "data" / "jobs.json"
@@ -179,7 +180,11 @@ def main() -> int:
         verdicts = existing + [v for v in verdicts if v["id"] not in seen]
 
     VERDICTS_FILE.write_text(
-        json.dumps({"review_version": 1, "verdicts": verdicts}, ensure_ascii=False, indent=2),
+        json.dumps(
+            {"review_version": ai_review.REVIEW_VERSION, "verdicts": verdicts},
+            ensure_ascii=False,
+            indent=2,
+        ),
         encoding="utf-8",
     )
     print(f"\nwrote {len(verdicts)} verdicts -> {VERDICTS_FILE}")

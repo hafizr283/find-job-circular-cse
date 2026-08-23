@@ -2,6 +2,7 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 from company_registry import (
     HARD_FLAGS,
@@ -11,6 +12,7 @@ from company_registry import (
     tier_from_score,
 )
 import ai_review
+import triage
 
 
 class NormalizeTests(unittest.TestCase):
@@ -165,6 +167,137 @@ class ReviewQueueTests(unittest.TestCase):
         high = ({"score": 10}, ["one", "two", "three"])
         ordered = sorted([low, high], key=lambda pair: ai_review.queue_priority(*pair))
         self.assertIs(ordered[0], high)
+
+    def test_queue_entry_keeps_only_a_short_excerpt(self) -> None:
+        entry = ai_review.queue_entry(
+            {
+                "id": "j1",
+                "title": "Backend Developer",
+                "company": "Example",
+                "description": "x" * 5000,
+            },
+            ["some reason"],
+        )
+        self.assertLessEqual(len(entry["description_excerpt"]), 400)
+        self.assertNotIn("description", entry)
+
+
+class _NeutralRegistry:
+    """Stand-in so apply tests never touch the real companies.json."""
+
+    def rating_for(self, name: str) -> dict:
+        return {"tier": "", "score": 0, "flags": [], "note": ""}
+
+    def __len__(self) -> int:
+        return 0
+
+
+def make_job_dict(job_id: str) -> dict:
+    return {
+        "id": job_id,
+        "title": f"Developer {job_id}",
+        "company": "Example",
+        "location": "Dhaka",
+        "url": "https://example.com/job",
+        "source": "LinkedIn",
+        "posted_at": "",
+        "collected_at": "2026-08-01T00:00:00+00:00",
+        "job_type": "Fresher job",
+        "category": "Software Development & Engineering",
+        "pay_status": "unknown",
+        "deadline_status": "unknown",
+        "posting_status": "open",
+        "work_mode": "On-site",
+        "review_status": "unreviewed",
+    }
+
+
+class ApplyVerdictsTests(unittest.TestCase):
+    """Stale-version verdicts must be skipped and counted, never applied."""
+
+    def test_stale_verdicts_are_skipped_and_counted(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            payload = {
+                "generated_at": "2026-08-01T00:00:00+00:00",
+                "summary": {},
+                "jobs": [make_job_dict("current"), make_job_dict("stale")],
+            }
+            jobs_file = tmp_path / "jobs.json"
+            jobs_file.write_text(json.dumps(payload), encoding="utf-8")
+            verdicts_file = tmp_path / "verdicts.json"
+            verdicts_file.write_text(
+                json.dumps(
+                    {
+                        "review_version": ai_review.REVIEW_VERSION,
+                        "verdicts": [
+                            {
+                                "id": "current",
+                                "decision": "drop",
+                                "reason": "closed elsewhere",
+                                "review_version": ai_review.REVIEW_VERSION,
+                            },
+                            {
+                                "id": "stale",
+                                "decision": "drop",
+                                "reason": "written by an older review pass",
+                                "review_version": ai_review.REVIEW_VERSION - 1,
+                            },
+                        ],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            patches = [
+                mock.patch.object(ai_review, "JOBS_FILE", jobs_file),
+                mock.patch.object(ai_review, "VERDICTS_FILE", verdicts_file),
+                mock.patch.object(ai_review, "APPLIED_FILE", tmp_path / "applied.json"),
+                mock.patch.object(ai_review, "REJECTED_FILE", tmp_path / "rejected.json"),
+                mock.patch.object(ai_review, "COMPANIES_FILE", tmp_path / "companies.json"),
+                mock.patch.object(ai_review, "JOBS_JS_FILE", tmp_path / "jobs.js"),
+                mock.patch.object(
+                    ai_review.CompanyRegistry, "load", lambda *args, **kwargs: _NeutralRegistry()
+                ),
+            ]
+            for patch in patches:
+                patch.start()
+                self.addCleanup(patch.stop)
+            review = ai_review.apply_verdicts()
+
+            self.assertEqual(review["verdicts_applied"], 1)
+            self.assertEqual(review["verdicts_skipped_stale"], 1)
+            self.assertEqual(review["jobs_dropped"], 1)
+            result = json.loads(jobs_file.read_text(encoding="utf-8"))
+            surviving = {job["id"]: job for job in result["jobs"]}
+            # The current-version drop was honoured...
+            self.assertNotIn("current", surviving)
+            # ...the stale one was not silently applied.
+            self.assertIn("stale", surviving)
+            self.assertEqual(surviving["stale"]["review_status"], "unreviewed")
+            rejected = json.loads((tmp_path / "rejected.json").read_text(encoding="utf-8"))
+        self.assertEqual(rejected, ["current"])
+
+
+class TriageReviewVersionTests(unittest.TestCase):
+    def test_written_verdicts_carry_the_current_review_version(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_path = Path(tmp)
+            jobs_file = tmp_path / "jobs.json"
+            jobs_file.write_text(
+                json.dumps({"jobs": [dict(make_job_dict("c1"), posting_status="closed")]}),
+                encoding="utf-8",
+            )
+            verdicts_file = tmp_path / "ai_verdicts.json"
+            with (
+                mock.patch.object(triage, "JOBS_FILE", jobs_file),
+                mock.patch.object(triage, "VERDICTS_FILE", verdicts_file),
+                mock.patch("sys.argv", ["triage.py", "--write"]),
+            ):
+                triage.main()
+            written = json.loads(verdicts_file.read_text(encoding="utf-8"))
+        self.assertEqual(written["review_version"], ai_review.REVIEW_VERSION)
+        self.assertEqual(written["verdicts"][0]["id"], "c1")
+        self.assertEqual(written["verdicts"][0]["decision"], "drop")
 
     def test_coerce_years_rejects_junk_and_out_of_range(self) -> None:
         self.assertEqual(ai_review.coerce_years(3), 3)
