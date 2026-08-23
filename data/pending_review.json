@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-08-23T20:36:06+00:00",
+  "built_at": "2026-08-23T21:38:03+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-23T20:36:06+00:00",
-  "total_jobs": 142,
+  "dataset_generated_at": "2026-08-23T21:38:03+00:00",
+  "total_jobs": 143,
   "needing_review": 40,
   "in_this_batch": 40,
   "remaining_after_batch": 0,
@@ -93,11 +93,11 @@
       "description_excerpt": "Organisation: PEN Global (concern of PEN Group) Job Title: Quality Assurance Analyst Employment Type: Full-Time Salary Range: BDT 50,000 – 55,000 per month Working Schedule: Monday to Friday, 1:30 PM–10:00PM Bangladesh Standard Time (flexible days and hours may be required) Job Location: On-Site, Agrabad, Chattogram Role Overview We are looking for a technically capable and detail-oriented individ"
     },
     {
-      "id": "linkedin-4456285287",
-      "title": "AI Engineer Intern - Dhaka",
+      "id": "linkedin-4456281289",
+      "title": "AI Engineer Intern - Sylhet",
       "company": "SJ Innovation LLC",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
+      "location": "Sylhet, Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -111,11 +111,11 @@
       "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
     },
     {
-      "id": "linkedin-4456281289",
-      "title": "AI Engineer Intern - Sylhet",
+      "id": "linkedin-4456285287",
+      "title": "AI Engineer Intern - Dhaka",
       "company": "SJ Innovation LLC",
-      "location": "Sylhet, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
