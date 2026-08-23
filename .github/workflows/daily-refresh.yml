@@ -66,11 +66,15 @@ jobs:
       # Publish only the site files, not the whole repo source.
       - name: Stage site files for Pages
         run: |
-          mkdir -p _pages/vendor
+          mkdir -p _pages/vendor _pages/data
           cp index.html styles.css app.js _pages/
-          cp data/jobs.js _pages/
+          # index.html loads the generated payload from data/jobs.js.
+          # Keep the published artifact's directory structure identical to
+          # the repository so a refresh cannot deploy an empty feed.
+          cp data/jobs.js _pages/data/
           touch _pages/.nojekyll
           if [ -d vendor ]; then cp -r vendor/* _pages/vendor/ 2>/dev/null || true; fi
+          test -s _pages/data/jobs.js
 
       - uses: actions/upload-pages-artifact@v3
         with:

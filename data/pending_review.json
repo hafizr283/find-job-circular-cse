@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-23T16:47:35+00:00",
+  "built_at": "2026-08-23T20:26:22+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-23T16:47:35+00:00",
-  "total_jobs": 143,
-  "needing_review": 40,
-  "in_this_batch": 40,
-  "remaining_after_batch": 0,
+  "dataset_generated_at": "2026-08-23T14:43:05+00:00",
+  "total_jobs": 141,
+  "needing_review": 39,
+  "in_this_batch": 25,
+  "remaining_after_batch": 14,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -57,44 +57,6 @@
       "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Quality Assurance Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
-      "id": "linkedin-4450823304",
-      "title": "Data Analyst - Digital Business & Financial Analytics",
-      "company": "nextjobz",
-      "location": "Gulshan, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/data-analyst-digital-business-financial-analytics-at-nextjobz-4450823304",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4437683462",
-      "title": "Jr. Software Engineer Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/jr-software-engineer-intern-at-nextjobz-4437683462",
-      "posted_at": "2026-08-11",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4456041193",
       "title": "WordPress Developer Intern/Trainee",
       "company": "notiionhive",
@@ -131,11 +93,11 @@
       "description_excerpt": "Organisation: PEN Global (concern of PEN Group) Job Title: Quality Assurance Analyst Employment Type: Full-Time Salary Range: BDT 50,000 – 55,000 per month Working Schedule: Monday to Friday, 1:30 PM–10:00PM Bangladesh Standard Time (flexible days and hours may be required) Job Location: On-Site, Agrabad, Chattogram Role Overview We are looking for a technically capable and detail-oriented individ"
     },
     {
-      "id": "linkedin-4456281289",
-      "title": "AI Engineer Intern - Sylhet",
+      "id": "linkedin-4456285287",
+      "title": "AI Engineer Intern - Dhaka",
       "company": "SJ Innovation LLC",
-      "location": "Sylhet, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -149,11 +111,11 @@
       "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
     },
     {
-      "id": "linkedin-4456285287",
-      "title": "AI Engineer Intern - Dhaka",
+      "id": "linkedin-4456281289",
+      "title": "AI Engineer Intern - Sylhet",
       "company": "SJ Innovation LLC",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
+      "location": "Sylhet, Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -473,6 +435,24 @@
       "description_excerpt": "Position: Backend Java Developer Type: Contract Compensation: $60 - $110/hour Location: Remote Commitment: 10-40 hrs/week Role Responsibilities Design, develop, and maintain scalable backend systems using Java and Spring Boot. Architect robust microservices solutions to support complex application requirements. Collaborate with the customer's team to review technical specifications and deliver hig"
     },
     {
+      "id": "linkedin-4437683462",
+      "title": "Jr. Software Engineer Intern",
+      "company": "nextjobz",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/jr-software-engineer-intern-at-nextjobz-4437683462",
+      "posted_at": "2026-08-11",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Stipend: BDT 7,000 - 12,000 / month",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Company Name: SARLEO Location: Dhaka Job Type: Full-Time Workplace Type: On-Site Job ID: IJOB202652609 Job Location & Perks Location: Dhaka (Hybrid Flex — balanced remote & office options). Duration & Hours: 6-Month Internship | 20 to 40 Hours per Week. Stipend: BDT 7,000 - 12,000 / month. Note: Features a clear pathway to transition into a permanent, full-time Engineering role based on performanc"
+    },
+    {
       "id": "linkedin-4453457373",
       "title": "Intern- RTL Design & Verification Engineering",
       "company": "nextjobz",
@@ -489,258 +469,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Name: ADN Semiconductors Location: Dhaka (Mohakhali) Job Type: Internship Workplace Type: Full-time Job ID: IJOB202662731 Context ADN Semiconductor , a concern of ADN Group , operates at the intersection of IT, Telecom, and advanced semiconductor engineering. As a Bangladesh-based front-end semiconductor design services and training organization, we provide a hands-on, production-oriented "
-    },
-    {
-      "id": "linkedin-4453473823",
-      "title": "Junior Mobile Application Developer",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-mobile-application-developer-at-nextjobz-4453473823",
-      "posted_at": "2026-08-19",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Bdjobs.com Limited Location: Dhaka Job Type: Full-Time Workplace Type: Full-time Job ID: IJOB202663890 Job Responsibilities Contribute to the development, testing, and maintenance of Android applications. Work closely with senior developers on project requirements, architecture, and UI implementation. Debug and fix issues/bugs identified during development or QA testing. Work with Ko"
-    },
-    {
-      "id": "linkedin-4451784333",
-      "title": "POS Software Support Executive",
-      "company": "nextjobz",
-      "location": "Mymensingh, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/pos-software-support-executive-at-nextjobz-4451784333",
-      "posted_at": "2026-08-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Online Creative Network Location: Mymensingh, Mymensingh (Mymensingh Sadar) Job Type: Full-Time Workplace Type: Full-time Job ID: IJOB202661825 Online Creative Network Pvt. Ltd. is a Bangladeshi software and cloud technology company. We develop and support industry-specific POS and business management software used by pharmacies, jewellery shops, LPG dealers, tiles & sanitary shops, "
-    },
-    {
-      "id": "linkedin-4449289564",
-      "title": "Software QA Engineer Intern (AI-Powered) - For Itransition- Job ID: 1517940",
-      "company": "Bdjobs.com",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-qa-engineer-intern-ai-powered-for-itransition-job-id-1517940-at-bdjobs-com-4449289564",
-      "posted_at": "2026-08-09",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary Tk. 10000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Itransition is looking for Software QA Engineer Intern (AI-Powered) Job Description / Responsibility Finishing your degree and not sure what's next? Turn your CS education into a real engineering career - starting now. You've spent years studying algorithms, data structures, and software design. You've written code for coursework and side projects. Now you need a way into the industry that actuall"
-    },
-    {
-      "id": "linkedin-4444518455",
-      "title": "Software Engineer (Android/iOS) - (For Avian BPO & IT) - Job ID - 1514824",
-      "company": "Bdjobs.com",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-android-ios-for-avian-bpo-it-job-id-1514824-at-bdjobs-com-4444518455",
-      "posted_at": "2026-07-30",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary Tk. 45000 - 45001",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Avian BPO & IT is looking for Software Engineer (Android/iOS) Job Description / Responsibility Develop and maintain Android applications using Java or Kotlin . Collaborate with UI/UX designers and backend engineers to build clean, high-performance apps. Write readable, modular, and scalable code following best engineering practices. Test, debug, and optimize app performance across devices and OS v"
-    },
-    {
-      "id": "linkedin-4443268398",
-      "title": "IT Support & Digital Marketing Specialist- For Sheikh Brothers - Job ID: 1514065",
-      "company": "Bdjobs.com",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-support-digital-marketing-specialist-for-sheikh-brothers-job-id-1514065-at-bdjobs-com-4443268398",
-      "posted_at": "2026-07-28",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary Tk. 12000 - 18000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Sheikh Brothers is looking for IT Support & Digital Marketing Specialist Job Description / Responsibility Successful performance and demonstrating the desire to learn and ability to grow, means that you will have the opportunity to grow within the company and reach other positions and aspirations. Maintenance, diagnosing and troubleshooting hardware, installing OS/software, and networking. Provide"
-    },
-    {
-      "id": "linkedin-4450490860",
-      "title": "Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-nextjobz-4450490860",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Internship",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Synesis IT Location: Dhaka (Kawran Bazar) Job Type: Internship Workplace Type: Full-time Job ID: IJOB202660601 Assist in the installation, configuration, and maintenance of Linux and Windows systems. Support basic network configuration, troubleshooting, and monitoring. Assist with system and network-related technical issues. Perform basic SQL/database management and troubleshooting t"
-    },
-    {
-      "id": "linkedin-4450835068",
-      "title": "IT Associate",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-associate-at-nextjobz-4450835068",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Care Guide Location: Dhaka Job Type: Permanent Workplace Type: Full-time Job ID: IJOB202660965 Provide technical support for desktops, laptops, printers, and other IT equipment. Install, configure, and maintain operating systems, software, and applications. Troubleshoot hardware, software, network, and internet-related issues. Monitor and maintain office network devices, Wi-Fi, and i"
-    },
-    {
-      "id": "linkedin-4450488817",
-      "title": "Video Game Unreal Engine Developer Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/video-game-unreal-engine-developer-intern-at-nextjobz-4450488817",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "minimum 1 year",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: BDGAME STUDIO Location: Dhaka (Banani) Job Type: Internship Workplace Type: Internship Job ID: IJOB202660408 Internship in Unreal Engine Blueprint Development Educational requirements can be relaxed if individual can demonstrate high technical abilities Understanding of Blueprints, Programming, AI concepts will be helpful Prior experience of playing AAA video games or similar mobile "
-    },
-    {
-      "id": "linkedin-4450448786",
-      "title": "Software Engineering Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineering-intern-at-nextjobz-4450448786",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: DG Infotech Limited Location: Dhaka Job Type: Full-Time Workplace Type: On-Site Job ID: IJOB202660191 About DG Infotech Ltd. DG Infotech Ltd. develops enterprise software, digital payment solutions, healthcare systems, government platforms, identity management solutions, cloud-native applications, and AI-enabled products. The internship provides hands-on exposure to real-world softwa"
-    },
-    {
-      "id": "linkedin-4448559894",
-      "title": "Junior Software Engineer Intern (Paid Internship)",
-      "company": "Traideas",
-      "location": "Nārāyanganj, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-software-engineer-intern-paid-internship-at-traideas-4448559894",
-      "posted_at": "2026-08-04",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Skills Required Communication Leadership Internship Benefits Lunch Festival Bonus Work for developing Traideas Business Show more Show less Seniority level Not Applicable Employment type Volunteer Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Traideas by 2x See who you know"
-    },
-    {
-      "id": "linkedin-4449555979",
-      "title": "AI Developer - Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-developer-intern-at-nextjobz-4449555979",
-      "posted_at": "2026-08-10",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: DNS Group Location: Dhaka Job Type: Internship Workplace Type: Full-time Job ID: IJOB202659593 Develop Application using AI tools. Advance knowledge in LLM, latest models. Maintain confidentiality and comply with company policies. Requirements Experience: 0 Education: bachelor of science in computer science and engineering (cse) Skills: machine learning & ai for engineering applicati"
-    },
-    {
-      "id": "linkedin-4449811461",
-      "title": "Trainee Executive, IT (Logistics)",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/trainee-executive-it-logistics-at-nextjobz-4449811461",
-      "posted_at": "2026-08-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Renaissance Group Location: Dhaka (Uttara Sector 3) Job Type: Full-Time Workplace Type: Full-time Job ID: IJOB202659925 We are seeking a proactive Trainee Executive, IT to manage IT assets, inventory, vendor coordination, and procurement support, ensuring efficient asset tracking and timely distribution across the organization. Key Responsibilities Maintain IT asset inventory, hardwa"
-    },
-    {
-      "id": "linkedin-4449527795",
-      "title": "Software Development Intern- DBM SOFT LTD.- Job ID:1518166",
-      "company": "Bdjobs.com",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-dbm-soft-ltd-job-id-1518166-at-bdjobs-com-4449527795",
-      "posted_at": "2026-08-10",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "DBM SOFT LTD. is looking for Software Development Intern Job Description / Responsibility Job Context DBM SOFT LTD. is looking for a motivated and enthusiastic Software Development Intern to join our technology team. The intern will get hands-on experience working on real-world software projects and will work closely with experienced developers to learn, develop, test, and maintain web-based appli"
-    },
-    {
-      "id": "linkedin-4448161953",
-      "title": "Test Engineer Intern",
-      "company": "Urban Job",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/test-engineer-intern-at-urban-job-4448161953",
-      "posted_at": "2026-08-03",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "T Test Engineer Intern at TikWeb On-site, Aftabnagar, Dhaka Tikweb is a leading technology firm committed to delivering high-quality software solutions. We are seeking a dedicated Test Engineer Intern to join our team and gain hands-on experience in software testing and quality assurance. About Us Duration: 3 Months Vacancy: 1 Your Responsibility Assist in the development and execution of test cas"
     }
   ]
 }
