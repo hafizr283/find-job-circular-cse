@@ -59,6 +59,9 @@ jobs:
           git push
 
       - uses: actions/configure-pages@v5
+        with:
+          # Auto-enable Pages on first deploy so a fresh repo does not fail here.
+          enablement: true
 
       # Publish only the site files, not the whole repo source.
       - name: Stage site files for Pages
