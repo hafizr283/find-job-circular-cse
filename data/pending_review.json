@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-08-24T02:39:43+00:00",
+  "built_at": "2026-08-24T07:20:45+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-24T02:39:43+00:00",
-  "total_jobs": 143,
+  "dataset_generated_at": "2026-08-24T07:20:45+00:00",
+  "total_jobs": 144,
   "needing_review": 40,
   "in_this_batch": 40,
   "remaining_after_batch": 0,
@@ -39,13 +39,13 @@
     },
     {
       "id": "linkedin-4457857018",
-      "title": "UI/UX Designer",
+      "title": "Mobile App Developer (Flutter)",
       "company": "8bit Private Limited",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4457857018",
+      "url": "https://bd.linkedin.com/jobs/view/mobile-app-developer-flutter-at-8bit-private-limited-4457857018",
       "posted_at": "2026-08-22",
       "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -54,7 +54,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
+      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
       "id": "linkedin-4456041193",
@@ -597,24 +597,6 @@
       "description_excerpt": "Company Name: Synesis IT Location: Dhaka (Kawran Bazar) Job Type: Internship Workplace Type: Full-time Job ID: IJOB202660601 Assist in the installation, configuration, and maintenance of Linux and Windows systems. Support basic network configuration, troubleshooting, and monitoring. Assist with system and network-related technical issues. Perform basic SQL/database management and troubleshooting t"
     },
     {
-      "id": "linkedin-4450488817",
-      "title": "Video Game Unreal Engine Developer Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/video-game-unreal-engine-developer-intern-at-nextjobz-4450488817",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "minimum 1 year",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: BDGAME STUDIO Location: Dhaka (Banani) Job Type: Internship Workplace Type: Internship Job ID: IJOB202660408 Internship in Unreal Engine Blueprint Development Educational requirements can be relaxed if individual can demonstrate high technical abilities Understanding of Blueprints, Programming, AI concepts will be helpful Prior experience of playing AAA video games or similar mobile "
-    },
-    {
       "id": "linkedin-4450835068",
       "title": "IT Associate",
       "company": "nextjobz",
@@ -631,6 +613,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Name: Care Guide Location: Dhaka Job Type: Permanent Workplace Type: Full-time Job ID: IJOB202660965 Provide technical support for desktops, laptops, printers, and other IT equipment. Install, configure, and maintain operating systems, software, and applications. Troubleshoot hardware, software, network, and internet-related issues. Monitor and maintain office network devices, Wi-Fi, and i"
+    },
+    {
+      "id": "linkedin-4450488817",
+      "title": "Video Game Unreal Engine Developer Intern",
+      "company": "nextjobz",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/video-game-unreal-engine-developer-intern-at-nextjobz-4450488817",
+      "posted_at": "2026-08-13",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "minimum 1 year",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Company Name: BDGAME STUDIO Location: Dhaka (Banani) Job Type: Internship Workplace Type: Internship Job ID: IJOB202660408 Internship in Unreal Engine Blueprint Development Educational requirements can be relaxed if individual can demonstrate high technical abilities Understanding of Blueprints, Programming, AI concepts will be helpful Prior experience of playing AAA video games or similar mobile "
     },
     {
       "id": "linkedin-4450448786",
