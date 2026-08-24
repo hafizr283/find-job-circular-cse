@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-24T11:44:42+00:00",
+  "built_at": "2026-08-24T16:56:27+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-24T11:44:42+00:00",
-  "total_jobs": 146,
-  "needing_review": 42,
+  "dataset_generated_at": "2026-08-24T16:56:27+00:00",
+  "total_jobs": 149,
+  "needing_review": 45,
   "in_this_batch": 40,
-  "remaining_after_batch": 2,
+  "remaining_after_batch": 5,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,6 +18,25 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4457108571",
+      "title": "Cybersecurity Instructor (Remote)",
+      "company": "ImranTheExploitHunter",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-instructor-remote-at-imrantheexploithunter-4457108571",
+      "posted_at": "2026-08-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Cybersecurity Instructor (Remote) ImranTheExploitHunter Academy is looking for experienced Cybersecurity Instructors / Ethical Hacking Trainers to join our remote training team. We are specifically looking for professionals who already have hands-on experience in Penetration Testing, Ethical Hacking, Red Teaming, Web Application Security, Network Security, or Active Directory Security . Preferred "
+    },
     {
       "id": "linkedin-4456872041",
       "title": "Freelance Web Developer",
@@ -74,6 +93,43 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
+    },
+    {
+      "id": "linkedin-4451371607",
+      "title": "English Language Data Reviewer - AI Pilot Program (International)",
+      "company": "Volga Partners",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/english-language-data-reviewer-ai-pilot-program-international-at-volga-partners-4451371607",
+      "posted_at": "2026-08-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Early Access Opportunity - AI Pilot Program Volga Partners is launching a pilot initiative to build a diverse network of English-speaking contributors across select international markets who can support current and future Artificial Intelligence (AI), language data, content quality, and evaluation projects. As AI technologies continue to evolve, organizations increasingly benefit from contributors"
+    },
+    {
+      "id": "linkedin-4458207472",
+      "title": "Consultant, QA Automation, Market Operation (Ref. August 24, 2026)",
+      "company": "Robi Axiata PLC.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/consultant-qa-automation-market-operation-ref-august-24-2026-at-robi-axiata-plc-4458207472",
+      "posted_at": "2026-08-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "salary",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "About Robi Robi Axiata PLC. the second-largest telecom operator in Bangladesh, is a public limited company with majority shareholding by the Asian telecom giant, Axiata Group Berhad, based in Malaysia (61.82%). Alongside public shareholders (10%), global telecom leader Bharti Airtel, headquartered in New Delhi, India, holds 28.18% of the company's shares. Serving over 55 million subscribers, Robi "
     },
     {
       "id": "linkedin-4456041193",
@@ -616,6 +672,24 @@
       "description_excerpt": "Sheikh Brothers is looking for IT Support & Digital Marketing Specialist Job Description / Responsibility Successful performance and demonstrating the desire to learn and ability to grow, means that you will have the opportunity to grow within the company and reach other positions and aspirations. Maintenance, diagnosing and troubleshooting hardware, installing OS/software, and networking. Provide"
     },
     {
+      "id": "linkedin-4450490860",
+      "title": "Intern",
+      "company": "nextjobz",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-nextjobz-4450490860",
+      "posted_at": "2026-08-13",
+      "regex_job_type": "Internship",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Company Name: Synesis IT Location: Dhaka (Kawran Bazar) Job Type: Internship Workplace Type: Full-time Job ID: IJOB202660601 Assist in the installation, configuration, and maintenance of Linux and Windows systems. Support basic network configuration, troubleshooting, and monitoring. Assist with system and network-related technical issues. Perform basic SQL/database management and troubleshooting t"
+    },
+    {
       "id": "linkedin-4450835068",
       "title": "IT Associate",
       "company": "nextjobz",
@@ -652,24 +726,6 @@
       "description_excerpt": "Company Name: BDGAME STUDIO Location: Dhaka (Banani) Job Type: Internship Workplace Type: Internship Job ID: IJOB202660408 Internship in Unreal Engine Blueprint Development Educational requirements can be relaxed if individual can demonstrate high technical abilities Understanding of Blueprints, Programming, AI concepts will be helpful Prior experience of playing AAA video games or similar mobile "
     },
     {
-      "id": "linkedin-4450490860",
-      "title": "Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-nextjobz-4450490860",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Internship",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Synesis IT Location: Dhaka (Kawran Bazar) Job Type: Internship Workplace Type: Full-time Job ID: IJOB202660601 Assist in the installation, configuration, and maintenance of Linux and Windows systems. Support basic network configuration, troubleshooting, and monitoring. Assist with system and network-related technical issues. Perform basic SQL/database management and troubleshooting t"
-    },
-    {
       "id": "linkedin-4450448786",
       "title": "Software Engineering Intern",
       "company": "nextjobz",
@@ -686,60 +742,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Name: DG Infotech Limited Location: Dhaka Job Type: Full-Time Workplace Type: On-Site Job ID: IJOB202660191 About DG Infotech Ltd. DG Infotech Ltd. develops enterprise software, digital payment solutions, healthcare systems, government platforms, identity management solutions, cloud-native applications, and AI-enabled products. The internship provides hands-on exposure to real-world softwa"
-    },
-    {
-      "id": "linkedin-4448559894",
-      "title": "Junior Software Engineer Intern (Paid Internship)",
-      "company": "Traideas",
-      "location": "Nārāyanganj, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-software-engineer-intern-paid-internship-at-traideas-4448559894",
-      "posted_at": "2026-08-04",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Skills Required Communication Leadership Internship Benefits Lunch Festival Bonus Work for developing Traideas Business Show more Show less Seniority level Not Applicable Employment type Volunteer Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Traideas by 2x See who you know"
-    },
-    {
-      "id": "linkedin-4449555979",
-      "title": "AI Developer - Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-developer-intern-at-nextjobz-4449555979",
-      "posted_at": "2026-08-10",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: DNS Group Location: Dhaka Job Type: Internship Workplace Type: Full-time Job ID: IJOB202659593 Develop Application using AI tools. Advance knowledge in LLM, latest models. Maintain confidentiality and comply with company policies. Requirements Experience: 0 Education: bachelor of science in computer science and engineering (cse) Skills: machine learning & ai for engineering applicati"
-    },
-    {
-      "id": "linkedin-4449811461",
-      "title": "Trainee Executive, IT (Logistics)",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/trainee-executive-it-logistics-at-nextjobz-4449811461",
-      "posted_at": "2026-08-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Renaissance Group Location: Dhaka (Uttara Sector 3) Job Type: Full-Time Workplace Type: Full-time Job ID: IJOB202659925 We are seeking a proactive Trainee Executive, IT to manage IT assets, inventory, vendor coordination, and procurement support, ensuring efficient asset tracking and timely distribution across the organization. Key Responsibilities Maintain IT asset inventory, hardwa"
     }
   ]
 }
