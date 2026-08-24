@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-08-24T16:56:27+00:00",
+  "built_at": "2026-08-24T21:42:03+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-24T16:56:27+00:00",
+  "dataset_generated_at": "2026-08-24T21:42:03+00:00",
   "total_jobs": 149,
   "needing_review": 45,
   "in_this_batch": 40,
@@ -672,22 +672,22 @@
       "description_excerpt": "Sheikh Brothers is looking for IT Support & Digital Marketing Specialist Job Description / Responsibility Successful performance and demonstrating the desire to learn and ability to grow, means that you will have the opportunity to grow within the company and reach other positions and aspirations. Maintenance, diagnosing and troubleshooting hardware, installing OS/software, and networking. Provide"
     },
     {
-      "id": "linkedin-4450490860",
-      "title": "Intern",
+      "id": "linkedin-4450488817",
+      "title": "Video Game Unreal Engine Developer Intern",
       "company": "nextjobz",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-nextjobz-4450490860",
+      "url": "https://bd.linkedin.com/jobs/view/video-game-unreal-engine-developer-intern-at-nextjobz-4450488817",
       "posted_at": "2026-08-13",
       "regex_job_type": "Internship",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "minimum 1 year",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description"
       ],
-      "description_excerpt": "Company Name: Synesis IT Location: Dhaka (Kawran Bazar) Job Type: Internship Workplace Type: Full-time Job ID: IJOB202660601 Assist in the installation, configuration, and maintenance of Linux and Windows systems. Support basic network configuration, troubleshooting, and monitoring. Assist with system and network-related technical issues. Perform basic SQL/database management and troubleshooting t"
+      "description_excerpt": "Company Name: BDGAME STUDIO Location: Dhaka (Banani) Job Type: Internship Workplace Type: Internship Job ID: IJOB202660408 Internship in Unreal Engine Blueprint Development Educational requirements can be relaxed if individual can demonstrate high technical abilities Understanding of Blueprints, Programming, AI concepts will be helpful Prior experience of playing AAA video games or similar mobile "
     },
     {
       "id": "linkedin-4450835068",
@@ -708,24 +708,6 @@
       "description_excerpt": "Company Name: Care Guide Location: Dhaka Job Type: Permanent Workplace Type: Full-time Job ID: IJOB202660965 Provide technical support for desktops, laptops, printers, and other IT equipment. Install, configure, and maintain operating systems, software, and applications. Troubleshoot hardware, software, network, and internet-related issues. Monitor and maintain office network devices, Wi-Fi, and i"
     },
     {
-      "id": "linkedin-4450488817",
-      "title": "Video Game Unreal Engine Developer Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/video-game-unreal-engine-developer-intern-at-nextjobz-4450488817",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "minimum 1 year",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: BDGAME STUDIO Location: Dhaka (Banani) Job Type: Internship Workplace Type: Internship Job ID: IJOB202660408 Internship in Unreal Engine Blueprint Development Educational requirements can be relaxed if individual can demonstrate high technical abilities Understanding of Blueprints, Programming, AI concepts will be helpful Prior experience of playing AAA video games or similar mobile "
-    },
-    {
       "id": "linkedin-4450448786",
       "title": "Software Engineering Intern",
       "company": "nextjobz",
@@ -742,6 +724,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Name: DG Infotech Limited Location: Dhaka Job Type: Full-Time Workplace Type: On-Site Job ID: IJOB202660191 About DG Infotech Ltd. DG Infotech Ltd. develops enterprise software, digital payment solutions, healthcare systems, government platforms, identity management solutions, cloud-native applications, and AI-enabled products. The internship provides hands-on exposure to real-world softwa"
+    },
+    {
+      "id": "linkedin-4448559894",
+      "title": "Junior Software Engineer Intern (Paid Internship)",
+      "company": "Traideas",
+      "location": "Nārāyanganj, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-software-engineer-intern-paid-internship-at-traideas-4448559894",
+      "posted_at": "2026-08-04",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Skills Required Communication Leadership Internship Benefits Lunch Festival Bonus Work for developing Traideas Business Show more Show less Seniority level Not Applicable Employment type Volunteer Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Traideas by 2x See who you know"
     }
   ]
 }
