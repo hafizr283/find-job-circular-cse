@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-24T07:20:45+00:00",
+  "built_at": "2026-08-24T11:44:42+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-24T07:20:45+00:00",
-  "total_jobs": 144,
-  "needing_review": 40,
+  "dataset_generated_at": "2026-08-24T11:44:42+00:00",
+  "total_jobs": 146,
+  "needing_review": 42,
   "in_this_batch": 40,
-  "remaining_after_batch": 0,
+  "remaining_after_batch": 2,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,6 +18,25 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4456872041",
+      "title": "Freelance Web Developer",
+      "company": "Stailor IT",
+      "location": "Khulna, Khulna, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/freelance-web-developer-at-stailor-it-4456872041",
+      "posted_at": "2026-08-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Stailor IT is an international IT company that delivers high-performance digital solutions designed to drive business growth. The team specializes in custom web development, SEO optimization, mobile app development, and strategic IT consulting for organizations of all sizes. Stailor IT focuses on bespoke, scalable, and user-centric digital products supported by data-driven stra"
+    },
     {
       "id": "linkedin-4456808187",
       "title": "PRE-SALES ENGINEER",
@@ -91,6 +110,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Organisation: PEN Global (concern of PEN Group) Job Title: Quality Assurance Analyst Employment Type: Full-Time Salary Range: BDT 50,000 – 55,000 per month Working Schedule: Monday to Friday, 1:30 PM–10:00PM Bangladesh Standard Time (flexible days and hours may be required) Job Location: On-Site, Agrabad, Chattogram Role Overview We are looking for a technically capable and detail-oriented individ"
+    },
+    {
+      "id": "linkedin-4456685973",
+      "title": "Mid-level Laravel Developer – Build clean APIs & own backend features. Full-time, on-site in Kushtia, Bangladesh. (Bangladeshi Candidates Only).",
+      "company": "Dizro",
+      "location": "Kushtia, Khulna, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mid-level-laravel-developer-%E2%80%93-build-clean-apis-own-backend-features-full-time-on-site-in-kushtia-bangladesh-bangladeshi-candidates-only-at-dizro-4456685973",
+      "posted_at": "2026-08-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": 2,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About Dizro We are a growing software startup building practical tools with a modern Laravel stack. You will work alongside senior engineers who will mentor you through code reviews, architectural decisions, and performance tuning. 📍 Critical – Work Location This is a full-time, on-site position at our office in Kushtia, Bangladesh. Remote or hybrid is not available. Please apply only if you are a"
     },
     {
       "id": "linkedin-4456285287",
@@ -579,24 +616,6 @@
       "description_excerpt": "Sheikh Brothers is looking for IT Support & Digital Marketing Specialist Job Description / Responsibility Successful performance and demonstrating the desire to learn and ability to grow, means that you will have the opportunity to grow within the company and reach other positions and aspirations. Maintenance, diagnosing and troubleshooting hardware, installing OS/software, and networking. Provide"
     },
     {
-      "id": "linkedin-4450490860",
-      "title": "Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-nextjobz-4450490860",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Internship",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Synesis IT Location: Dhaka (Kawran Bazar) Job Type: Internship Workplace Type: Full-time Job ID: IJOB202660601 Assist in the installation, configuration, and maintenance of Linux and Windows systems. Support basic network configuration, troubleshooting, and monitoring. Assist with system and network-related technical issues. Perform basic SQL/database management and troubleshooting t"
-    },
-    {
       "id": "linkedin-4450835068",
       "title": "IT Associate",
       "company": "nextjobz",
@@ -631,6 +650,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Name: BDGAME STUDIO Location: Dhaka (Banani) Job Type: Internship Workplace Type: Internship Job ID: IJOB202660408 Internship in Unreal Engine Blueprint Development Educational requirements can be relaxed if individual can demonstrate high technical abilities Understanding of Blueprints, Programming, AI concepts will be helpful Prior experience of playing AAA video games or similar mobile "
+    },
+    {
+      "id": "linkedin-4450490860",
+      "title": "Intern",
+      "company": "nextjobz",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-nextjobz-4450490860",
+      "posted_at": "2026-08-13",
+      "regex_job_type": "Internship",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Company Name: Synesis IT Location: Dhaka (Kawran Bazar) Job Type: Internship Workplace Type: Full-time Job ID: IJOB202660601 Assist in the installation, configuration, and maintenance of Linux and Windows systems. Support basic network configuration, troubleshooting, and monitoring. Assist with system and network-related technical issues. Perform basic SQL/database management and troubleshooting t"
     },
     {
       "id": "linkedin-4450448786",
@@ -703,42 +740,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Name: Renaissance Group Location: Dhaka (Uttara Sector 3) Job Type: Full-Time Workplace Type: Full-time Job ID: IJOB202659925 We are seeking a proactive Trainee Executive, IT to manage IT assets, inventory, vendor coordination, and procurement support, ensuring efficient asset tracking and timely distribution across the organization. Key Responsibilities Maintain IT asset inventory, hardwa"
-    },
-    {
-      "id": "linkedin-4449527795",
-      "title": "Software Development Intern- DBM SOFT LTD.- Job ID:1518166",
-      "company": "Bdjobs.com",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-dbm-soft-ltd-job-id-1518166-at-bdjobs-com-4449527795",
-      "posted_at": "2026-08-10",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "DBM SOFT LTD. is looking for Software Development Intern Job Description / Responsibility Job Context DBM SOFT LTD. is looking for a motivated and enthusiastic Software Development Intern to join our technology team. The intern will get hands-on experience working on real-world software projects and will work closely with experienced developers to learn, develop, test, and maintain web-based appli"
-    },
-    {
-      "id": "linkedin-4448161953",
-      "title": "Test Engineer Intern",
-      "company": "Urban Job",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/test-engineer-intern-at-urban-job-4448161953",
-      "posted_at": "2026-08-03",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "T Test Engineer Intern at TikWeb On-site, Aftabnagar, Dhaka Tikweb is a leading technology firm committed to delivering high-quality software solutions. We are seeking a dedicated Test Engineer Intern to join our team and gain hands-on experience in software testing and quality assurance. About Us Duration: 3 Months Vacancy: 1 Your Responsibility Assist in the development and execution of test cas"
     }
   ]
 }
