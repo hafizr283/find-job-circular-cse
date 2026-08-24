@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-08-23T21:38:03+00:00",
+  "built_at": "2026-08-24T02:39:43+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-23T21:38:03+00:00",
+  "dataset_generated_at": "2026-08-24T02:39:43+00:00",
   "total_jobs": 143,
   "needing_review": 40,
   "in_this_batch": 40,
@@ -93,11 +93,11 @@
       "description_excerpt": "Organisation: PEN Global (concern of PEN Group) Job Title: Quality Assurance Analyst Employment Type: Full-Time Salary Range: BDT 50,000 – 55,000 per month Working Schedule: Monday to Friday, 1:30 PM–10:00PM Bangladesh Standard Time (flexible days and hours may be required) Job Location: On-Site, Agrabad, Chattogram Role Overview We are looking for a technically capable and detail-oriented individ"
     },
     {
-      "id": "linkedin-4456281289",
-      "title": "AI Engineer Intern - Sylhet",
+      "id": "linkedin-4456285287",
+      "title": "AI Engineer Intern - Dhaka",
       "company": "SJ Innovation LLC",
-      "location": "Sylhet, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -111,11 +111,11 @@
       "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
     },
     {
-      "id": "linkedin-4456285287",
-      "title": "AI Engineer Intern - Dhaka",
+      "id": "linkedin-4456281289",
+      "title": "AI Engineer Intern - Sylhet",
       "company": "SJ Innovation LLC",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
+      "location": "Sylhet, Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -363,24 +363,6 @@
       "description_excerpt": "SJ Innovation is looking for a creative UI/UX & Graphic Design Intern who is passionate about designing exceptional digital experiences using AI-powered design tools . You will work on real client and internal projects, creating intuitive user interfaces, engaging visuals, and AI-assisted design solutions.Key Responsibilities Design UI for web and mobile applications using Figma. Create wireframes"
     },
     {
-      "id": "linkedin-4456184628",
-      "title": "IT Support & Client Communication",
-      "company": "Lowkia",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-support-client-communication-at-lowkia-4456184628",
-      "posted_at": "2026-08-19",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary: BDT 20,000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Lowkia is a fast-growing organization with its own system solutions, dedicated training center, and strong in-house marketing team. We work with international clients and are looking for a dedicated, disciplined, and flexible professional with strong English communication and IT/technical expertise. Job Overview We are looking for an IT Support & Client Communication Executive who can bridge techn"
-    },
-    {
       "id": "linkedin-4449778278",
       "title": "Junior Network Engineer",
       "company": "Rajshahi Colo",
@@ -433,6 +415,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Job Context আমরা একজন আগ্রহী ও মোটিভেটেড WEB Developer (Intern) খুঁজছি, যিনি আমাদের ডেভেলপমেন্ট টিমের সাথে কাজ করে রিয়েল-লাইফ ওয়েব অ্যাপ্লিকেশন ডেভেলপমেন্টে অভিজ্ঞতা অর্জন করতে চান। এই ইন্টার্নশিপ প্রোগ্রামটি নতুন ডেভেলপারদের জন্য শেখার এবং ক্যারিয়ার গড়ার একটি চমৎকার সুযোগ। Job Responsibility Laravel framework ব্যবহার করে ওয়েব অ্যাপ্লিকেশন ডেভেলপমেন্টে সহায়তা করা Backend logic ও database (MySQL) ন"
+    },
+    {
+      "id": "linkedin-4456184628",
+      "title": "IT Support & Client Communication",
+      "company": "Lowkia",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/it-support-client-communication-at-lowkia-4456184628",
+      "posted_at": "2026-08-19",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary: BDT 20,000",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Lowkia is a fast-growing organization with its own system solutions, dedicated training center, and strong in-house marketing team. We work with international clients and are looking for a dedicated, disciplined, and flexible professional with strong English communication and IT/technical expertise. Job Overview We are looking for an IT Support & Client Communication Executive who can bridge techn"
     },
     {
       "id": "linkedin-4456207844",
@@ -579,24 +579,6 @@
       "description_excerpt": "Sheikh Brothers is looking for IT Support & Digital Marketing Specialist Job Description / Responsibility Successful performance and demonstrating the desire to learn and ability to grow, means that you will have the opportunity to grow within the company and reach other positions and aspirations. Maintenance, diagnosing and troubleshooting hardware, installing OS/software, and networking. Provide"
     },
     {
-      "id": "linkedin-4450835068",
-      "title": "IT Associate",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-associate-at-nextjobz-4450835068",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Care Guide Location: Dhaka Job Type: Permanent Workplace Type: Full-time Job ID: IJOB202660965 Provide technical support for desktops, laptops, printers, and other IT equipment. Install, configure, and maintain operating systems, software, and applications. Troubleshoot hardware, software, network, and internet-related issues. Monitor and maintain office network devices, Wi-Fi, and i"
-    },
-    {
       "id": "linkedin-4450490860",
       "title": "Intern",
       "company": "nextjobz",
@@ -631,6 +613,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Name: BDGAME STUDIO Location: Dhaka (Banani) Job Type: Internship Workplace Type: Internship Job ID: IJOB202660408 Internship in Unreal Engine Blueprint Development Educational requirements can be relaxed if individual can demonstrate high technical abilities Understanding of Blueprints, Programming, AI concepts will be helpful Prior experience of playing AAA video games or similar mobile "
+    },
+    {
+      "id": "linkedin-4450835068",
+      "title": "IT Associate",
+      "company": "nextjobz",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/it-associate-at-nextjobz-4450835068",
+      "posted_at": "2026-08-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Company Name: Care Guide Location: Dhaka Job Type: Permanent Workplace Type: Full-time Job ID: IJOB202660965 Provide technical support for desktops, laptops, printers, and other IT equipment. Install, configure, and maintain operating systems, software, and applications. Troubleshoot hardware, software, network, and internet-related issues. Monitor and maintain office network devices, Wi-Fi, and i"
     },
     {
       "id": "linkedin-4450448786",
