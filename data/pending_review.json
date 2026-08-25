@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-08-25T07:09:34+00:00",
+  "built_at": "2026-08-25T11:44:06+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-25T07:09:34+00:00",
-  "total_jobs": 150,
+  "dataset_generated_at": "2026-08-25T11:44:06+00:00",
+  "total_jobs": 152,
   "needing_review": 47,
   "in_this_batch": 40,
   "remaining_after_batch": 7,
@@ -19,23 +19,23 @@
   ],
   "pending": [
     {
-      "id": "linkedin-4456872041",
-      "title": "Freelance Web Developer",
-      "company": "Stailor IT",
-      "location": "Khulna, Khulna, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/freelance-web-developer-at-stailor-it-4456872041",
-      "posted_at": "2026-08-24",
-      "regex_job_type": "Fresher job",
+      "id": "linkedin-4457459901",
+      "title": "Internship Program",
+      "company": "DIGIBOX",
+      "location": "Mohammadpur Thana, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/internship-program-at-digibox-4457459901",
+      "posted_at": "2026-08-25",
+      "regex_job_type": "Internship",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "BDT 10,000",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description Stailor IT is an international IT company that delivers high-performance digital solutions designed to drive business growth. The team specializes in custom web development, SEO optimization, mobile app development, and strategic IT consulting for organizations of all sizes. Stailor IT focuses on bespoke, scalable, and user-centric digital products supported by data-driven stra"
+      "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
     },
     {
       "id": "linkedin-4457108571",
@@ -55,6 +55,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Cybersecurity Instructor (Remote) ImranTheExploitHunter Academy is looking for experienced Cybersecurity Instructors / Ethical Hacking Trainers to join our remote training team. We are specifically looking for professionals who already have hands-on experience in Penetration Testing, Ethical Hacking, Red Teaming, Web Application Security, Network Security, or Active Directory Security . Preferred "
+    },
+    {
+      "id": "linkedin-4456872041",
+      "title": "Freelance Web Developer",
+      "company": "Stailor IT",
+      "location": "Khulna, Khulna, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/freelance-web-developer-at-stailor-it-4456872041",
+      "posted_at": "2026-08-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Stailor IT is an international IT company that delivers high-performance digital solutions designed to drive business growth. The team specializes in custom web development, SEO optimization, mobile app development, and strategic IT consulting for organizations of all sizes. Stailor IT focuses on bespoke, scalable, and user-centric digital products supported by data-driven stra"
     },
     {
       "id": "linkedin-4456808187",
@@ -114,25 +133,6 @@
       "description_excerpt": "Early Access Opportunity - AI Pilot Program Volga Partners is launching a pilot initiative to build a diverse network of English-speaking contributors across select international markets who can support current and future Artificial Intelligence (AI), language data, content quality, and evaluation projects. As AI technologies continue to evolve, organizations increasingly benefit from contributors"
     },
     {
-      "id": "linkedin-4450839020",
-      "title": "IT Support & Network Officer",
-      "company": "nextjobz",
-      "location": "Kaliakair Upazila, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-support-network-officer-at-nextjobz-4450839020",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4458207472",
       "title": "Consultant, QA Automation, Market Operation (Ref. August 24, 2026)",
       "company": "Robi Axiata PLC.",
@@ -149,6 +149,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "About Robi Robi Axiata PLC. the second-largest telecom operator in Bangladesh, is a public limited company with majority shareholding by the Asian telecom giant, Axiata Group Berhad, based in Malaysia (61.82%). Alongside public shareholders (10%), global telecom leader Bharti Airtel, headquartered in New Delhi, India, holds 28.18% of the company's shares. Serving over 55 million subscribers, Robi "
+    },
+    {
+      "id": "linkedin-4458735488",
+      "title": "DevOps Engineer",
+      "company": "SariyaHOST",
+      "location": "Narayanganj Sadar Upazila, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/devops-engineer-at-sariyahost-4458735488",
+      "posted_at": "2026-08-25",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "location On-Site/Remote Job Type Full-time Salary Negotiable Working Days Monday to Friday Working Time 02.00 PM – 11.00 PM Holiday Saturday & Sunday. Join Date September/October 2023 Application Deadline August, 31 2023 Job Responsibilities Installation, configuration and management of Linux Server including server management task automation using Shell script, Ansible. Installation, configuratio"
     },
     {
       "id": "linkedin-4456041193",
@@ -205,11 +223,11 @@
       "description_excerpt": "About Dizro We are a growing software startup building practical tools with a modern Laravel stack. You will work alongside senior engineers who will mentor you through code reviews, architectural decisions, and performance tuning. 📍 Critical – Work Location This is a full-time, on-site position at our office in Kushtia, Bangladesh. Remote or hybrid is not available. Please apply only if you are a"
     },
     {
-      "id": "linkedin-4456281289",
-      "title": "AI Engineer Intern - Sylhet",
+      "id": "linkedin-4456285287",
+      "title": "AI Engineer Intern - Dhaka",
       "company": "SJ Innovation LLC",
-      "location": "Sylhet, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -223,11 +241,11 @@
       "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
     },
     {
-      "id": "linkedin-4456285287",
-      "title": "AI Engineer Intern - Dhaka",
+      "id": "linkedin-4456281289",
+      "title": "AI Engineer Intern - Sylhet",
       "company": "SJ Innovation LLC",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
+      "location": "Sylhet, Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -565,6 +583,24 @@
       "description_excerpt": "Lowkia is a fast-growing organization with its own system solutions, dedicated training center, and strong in-house marketing team. We work with international clients and are looking for a dedicated, disciplined, and flexible professional with strong English communication and IT/technical expertise. Job Overview We are looking for an IT Support & Client Communication Executive who can bridge techn"
     },
     {
+      "id": "linkedin-4446279221",
+      "title": "Intern",
+      "company": "nextjobz",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-nextjobz-4446279221",
+      "posted_at": "2026-08-25",
+      "regex_job_type": "Internship",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Company Name: Akij Venture Ltd. Location: Dhaka Job Type: Internship Workplace Type: Full-time Job ID: IJOB202658114 We are looking for dynamic and driven individuals to join us as intern in Design & Creative, Finance & Accounts, IT, HR or Business Development & Research Department, Supply Chain management to gain practical experience and contribute to impactful projects. Intern- Design & Creative"
+    },
+    {
       "id": "linkedin-4456207844",
       "title": "Software Developer (Java)",
       "company": "Crossing Hurdles",
@@ -707,42 +743,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Sheikh Brothers is looking for IT Support & Digital Marketing Specialist Job Description / Responsibility Successful performance and demonstrating the desire to learn and ability to grow, means that you will have the opportunity to grow within the company and reach other positions and aspirations. Maintenance, diagnosing and troubleshooting hardware, installing OS/software, and networking. Provide"
-    },
-    {
-      "id": "linkedin-4448559894",
-      "title": "Junior Software Engineer Intern (Paid Internship)",
-      "company": "Traideas",
-      "location": "Nārāyanganj, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-software-engineer-intern-paid-internship-at-traideas-4448559894",
-      "posted_at": "2026-08-04",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Skills Required Communication Leadership Internship Benefits Lunch Festival Bonus Work for developing Traideas Business Show more Show less Seniority level Not Applicable Employment type Volunteer Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Traideas by 2x See who you know"
-    },
-    {
-      "id": "linkedin-4450490860",
-      "title": "Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-nextjobz-4450490860",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Internship",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Synesis IT Location: Dhaka (Kawran Bazar) Job Type: Internship Workplace Type: Full-time Job ID: IJOB202660601 Assist in the installation, configuration, and maintenance of Linux and Windows systems. Support basic network configuration, troubleshooting, and monitoring. Assist with system and network-related technical issues. Perform basic SQL/database management and troubleshooting t"
     }
   ]
 }
