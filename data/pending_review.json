@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-25T11:44:06+00:00",
+  "built_at": "2026-08-25T16:56:38+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-25T11:44:06+00:00",
-  "total_jobs": 152,
-  "needing_review": 47,
+  "dataset_generated_at": "2026-08-25T16:56:37+00:00",
+  "total_jobs": 153,
+  "needing_review": 48,
   "in_this_batch": 40,
-  "remaining_after_batch": 7,
+  "remaining_after_batch": 8,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -36,6 +36,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
+    },
+    {
+      "id": "linkedin-4457481302",
+      "title": "Product Designer",
+      "company": "Strong Force Analytics",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/product-designer-at-strong-force-analytics-4457481302",
+      "posted_at": "2026-08-25",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Strong Force Analytics is US-based AI and data-focused technology company that partners with businesses to design, build, and scale their digital products — from early concept through to production. About the Role As a Product Designer, you own how the product looks, how it feels to use, and how it shows up in public. Design is your core strength. You also build your own designs into working front"
     },
     {
       "id": "linkedin-4457108571",
@@ -725,24 +744,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Avian BPO & IT is looking for Software Engineer (Android/iOS) Job Description / Responsibility Develop and maintain Android applications using Java or Kotlin . Collaborate with UI/UX designers and backend engineers to build clean, high-performance apps. Write readable, modular, and scalable code following best engineering practices. Test, debug, and optimize app performance across devices and OS v"
-    },
-    {
-      "id": "linkedin-4443268398",
-      "title": "IT Support & Digital Marketing Specialist- For Sheikh Brothers - Job ID: 1514065",
-      "company": "Bdjobs.com",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-support-digital-marketing-specialist-for-sheikh-brothers-job-id-1514065-at-bdjobs-com-4443268398",
-      "posted_at": "2026-07-28",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary Tk. 12000 - 18000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Sheikh Brothers is looking for IT Support & Digital Marketing Specialist Job Description / Responsibility Successful performance and demonstrating the desire to learn and ability to grow, means that you will have the opportunity to grow within the company and reach other positions and aspirations. Maintenance, diagnosing and troubleshooting hardware, installing OS/software, and networking. Provide"
     }
   ]
 }
