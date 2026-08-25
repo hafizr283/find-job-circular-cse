@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-08-24T21:42:03+00:00",
+  "built_at": "2026-08-25T02:30:47+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-24T21:42:03+00:00",
+  "dataset_generated_at": "2026-08-25T02:30:47+00:00",
   "total_jobs": 149,
   "needing_review": 45,
   "in_this_batch": 40,
@@ -18,25 +18,6 @@
     "Other CSE"
   ],
   "pending": [
-    {
-      "id": "linkedin-4457108571",
-      "title": "Cybersecurity Instructor (Remote)",
-      "company": "ImranTheExploitHunter",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-instructor-remote-at-imrantheexploithunter-4457108571",
-      "posted_at": "2026-08-24",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Cybersecurity Instructor (Remote) ImranTheExploitHunter Academy is looking for experienced Cybersecurity Instructors / Ethical Hacking Trainers to join our remote training team. We are specifically looking for professionals who already have hands-on experience in Penetration Testing, Ethical Hacking, Red Teaming, Web Application Security, Network Security, or Active Directory Security . Preferred "
-    },
     {
       "id": "linkedin-4456872041",
       "title": "Freelance Web Developer",
@@ -55,6 +36,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Stailor IT is an international IT company that delivers high-performance digital solutions designed to drive business growth. The team specializes in custom web development, SEO optimization, mobile app development, and strategic IT consulting for organizations of all sizes. Stailor IT focuses on bespoke, scalable, and user-centric digital products supported by data-driven stra"
+    },
+    {
+      "id": "linkedin-4457108571",
+      "title": "Cybersecurity Instructor (Remote)",
+      "company": "ImranTheExploitHunter",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-instructor-remote-at-imrantheexploithunter-4457108571",
+      "posted_at": "2026-08-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Cybersecurity Instructor (Remote) ImranTheExploitHunter Academy is looking for experienced Cybersecurity Instructors / Ethical Hacking Trainers to join our remote training team. We are specifically looking for professionals who already have hands-on experience in Penetration Testing, Ethical Hacking, Red Teaming, Web Application Security, Network Security, or Active Directory Security . Preferred "
     },
     {
       "id": "linkedin-4456808187",
@@ -348,24 +348,6 @@
       "description_excerpt": "\"We are specifically looking for candidates who live near Uttara, Dhaka, Bangladesh. Thank you for your interest.\" General Job Description: Technical Support for customers from all over the world through e-mail, online chat, and live phone calls at the designated office. Additional tasks involve tutorial/demo video production and editing, technical document editing, and writing. Working hours: 40 "
     },
     {
-      "id": "linkedin-4438091344",
-      "title": "Junior Network Engineer",
-      "company": "Ding",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-network-engineer-at-ding-4438091344",
-      "posted_at": "2026-08-11",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "WHO WE ARE: Ding is the global leader in cross-border value transfer. Since 2006, we’ve moved more than $6BN across borders — putting money directly into the hands of diaspora communities so they can support the families they left behind. Today, we operate in 160+ countries, partner with 600+ mobile operators, and serve some of the world’s most underserved markets with technology that is fast, rel"
-    },
-    {
       "id": "linkedin-4449468173",
       "title": "Intern - Robotics & Automation",
       "company": "Kranti Robotics (Kranti Associates Canada Ltd.)",
@@ -400,6 +382,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
+    },
+    {
+      "id": "linkedin-4438091344",
+      "title": "Junior Network Engineer",
+      "company": "Ding",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-network-engineer-at-ding-4438091344",
+      "posted_at": "2026-08-11",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "WHO WE ARE: Ding is the global leader in cross-border value transfer. Since 2006, we’ve moved more than $6BN across borders — putting money directly into the hands of diaspora communities so they can support the families they left behind. Today, we operate in 160+ countries, partner with 600+ mobile operators, and serve some of the world’s most underserved markets with technology that is fast, rel"
     },
     {
       "id": "linkedin-4451084684",
@@ -672,22 +672,22 @@
       "description_excerpt": "Sheikh Brothers is looking for IT Support & Digital Marketing Specialist Job Description / Responsibility Successful performance and demonstrating the desire to learn and ability to grow, means that you will have the opportunity to grow within the company and reach other positions and aspirations. Maintenance, diagnosing and troubleshooting hardware, installing OS/software, and networking. Provide"
     },
     {
-      "id": "linkedin-4450488817",
-      "title": "Video Game Unreal Engine Developer Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/video-game-unreal-engine-developer-intern-at-nextjobz-4450488817",
-      "posted_at": "2026-08-13",
+      "id": "linkedin-4448559894",
+      "title": "Junior Software Engineer Intern (Paid Internship)",
+      "company": "Traideas",
+      "location": "Nārāyanganj, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-software-engineer-intern-paid-internship-at-traideas-4448559894",
+      "posted_at": "2026-08-04",
       "regex_job_type": "Internship",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "minimum 1 year",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Paid internship",
       "review_reasons": [
         "no experience floor parsed from the description"
       ],
-      "description_excerpt": "Company Name: BDGAME STUDIO Location: Dhaka (Banani) Job Type: Internship Workplace Type: Internship Job ID: IJOB202660408 Internship in Unreal Engine Blueprint Development Educational requirements can be relaxed if individual can demonstrate high technical abilities Understanding of Blueprints, Programming, AI concepts will be helpful Prior experience of playing AAA video games or similar mobile "
+      "description_excerpt": "Skills Required Communication Leadership Internship Benefits Lunch Festival Bonus Work for developing Traideas Business Show more Show less Seniority level Not Applicable Employment type Volunteer Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Traideas by 2x See who you know"
     },
     {
       "id": "linkedin-4450835068",
@@ -708,6 +708,24 @@
       "description_excerpt": "Company Name: Care Guide Location: Dhaka Job Type: Permanent Workplace Type: Full-time Job ID: IJOB202660965 Provide technical support for desktops, laptops, printers, and other IT equipment. Install, configure, and maintain operating systems, software, and applications. Troubleshoot hardware, software, network, and internet-related issues. Monitor and maintain office network devices, Wi-Fi, and i"
     },
     {
+      "id": "linkedin-4450488817",
+      "title": "Video Game Unreal Engine Developer Intern",
+      "company": "nextjobz",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/video-game-unreal-engine-developer-intern-at-nextjobz-4450488817",
+      "posted_at": "2026-08-13",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "minimum 1 year",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Company Name: BDGAME STUDIO Location: Dhaka (Banani) Job Type: Internship Workplace Type: Internship Job ID: IJOB202660408 Internship in Unreal Engine Blueprint Development Educational requirements can be relaxed if individual can demonstrate high technical abilities Understanding of Blueprints, Programming, AI concepts will be helpful Prior experience of playing AAA video games or similar mobile "
+    },
+    {
       "id": "linkedin-4450448786",
       "title": "Software Engineering Intern",
       "company": "nextjobz",
@@ -724,24 +742,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Name: DG Infotech Limited Location: Dhaka Job Type: Full-Time Workplace Type: On-Site Job ID: IJOB202660191 About DG Infotech Ltd. DG Infotech Ltd. develops enterprise software, digital payment solutions, healthcare systems, government platforms, identity management solutions, cloud-native applications, and AI-enabled products. The internship provides hands-on exposure to real-world softwa"
-    },
-    {
-      "id": "linkedin-4448559894",
-      "title": "Junior Software Engineer Intern (Paid Internship)",
-      "company": "Traideas",
-      "location": "Nārāyanganj, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-software-engineer-intern-paid-internship-at-traideas-4448559894",
-      "posted_at": "2026-08-04",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Skills Required Communication Leadership Internship Benefits Lunch Festival Bonus Work for developing Traideas Business Show more Show less Seniority level Not Applicable Employment type Volunteer Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Traideas by 2x See who you know"
     }
   ]
 }
