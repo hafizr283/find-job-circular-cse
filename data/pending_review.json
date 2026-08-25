@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-25T16:56:38+00:00",
+  "built_at": "2026-08-25T21:43:41+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-25T16:56:37+00:00",
-  "total_jobs": 153,
-  "needing_review": 48,
+  "dataset_generated_at": "2026-08-25T21:43:41+00:00",
+  "total_jobs": 154,
+  "needing_review": 50,
   "in_this_batch": 40,
-  "remaining_after_batch": 8,
+  "remaining_after_batch": 10,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -36,6 +36,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
+    },
+    {
+      "id": "linkedin-4456957160",
+      "title": "Data Analyst",
+      "company": "WalletHub",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/data-analyst-at-wallethub-4456957160",
+      "posted_at": "2026-08-25",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
     },
     {
       "id": "linkedin-4457481302",
@@ -726,24 +745,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Itransition is looking for Software QA Engineer Intern (AI-Powered) Job Description / Responsibility Finishing your degree and not sure what's next? Turn your CS education into a real engineering career - starting now. You've spent years studying algorithms, data structures, and software design. You've written code for coursework and side projects. Now you need a way into the industry that actuall"
-    },
-    {
-      "id": "linkedin-4444518455",
-      "title": "Software Engineer (Android/iOS) - (For Avian BPO & IT) - Job ID - 1514824",
-      "company": "Bdjobs.com",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-android-ios-for-avian-bpo-it-job-id-1514824-at-bdjobs-com-4444518455",
-      "posted_at": "2026-07-30",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary Tk. 45000 - 45001",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Avian BPO & IT is looking for Software Engineer (Android/iOS) Job Description / Responsibility Develop and maintain Android applications using Java or Kotlin . Collaborate with UI/UX designers and backend engineers to build clean, high-performance apps. Write readable, modular, and scalable code following best engineering practices. Test, debug, and optimize app performance across devices and OS v"
     }
   ]
 }
