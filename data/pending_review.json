@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-25T21:43:41+00:00",
+  "built_at": "2026-08-26T02:42:49+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-25T21:43:41+00:00",
-  "total_jobs": 154,
-  "needing_review": 50,
+  "dataset_generated_at": "2026-08-26T02:42:49+00:00",
+  "total_jobs": 158,
+  "needing_review": 52,
   "in_this_batch": 40,
-  "remaining_after_batch": 10,
+  "remaining_after_batch": 12,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -38,25 +38,6 @@
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
     },
     {
-      "id": "linkedin-4456957160",
-      "title": "Data Analyst",
-      "company": "WalletHub",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/data-analyst-at-wallethub-4456957160",
-      "posted_at": "2026-08-25",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
-    },
-    {
       "id": "linkedin-4457481302",
       "title": "Product Designer",
       "company": "Strong Force Analytics",
@@ -74,6 +55,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Strong Force Analytics is US-based AI and data-focused technology company that partners with businesses to design, build, and scale their digital products — from early concept through to production. About the Role As a Product Designer, you own how the product looks, how it feels to use, and how it shows up in public. Design is your core strength. You also build your own designs into working front"
+    },
+    {
+      "id": "linkedin-4456957160",
+      "title": "Data Analyst",
+      "company": "WalletHub",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/data-analyst-at-wallethub-4456957160",
+      "posted_at": "2026-08-25",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
     },
     {
       "id": "linkedin-4457108571",
@@ -114,6 +114,25 @@
       "description_excerpt": "Company Description Stailor IT is an international IT company that delivers high-performance digital solutions designed to drive business growth. The team specializes in custom web development, SEO optimization, mobile app development, and strategic IT consulting for organizations of all sizes. Stailor IT focuses on bespoke, scalable, and user-centric digital products supported by data-driven stra"
     },
     {
+      "id": "linkedin-4457654838",
+      "title": "Forward Deployed Engineering (FDE) Intern",
+      "company": "puku.sh",
+      "location": "Gulshan, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/forward-deployed-engineering-fde-intern-at-puku-sh-4457654838",
+      "posted_at": "2026-08-26",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Forward Deployed Engineering (FDE) is an engineering approach where engineers do more than just write code—they directly understand client problems and rapidly build solutions using AI and automation tools. It bridges technical expertise with real-world business needs. Responsibilities An FDE engineer analyzes client codebases, builds AI-powered agents and automation pipelines, manages CI/CD and i"
+    },
+    {
       "id": "linkedin-4456808187",
       "title": "PRE-SALES ENGINEER",
       "company": "AloIT Consultants",
@@ -150,6 +169,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
+    },
+    {
+      "id": "linkedin-4454030685",
+      "title": "Project Associate (Knowledge Management & Reporting) - Short term (NPSA-7)",
+      "company": "UNDP Careers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-associate-knowledge-management-reporting-short-term-npsa-7-at-undp-careers-4454030685",
+      "posted_at": "2026-08-14",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
       "id": "linkedin-4451371607",
@@ -225,6 +263,24 @@
       "description_excerpt": "We are looking for a WordPress Developer Trainee who has basic knowledge of WordPress and is eager to build practical skills in Elementor, Gutenberg, and Advanced Custom Fields (ACF). This role is suitable for an entry-level candidate who wants to develop their WordPress development skills through hands-on projects and mentorship. Key Responsibilities Assist in developing WordPress websites using "
     },
     {
+      "id": "linkedin-4437926471",
+      "title": "Workforce Experience Associate / Specialist",
+      "company": "SuperAnnotate",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/workforce-experience-associate-specialist-at-superannotate-4437926471",
+      "posted_at": "2026-08-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": 1,
+      "regex_posting_status": "open",
+      "pay_text": "salary",
+      "review_reasons": [
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About SuperAnnotate SuperAnnotate is a San Francisco based AI company. We specialize in providing cutting-edge data pipeline solutions for Machine Learning, LLM, and GenAI solutions to large enterprise clients, helping them leverage the power of AI to transform their businesses. SuperAnnotate has a fully customizable platform for building annotation tools and workflows that AI projects demand — wh"
+    },
+    {
       "id": "linkedin-4453888040",
       "title": "Quality Assurance Analyst",
       "company": "PEN Group",
@@ -261,11 +317,11 @@
       "description_excerpt": "About Dizro We are a growing software startup building practical tools with a modern Laravel stack. You will work alongside senior engineers who will mentor you through code reviews, architectural decisions, and performance tuning. 📍 Critical – Work Location This is a full-time, on-site position at our office in Kushtia, Bangladesh. Remote or hybrid is not available. Please apply only if you are a"
     },
     {
-      "id": "linkedin-4456285287",
-      "title": "AI Engineer Intern - Dhaka",
+      "id": "linkedin-4456281289",
+      "title": "AI Engineer Intern - Sylhet",
       "company": "SJ Innovation LLC",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
+      "location": "Sylhet, Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -279,11 +335,11 @@
       "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
     },
     {
-      "id": "linkedin-4456281289",
-      "title": "AI Engineer Intern - Sylhet",
+      "id": "linkedin-4456285287",
+      "title": "AI Engineer Intern - Dhaka",
       "company": "SJ Innovation LLC",
-      "location": "Sylhet, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -313,24 +369,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Location: Dhaka, Bangladesh Work Arrangement: Remote Employment Type: Full-time A3 iFrame is an AI-powered website-building platform that transforms documents, written requirements, and business ideas into professional, production-ready websites. We are looking for a proactive Technical Support Engineer who can help customers resolve technical issues, investigate platform problems, and work closel"
-    },
-    {
-      "id": "linkedin-4458576799",
-      "title": "SQA Engineer",
-      "company": "ERA-InfoTech Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/sqa-engineer-at-era-infotech-limited-4458576799",
-      "posted_at": "2026-08-25",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": 2,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "ERA-InfoTech Limited is a leading IT services company developing business solutions and services for banks, non-bank financial institutions (NBFIs), corporations as well as the Government Sector, focusing on innovation, quality and scalability. Join our dynamic team and contribute to cutting-edge technologies in the heart of Dhaka. Experience Required: 2-3 years Vacancy: 3 Job Location: Dhaka (On-"
     },
     {
       "id": "linkedin-4454755758",
@@ -367,6 +405,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Description DNationSoft is a world-class web design and development company based in Bangladesh since 2010. We provides top-quality services with professional designs by our expert designers and developers. Role Description This is a full-time on-site role for a PHP Developer at DNationSoft located in Abhaynagar Upazila, Jessore. The developer will be responsible for web application backen"
+    },
+    {
+      "id": "linkedin-4458576799",
+      "title": "SQA Engineer",
+      "company": "ERA-InfoTech Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/sqa-engineer-at-era-infotech-limited-4458576799",
+      "posted_at": "2026-08-25",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": 2,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "ERA-InfoTech Limited is a leading IT services company developing business solutions and services for banks, non-bank financial institutions (NBFIs), corporations as well as the Government Sector, focusing on innovation, quality and scalability. Join our dynamic team and contribute to cutting-edge technologies in the heart of Dhaka. Experience Required: 2-3 years Vacancy: 3 Job Location: Dhaka (On-"
     },
     {
       "id": "linkedin-4435801999",
@@ -691,60 +747,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Name: ADN Semiconductors Location: Dhaka (Mohakhali) Job Type: Internship Workplace Type: Full-time Job ID: IJOB202662731 Context ADN Semiconductor , a concern of ADN Group , operates at the intersection of IT, Telecom, and advanced semiconductor engineering. As a Bangladesh-based front-end semiconductor design services and training organization, we provide a hands-on, production-oriented "
-    },
-    {
-      "id": "linkedin-4453473823",
-      "title": "Junior Mobile Application Developer",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-mobile-application-developer-at-nextjobz-4453473823",
-      "posted_at": "2026-08-19",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Bdjobs.com Limited Location: Dhaka Job Type: Full-Time Workplace Type: Full-time Job ID: IJOB202663890 Job Responsibilities Contribute to the development, testing, and maintenance of Android applications. Work closely with senior developers on project requirements, architecture, and UI implementation. Debug and fix issues/bugs identified during development or QA testing. Work with Ko"
-    },
-    {
-      "id": "linkedin-4451784333",
-      "title": "POS Software Support Executive",
-      "company": "nextjobz",
-      "location": "Mymensingh, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/pos-software-support-executive-at-nextjobz-4451784333",
-      "posted_at": "2026-08-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Online Creative Network Location: Mymensingh, Mymensingh (Mymensingh Sadar) Job Type: Full-Time Workplace Type: Full-time Job ID: IJOB202661825 Online Creative Network Pvt. Ltd. is a Bangladeshi software and cloud technology company. We develop and support industry-specific POS and business management software used by pharmacies, jewellery shops, LPG dealers, tiles & sanitary shops, "
-    },
-    {
-      "id": "linkedin-4449289564",
-      "title": "Software QA Engineer Intern (AI-Powered) - For Itransition- Job ID: 1517940",
-      "company": "Bdjobs.com",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-qa-engineer-intern-ai-powered-for-itransition-job-id-1517940-at-bdjobs-com-4449289564",
-      "posted_at": "2026-08-09",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary Tk. 10000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Itransition is looking for Software QA Engineer Intern (AI-Powered) Job Description / Responsibility Finishing your degree and not sure what's next? Turn your CS education into a real engineering career - starting now. You've spent years studying algorithms, data structures, and software design. You've written code for coursework and side projects. Now you need a way into the industry that actuall"
     }
   ]
 }
