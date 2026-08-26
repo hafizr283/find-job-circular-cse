@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-26T07:09:40+00:00",
+  "built_at": "2026-08-26T11:44:18+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-26T07:09:40+00:00",
-  "total_jobs": 161,
-  "needing_review": 55,
+  "dataset_generated_at": "2026-08-26T11:44:18+00:00",
+  "total_jobs": 164,
+  "needing_review": 59,
   "in_this_batch": 40,
-  "remaining_after_batch": 15,
+  "remaining_after_batch": 19,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -228,6 +228,25 @@
       "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
+      "id": "linkedin-4441157128",
+      "title": "Web Development Intern, Unpaid",
+      "company": "D HUDA TECH UK LIMITED",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/web-development-intern-unpaid-at-d-huda-tech-uk-limited-4441157128",
+      "posted_at": "2026-08-26",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "University Internship Opportunity – Web Developer Intern (Remote / Hybrid) – Unpaid 📍 D Huda Tech UK Limited ; Dogetlawyer Ai Ltd 📌 UK Company Number: 12755634 📌 Corporation Taxpayer Number: 3803221461 🔗 LinkedIn Pages : • https://www.linkedin.com/company/d-huda-tech-uk-limited • https://www.linkedin.com/company/dogetlawyer 📩 Apply by Email: career@dogetlawyer.com career@daktarcai.com career@dhuda"
+    },
+    {
       "id": "linkedin-4454030685",
       "title": "Project Associate (Knowledge Management & Reporting) - Short term (NPSA-7)",
       "company": "UNDP Careers",
@@ -302,6 +321,24 @@
       "description_excerpt": "location On-Site/Remote Job Type Full-time Salary Negotiable Working Days Monday to Friday Working Time 02.00 PM – 11.00 PM Holiday Saturday & Sunday. Join Date September/October 2023 Application Deadline August, 31 2023 Job Responsibilities Installation, configuration and management of Linux Server including server management task automation using Shell script, Ansible. Installation, configuratio"
     },
     {
+      "id": "linkedin-4457900843",
+      "title": "Software Quality Assurance Developer",
+      "company": "Digital Marketing Solution (Pvt.) Ltd.",
+      "location": "Uttara, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-quality-assurance-developer-at-digital-marketing-solution-pvt-ltd-4457900843",
+      "posted_at": "2026-08-26",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "at least 2 years",
+      "regex_experience_years_min": 2,
+      "regex_posting_status": "open",
+      "pay_text": "Salary: BDT 15,000",
+      "review_reasons": [
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "WE ARE HIRING: SOFTWARE QUALITY ASSURANCE ENGINEER Web & Mobile Application Testing | QA/QC Engineering Position: Software Quality Assurance Engineer – Web & Mobile Applications Department: Software Development / Quality Assurance Number of Vacancies: 2 Salary: BDT 15,000 – 20,000 per month Salary (Based On: Expertise, Industrial Experience & Technical Skillset) Employment Type: Full-Time Digital "
+    },
+    {
       "id": "linkedin-4456041193",
       "title": "WordPress Developer Intern/Trainee",
       "company": "notiionhive",
@@ -356,6 +393,24 @@
       "description_excerpt": "Organisation: PEN Global (concern of PEN Group) Job Title: Quality Assurance Analyst Employment Type: Full-Time Salary Range: BDT 50,000 – 55,000 per month Working Schedule: Monday to Friday, 1:30 PM–10:00PM Bangladesh Standard Time (flexible days and hours may be required) Job Location: On-Site, Agrabad, Chattogram Role Overview We are looking for a technically capable and detail-oriented individ"
     },
     {
+      "id": "linkedin-4457910318",
+      "title": "Rust Software Engineer – Industrial Development",
+      "company": "MIAKI",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/rust-software-engineer-%E2%80%93-industrial-development-at-miaki-4457910318",
+      "posted_at": "2026-08-26",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Job Title: Rust Software Engineer – Industrial Development Employment Type: Full-time (On-site) Job Location: Dhaka, Bangladesh Department: Technology Number of Vacancies: 1 Job Context MIAKI is an organization with skillful resources that are relentlessly working to make a difference in the spectrum of Tech & Digital Services. As a Multi-Country Service Provider, we specialize in delivering custo"
+    },
+    {
       "id": "linkedin-4456685973",
       "title": "Mid-level Laravel Developer – Build clean APIs & own backend features. Full-time, on-site in Kushtia, Bangladesh. (Bangladeshi Candidates Only).",
       "company": "Dizro",
@@ -374,11 +429,11 @@
       "description_excerpt": "About Dizro We are a growing software startup building practical tools with a modern Laravel stack. You will work alongside senior engineers who will mentor you through code reviews, architectural decisions, and performance tuning. 📍 Critical – Work Location This is a full-time, on-site position at our office in Kushtia, Bangladesh. Remote or hybrid is not available. Please apply only if you are a"
     },
     {
-      "id": "linkedin-4456285287",
-      "title": "AI Engineer Intern - Dhaka",
+      "id": "linkedin-4456281289",
+      "title": "AI Engineer Intern - Sylhet",
       "company": "SJ Innovation LLC",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
+      "location": "Sylhet, Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -392,11 +447,11 @@
       "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
     },
     {
-      "id": "linkedin-4456281289",
-      "title": "AI Engineer Intern - Sylhet",
+      "id": "linkedin-4456285287",
+      "title": "AI Engineer Intern - Dhaka",
       "company": "SJ Innovation LLC",
-      "location": "Sylhet, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -696,60 +751,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "📌 About The Role Web Xpress is looking for a passionate React Native Intern who’s eager to learn and grow in a fast-paced development environment. This is a great opportunity for someone who wants real-world mobile app development experience while working with a collaborative tech team. 🛠 Responsibilities Assist in developing and maintaining mobile applications using React Native Collaborate with "
-    },
-    {
-      "id": "linkedin-4434957159",
-      "title": "WEB Developer (Intern)",
-      "company": "CUBE LIMITED",
-      "location": "Mymensingh, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/web-developer-intern-at-cube-limited-4434957159",
-      "posted_at": "2026-06-30",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Job Context আমরা একজন আগ্রহী ও মোটিভেটেড WEB Developer (Intern) খুঁজছি, যিনি আমাদের ডেভেলপমেন্ট টিমের সাথে কাজ করে রিয়েল-লাইফ ওয়েব অ্যাপ্লিকেশন ডেভেলপমেন্টে অভিজ্ঞতা অর্জন করতে চান। এই ইন্টার্নশিপ প্রোগ্রামটি নতুন ডেভেলপারদের জন্য শেখার এবং ক্যারিয়ার গড়ার একটি চমৎকার সুযোগ। Job Responsibility Laravel framework ব্যবহার করে ওয়েব অ্যাপ্লিকেশন ডেভেলপমেন্টে সহায়তা করা Backend logic ও database (MySQL) ন"
-    },
-    {
-      "id": "linkedin-4456184628",
-      "title": "IT Support & Client Communication",
-      "company": "Lowkia",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-support-client-communication-at-lowkia-4456184628",
-      "posted_at": "2026-08-19",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary: BDT 20,000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Lowkia is a fast-growing organization with its own system solutions, dedicated training center, and strong in-house marketing team. We work with international clients and are looking for a dedicated, disciplined, and flexible professional with strong English communication and IT/technical expertise. Job Overview We are looking for an IT Support & Client Communication Executive who can bridge techn"
-    },
-    {
-      "id": "linkedin-4446279221",
-      "title": "Intern",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-nextjobz-4446279221",
-      "posted_at": "2026-08-25",
-      "regex_job_type": "Internship",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Name: Akij Venture Ltd. Location: Dhaka Job Type: Internship Workplace Type: Full-time Job ID: IJOB202658114 We are looking for dynamic and driven individuals to join us as intern in Design & Creative, Finance & Accounts, IT, HR or Business Development & Research Department, Supply Chain management to gain practical experience and contribute to impactful projects. Intern- Design & Creative"
     }
   ]
 }
