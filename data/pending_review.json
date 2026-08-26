@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-08-26T11:44:18+00:00",
+  "built_at": "2026-08-26T17:04:39+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-26T11:44:18+00:00",
+  "dataset_generated_at": "2026-08-26T17:04:39+00:00",
   "total_jobs": 164,
   "needing_review": 59,
   "in_this_batch": 40,
@@ -429,11 +429,11 @@
       "description_excerpt": "About Dizro We are a growing software startup building practical tools with a modern Laravel stack. You will work alongside senior engineers who will mentor you through code reviews, architectural decisions, and performance tuning. 📍 Critical – Work Location This is a full-time, on-site position at our office in Kushtia, Bangladesh. Remote or hybrid is not available. Please apply only if you are a"
     },
     {
-      "id": "linkedin-4456281289",
-      "title": "AI Engineer Intern - Sylhet",
+      "id": "linkedin-4456285287",
+      "title": "AI Engineer Intern - Dhaka",
       "company": "SJ Innovation LLC",
-      "location": "Sylhet, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
@@ -447,11 +447,11 @@
       "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
     },
     {
-      "id": "linkedin-4456285287",
-      "title": "AI Engineer Intern - Dhaka",
+      "id": "linkedin-4456281289",
+      "title": "AI Engineer Intern - Sylhet",
       "company": "SJ Innovation LLC",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
+      "location": "Sylhet, Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
       "posted_at": "2026-08-21",
       "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
