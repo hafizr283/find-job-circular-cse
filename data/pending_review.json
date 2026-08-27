@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-27T11:13:15+00:00",
+  "built_at": "2026-08-27T21:04:36+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-27T11:13:15+00:00",
-  "total_jobs": 165,
-  "needing_review": 60,
+  "dataset_generated_at": "2026-08-27T21:04:36+00:00",
+  "total_jobs": 167,
+  "needing_review": 63,
   "in_this_batch": 40,
-  "remaining_after_batch": 20,
+  "remaining_after_batch": 23,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -74,6 +74,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
+    },
+    {
+      "id": "linkedin-4459872675",
+      "title": "UI/UX Designer",
+      "company": "8bit Private Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
       "id": "linkedin-4459660930",
@@ -392,6 +411,24 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About SuperAnnotate SuperAnnotate is a San Francisco based AI company. We specialize in providing cutting-edge data pipeline solutions for Machine Learning, LLM, and GenAI solutions to large enterprise clients, helping them leverage the power of AI to transform their businesses. SuperAnnotate has a fully customizable platform for building annotation tools and workflows that AI projects demand — wh"
+    },
+    {
+      "id": "linkedin-4457769435",
+      "title": "Manual QA Software Tester",
+      "company": "WalletHub",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/manual-qa-software-tester-at-wallethub-4457769435",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Min. 2 years",
+      "regex_experience_years_min": 2,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and eager to add new members to our technical team. We're looking for a highly skilled and motivated Manual QA Software Tester for a full-time, permanent, remote position. Requirements Min. 2 years’ experience in Manual Software Testing Excellent attention to detail Proven ability to meet deadlines and handle multiple tasks in a "
     },
     {
       "id": "linkedin-4453888040",
@@ -716,42 +753,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Job Context Dessein Lab is seeking a talented and passionate Software Engineer to join our growing team. We're looking for individuals with strong skills in either the Laravel framework (PHP) or the MERN stack (Experts with SQL based databases are also welcome). The ideal candidate will be demonstrating a strong understanding of backend development principles. Job Responsibilities Develop and main"
-    },
-    {
-      "id": "linkedin-4448560770",
-      "title": "UI/UX & Graphic Design Intern - Dhaka",
-      "company": "SJ Innovation LLC",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-graphic-design-intern-dhaka-at-sj-innovation-llc-4448560770",
-      "posted_at": "2026-08-04",
-      "regex_job_type": "Internship",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "SJ Innovation is looking for a creative UI/UX & Graphic Design Intern who is passionate about designing exceptional digital experiences using AI-powered design tools . You will work on real client and internal projects, creating intuitive user interfaces, engaging visuals, and AI-assisted design solutions.Key Responsibilities Design UI for web and mobile applications using Figma. Create wireframes"
-    },
-    {
-      "id": "linkedin-4449778278",
-      "title": "Junior Network Engineer",
-      "company": "Rajshahi Colo",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-network-engineer-at-rajshahi-colo-4449778278",
-      "posted_at": "2026-08-06",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Description Rajshahi Colo is a leading data center in Bangladesh, providing BDIX colocation, cloud, and dedicated server solutions for businesses of all sizes. The company focuses on secure, reliable hosting services supported by a robust infrastructure. With 99.99% uptime, Rajshahi Colo helps organizations maintain continuous operations and minimize downtime. A dedicated 24/7 support team"
     }
   ]
 }
