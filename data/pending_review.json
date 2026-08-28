@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-28T05:25:14+00:00",
+  "built_at": "2026-08-28T18:41:22+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-28T05:25:13+00:00",
-  "total_jobs": 167,
-  "needing_review": 62,
+  "dataset_generated_at": "2026-08-28T18:41:22+00:00",
+  "total_jobs": 168,
+  "needing_review": 64,
   "in_this_batch": 40,
-  "remaining_after_batch": 22,
+  "remaining_after_batch": 24,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -76,25 +76,6 @@
       "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
     },
     {
-      "id": "linkedin-4459872675",
-      "title": "UI/UX Designer",
-      "company": "8bit Private Limited",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
-      "posted_at": "2026-08-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
-    },
-    {
       "id": "linkedin-4459660930",
       "title": "Customer Success Associate",
       "company": "Enerzyz",
@@ -112,6 +93,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
+    },
+    {
+      "id": "linkedin-4459872675",
+      "title": "UI/UX Designer",
+      "company": "8bit Private Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
       "id": "linkedin-4457108571",
@@ -341,12 +341,12 @@
       "description_excerpt": "About Robi Robi Axiata PLC. the second-largest telecom operator in Bangladesh, is a public limited company with majority shareholding by the Asian telecom giant, Axiata Group Berhad, based in Malaysia (61.82%). Alongside public shareholders (10%), global telecom leader Bharti Airtel, headquartered in New Delhi, India, holds 28.18% of the company's shares. Serving over 55 million subscribers, Robi "
     },
     {
-      "id": "linkedin-4458735488",
+      "id": "linkedin-4460334148",
       "title": "DevOps Engineer",
       "company": "SariyaHOST",
       "location": "Narayanganj Sadar Upazila, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/devops-engineer-at-sariyahost-4458735488",
-      "posted_at": "2026-08-25",
+      "url": "https://bd.linkedin.com/jobs/view/devops-engineer-at-sariyahost-4460334148",
+      "posted_at": "2026-08-28",
       "regex_job_type": "Fresher job",
       "regex_category": "Cloud, Infrastructure & DevOps",
       "regex_experience_text": "",
@@ -539,6 +539,42 @@
       "description_excerpt": "Location: Dhaka, Bangladesh Work Arrangement: Remote Employment Type: Full-time A3 iFrame is an AI-powered website-building platform that transforms documents, written requirements, and business ideas into professional, production-ready websites. We are looking for a proactive Technical Support Engineer who can help customers resolve technical issues, investigate platform problems, and work closel"
     },
     {
+      "id": "linkedin-4460193740",
+      "title": "Software Engineer, Platform - Chittagong, Bangladesh",
+      "company": "Speechify",
+      "location": "Chattogram, Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-platform-chittagong-bangladesh-at-speechify-4460193740",
+      "posted_at": "2026-08-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "compensation",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Ext"
+    },
+    {
+      "id": "linkedin-4458576799",
+      "title": "SQA Engineer",
+      "company": "ERA-InfoTech Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/sqa-engineer-at-era-infotech-limited-4458576799",
+      "posted_at": "2026-08-25",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": 2,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "ERA-InfoTech Limited is a leading IT services company developing business solutions and services for banks, non-bank financial institutions (NBFIs), corporations as well as the Government Sector, focusing on innovation, quality and scalability. Join our dynamic team and contribute to cutting-edge technologies in the heart of Dhaka. Experience Required: 2-3 years Vacancy: 3 Job Location: Dhaka (On-"
+    },
+    {
       "id": "linkedin-4454755758",
       "title": "Associate – Technology, Data and Artificial Intelligence",
       "company": "KPMG Bangladesh",
@@ -573,24 +609,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Company Description DNationSoft is a world-class web design and development company based in Bangladesh since 2010. We provides top-quality services with professional designs by our expert designers and developers. Role Description This is a full-time on-site role for a PHP Developer at DNationSoft located in Abhaynagar Upazila, Jessore. The developer will be responsible for web application backen"
-    },
-    {
-      "id": "linkedin-4458576799",
-      "title": "SQA Engineer",
-      "company": "ERA-InfoTech Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/sqa-engineer-at-era-infotech-limited-4458576799",
-      "posted_at": "2026-08-25",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": 2,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "ERA-InfoTech Limited is a leading IT services company developing business solutions and services for banks, non-bank financial institutions (NBFIs), corporations as well as the Government Sector, focusing on innovation, quality and scalability. Join our dynamic team and contribute to cutting-edge technologies in the heart of Dhaka. Experience Required: 2-3 years Vacancy: 3 Job Location: Dhaka (On-"
     },
     {
       "id": "linkedin-4435801999",
@@ -735,24 +753,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "About Us Team of Creative Designers & Developers. We Develop Digital Strategies, Products, and Services. Architecting secure, efficient, and user-friendly applications and systems by writing standard, well-documented, and efficient codes to turn ideas into reality. Founded In 2011. Architecting secure, efficient, and user-friendly items by writing codes to turn ideas into reality. Working on a dai"
-    },
-    {
-      "id": "linkedin-4449428712",
-      "title": "Software Engineer (Laravel or MERN Stack)",
-      "company": "Dessein LAB",
-      "location": "Sylhet, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-laravel-or-mern-stack-at-dessein-lab-4449428712",
-      "posted_at": "2026-08-05",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Job Context Dessein Lab is seeking a talented and passionate Software Engineer to join our growing team. We're looking for individuals with strong skills in either the Laravel framework (PHP) or the MERN stack (Experts with SQL based databases are also welcome). The ideal candidate will be demonstrating a strong understanding of backend development principles. Job Responsibilities Develop and main"
     }
   ]
 }
