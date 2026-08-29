@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-29T12:43:24+00:00",
+  "built_at": "2026-08-29T19:26:26+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-29T12:43:24+00:00",
+  "dataset_generated_at": "2026-08-29T19:26:26+00:00",
   "total_jobs": 170,
-  "needing_review": 67,
+  "needing_review": 66,
   "in_this_batch": 40,
-  "remaining_after_batch": 27,
+  "remaining_after_batch": 26,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -228,25 +228,6 @@
       "description_excerpt": "🚀 We’re Hiring: Data Science & AI Engineering Instructor Kamrul Academy is looking for an experienced and passionate Data Science & AI Engineering Instructor to join our growing academic team. 🎯 Position: Data Science & AI Engineering Instructor 💼 Job Type: Part-time / Freelance 🌍 Work Mode: Online 🔹 Responsibilities • Conduct engaging and practical classes on Data Science & AI Engineering • Teach"
     },
     {
-      "id": "linkedin-4457910318",
-      "title": "Rust Software Engineer – Industrial Development",
-      "company": "MIAKI",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/rust-software-engineer-%E2%80%93-industrial-development-at-miaki-4457910318",
-      "posted_at": "2026-08-26",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4456808187",
       "title": "PRE-SALES ENGINEER",
       "company": "AloIT Consultants",
@@ -340,25 +321,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Early Access Opportunity - AI Pilot Program Volga Partners is launching a pilot initiative to build a diverse network of English-speaking contributors across select international markets who can support current and future Artificial Intelligence (AI), language data, content quality, and evaluation projects. As AI technologies continue to evolve, organizations increasingly benefit from contributors"
-    },
-    {
-      "id": "linkedin-4453454410",
-      "title": "Full Stack Developer - Next.js",
-      "company": "nextjobz",
-      "location": "Uttara, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-next-js-at-nextjobz-4453454410",
-      "posted_at": "2026-08-19",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
     },
     {
       "id": "linkedin-4458207472",
@@ -503,6 +465,24 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "For our key clients in the Netherlands , we’re looking for a talented Dynamics CRM / .NET Developer to join one of our Microsoft Business Applications teams. You’ll work closely with Dutch clients and take ownership of CRM solutions end-to-end—from developing and customizing Dynamics 365 CRM solutions and .NET services to integrating third-party APIs and managing secure APIs through Azure API Mana"
+    },
+    {
+      "id": "linkedin-4457910318",
+      "title": "Rust Software Engineer – Industrial Development",
+      "company": "MIAKI",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/rust-software-engineer-%E2%80%93-industrial-development-at-miaki-4457910318",
+      "posted_at": "2026-08-26",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Job Title: Rust Software Engineer – Industrial Development Employment Type: Full-time (On-site) Job Location: Dhaka, Bangladesh Department: Technology Number of Vacancies: 1 Job Context MIAKI is an organization with skillful resources that are relentlessly working to make a difference in the spectrum of Tech & Digital Services. As a Multi-Country Service Provider, we specialize in delivering custo"
     },
     {
       "id": "linkedin-4456685973",
@@ -703,24 +683,6 @@
       "description_excerpt": "Frontend Developer Intern Ruvix Tech is looking for a motivated Frontend Developer Intern who is passionate about building modern web applications and wants to gain hands-on experience working with real-world projects. What You’ll Do Build responsive and modern web interfaces using React.js and Next.js . Write clean, maintainable code using TypeScript . Collaborate with our development team on rea"
     },
     {
-      "id": "linkedin-4449468173",
-      "title": "Intern - Robotics & Automation",
-      "company": "Kranti Robotics (Kranti Associates Canada Ltd.)",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-robotics-automation-at-kranti-robotics-kranti-associates-canada-ltd-4449468173",
-      "posted_at": "2026-08-05",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "BDT 8,000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "About Kranti Robotics Kranti Robotics is a precision automation and systems integration company headquartered in Ottawa, Canada, operating across two pillars: Smart Manufacturing and Digital Transformation . Our Asia office in Dhaka is where a growing team of engineers works on robotics, machine vision, and automation challenges for real industrial applications — from collaborative robots (cobots)"
-    },
-    {
       "id": "linkedin-4447245601",
       "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
       "company": "GFGG IT Solutions",
@@ -739,6 +701,24 @@
       "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
     },
     {
+      "id": "linkedin-4449468173",
+      "title": "Intern - Robotics & Automation",
+      "company": "Kranti Robotics (Kranti Associates Canada Ltd.)",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-robotics-automation-at-kranti-robotics-kranti-associates-canada-ltd-4449468173",
+      "posted_at": "2026-08-05",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "BDT 8,000",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "About Kranti Robotics Kranti Robotics is a precision automation and systems integration company headquartered in Ottawa, Canada, operating across two pillars: Smart Manufacturing and Digital Transformation . Our Asia office in Dhaka is where a growing team of engineers works on robotics, machine vision, and automation challenges for real industrial applications — from collaborative robots (cobots)"
+    },
+    {
       "id": "linkedin-4438091344",
       "title": "Junior Network Engineer",
       "company": "Ding",
@@ -755,6 +735,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "WHO WE ARE: Ding is the global leader in cross-border value transfer. Since 2006, we’ve moved more than $6BN across borders — putting money directly into the hands of diaspora communities so they can support the families they left behind. Today, we operate in 160+ countries, partner with 600+ mobile operators, and serve some of the world’s most underserved markets with technology that is fast, rel"
+    },
+    {
+      "id": "linkedin-4454230019",
+      "title": "Technical Support Engineer",
+      "company": "GeoVision",
+      "location": "Uttara, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-geovision-4454230019",
+      "posted_at": "2026-08-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "\"We are specifically looking for candidates who live near Uttara, Dhaka, Bangladesh. Thank you for your interest.\" General Job Description: Technical Support for customers from all over the world through e-mail, online chat, and live phone calls at the designated office. Additional tasks involve tutorial/demo video production and editing, technical document editing, and writing. Working hours: 40 "
     }
   ]
 }
