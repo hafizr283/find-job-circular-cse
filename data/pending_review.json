@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-30T15:26:34+00:00",
+  "built_at": "2026-08-30T19:21:02+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-30T15:26:34+00:00",
-  "total_jobs": 179,
-  "needing_review": 75,
+  "dataset_generated_at": "2026-08-30T19:21:02+00:00",
+  "total_jobs": 180,
+  "needing_review": 78,
   "in_this_batch": 40,
-  "remaining_after_batch": 35,
+  "remaining_after_batch": 38,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -304,23 +304,23 @@
       "description_excerpt": "WE’RE HIRING!!! PRE-SALES ENGINEER Join Our Sales & Marketing Team We are looking for a Pre-Sales Engineer with a strong technical background to join our Sales & Marketing team. The ideal candidate will have a CSE/IT background, previous software development experience, and a passion for understanding technology and presenting software solutions to customers. Key Responsibilities Conduct software "
     },
     {
-      "id": "linkedin-4447245601",
-      "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
-      "company": "GFGG IT Solutions",
+      "id": "linkedin-4459747550",
+      "title": "Graphic Design Intern - YSSE",
+      "company": "Youth School for Social Entrepreneurs (YSSE)",
       "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-%E2%80%93-interns-paid-%E2%80%93-onsite-at-gfgg-it-solutions-4447245601",
-      "posted_at": "2026-07-31",
+      "url": "https://bd.linkedin.com/jobs/view/graphic-design-intern-ysse-at-youth-school-for-social-entrepreneurs-ysse-4459747550",
+      "posted_at": "2026-08-30",
       "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
+      "regex_category": "Product, Design & UI/UX",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Paid internship",
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
       "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
       ],
-      "description_excerpt": ""
+      "description_excerpt": "Calling All Creative Minds YSSE Graphic Design Department – 17th Batch Recruitment is LIVE Are you passionate about design but looking for the right platform to learn, practice, collaborate, and gain real-world experience? The YSSE Graphic Design Department is inviting aspiring creatives to join our internship program and work on real projects in a structured and collaborative environment. Who Can"
     },
     {
       "id": "linkedin-4441157128",
@@ -378,6 +378,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Early Access Opportunity - AI Pilot Program Volga Partners is launching a pilot initiative to build a diverse network of English-speaking contributors across select international markets who can support current and future Artificial Intelligence (AI), language data, content quality, and evaluation projects. As AI technologies continue to evolve, organizations increasingly benefit from contributors"
+    },
+    {
+      "id": "linkedin-4450478905",
+      "title": "System Engineer - IT",
+      "company": "nextjobz",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/system-engineer-it-at-nextjobz-4450478905",
+      "posted_at": "2026-08-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4458207472",
@@ -722,40 +741,22 @@
       "description_excerpt": "About Kranti Robotics Kranti Robotics is a precision automation and systems integration company headquartered in Ottawa, Canada, operating across two pillars: Smart Manufacturing and Digital Transformation . Our Asia office in Dhaka is where a growing team of engineers works on robotics, machine vision, and automation challenges for real industrial applications — from collaborative robots (cobots)"
     },
     {
-      "id": "linkedin-4453477037",
-      "title": "Full Stack Engineer",
-      "company": "GenAILabs",
+      "id": "linkedin-4447245601",
+      "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
+      "company": "GFGG IT Solutions",
       "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-genailabs-4453477037",
-      "posted_at": "2026-08-19",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Company Description GenAILabs is dedicated to reshaping the future through artificial intelligence and smart software solutions. The company partners with both startups and enterprises to design and deploy cutting-edge AI systems and custom digital products. Team members collaborate with forward-thinking organizations that are eager to explore new technological possibilities. Working at GenAILabs "
-    },
-    {
-      "id": "linkedin-4455469050",
-      "title": "Frontend Developer Intern",
-      "company": "Ruvix Tech",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/frontend-developer-intern-at-ruvix-tech-4455469050",
-      "posted_at": "2026-08-19",
+      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-%E2%80%93-interns-paid-%E2%80%93-onsite-at-gfgg-it-solutions-4447245601",
+      "posted_at": "2026-07-31",
       "regex_job_type": "Internship",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Paid internship",
       "review_reasons": [
         "no experience floor parsed from the description"
       ],
-      "description_excerpt": "Frontend Developer Intern Ruvix Tech is looking for a motivated Frontend Developer Intern who is passionate about building modern web applications and wants to gain hands-on experience working with real-world projects. What You’ll Do Build responsive and modern web interfaces using React.js and Next.js . Write clean, maintainable code using TypeScript . Collaborate with our development team on rea"
+      "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
     }
   ]
 }
