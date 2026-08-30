@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-29T23:19:46+00:00",
+  "built_at": "2026-08-30T06:39:45+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-29T23:19:46+00:00",
-  "total_jobs": 170,
-  "needing_review": 66,
+  "dataset_generated_at": "2026-08-30T06:39:45+00:00",
+  "total_jobs": 171,
+  "needing_review": 68,
   "in_this_batch": 40,
-  "remaining_after_batch": 26,
+  "remaining_after_batch": 28,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -38,6 +38,25 @@
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
     },
     {
+      "id": "linkedin-4459716844",
+      "title": "Flutter Developer (Fresher, Contract – Revenue Share)",
+      "company": "IDoSync",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/flutter-developer-fresher-contract-%E2%80%93-revenue-share-at-idosync-4459716844",
+      "posted_at": "2026-08-30",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About the Job IDoSync is a cross-device sync app that lets users sync clipboard content, notifications, contacts, and notes across their devices. Most of the UI, state management, and security layer is already built. The core remaining task is wiring up real services (currently connected to stubs) and getting the app ready for launch. How to Apply 📩 Message us on the IDoSync LinkedIn company page:"
+    },
+    {
       "id": "linkedin-4458310276",
       "title": "Product Designer",
       "company": "Strong Force Analytics",
@@ -55,6 +74,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Strong Force Analytics is US-based AI and data-focused technology company that partners with businesses to design, build, and scale their digital products — from early concept through to production. About the Role As a Product Designer, you own how the product looks, how it feels to use, and how it shows up in public. Design is your core strength. You also build your own designs into working front"
+    },
+    {
+      "id": "linkedin-4460591526",
+      "title": "Mobile App Developer (Flutter)",
+      "company": "8bit Private Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mobile-app-developer-flutter-at-8bit-private-limited-4460591526",
+      "posted_at": "2026-08-29",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
       "id": "linkedin-4456957160",
@@ -76,25 +114,6 @@
       "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
     },
     {
-      "id": "linkedin-4459660930",
-      "title": "Customer Success Associate",
-      "company": "Enerzyz",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/customer-success-associate-at-enerzyz-4459660930",
-      "posted_at": "2026-08-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
-    },
-    {
       "id": "linkedin-4459872675",
       "title": "UI/UX Designer",
       "company": "8bit Private Limited",
@@ -112,6 +131,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
+    },
+    {
+      "id": "linkedin-4459660930",
+      "title": "Customer Success Associate",
+      "company": "Enerzyz",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-associate-at-enerzyz-4459660930",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
     },
     {
       "id": "linkedin-4457108571",
@@ -247,25 +285,6 @@
       "description_excerpt": "WE’RE HIRING!!! PRE-SALES ENGINEER Join Our Sales & Marketing Team We are looking for a Pre-Sales Engineer with a strong technical background to join our Sales & Marketing team. The ideal candidate will have a CSE/IT background, previous software development experience, and a passion for understanding technology and presenting software solutions to customers. Key Responsibilities Conduct software "
     },
     {
-      "id": "linkedin-4457857018",
-      "title": "Mobile App Developer (Flutter)",
-      "company": "8bit Private Limited",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mobile-app-developer-flutter-at-8bit-private-limited-4457857018",
-      "posted_at": "2026-08-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
-    },
-    {
       "id": "linkedin-4441157128",
       "title": "Web Development Intern, Unpaid",
       "company": "D HUDA TECH UK LIMITED",
@@ -321,6 +340,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Early Access Opportunity - AI Pilot Program Volga Partners is launching a pilot initiative to build a diverse network of English-speaking contributors across select international markets who can support current and future Artificial Intelligence (AI), language data, content quality, and evaluation projects. As AI technologies continue to evolve, organizations increasingly benefit from contributors"
+    },
+    {
+      "id": "linkedin-4447248639",
+      "title": "Salesforce Developer – Bangladesh – Remote",
+      "company": "GFGG IT Solutions",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/salesforce-developer-%E2%80%93-bangladesh-%E2%80%93-remote-at-gfgg-it-solutions-4447248639",
+      "posted_at": "2026-07-31",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4458207472",
@@ -485,6 +523,24 @@
       "description_excerpt": "Job Title: Rust Software Engineer – Industrial Development Employment Type: Full-time (On-site) Job Location: Dhaka, Bangladesh Department: Technology Number of Vacancies: 1 Job Context MIAKI is an organization with skillful resources that are relentlessly working to make a difference in the spectrum of Tech & Digital Services. As a Multi-Country Service Provider, we specialize in delivering custo"
     },
     {
+      "id": "linkedin-4460193740",
+      "title": "Software Engineer, Platform - Chittagong, Bangladesh",
+      "company": "Speechify",
+      "location": "Chattogram, Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-platform-chittagong-bangladesh-at-speechify-4460193740",
+      "posted_at": "2026-08-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "compensation",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Ext"
+    },
+    {
       "id": "linkedin-4456685973",
       "title": "Mid-level Laravel Developer – Build clean APIs & own backend features. Full-time, on-site in Kushtia, Bangladesh. (Bangladeshi Candidates Only).",
       "company": "Dizro",
@@ -503,22 +559,22 @@
       "description_excerpt": "About Dizro We are a growing software startup building practical tools with a modern Laravel stack. You will work alongside senior engineers who will mentor you through code reviews, architectural decisions, and performance tuning. 📍 Critical – Work Location This is a full-time, on-site position at our office in Kushtia, Bangladesh. Remote or hybrid is not available. Please apply only if you are a"
     },
     {
-      "id": "linkedin-4460193740",
-      "title": "Software Engineer, Platform - Chittagong, Bangladesh",
-      "company": "Speechify",
-      "location": "Chattogram, Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-platform-chittagong-bangladesh-at-speechify-4460193740",
-      "posted_at": "2026-08-03",
+      "id": "linkedin-4435801999",
+      "title": "Enablement Associate",
+      "company": "Optimizely",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/enablement-associate-at-optimizely-4435801999",
+      "posted_at": "2026-08-13",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "compensation",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description"
       ],
-      "description_excerpt": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Ext"
+      "description_excerpt": "We're not here to add to the noise. We're here to cut through it- with AI that actually works for marketers. From AI-powered content creation to world-class CMS and the industry's most trusted experimentation platform, Optimizely is the tool modern marketers actually want to use. AI-Ready. Set. Go. 10,000+ brands including H&M, PayPal, and Zoom already get it. So do Gartner, Forrester, and IDC, wh"
     },
     {
       "id": "linkedin-4456281289",
@@ -575,42 +631,6 @@
       "description_excerpt": "Location: Dhaka, Bangladesh Work Arrangement: Remote Employment Type: Full-time A3 iFrame is an AI-powered website-building platform that transforms documents, written requirements, and business ideas into professional, production-ready websites. We are looking for a proactive Technical Support Engineer who can help customers resolve technical issues, investigate platform problems, and work closel"
     },
     {
-      "id": "linkedin-4435801999",
-      "title": "Enablement Associate",
-      "company": "Optimizely",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/enablement-associate-at-optimizely-4435801999",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "We're not here to add to the noise. We're here to cut through it- with AI that actually works for marketers. From AI-powered content creation to world-class CMS and the industry's most trusted experimentation platform, Optimizely is the tool modern marketers actually want to use. AI-Ready. Set. Go. 10,000+ brands including H&M, PayPal, and Zoom already get it. So do Gartner, Forrester, and IDC, wh"
-    },
-    {
-      "id": "linkedin-4458576799",
-      "title": "SQA Engineer",
-      "company": "ERA-InfoTech Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/sqa-engineer-at-era-infotech-limited-4458576799",
-      "posted_at": "2026-08-25",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": 2,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "ERA-InfoTech Limited is a leading IT services company developing business solutions and services for banks, non-bank financial institutions (NBFIs), corporations as well as the Government Sector, focusing on innovation, quality and scalability. Join our dynamic team and contribute to cutting-edge technologies in the heart of Dhaka. Experience Required: 2-3 years Vacancy: 3 Job Location: Dhaka (On-"
-    },
-    {
       "id": "linkedin-4454755758",
       "title": "Associate – Technology, Data and Artificial Intelligence",
       "company": "KPMG Bangladesh",
@@ -647,40 +667,22 @@
       "description_excerpt": "Company Description DNationSoft is a world-class web design and development company based in Bangladesh since 2010. We provides top-quality services with professional designs by our expert designers and developers. Role Description This is a full-time on-site role for a PHP Developer at DNationSoft located in Abhaynagar Upazila, Jessore. The developer will be responsible for web application backen"
     },
     {
-      "id": "linkedin-4453477037",
-      "title": "Full Stack Engineer",
-      "company": "GenAILabs",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-genailabs-4453477037",
-      "posted_at": "2026-08-19",
+      "id": "linkedin-4458576799",
+      "title": "SQA Engineer",
+      "company": "ERA-InfoTech Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/sqa-engineer-at-era-infotech-limited-4458576799",
+      "posted_at": "2026-08-25",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
+      "regex_experience_years_min": 2,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
       "review_reasons": [
-        "no experience floor parsed from the description"
+        "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description GenAILabs is dedicated to reshaping the future through artificial intelligence and smart software solutions. The company partners with both startups and enterprises to design and deploy cutting-edge AI systems and custom digital products. Team members collaborate with forward-thinking organizations that are eager to explore new technological possibilities. Working at GenAILabs "
-    },
-    {
-      "id": "linkedin-4455469050",
-      "title": "Frontend Developer Intern",
-      "company": "Ruvix Tech",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/frontend-developer-intern-at-ruvix-tech-4455469050",
-      "posted_at": "2026-08-19",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Frontend Developer Intern Ruvix Tech is looking for a motivated Frontend Developer Intern who is passionate about building modern web applications and wants to gain hands-on experience working with real-world projects. What You’ll Do Build responsive and modern web interfaces using React.js and Next.js . Write clean, maintainable code using TypeScript . Collaborate with our development team on rea"
+      "description_excerpt": "ERA-InfoTech Limited is a leading IT services company developing business solutions and services for banks, non-bank financial institutions (NBFIs), corporations as well as the Government Sector, focusing on innovation, quality and scalability. Join our dynamic team and contribute to cutting-edge technologies in the heart of Dhaka. Experience Required: 2-3 years Vacancy: 3 Job Location: Dhaka (On-"
     },
     {
       "id": "linkedin-4449468173",
@@ -719,14 +721,14 @@
       "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
     },
     {
-      "id": "linkedin-4438091344",
-      "title": "Junior Network Engineer",
-      "company": "Ding",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-network-engineer-at-ding-4438091344",
-      "posted_at": "2026-08-11",
+      "id": "linkedin-4453477037",
+      "title": "Full Stack Engineer",
+      "company": "GenAILabs",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-genailabs-4453477037",
+      "posted_at": "2026-08-19",
       "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -734,25 +736,25 @@
       "review_reasons": [
         "no experience floor parsed from the description"
       ],
-      "description_excerpt": "WHO WE ARE: Ding is the global leader in cross-border value transfer. Since 2006, we’ve moved more than $6BN across borders — putting money directly into the hands of diaspora communities so they can support the families they left behind. Today, we operate in 160+ countries, partner with 600+ mobile operators, and serve some of the world’s most underserved markets with technology that is fast, rel"
+      "description_excerpt": "Company Description GenAILabs is dedicated to reshaping the future through artificial intelligence and smart software solutions. The company partners with both startups and enterprises to design and deploy cutting-edge AI systems and custom digital products. Team members collaborate with forward-thinking organizations that are eager to explore new technological possibilities. Working at GenAILabs "
     },
     {
-      "id": "linkedin-4454230019",
-      "title": "Technical Support Engineer",
-      "company": "GeoVision",
-      "location": "Uttara, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-geovision-4454230019",
-      "posted_at": "2026-08-17",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
+      "id": "linkedin-4455469050",
+      "title": "Frontend Developer Intern",
+      "company": "Ruvix Tech",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/frontend-developer-intern-at-ruvix-tech-4455469050",
+      "posted_at": "2026-08-19",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description"
       ],
-      "description_excerpt": "\"We are specifically looking for candidates who live near Uttara, Dhaka, Bangladesh. Thank you for your interest.\" General Job Description: Technical Support for customers from all over the world through e-mail, online chat, and live phone calls at the designated office. Additional tasks involve tutorial/demo video production and editing, technical document editing, and writing. Working hours: 40 "
+      "description_excerpt": "Frontend Developer Intern Ruvix Tech is looking for a motivated Frontend Developer Intern who is passionate about building modern web applications and wants to gain hands-on experience working with real-world projects. What You’ll Do Build responsive and modern web interfaces using React.js and Next.js . Write clean, maintainable code using TypeScript . Collaborate with our development team on rea"
     }
   ]
 }
