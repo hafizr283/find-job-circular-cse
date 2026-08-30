@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-08-30T19:21:02+00:00",
+  "built_at": "2026-08-30T23:30:17+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-30T19:21:02+00:00",
-  "total_jobs": 180,
+  "dataset_generated_at": "2026-08-30T23:30:16+00:00",
+  "total_jobs": 182,
   "needing_review": 78,
   "in_this_batch": 40,
   "remaining_after_batch": 38,
@@ -380,25 +380,6 @@
       "description_excerpt": "Early Access Opportunity - AI Pilot Program Volga Partners is launching a pilot initiative to build a diverse network of English-speaking contributors across select international markets who can support current and future Artificial Intelligence (AI), language data, content quality, and evaluation projects. As AI technologies continue to evolve, organizations increasingly benefit from contributors"
     },
     {
-      "id": "linkedin-4450478905",
-      "title": "System Engineer - IT",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/system-engineer-it-at-nextjobz-4450478905",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4458207472",
       "title": "Consultant, QA Automation, Market Operation (Ref. August 24, 2026)",
       "company": "Robi Axiata PLC.",
@@ -723,6 +704,24 @@
       "description_excerpt": "Company Description DNationSoft is a world-class web design and development company based in Bangladesh since 2010. We provides top-quality services with professional designs by our expert designers and developers. Role Description This is a full-time on-site role for a PHP Developer at DNationSoft located in Abhaynagar Upazila, Jessore. The developer will be responsible for web application backen"
     },
     {
+      "id": "linkedin-4447245601",
+      "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
+      "company": "GFGG IT Solutions",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-%E2%80%93-interns-paid-%E2%80%93-onsite-at-gfgg-it-solutions-4447245601",
+      "posted_at": "2026-07-31",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
+    },
+    {
       "id": "linkedin-4449468173",
       "title": "Intern - Robotics & Automation",
       "company": "Kranti Robotics (Kranti Associates Canada Ltd.)",
@@ -741,22 +740,22 @@
       "description_excerpt": "About Kranti Robotics Kranti Robotics is a precision automation and systems integration company headquartered in Ottawa, Canada, operating across two pillars: Smart Manufacturing and Digital Transformation . Our Asia office in Dhaka is where a growing team of engineers works on robotics, machine vision, and automation challenges for real industrial applications — from collaborative robots (cobots)"
     },
     {
-      "id": "linkedin-4447245601",
-      "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
-      "company": "GFGG IT Solutions",
+      "id": "linkedin-4453477037",
+      "title": "Full Stack Engineer",
+      "company": "GenAILabs",
       "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-%E2%80%93-interns-paid-%E2%80%93-onsite-at-gfgg-it-solutions-4447245601",
-      "posted_at": "2026-07-31",
-      "regex_job_type": "Internship",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-genailabs-4453477037",
+      "posted_at": "2026-08-19",
+      "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Paid internship",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description"
       ],
-      "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
+      "description_excerpt": "Company Description GenAILabs is dedicated to reshaping the future through artificial intelligence and smart software solutions. The company partners with both startups and enterprises to design and deploy cutting-edge AI systems and custom digital products. Team members collaborate with forward-thinking organizations that are eager to explore new technological possibilities. Working at GenAILabs "
     }
   ]
 }
