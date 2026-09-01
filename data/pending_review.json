@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-08-31T18:03:02+00:00",
+  "built_at": "2026-09-01T00:39:04+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-08-31T18:03:02+00:00",
+  "dataset_generated_at": "2026-09-01T00:39:04+00:00",
   "total_jobs": 181,
-  "needing_review": 80,
+  "needing_review": 81,
   "in_this_batch": 40,
-  "remaining_after_batch": 40,
+  "remaining_after_batch": 41,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -57,11 +57,11 @@
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
     },
     {
-      "id": "linkedin-4460003010",
-      "title": "Full Stack Shopify Developer Needed !",
+      "id": "linkedin-4459787192",
+      "title": "Full Stack WordPress Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -76,11 +76,30 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4459787192",
-      "title": "Full Stack WordPress Developer Needed !",
+      "id": "linkedin-4459780943",
+      "title": "Full Stack Php Laravel Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-php-laravel-developer-needed-%21-at-kiwii-it-4459780943",
+      "posted_at": "2026-08-31",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
+    },
+    {
+      "id": "linkedin-4460003010",
+      "title": "Full Stack Shopify Developer Needed !",
+      "company": "Kiwii IT",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -171,25 +190,6 @@
       "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
     },
     {
-      "id": "linkedin-4459660930",
-      "title": "Customer Success Associate",
-      "company": "Enerzyz",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/customer-success-associate-at-enerzyz-4459660930",
-      "posted_at": "2026-08-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
-    },
-    {
       "id": "linkedin-4459872675",
       "title": "UI/UX Designer",
       "company": "8bit Private Limited",
@@ -207,6 +207,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
+    },
+    {
+      "id": "linkedin-4459660930",
+      "title": "Customer Success Associate",
+      "company": "Enerzyz",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-associate-at-enerzyz-4459660930",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
     },
     {
       "id": "linkedin-4457108571",
@@ -563,24 +582,6 @@
       "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and eager to add new members to our technical team. We're looking for a highly skilled and motivated Manual QA Software Tester for a full-time, permanent, remote position. Requirements Min. 2 years’ experience in Manual Software Testing Excellent attention to detail Proven ability to meet deadlines and handle multiple tasks in a "
     },
     {
-      "id": "linkedin-4453888040",
-      "title": "Quality Assurance Analyst",
-      "company": "PEN Group",
-      "location": "Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-analyst-at-pen-group-4453888040",
-      "posted_at": "2026-08-20",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "BDT 50,000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Organisation: PEN Global (concern of PEN Group) Job Title: Quality Assurance Analyst Employment Type: Full-Time Salary Range: BDT 50,000 – 55,000 per month Working Schedule: Monday to Friday, 1:30 PM–10:00PM Bangladesh Standard Time (flexible days and hours may be required) Job Location: On-Site, Agrabad, Chattogram Role Overview We are looking for a technically capable and detail-oriented individ"
-    },
-    {
       "id": "linkedin-4460193740",
       "title": "Software Engineer, Platform - Chittagong, Bangladesh",
       "company": "Speechify",
@@ -599,22 +600,22 @@
       "description_excerpt": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Ext"
     },
     {
-      "id": "linkedin-4460526333",
-      "title": "Dynamics CRM Developer/ .Net Developer",
-      "company": "Bangladesh Software Solution",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/dynamics-crm-developer-net-developer-at-bangladesh-software-solution-4460526333",
-      "posted_at": "2026-08-28",
+      "id": "linkedin-4453888040",
+      "title": "Quality Assurance Analyst",
+      "company": "PEN Group",
+      "location": "Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-analyst-at-pen-group-4453888040",
+      "posted_at": "2026-08-20",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Minimum 2 years",
-      "regex_experience_years_min": 2,
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "BDT 50,000",
       "review_reasons": [
-        "company not in the reputation registry"
+        "no experience floor parsed from the description"
       ],
-      "description_excerpt": "For our key clients in the Netherlands , we’re looking for a talented Dynamics CRM / .NET Developer to join one of our Microsoft Business Applications teams. You’ll work closely with Dutch clients and take ownership of CRM solutions end-to-end—from developing and customizing Dynamics 365 CRM solutions and .NET services to integrating third-party APIs and managing secure APIs through Azure API Mana"
+      "description_excerpt": "Organisation: PEN Global (concern of PEN Group) Job Title: Quality Assurance Analyst Employment Type: Full-Time Salary Range: BDT 50,000 – 55,000 per month Working Schedule: Monday to Friday, 1:30 PM–10:00PM Bangladesh Standard Time (flexible days and hours may be required) Job Location: On-Site, Agrabad, Chattogram Role Overview We are looking for a technically capable and detail-oriented individ"
     },
     {
       "id": "linkedin-4435801999",
@@ -633,6 +634,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "We're not here to add to the noise. We're here to cut through it- with AI that actually works for marketers. From AI-powered content creation to world-class CMS and the industry's most trusted experimentation platform, Optimizely is the tool modern marketers actually want to use. AI-Ready. Set. Go. 10,000+ brands including H&M, PayPal, and Zoom already get it. So do Gartner, Forrester, and IDC, wh"
+    },
+    {
+      "id": "linkedin-4460526333",
+      "title": "Dynamics CRM Developer/ .Net Developer",
+      "company": "Bangladesh Software Solution",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/dynamics-crm-developer-net-developer-at-bangladesh-software-solution-4460526333",
+      "posted_at": "2026-08-28",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Minimum 2 years",
+      "regex_experience_years_min": 2,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "For our key clients in the Netherlands , we’re looking for a talented Dynamics CRM / .NET Developer to join one of our Microsoft Business Applications teams. You’ll work closely with Dutch clients and take ownership of CRM solutions end-to-end—from developing and customizing Dynamics 365 CRM solutions and .NET services to integrating third-party APIs and managing secure APIs through Azure API Mana"
     },
     {
       "id": "linkedin-4457910318",
@@ -671,6 +690,60 @@
       "description_excerpt": "About Dizro We are a growing software startup building practical tools with a modern Laravel stack. You will work alongside senior engineers who will mentor you through code reviews, architectural decisions, and performance tuning. 📍 Critical – Work Location This is a full-time, on-site position at our office in Kushtia, Bangladesh. Remote or hybrid is not available. Please apply only if you are a"
     },
     {
+      "id": "linkedin-4453991150",
+      "title": "We are looking for php developer - Full Stack",
+      "company": "DNationSoft",
+      "location": "Abhaynagar Upazila, Khulna, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/we-are-looking-for-php-developer-full-stack-at-dnationsoft-4453991150",
+      "posted_at": "2026-08-16",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary 20000 - 30000",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Company Description DNationSoft is a world-class web design and development company based in Bangladesh since 2010. We provides top-quality services with professional designs by our expert designers and developers. Role Description This is a full-time on-site role for a PHP Developer at DNationSoft located in Abhaynagar Upazila, Jessore. The developer will be responsible for web application backen"
+    },
+    {
+      "id": "linkedin-4449468173",
+      "title": "Intern - Robotics & Automation",
+      "company": "Kranti Robotics (Kranti Associates Canada Ltd.)",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-robotics-automation-at-kranti-robotics-kranti-associates-canada-ltd-4449468173",
+      "posted_at": "2026-08-05",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "BDT 8,000",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "About Kranti Robotics Kranti Robotics is a precision automation and systems integration company headquartered in Ottawa, Canada, operating across two pillars: Smart Manufacturing and Digital Transformation . Our Asia office in Dhaka is where a growing team of engineers works on robotics, machine vision, and automation challenges for real industrial applications — from collaborative robots (cobots)"
+    },
+    {
+      "id": "linkedin-4447245601",
+      "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
+      "company": "GFGG IT Solutions",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-%E2%80%93-interns-paid-%E2%80%93-onsite-at-gfgg-it-solutions-4447245601",
+      "posted_at": "2026-07-31",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
+    },
+    {
       "id": "linkedin-4456285287",
       "title": "AI Engineer Intern - Dhaka",
       "company": "SJ Innovation LLC",
@@ -687,78 +760,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
-    },
-    {
-      "id": "linkedin-4456281289",
-      "title": "AI Engineer Intern - Sylhet",
-      "company": "SJ Innovation LLC",
-      "location": "Sylhet, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
-      "posted_at": "2026-08-21",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
-    },
-    {
-      "id": "linkedin-4456679352",
-      "title": "Technical Support Engineer",
-      "company": "a3iframe.ai",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-a3iframe-ai-4456679352",
-      "posted_at": "2026-08-23",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": 1,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Location: Dhaka, Bangladesh Work Arrangement: Remote Employment Type: Full-time A3 iFrame is an AI-powered website-building platform that transforms documents, written requirements, and business ideas into professional, production-ready websites. We are looking for a proactive Technical Support Engineer who can help customers resolve technical issues, investigate platform problems, and work closel"
-    },
-    {
-      "id": "linkedin-4458576799",
-      "title": "SQA Engineer",
-      "company": "ERA-InfoTech Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/sqa-engineer-at-era-infotech-limited-4458576799",
-      "posted_at": "2026-08-25",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": 2,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "ERA-InfoTech Limited is a leading IT services company developing business solutions and services for banks, non-bank financial institutions (NBFIs), corporations as well as the Government Sector, focusing on innovation, quality and scalability. Join our dynamic team and contribute to cutting-edge technologies in the heart of Dhaka. Experience Required: 2-3 years Vacancy: 3 Job Location: Dhaka (On-"
-    },
-    {
-      "id": "linkedin-4454755758",
-      "title": "Associate – Technology, Data and Artificial Intelligence",
-      "company": "KPMG Bangladesh",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/associate-%E2%80%93-technology-data-and-artificial-intelligence-at-kpmg-bangladesh-4454755758",
-      "posted_at": "2026-08-20",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "At Rahman Rahman Huq, we're building the future of risk consulting - and we want Al-enthusiastic fresh graduates to build it with us. If you're passionate about Python, Artificial Intelligence, automation, and emerging technologies, this is your opportunity to grow into a technology, data, or Al-focused professional from day one. 𝗪𝗵𝗮𝘁 𝘆𝗼𝘂'𝗹𝗹 𝗱𝗼: • Develop and maintain software applications and aut"
     }
   ]
 }
