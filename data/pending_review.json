@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-01T11:41:35+00:00",
+  "built_at": "2026-09-01T19:25:37+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-01T11:41:35+00:00",
-  "total_jobs": 176,
-  "needing_review": 78,
+  "dataset_generated_at": "2026-09-01T19:25:37+00:00",
+  "total_jobs": 178,
+  "needing_review": 79,
   "in_this_batch": 40,
-  "remaining_after_batch": 38,
+  "remaining_after_batch": 39,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,6 +18,25 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4460610636",
+      "title": "MERN Stack Developer Intern",
+      "company": "DeshIT-BD",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mern-stack-developer-intern-at-deshit-bd-4460610636",
+      "posted_at": "2026-09-01",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary: BDT 10,000/month",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "DeshIT-BD is looking for a passionate and motivated MERN Stack Developer Intern to join our development team.If you are interested in building real-world web applications and want to gain hands-on experience with the MERN stack, we’d love to hear from you!💼 PositionMERN Stack Developer Intern📌 Internship DetailsDuration: 6 Months Salary: BDT 10,000/month Working Hours: 9:30 AM – 6:30 PM Weekly Hol"
+    },
     {
       "id": "linkedin-4459744244",
       "title": "Paid Internship Program",
@@ -131,6 +150,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About the Job IDoSync is a cross-device sync app that lets users sync clipboard content, notifications, contacts, and notes across their devices. Most of the UI, state management, and security layer is already built. The core remaining task is wiring up real services (currently connected to stubs) and getting the app ready for launch. How to Apply 📩 Message us on the IDoSync LinkedIn company page:"
+    },
+    {
+      "id": "linkedin-4460619790",
+      "title": "System Engineer – Microsoft Infrastructure",
+      "company": "Corporate Projukti Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/system-engineer-%E2%80%93-microsoft-infrastructure-at-corporate-projukti-limited-4460619790",
+      "posted_at": "2026-09-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "📢 We’re Hiring | System Engineer – Microsoft Infrastructure We’re looking for a hands-on System Engineer who is passionate about Microsoft infrastructure and enjoys solving real-world enterprise IT challenges. 🔧 What You’ll Work With Windows Server administration and troubleshooting Active Directory (AD) and Group Policy (GPO) Microsoft Exchange Server administration and troubleshooting Exchange S"
     },
     {
       "id": "linkedin-4458310276",
@@ -724,42 +762,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
-    },
-    {
-      "id": "linkedin-4456285287",
-      "title": "AI Engineer Intern - Dhaka",
-      "company": "SJ Innovation LLC",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
-      "posted_at": "2026-08-21",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
-    },
-    {
-      "id": "linkedin-4456281289",
-      "title": "AI Engineer Intern - Sylhet",
-      "company": "SJ Innovation LLC",
-      "location": "Sylhet, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
-      "posted_at": "2026-08-21",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
     }
   ]
 }
