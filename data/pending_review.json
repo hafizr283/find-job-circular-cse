@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-09-01T00:39:04+00:00",
+  "built_at": "2026-09-01T06:16:50+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-01T00:39:04+00:00",
+  "dataset_generated_at": "2026-09-01T06:16:50+00:00",
   "total_jobs": 181,
   "needing_review": 81,
   "in_this_batch": 40,
@@ -57,11 +57,11 @@
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
     },
     {
-      "id": "linkedin-4459787192",
-      "title": "Full Stack WordPress Developer Needed !",
+      "id": "linkedin-4460003010",
+      "title": "Full Stack Shopify Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -95,11 +95,11 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4460003010",
-      "title": "Full Stack Shopify Developer Needed !",
+      "id": "linkedin-4459787192",
+      "title": "Full Stack WordPress Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -190,25 +190,6 @@
       "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
     },
     {
-      "id": "linkedin-4459872675",
-      "title": "UI/UX Designer",
-      "company": "8bit Private Limited",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
-      "posted_at": "2026-08-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
-    },
-    {
       "id": "linkedin-4459660930",
       "title": "Customer Success Associate",
       "company": "Enerzyz",
@@ -226,6 +207,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
+    },
+    {
+      "id": "linkedin-4459872675",
+      "title": "UI/UX Designer",
+      "company": "8bit Private Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
       "id": "linkedin-4457108571",
@@ -342,6 +342,25 @@
       "description_excerpt": "🚀 We’re Hiring: Data Science & AI Engineering Instructor Kamrul Academy is looking for an experienced and passionate Data Science & AI Engineering Instructor to join our growing academic team. 🎯 Position: Data Science & AI Engineering Instructor 💼 Job Type: Part-time / Freelance 🌍 Work Mode: Online 🔹 Responsibilities • Conduct engaging and practical classes on Data Science & AI Engineering • Teach"
     },
     {
+      "id": "linkedin-4456281289",
+      "title": "AI Engineer Intern - Sylhet",
+      "company": "SJ Innovation LLC",
+      "location": "Sylhet, Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-sylhet-at-sj-innovation-llc-4456281289",
+      "posted_at": "2026-08-21",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
       "id": "linkedin-4456808187",
       "title": "PRE-SALES ENGINEER",
       "company": "AloIT Consultants",
@@ -454,6 +473,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Early Access Opportunity - AI Pilot Program Volga Partners is launching a pilot initiative to build a diverse network of English-speaking contributors across select international markets who can support current and future Artificial Intelligence (AI), language data, content quality, and evaluation projects. As AI technologies continue to evolve, organizations increasingly benefit from contributors"
+    },
+    {
+      "id": "linkedin-4434957159",
+      "title": "WEB Developer (Intern)",
+      "company": "CUBE LIMITED",
+      "location": "Mymensingh, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/web-developer-intern-at-cube-limited-4434957159",
+      "posted_at": "2026-06-30",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4458207472",
@@ -724,42 +762,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "About Kranti Robotics Kranti Robotics is a precision automation and systems integration company headquartered in Ottawa, Canada, operating across two pillars: Smart Manufacturing and Digital Transformation . Our Asia office in Dhaka is where a growing team of engineers works on robotics, machine vision, and automation challenges for real industrial applications — from collaborative robots (cobots)"
-    },
-    {
-      "id": "linkedin-4447245601",
-      "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
-      "company": "GFGG IT Solutions",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-%E2%80%93-interns-paid-%E2%80%93-onsite-at-gfgg-it-solutions-4447245601",
-      "posted_at": "2026-07-31",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
-    },
-    {
-      "id": "linkedin-4456285287",
-      "title": "AI Engineer Intern - Dhaka",
-      "company": "SJ Innovation LLC",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-intern-dhaka-at-sj-innovation-llc-4456285287",
-      "posted_at": "2026-08-21",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "We are looking for enthusiastic AI Engineer Interns to join our team and gain hands-on experience in building AI-powered solutions using modern Generative AI technologies. Key Responsibilities Assist in developing and testing AI/ML and Generative AI applications. Work with technologies such as Python, OpenAI APIs, LangChain, LLMs, and vector databases. Support data preparation, prompt engineering,"
     }
   ]
 }
