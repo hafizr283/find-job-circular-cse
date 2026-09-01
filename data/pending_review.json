@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-01T19:25:37+00:00",
+  "built_at": "2026-09-01T23:20:48+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-01T19:25:37+00:00",
-  "total_jobs": 178,
-  "needing_review": 79,
+  "dataset_generated_at": "2026-09-01T23:20:48+00:00",
+  "total_jobs": 180,
+  "needing_review": 82,
   "in_this_batch": 40,
-  "remaining_after_batch": 39,
+  "remaining_after_batch": 42,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -76,11 +76,11 @@
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
     },
     {
-      "id": "linkedin-4460003010",
-      "title": "Full Stack Shopify Developer Needed !",
+      "id": "linkedin-4459787192",
+      "title": "Full Stack WordPress Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -95,11 +95,11 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4459787192",
-      "title": "Full Stack WordPress Developer Needed !",
+      "id": "linkedin-4460003010",
+      "title": "Full Stack Shopify Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -494,6 +494,25 @@
       "description_excerpt": "Early Access Opportunity - AI Pilot Program Volga Partners is launching a pilot initiative to build a diverse network of English-speaking contributors across select international markets who can support current and future Artificial Intelligence (AI), language data, content quality, and evaluation projects. As AI technologies continue to evolve, organizations increasingly benefit from contributors"
     },
     {
+      "id": "linkedin-4453869196",
+      "title": "Full Stack Software Engineer - React/Nextjs and .Net",
+      "company": "nextjobz",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-software-engineer-react-nextjs-and-net-at-nextjobz-4453869196",
+      "posted_at": "2026-08-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
       "id": "linkedin-4458207472",
       "title": "Consultant, QA Automation, Market Operation (Ref. August 24, 2026)",
       "company": "Robi Axiata PLC.",
@@ -582,6 +601,42 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "We are looking for a WordPress Developer Trainee who has basic knowledge of WordPress and is eager to build practical skills in Elementor, Gutenberg, and Advanced Custom Fields (ACF). This role is suitable for an entry-level candidate who wants to develop their WordPress development skills through hands-on projects and mentorship. Key Responsibilities Assist in developing WordPress websites using "
+    },
+    {
+      "id": "linkedin-4460643553",
+      "title": "Full Stack Engineer – Python & React",
+      "company": "Pipeline Co., Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-%E2%80%93-python-react-at-pipeline-co-ltd-4460643553",
+      "posted_at": "2026-09-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": 2,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 We’re Hiring: Full Stack Engineer – Python & React 📍 Dhaka, Bangladesh | On-site 🏢 Pipeline We’re looking for a Full Stack Engineer to help build the applications behind our cybersecurity products. You’ll work across the stack — Python services and APIs on the backend, React and TypeScript on the frontend — and take features from requirement through to production. The engineering problem is inte"
+    },
+    {
+      "id": "linkedin-4461746931",
+      "title": "Quality Assurance Officer/executive",
+      "company": "ACE Money Transfer",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-officer-executive-at-ace-money-transfer-4461746931",
+      "posted_at": "2026-09-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": 1,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About Us: ACE Money Transfer is a UK-based multinational company headquartered in Manchester, United Kingdom. ACE Money Transfer provides online remittance services to individuals in 29 countries across the UK, Europe, Canada, and Australia, enabling them to send money across borders in over 100 countries. Job Title : Quality Assurance Officer/executive Position Summary: The Quality Assurance Offi"
     },
     {
       "id": "linkedin-4437926471",
@@ -708,60 +763,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "Job Title: Rust Software Engineer – Industrial Development Employment Type: Full-time (On-site) Job Location: Dhaka, Bangladesh Department: Technology Number of Vacancies: 1 Job Context MIAKI is an organization with skillful resources that are relentlessly working to make a difference in the spectrum of Tech & Digital Services. As a Multi-Country Service Provider, we specialize in delivering custo"
-    },
-    {
-      "id": "linkedin-4456685973",
-      "title": "Mid-level Laravel Developer – Build clean APIs & own backend features. Full-time, on-site in Kushtia, Bangladesh. (Bangladeshi Candidates Only).",
-      "company": "Dizro",
-      "location": "Kushtia, Khulna, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mid-level-laravel-developer-%E2%80%93-build-clean-apis-own-backend-features-full-time-on-site-in-kushtia-bangladesh-bangladeshi-candidates-only-at-dizro-4456685973",
-      "posted_at": "2026-08-24",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": 2,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About Dizro We are a growing software startup building practical tools with a modern Laravel stack. You will work alongside senior engineers who will mentor you through code reviews, architectural decisions, and performance tuning. 📍 Critical – Work Location This is a full-time, on-site position at our office in Kushtia, Bangladesh. Remote or hybrid is not available. Please apply only if you are a"
-    },
-    {
-      "id": "linkedin-4449468173",
-      "title": "Intern - Robotics & Automation",
-      "company": "Kranti Robotics (Kranti Associates Canada Ltd.)",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-robotics-automation-at-kranti-robotics-kranti-associates-canada-ltd-4449468173",
-      "posted_at": "2026-08-05",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "BDT 8,000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "About Kranti Robotics Kranti Robotics is a precision automation and systems integration company headquartered in Ottawa, Canada, operating across two pillars: Smart Manufacturing and Digital Transformation . Our Asia office in Dhaka is where a growing team of engineers works on robotics, machine vision, and automation challenges for real industrial applications — from collaborative robots (cobots)"
-    },
-    {
-      "id": "linkedin-4447245601",
-      "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
-      "company": "GFGG IT Solutions",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-%E2%80%93-interns-paid-%E2%80%93-onsite-at-gfgg-it-solutions-4447245601",
-      "posted_at": "2026-07-31",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Assist in the development and implementation of Salesforce solutions Work closely with senior consultants and developers to understand project requirements Learn and apply Salesforce configuration and customization best practices Participate in client meetings and contribute to technical discussions Help troubleshoot issues and provide support for deployed solutions Maintain documentation of proje"
     }
   ]
 }
