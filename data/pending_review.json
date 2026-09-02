@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-02T05:51:32+00:00",
+  "built_at": "2026-09-02T11:16:55+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-02T05:51:32+00:00",
-  "total_jobs": 182,
-  "needing_review": 85,
+  "dataset_generated_at": "2026-09-02T11:16:54+00:00",
+  "total_jobs": 183,
+  "needing_review": 86,
   "in_this_batch": 40,
-  "remaining_after_batch": 45,
+  "remaining_after_batch": 46,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -76,14 +76,14 @@
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
     },
     {
-      "id": "linkedin-4459780943",
-      "title": "Full Stack Php Laravel Developer Needed !",
+      "id": "linkedin-4460003010",
+      "title": "Full Stack Shopify Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-php-laravel-developer-needed-%21-at-kiwii-it-4459780943",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
+      "regex_category": "Freelance & Niche Tech",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -114,14 +114,14 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4460003010",
-      "title": "Full Stack Shopify Developer Needed !",
+      "id": "linkedin-4459780943",
+      "title": "Full Stack Php Laravel Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-php-laravel-developer-needed-%21-at-kiwii-it-4459780943",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -247,25 +247,6 @@
       "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
     },
     {
-      "id": "linkedin-4459872675",
-      "title": "UI/UX Designer",
-      "company": "8bit Private Limited",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
-      "posted_at": "2026-08-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
-    },
-    {
       "id": "linkedin-4459660930",
       "title": "Customer Success Associate",
       "company": "Enerzyz",
@@ -283,6 +264,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
+    },
+    {
+      "id": "linkedin-4459872675",
+      "title": "UI/UX Designer",
+      "company": "8bit Private Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
       "id": "linkedin-4457108571",
@@ -641,6 +641,24 @@
       "description_excerpt": "We are looking for a WordPress Developer Trainee who has basic knowledge of WordPress and is eager to build practical skills in Elementor, Gutenberg, and Advanced Custom Fields (ACF). This role is suitable for an entry-level candidate who wants to develop their WordPress development skills through hands-on projects and mentorship. Key Responsibilities Assist in developing WordPress websites using "
     },
     {
+      "id": "linkedin-4462139776",
+      "title": "Software Engineer, iOS Core Product - Dhaka, Bangladesh",
+      "company": "Speechify",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-ios-core-product-dhaka-bangladesh-at-speechify-4462139776",
+      "posted_at": "2026-08-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "salary",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Ext"
+    },
+    {
       "id": "linkedin-4460643553",
       "title": "Full Stack Engineer – Python & React",
       "company": "Pipeline Co., Ltd.",
@@ -747,24 +765,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "We're not here to add to the noise. We're here to cut through it- with AI that actually works for marketers. From AI-powered content creation to world-class CMS and the industry's most trusted experimentation platform, Optimizely is the tool modern marketers actually want to use. AI-Ready. Set. Go. 10,000+ brands including H&M, PayPal, and Zoom already get it. So do Gartner, Forrester, and IDC, wh"
-    },
-    {
-      "id": "linkedin-4453888040",
-      "title": "Quality Assurance Analyst",
-      "company": "PEN Group",
-      "location": "Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-analyst-at-pen-group-4453888040",
-      "posted_at": "2026-08-20",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "BDT 50,000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Organisation: PEN Global (concern of PEN Group) Job Title: Quality Assurance Analyst Employment Type: Full-Time Salary Range: BDT 50,000 – 55,000 per month Working Schedule: Monday to Friday, 1:30 PM–10:00PM Bangladesh Standard Time (flexible days and hours may be required) Job Location: On-Site, Agrabad, Chattogram Role Overview We are looking for a technically capable and detail-oriented individ"
     }
   ]
 }
