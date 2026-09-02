@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-02T15:09:37+00:00",
+  "built_at": "2026-09-02T19:25:53+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-02T15:09:37+00:00",
+  "dataset_generated_at": "2026-09-02T19:25:53+00:00",
   "total_jobs": 183,
-  "needing_review": 85,
+  "needing_review": 84,
   "in_this_batch": 40,
-  "remaining_after_batch": 45,
+  "remaining_after_batch": 44,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -532,25 +532,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4451396454",
-      "title": "Full Stack Developer (.NET & Angular)",
-      "company": "Falaq Food",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-net-angular-at-falaq-food-4451396454",
-      "posted_at": "2026-08-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4458207472",
       "title": "Consultant, QA Automation, Market Operation (Ref. August 24, 2026)",
       "company": "Robi Axiata PLC.",
@@ -765,6 +746,24 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "We're not here to add to the noise. We're here to cut through it- with AI that actually works for marketers. From AI-powered content creation to world-class CMS and the industry's most trusted experimentation platform, Optimizely is the tool modern marketers actually want to use. AI-Ready. Set. Go. 10,000+ brands including H&M, PayPal, and Zoom already get it. So do Gartner, Forrester, and IDC, wh"
+    },
+    {
+      "id": "linkedin-4453888040",
+      "title": "Quality Assurance Analyst",
+      "company": "PEN Group",
+      "location": "Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-analyst-at-pen-group-4453888040",
+      "posted_at": "2026-08-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "BDT 50,000",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "Organisation: PEN Global (concern of PEN Group) Job Title: Quality Assurance Analyst Employment Type: Full-Time Salary Range: BDT 50,000 – 55,000 per month Working Schedule: Monday to Friday, 1:30 PM–10:00PM Bangladesh Standard Time (flexible days and hours may be required) Job Location: On-Site, Agrabad, Chattogram Role Overview We are looking for a technically capable and detail-oriented individ"
     }
   ]
 }
