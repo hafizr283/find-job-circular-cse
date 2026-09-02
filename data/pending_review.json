@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-02T11:16:55+00:00",
+  "built_at": "2026-09-02T15:09:37+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-02T11:16:54+00:00",
+  "dataset_generated_at": "2026-09-02T15:09:37+00:00",
   "total_jobs": 183,
-  "needing_review": 86,
+  "needing_review": 85,
   "in_this_batch": 40,
-  "remaining_after_batch": 46,
+  "remaining_after_batch": 45,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -76,11 +76,11 @@
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
     },
     {
-      "id": "linkedin-4460003010",
-      "title": "Full Stack Shopify Developer Needed !",
+      "id": "linkedin-4459787192",
+      "title": "Full Stack WordPress Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -95,11 +95,11 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4459787192",
-      "title": "Full Stack WordPress Developer Needed !",
+      "id": "linkedin-4460003010",
+      "title": "Full Stack Shopify Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -133,6 +133,25 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
+      "id": "linkedin-4460619790",
+      "title": "System Engineer – Microsoft Infrastructure",
+      "company": "Corporate Projukti Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/system-engineer-%E2%80%93-microsoft-infrastructure-at-corporate-projukti-limited-4460619790",
+      "posted_at": "2026-09-02",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "📢 We’re Hiring | System Engineer – Microsoft Infrastructure We’re looking for a hands-on System Engineer who is passionate about Microsoft infrastructure and enjoys solving real-world enterprise IT challenges. 🔧 What You’ll Work With Windows Server administration and troubleshooting Active Directory (AD) and Group Policy (GPO) Microsoft Exchange Server administration and troubleshooting Exchange S"
+    },
+    {
       "id": "linkedin-4459716844",
       "title": "Flutter Developer (Fresher, Contract – Revenue Share)",
       "company": "IDoSync",
@@ -150,25 +169,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About the Job IDoSync is a cross-device sync app that lets users sync clipboard content, notifications, contacts, and notes across their devices. Most of the UI, state management, and security layer is already built. The core remaining task is wiring up real services (currently connected to stubs) and getting the app ready for launch. How to Apply 📩 Message us on the IDoSync LinkedIn company page:"
-    },
-    {
-      "id": "linkedin-4460619790",
-      "title": "System Engineer – Microsoft Infrastructure",
-      "company": "Corporate Projukti Limited",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/system-engineer-%E2%80%93-microsoft-infrastructure-at-corporate-projukti-limited-4460619790",
-      "posted_at": "2026-09-01",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "📢 We’re Hiring | System Engineer – Microsoft Infrastructure We’re looking for a hands-on System Engineer who is passionate about Microsoft infrastructure and enjoys solving real-world enterprise IT challenges. 🔧 What You’ll Work With Windows Server administration and troubleshooting Active Directory (AD) and Group Policy (GPO) Microsoft Exchange Server administration and troubleshooting Exchange S"
     },
     {
       "id": "linkedin-4458310276",
@@ -532,12 +532,12 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4453869196",
-      "title": "Full Stack Software Engineer - React/Nextjs and .Net",
-      "company": "nextjobz",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-software-engineer-react-nextjs-and-net-at-nextjobz-4453869196",
-      "posted_at": "2026-08-20",
+      "id": "linkedin-4451396454",
+      "title": "Full Stack Developer (.NET & Angular)",
+      "company": "Falaq Food",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-net-angular-at-falaq-food-4451396454",
+      "posted_at": "2026-08-10",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
