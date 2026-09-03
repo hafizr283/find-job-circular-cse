@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-03T15:02:59+00:00",
+  "built_at": "2026-09-03T19:21:06+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-03T15:02:59+00:00",
+  "dataset_generated_at": "2026-09-03T19:21:06+00:00",
   "total_jobs": 194,
-  "needing_review": 94,
+  "needing_review": 95,
   "in_this_batch": 40,
-  "remaining_after_batch": 54,
+  "remaining_after_batch": 55,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -36,25 +36,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "DeshIT-BD is looking for a passionate and motivated MERN Stack Developer Intern to join our development team.If you are interested in building real-world web applications and want to gain hands-on experience with the MERN stack, we’d love to hear from you!💼 PositionMERN Stack Developer Intern📌 Internship DetailsDuration: 6 Months Salary: BDT 10,000/month Working Hours: 9:30 AM – 6:30 PM Weekly Hol"
-    },
-    {
-      "id": "linkedin-4462770285",
-      "title": "MLOps & Anomaly Detection Engineer",
-      "company": "Worksprout",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mlops-anomaly-detection-engineer-at-worksprout-4462770285",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
     },
     {
       "id": "linkedin-4462769280",
@@ -95,11 +76,11 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
-      "id": "linkedin-4462774205",
-      "title": "Computer Vision & Robotics Engineer",
+      "id": "linkedin-4462770285",
+      "title": "MLOps & Anomaly Detection Engineer",
       "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mlops-anomaly-detection-engineer-at-worksprout-4462770285",
       "posted_at": "2026-09-03",
       "regex_job_type": "Fresher job",
       "regex_category": "AI, Data & Machine Learning",
@@ -111,7 +92,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
     },
     {
       "id": "linkedin-4462771253",
@@ -131,6 +112,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
+    },
+    {
+      "id": "linkedin-4462774205",
+      "title": "Computer Vision & Robotics Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     },
     {
       "id": "linkedin-4459744244",
@@ -247,25 +247,6 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4459975134",
-      "title": "Full-Stack Engineer – Angular + .NET (URGENT)",
-      "company": "Ajentica",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-%E2%80%93-angular-%2B-net-urgent-at-ajentica-4459975134",
-      "posted_at": "2026-09-02",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Openings: 7 Employment Type: Full-time Location: Dhaka, Bangladesh / India Experience Level: Mid Level About Ajentica Ajentica is an agentic AI and software engineering consultancy that helps ambitious organizations design, build and modernize complex digital products. Our teams work across healthcare, pharmacy software, HR technology and other enterprise domains where reliability, security and th"
-    },
-    {
       "id": "linkedin-4460619790",
       "title": "System Engineer – Microsoft Infrastructure",
       "company": "Corporate Projukti Limited",
@@ -283,6 +264,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "📢 We’re Hiring | System Engineer – Microsoft Infrastructure We’re looking for a hands-on System Engineer who is passionate about Microsoft infrastructure and enjoys solving real-world enterprise IT challenges. 🔧 What You’ll Work With Windows Server administration and troubleshooting Active Directory (AD) and Group Policy (GPO) Microsoft Exchange Server administration and troubleshooting Exchange S"
+    },
+    {
+      "id": "linkedin-4459975134",
+      "title": "Full-Stack Engineer – Angular + .NET (URGENT)",
+      "company": "Ajentica",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-%E2%80%93-angular-%2B-net-urgent-at-ajentica-4459975134",
+      "posted_at": "2026-09-02",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Openings: 7 Employment Type: Full-time Location: Dhaka, Bangladesh / India Experience Level: Mid Level About Ajentica Ajentica is an agentic AI and software engineering consultancy that helps ambitious organizations design, build and modernize complex digital products. Our teams work across healthcare, pharmacy software, HR technology and other enterprise domains where reliability, security and th"
     },
     {
       "id": "linkedin-4459716844",
