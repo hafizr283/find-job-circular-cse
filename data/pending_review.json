@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-02T23:20:43+00:00",
+  "built_at": "2026-09-03T05:48:00+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-02T23:20:43+00:00",
-  "total_jobs": 183,
-  "needing_review": 84,
+  "dataset_generated_at": "2026-09-03T05:48:00+00:00",
+  "total_jobs": 185,
+  "needing_review": 86,
   "in_this_batch": 40,
-  "remaining_after_batch": 44,
+  "remaining_after_batch": 46,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -19,12 +19,12 @@
   ],
   "pending": [
     {
-      "id": "linkedin-4460610636",
+      "id": "linkedin-4461606091",
       "title": "MERN Stack Developer Intern",
       "company": "DeshIT-BD",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mern-stack-developer-intern-at-deshit-bd-4460610636",
-      "posted_at": "2026-09-01",
+      "url": "https://bd.linkedin.com/jobs/view/mern-stack-developer-intern-at-deshit-bd-4461606091",
+      "posted_at": "2026-09-03",
       "regex_job_type": "Internship",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "Entry level indicated",
@@ -74,6 +74,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
+    },
+    {
+      "id": "linkedin-4461607106",
+      "title": "Software Engineer Intern (Java Spring Boot | Android | Laravel)",
+      "company": "INovex Idea Solution Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-intern-java-spring-boot-android-laravel-at-inovex-idea-solution-limited-4461607106",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 We’re Hiring Interns! (Java Spring Boot | Android | Laravel) Are you passionate about building real-world software solutions? Inovex Idea Solution Limited is looking for Software Engineering Interns in the following tracks: 🔹 Java Developer (Spring Boot) 🔹 Android Developer (Java) 🔹 Laravel Developer (PHP) 🔧 Responsibilities (based on track): Develop and maintain applications using Java Spring B"
     },
     {
       "id": "linkedin-4459787192",
@@ -247,25 +266,6 @@
       "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
     },
     {
-      "id": "linkedin-4459660930",
-      "title": "Customer Success Associate",
-      "company": "Enerzyz",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/customer-success-associate-at-enerzyz-4459660930",
-      "posted_at": "2026-08-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
-    },
-    {
       "id": "linkedin-4459872675",
       "title": "UI/UX Designer",
       "company": "8bit Private Limited",
@@ -283,6 +283,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
+    },
+    {
+      "id": "linkedin-4459660930",
+      "title": "Customer Success Associate",
+      "company": "Enerzyz",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-associate-at-enerzyz-4459660930",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
     },
     {
       "id": "linkedin-4457108571",
@@ -456,25 +475,6 @@
       "description_excerpt": "Note: Only for Dhaka residents. Don't apply for an academic/university internship. We are offering a comprehensive internship in software development and sales/marketing. This internship includes hands-on training in two key areas: 1. Software Development 2. Software Sales/Marketing Intern Type: Unpaid Office Time: 11 pm-7 pm (Sun-Thu). We provide Office lunch TA/DA Office Address: Adept KR Comple"
     },
     {
-      "id": "linkedin-4441157128",
-      "title": "Web Development Intern, Unpaid",
-      "company": "D HUDA TECH UK LIMITED",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/web-development-intern-unpaid-at-d-huda-tech-uk-limited-4441157128",
-      "posted_at": "2026-08-26",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "University Internship Opportunity – Web Developer Intern (Remote / Hybrid) – Unpaid 📍 D Huda Tech UK Limited ; Dogetlawyer Ai Ltd 📌 UK Company Number: 12755634 📌 Corporation Taxpayer Number: 3803221461 🔗 LinkedIn Pages : • https://www.linkedin.com/company/d-huda-tech-uk-limited • https://www.linkedin.com/company/dogetlawyer 📩 Apply by Email: career@dogetlawyer.com career@daktarcai.com career@dhuda"
-    },
-    {
       "id": "linkedin-4454030685",
       "title": "Project Associate (Knowledge Management & Reporting) - Short term (NPSA-7)",
       "company": "UNDP Careers",
@@ -511,6 +511,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Early Access Opportunity - AI Pilot Program Volga Partners is launching a pilot initiative to build a diverse network of English-speaking contributors across select international markets who can support current and future Artificial Intelligence (AI), language data, content quality, and evaluation projects. As AI technologies continue to evolve, organizations increasingly benefit from contributors"
+    },
+    {
+      "id": "linkedin-4441157128",
+      "title": "Web Development Intern, Unpaid",
+      "company": "D HUDA TECH UK LIMITED",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/web-development-intern-unpaid-at-d-huda-tech-uk-limited-4441157128",
+      "posted_at": "2026-08-26",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "University Internship Opportunity – Web Developer Intern (Remote / Hybrid) – Unpaid 📍 D Huda Tech UK Limited ; Dogetlawyer Ai Ltd 📌 UK Company Number: 12755634 📌 Corporation Taxpayer Number: 3803221461 🔗 LinkedIn Pages : • https://www.linkedin.com/company/d-huda-tech-uk-limited • https://www.linkedin.com/company/dogetlawyer 📩 Apply by Email: career@dogetlawyer.com career@daktarcai.com career@dhuda"
     },
     {
       "id": "linkedin-4449540511",
@@ -568,6 +587,24 @@
       "description_excerpt": "location On-Site/Remote Job Type Full-time Salary Negotiable Working Days Monday to Friday Working Time 02.00 PM – 11.00 PM Holiday Saturday & Sunday. Join Date September/October 2023 Application Deadline August, 31 2023 Job Responsibilities Installation, configuration and management of Linux Server including server management task automation using Shell script, Ansible. Installation, configuratio"
     },
     {
+      "id": "linkedin-4461376471",
+      "title": "Technical Support Engineer",
+      "company": "GeoVision",
+      "location": "Uttara, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-geovision-4461376471",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "\"We are specifically looking for candidates who live near Uttara, Dhaka, Bangladesh. Thank you for your interest.\" General Job Description: Technical Support for customers from all over the world through e-mail, online chat, and live phone calls at the designated office. Additional tasks involve tutorial/demo video production and editing, technical document editing, and writing. Working hours: 40 "
+    },
+    {
       "id": "linkedin-4459772620",
       "title": "Junior Software Developer (Laravel / PHP)",
       "company": "Techno Lab",
@@ -584,6 +621,24 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Description Techno Lab, a growing software solutions company, is looking for a motivated and skilled Junior Software Developer to join our development team. The selected candidate will work on real-world ERP and web-based applications, contribute to ongoing projects, and collaborate with senior developers to build scalable software solutions. This is a great opportunity for developers who want"
+    },
+    {
+      "id": "linkedin-4462139776",
+      "title": "Software Engineer, iOS Core Product - Dhaka, Bangladesh",
+      "company": "Speechify",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-ios-core-product-dhaka-bangladesh-at-speechify-4462139776",
+      "posted_at": "2026-08-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "salary",
+      "review_reasons": [
+        "no experience floor parsed from the description"
+      ],
+      "description_excerpt": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Ext"
     },
     {
       "id": "linkedin-4457900843",
@@ -622,22 +677,22 @@
       "description_excerpt": "We are looking for a WordPress Developer Trainee who has basic knowledge of WordPress and is eager to build practical skills in Elementor, Gutenberg, and Advanced Custom Fields (ACF). This role is suitable for an entry-level candidate who wants to develop their WordPress development skills through hands-on projects and mentorship. Key Responsibilities Assist in developing WordPress websites using "
     },
     {
-      "id": "linkedin-4462139776",
-      "title": "Software Engineer, iOS Core Product - Dhaka, Bangladesh",
-      "company": "Speechify",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-ios-core-product-dhaka-bangladesh-at-speechify-4462139776",
-      "posted_at": "2026-08-08",
+      "id": "linkedin-4437926471",
+      "title": "Workforce Experience Associate / Specialist",
+      "company": "SuperAnnotate",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/workforce-experience-associate-specialist-at-superannotate-4437926471",
+      "posted_at": "2026-08-22",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": 1,
       "regex_posting_status": "open",
       "pay_text": "salary",
       "review_reasons": [
-        "no experience floor parsed from the description"
+        "company not in the reputation registry"
       ],
-      "description_excerpt": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Ext"
+      "description_excerpt": "About SuperAnnotate SuperAnnotate is a San Francisco based AI company. We specialize in providing cutting-edge data pipeline solutions for Machine Learning, LLM, and GenAI solutions to large enterprise clients, helping them leverage the power of AI to transform their businesses. SuperAnnotate has a fully customizable platform for building annotation tools and workflows that AI projects demand — wh"
     },
     {
       "id": "linkedin-4460643553",
@@ -676,24 +731,6 @@
       "description_excerpt": "About Us: ACE Money Transfer is a UK-based multinational company headquartered in Manchester, United Kingdom. ACE Money Transfer provides online remittance services to individuals in 29 countries across the UK, Europe, Canada, and Australia, enabling them to send money across borders in over 100 countries. Job Title : Quality Assurance Officer/executive Position Summary: The Quality Assurance Offi"
     },
     {
-      "id": "linkedin-4437926471",
-      "title": "Workforce Experience Associate / Specialist",
-      "company": "SuperAnnotate",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/workforce-experience-associate-specialist-at-superannotate-4437926471",
-      "posted_at": "2026-08-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": 1,
-      "regex_posting_status": "open",
-      "pay_text": "salary",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About SuperAnnotate SuperAnnotate is a San Francisco based AI company. We specialize in providing cutting-edge data pipeline solutions for Machine Learning, LLM, and GenAI solutions to large enterprise clients, helping them leverage the power of AI to transform their businesses. SuperAnnotate has a fully customizable platform for building annotation tools and workflows that AI projects demand — wh"
-    },
-    {
       "id": "linkedin-4460193740",
       "title": "Software Engineer, Platform - Chittagong, Bangladesh",
       "company": "Speechify",
@@ -712,24 +749,6 @@
       "description_excerpt": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Ext"
     },
     {
-      "id": "linkedin-4457769435",
-      "title": "Manual QA Software Tester",
-      "company": "WalletHub",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/manual-qa-software-tester-at-wallethub-4457769435",
-      "posted_at": "2026-08-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Min. 2 years",
-      "regex_experience_years_min": 2,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and eager to add new members to our technical team. We're looking for a highly skilled and motivated Manual QA Software Tester for a full-time, permanent, remote position. Requirements Min. 2 years’ experience in Manual Software Testing Excellent attention to detail Proven ability to meet deadlines and handle multiple tasks in a "
-    },
-    {
       "id": "linkedin-4435801999",
       "title": "Enablement Associate",
       "company": "Optimizely",
@@ -746,24 +765,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "We're not here to add to the noise. We're here to cut through it- with AI that actually works for marketers. From AI-powered content creation to world-class CMS and the industry's most trusted experimentation platform, Optimizely is the tool modern marketers actually want to use. AI-Ready. Set. Go. 10,000+ brands including H&M, PayPal, and Zoom already get it. So do Gartner, Forrester, and IDC, wh"
-    },
-    {
-      "id": "linkedin-4453888040",
-      "title": "Quality Assurance Analyst",
-      "company": "PEN Group",
-      "location": "Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-analyst-at-pen-group-4453888040",
-      "posted_at": "2026-08-20",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "BDT 50,000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "Organisation: PEN Global (concern of PEN Group) Job Title: Quality Assurance Analyst Employment Type: Full-Time Salary Range: BDT 50,000 – 55,000 per month Working Schedule: Monday to Friday, 1:30 PM–10:00PM Bangladesh Standard Time (flexible days and hours may be required) Job Location: On-Site, Agrabad, Chattogram Role Overview We are looking for a technically capable and detail-oriented individ"
     }
   ]
 }
