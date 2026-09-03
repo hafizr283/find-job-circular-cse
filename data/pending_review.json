@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-03T05:48:00+00:00",
+  "built_at": "2026-09-03T11:12:31+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-03T05:48:00+00:00",
-  "total_jobs": 185,
-  "needing_review": 86,
+  "dataset_generated_at": "2026-09-03T11:12:31+00:00",
+  "total_jobs": 193,
+  "needing_review": 93,
   "in_this_batch": 40,
-  "remaining_after_batch": 46,
+  "remaining_after_batch": 53,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -36,6 +36,101 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "DeshIT-BD is looking for a passionate and motivated MERN Stack Developer Intern to join our development team.If you are interested in building real-world web applications and want to gain hands-on experience with the MERN stack, we’d love to hear from you!💼 PositionMERN Stack Developer Intern📌 Internship DetailsDuration: 6 Months Salary: BDT 10,000/month Working Hours: 9:30 AM – 6:30 PM Weekly Hol"
+    },
+    {
+      "id": "linkedin-4462769280",
+      "title": "IoT Tools Developer",
+      "company": "Worksprout",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-tools-developer-at-worksprout-4462769280",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Edge & Embedded IoT Tools Developer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardware Prototypin"
+    },
+    {
+      "id": "linkedin-4462778194",
+      "title": "IoT Hardware & Peripherals Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
+    },
+    {
+      "id": "linkedin-4462770285",
+      "title": "MLOps & Anomaly Detection Engineer",
+      "company": "Worksprout",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mlops-anomaly-detection-engineer-at-worksprout-4462770285",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
+    },
+    {
+      "id": "linkedin-4462774205",
+      "title": "Computer Vision & Robotics Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
+    },
+    {
+      "id": "linkedin-4462771253",
+      "title": "Embedded Systems & SBC Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4462771253",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     },
     {
       "id": "linkedin-4459744244",
@@ -95,11 +190,11 @@
       "description_excerpt": "🚀 We’re Hiring Interns! (Java Spring Boot | Android | Laravel) Are you passionate about building real-world software solutions? Inovex Idea Solution Limited is looking for Software Engineering Interns in the following tracks: 🔹 Java Developer (Spring Boot) 🔹 Android Developer (Java) 🔹 Laravel Developer (PHP) 🔧 Responsibilities (based on track): Develop and maintain applications using Java Spring B"
     },
     {
-      "id": "linkedin-4459787192",
-      "title": "Full Stack WordPress Developer Needed !",
+      "id": "linkedin-4460003010",
+      "title": "Full Stack Shopify Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -114,11 +209,11 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4460003010",
-      "title": "Full Stack Shopify Developer Needed !",
+      "id": "linkedin-4459787192",
+      "title": "Full Stack WordPress Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -266,25 +361,6 @@
       "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
     },
     {
-      "id": "linkedin-4459872675",
-      "title": "UI/UX Designer",
-      "company": "8bit Private Limited",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
-      "posted_at": "2026-08-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
-    },
-    {
       "id": "linkedin-4459660930",
       "title": "Customer Success Associate",
       "company": "Enerzyz",
@@ -302,6 +378,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
+    },
+    {
+      "id": "linkedin-4459872675",
+      "title": "UI/UX Designer",
+      "company": "8bit Private Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
       "id": "linkedin-4457108571",
@@ -416,6 +511,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 We’re Hiring: Data Science & AI Engineering Instructor Kamrul Academy is looking for an experienced and passionate Data Science & AI Engineering Instructor to join our growing academic team. 🎯 Position: Data Science & AI Engineering Instructor 💼 Job Type: Part-time / Freelance 🌍 Work Mode: Online 🔹 Responsibilities • Conduct engaging and practical classes on Data Science & AI Engineering • Teach"
+    },
+    {
+      "id": "linkedin-4460492294",
+      "title": "Application Security Engineer (Volunteer)",
+      "company": "MedSophia Maa42",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/application-security-engineer-volunteer-at-medsophia-maa42-4460492294",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Application Security Engineer—Voluntary MedSophia Maa42 | Reports to: Co-Founder & CTO MedSophia Maa42 is looking for a Voluntary Application Security Engineer to help strengthen the security of our health-tech ecosystem. Key focus areas: Application & API Security OWASP Top 10 Authentication & Authorization Mobile App Security Firebase / Node.js Security Basic VAPT Burp Suite / OWASP ZAP We’re lo"
     },
     {
       "id": "linkedin-4456808187",
@@ -623,6 +737,24 @@
       "description_excerpt": "Job Description Techno Lab, a growing software solutions company, is looking for a motivated and skilled Junior Software Developer to join our development team. The selected candidate will work on real-world ERP and web-based applications, contribute to ongoing projects, and collaborate with senior developers to build scalable software solutions. This is a great opportunity for developers who want"
     },
     {
+      "id": "linkedin-4460712000",
+      "title": "Software Quality Assurance Engineer",
+      "company": "MH Global Group",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-quality-assurance-engineer-at-mh-global-group-4460712000",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": 2,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description MH Global Group is a diversified organization operating across the international education, student recruitment, language training, technology, and social-impact sectors. Through its portfolio of concerns—including AHZ, MIE Pathways, MIE English Academy, MIE Services, Course Hunter, ConnectedHE, and the DMH Foundation—the Group supports students, professionals, and communities "
+    },
+    {
       "id": "linkedin-4462139776",
       "title": "Software Engineer, iOS Core Product - Dhaka, Bangladesh",
       "company": "Speechify",
@@ -639,132 +771,6 @@
         "no experience floor parsed from the description"
       ],
       "description_excerpt": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Ext"
-    },
-    {
-      "id": "linkedin-4457900843",
-      "title": "Software Quality Assurance Developer",
-      "company": "Digital Marketing Solution (Pvt.) Ltd.",
-      "location": "Uttara, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-quality-assurance-developer-at-digital-marketing-solution-pvt-ltd-4457900843",
-      "posted_at": "2026-08-26",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "at least 2 years",
-      "regex_experience_years_min": 2,
-      "regex_posting_status": "open",
-      "pay_text": "Salary: BDT 15,000",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "WE ARE HIRING: SOFTWARE QUALITY ASSURANCE ENGINEER Web & Mobile Application Testing | QA/QC Engineering Position: Software Quality Assurance Engineer – Web & Mobile Applications Department: Software Development / Quality Assurance Number of Vacancies: 2 Salary: BDT 15,000 – 20,000 per month Salary (Based On: Expertise, Industrial Experience & Technical Skillset) Employment Type: Full-Time Digital "
-    },
-    {
-      "id": "linkedin-4456041193",
-      "title": "WordPress Developer Intern/Trainee",
-      "company": "notiionhive",
-      "location": "Uttara, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/wordpress-developer-intern-trainee-at-notiionhive-4456041193",
-      "posted_at": "2026-08-20",
-      "regex_job_type": "Internship",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "BDT 8000-12000",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "We are looking for a WordPress Developer Trainee who has basic knowledge of WordPress and is eager to build practical skills in Elementor, Gutenberg, and Advanced Custom Fields (ACF). This role is suitable for an entry-level candidate who wants to develop their WordPress development skills through hands-on projects and mentorship. Key Responsibilities Assist in developing WordPress websites using "
-    },
-    {
-      "id": "linkedin-4437926471",
-      "title": "Workforce Experience Associate / Specialist",
-      "company": "SuperAnnotate",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/workforce-experience-associate-specialist-at-superannotate-4437926471",
-      "posted_at": "2026-08-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": 1,
-      "regex_posting_status": "open",
-      "pay_text": "salary",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About SuperAnnotate SuperAnnotate is a San Francisco based AI company. We specialize in providing cutting-edge data pipeline solutions for Machine Learning, LLM, and GenAI solutions to large enterprise clients, helping them leverage the power of AI to transform their businesses. SuperAnnotate has a fully customizable platform for building annotation tools and workflows that AI projects demand — wh"
-    },
-    {
-      "id": "linkedin-4460643553",
-      "title": "Full Stack Engineer – Python & React",
-      "company": "Pipeline Co., Ltd.",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-%E2%80%93-python-react-at-pipeline-co-ltd-4460643553",
-      "posted_at": "2026-09-01",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": 2,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 We’re Hiring: Full Stack Engineer – Python & React 📍 Dhaka, Bangladesh | On-site 🏢 Pipeline We’re looking for a Full Stack Engineer to help build the applications behind our cybersecurity products. You’ll work across the stack — Python services and APIs on the backend, React and TypeScript on the frontend — and take features from requirement through to production. The engineering problem is inte"
-    },
-    {
-      "id": "linkedin-4461746931",
-      "title": "Quality Assurance Officer/executive",
-      "company": "ACE Money Transfer",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-officer-executive-at-ace-money-transfer-4461746931",
-      "posted_at": "2026-09-01",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": 1,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About Us: ACE Money Transfer is a UK-based multinational company headquartered in Manchester, United Kingdom. ACE Money Transfer provides online remittance services to individuals in 29 countries across the UK, Europe, Canada, and Australia, enabling them to send money across borders in over 100 countries. Job Title : Quality Assurance Officer/executive Position Summary: The Quality Assurance Offi"
-    },
-    {
-      "id": "linkedin-4460193740",
-      "title": "Software Engineer, Platform - Chittagong, Bangladesh",
-      "company": "Speechify",
-      "location": "Chattogram, Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-platform-chittagong-bangladesh-at-speechify-4460193740",
-      "posted_at": "2026-08-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "compensation",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Ext"
-    },
-    {
-      "id": "linkedin-4435801999",
-      "title": "Enablement Associate",
-      "company": "Optimizely",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/enablement-associate-at-optimizely-4435801999",
-      "posted_at": "2026-08-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "We're not here to add to the noise. We're here to cut through it- with AI that actually works for marketers. From AI-powered content creation to world-class CMS and the industry's most trusted experimentation platform, Optimizely is the tool modern marketers actually want to use. AI-Ready. Set. Go. 10,000+ brands including H&M, PayPal, and Zoom already get it. So do Gartner, Forrester, and IDC, wh"
     }
   ]
 }
