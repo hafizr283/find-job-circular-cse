@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-04T14:59:36+00:00",
+  "built_at": "2026-09-04T19:06:00+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-04T14:59:36+00:00",
-  "total_jobs": 191,
-  "needing_review": 97,
+  "dataset_generated_at": "2026-09-04T19:06:00+00:00",
+  "total_jobs": 193,
+  "needing_review": 99,
   "in_this_batch": 40,
-  "remaining_after_batch": 57,
+  "remaining_after_batch": 59,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,6 +18,26 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4448964916",
+      "title": "Test Engineer",
+      "company": "Niyukti Systems, Inc",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/test-engineer-at-niyukti-systems-inc-4448964916",
+      "posted_at": "2026-08-05",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Other CSE",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "category unresolved",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are looking for a Test Engineer who will thoroughly inspect our products before theyre launched. As a Test Engineer in our company, you will work closely with the production team to understand why were building a product and what the specific requirements are. Then, you will run a series of tests through all stages of production to identify potential malfunctions and recommend improvements. Ult"
+    },
     {
       "id": "linkedin-4461606091",
       "title": "MERN Stack Developer Intern",
@@ -95,25 +115,6 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
     },
     {
-      "id": "linkedin-4462774205",
-      "title": "Computer Vision & Robotics Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
-    },
-    {
       "id": "linkedin-4462771253",
       "title": "Embedded Systems & SBC Engineer",
       "company": "Worksprout",
@@ -133,42 +134,23 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     },
     {
-      "id": "linkedin-4461925810",
-      "title": "QA Tester BD",
-      "company": "Core Code io",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/qa-tester-bd-at-core-code-io-4461925810",
-      "posted_at": "2026-09-04",
+      "id": "linkedin-4462774205",
+      "title": "Computer Vision & Robotics Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
+      "posted_at": "2026-09-03",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Salary negotiable",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused QA Tester to ensure software applications meet functional, usability, performance, and quality standards before release. The ideal candidate will have strong problem-solving skills, attention to detail, and the ability to identify, document, and communicate software issues effectively. Responsibilities Execute manual and automated t"
-    },
-    {
-      "id": "linkedin-4461924815",
-      "title": "Software QA Analyst BD",
-      "company": "Core Code io",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-qa-analyst-bd-at-core-code-io-4461924815",
-      "posted_at": "2026-09-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Software QA Analyst to evaluate software applications and ensure they meet functional, technical, and business requirements. The ideal candidate will have strong knowledge of QA methodologies, excellent problem-solving skills, and the ability to analyze requirements, design effective test scenarios, identify defects, and communicate"
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     },
     {
       "id": "linkedin-4461940515",
@@ -209,6 +191,44 @@
       "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Quality Assurance Analyst to evaluate processes, products, and services to ensure they meet established quality standards and business requirements. The ideal candidate will have strong analytical and problem-solving skills, excellent attention to detail, and the ability to identify issues, analyze root causes, and recommend effecti"
     },
     {
+      "id": "linkedin-4461925810",
+      "title": "QA Tester BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/qa-tester-bd-at-core-code-io-4461925810",
+      "posted_at": "2026-09-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused QA Tester to ensure software applications meet functional, usability, performance, and quality standards before release. The ideal candidate will have strong problem-solving skills, attention to detail, and the ability to identify, document, and communicate software issues effectively. Responsibilities Execute manual and automated t"
+    },
+    {
+      "id": "linkedin-4461924815",
+      "title": "Software QA Analyst BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-qa-analyst-bd-at-core-code-io-4461924815",
+      "posted_at": "2026-09-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Software QA Analyst to evaluate software applications and ensure they meet functional, technical, and business requirements. The ideal candidate will have strong knowledge of QA methodologies, excellent problem-solving skills, and the ability to analyze requirements, design effective test scenarios, identify defects, and communicate"
+    },
+    {
       "id": "linkedin-4459744244",
       "title": "Paid Internship Program",
       "company": "Qii Creative",
@@ -245,6 +265,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 Internship Opportunities at DIGIBOX Limited! DIGIBOX Limited is Bangladesh’s first and only technology company designed to transform the last-mile delivery network through its IoT locker-based system . We are looking for enthusiastic, motivated, and talented individuals to join our growing team through our Internship Program . If you’re a fresh graduate looking to kick-start your professional jo"
+    },
+    {
+      "id": "linkedin-4462306041",
+      "title": "IT Specialist",
+      "company": "AKS HEALTHCARE LIMITED",
+      "location": "Chattogram, Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/it-specialist-at-aks-healthcare-limited-4462306041",
+      "posted_at": "2026-09-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description AKS Khan Pharmaceutical LTD. is a vertically integrated pharmaceutical company that maintains strict quality control from the import of finished and semi-finished drugs through assembly and retail. The organization partners with leading industry manufacturers to source reliable, high-quality products. Its retail operations include stores in high-traffic locations, designed to s"
     },
     {
       "id": "linkedin-4461607106",
@@ -739,43 +778,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "University Internship Opportunity – Web Developer Intern (Remote / Hybrid) – Unpaid 📍 D Huda Tech UK Limited ; Dogetlawyer Ai Ltd 📌 UK Company Number: 12755634 📌 Corporation Taxpayer Number: 3803221461 🔗 LinkedIn Pages : • https://www.linkedin.com/company/d-huda-tech-uk-limited • https://www.linkedin.com/company/dogetlawyer 📩 Apply by Email: career@dogetlawyer.com career@daktarcai.com career@dhuda"
-    },
-    {
-      "id": "linkedin-4449540511",
-      "title": "Program Officer - Data Analyst Expert",
-      "company": "nextjobz",
-      "location": "Chattogram, Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/program-officer-data-analyst-expert-at-nextjobz-4449540511",
-      "posted_at": "2026-08-31",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4458207472",
-      "title": "Consultant, QA Automation, Market Operation (Ref. August 24, 2026)",
-      "company": "Robi Axiata PLC.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/consultant-qa-automation-market-operation-ref-august-24-2026-at-robi-axiata-plc-4458207472",
-      "posted_at": "2026-08-24",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "salary",
-      "review_reasons": [
-        "no experience floor parsed from the description"
-      ],
-      "description_excerpt": "About Robi Robi Axiata PLC. the second-largest telecom operator in Bangladesh, is a public limited company with majority shareholding by the Asian telecom giant, Axiata Group Berhad, based in Malaysia (61.82%). Alongside public shareholders (10%), global telecom leader Bharti Airtel, headquartered in New Delhi, India, holds 28.18% of the company's shares. Serving over 55 million subscribers, Robi "
     }
   ]
 }
