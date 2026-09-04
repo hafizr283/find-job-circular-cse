@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-04T19:06:00+00:00",
+  "built_at": "2026-09-04T23:05:45+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-04T19:06:00+00:00",
-  "total_jobs": 193,
-  "needing_review": 99,
+  "dataset_generated_at": "2026-09-04T23:05:45+00:00",
+  "total_jobs": 197,
+  "needing_review": 100,
   "in_this_batch": 40,
-  "remaining_after_batch": 59,
+  "remaining_after_batch": 60,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -115,6 +115,25 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
     },
     {
+      "id": "linkedin-4462774205",
+      "title": "Computer Vision & Robotics Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
+    },
+    {
       "id": "linkedin-4462771253",
       "title": "Embedded Systems & SBC Engineer",
       "company": "Worksprout",
@@ -134,23 +153,42 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     },
     {
-      "id": "linkedin-4462774205",
-      "title": "Computer Vision & Robotics Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
-      "posted_at": "2026-09-03",
+      "id": "linkedin-4461924815",
+      "title": "Software QA Analyst BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-qa-analyst-bd-at-core-code-io-4461924815",
+      "posted_at": "2026-09-04",
       "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Software QA Analyst to evaluate software applications and ensure they meet functional, technical, and business requirements. The ideal candidate will have strong knowledge of QA methodologies, excellent problem-solving skills, and the ability to analyze requirements, design effective test scenarios, identify defects, and communicate"
+    },
+    {
+      "id": "linkedin-4461925810",
+      "title": "QA Tester BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/qa-tester-bd-at-core-code-io-4461925810",
+      "posted_at": "2026-09-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused QA Tester to ensure software applications meet functional, usability, performance, and quality standards before release. The ideal candidate will have strong problem-solving skills, attention to detail, and the ability to identify, document, and communicate software issues effectively. Responsibilities Execute manual and automated t"
     },
     {
       "id": "linkedin-4461940515",
@@ -189,44 +227,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Quality Assurance Analyst to evaluate processes, products, and services to ensure they meet established quality standards and business requirements. The ideal candidate will have strong analytical and problem-solving skills, excellent attention to detail, and the ability to identify issues, analyze root causes, and recommend effecti"
-    },
-    {
-      "id": "linkedin-4461925810",
-      "title": "QA Tester BD",
-      "company": "Core Code io",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/qa-tester-bd-at-core-code-io-4461925810",
-      "posted_at": "2026-09-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused QA Tester to ensure software applications meet functional, usability, performance, and quality standards before release. The ideal candidate will have strong problem-solving skills, attention to detail, and the ability to identify, document, and communicate software issues effectively. Responsibilities Execute manual and automated t"
-    },
-    {
-      "id": "linkedin-4461924815",
-      "title": "Software QA Analyst BD",
-      "company": "Core Code io",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-qa-analyst-bd-at-core-code-io-4461924815",
-      "posted_at": "2026-09-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Software QA Analyst to evaluate software applications and ensure they meet functional, technical, and business requirements. The ideal candidate will have strong knowledge of QA methodologies, excellent problem-solving skills, and the ability to analyze requirements, design effective test scenarios, identify defects, and communicate"
     },
     {
       "id": "linkedin-4459744244",
@@ -305,11 +305,11 @@
       "description_excerpt": "🚀 We’re Hiring Interns! (Java Spring Boot | Android | Laravel) Are you passionate about building real-world software solutions? Inovex Idea Solution Limited is looking for Software Engineering Interns in the following tracks: 🔹 Java Developer (Spring Boot) 🔹 Android Developer (Java) 🔹 Laravel Developer (PHP) 🔧 Responsibilities (based on track): Develop and maintain applications using Java Spring B"
     },
     {
-      "id": "linkedin-4460003010",
-      "title": "Full Stack Shopify Developer Needed !",
+      "id": "linkedin-4459787192",
+      "title": "Full Stack WordPress Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -324,11 +324,11 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4459787192",
-      "title": "Full Stack WordPress Developer Needed !",
+      "id": "linkedin-4460003010",
+      "title": "Full Stack Shopify Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -362,25 +362,6 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4459975134",
-      "title": "Full-Stack Engineer – Angular + .NET (URGENT)",
-      "company": "Ajentica",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-%E2%80%93-angular-%2B-net-urgent-at-ajentica-4459975134",
-      "posted_at": "2026-09-02",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Openings: 7 Employment Type: Full-time Location: Dhaka, Bangladesh / India Experience Level: Mid Level About Ajentica Ajentica is an agentic AI and software engineering consultancy that helps ambitious organizations design, build and modernize complex digital products. Our teams work across healthcare, pharmacy software, HR technology and other enterprise domains where reliability, security and th"
-    },
-    {
       "id": "linkedin-4460619790",
       "title": "System Engineer – Microsoft Infrastructure",
       "company": "Corporate Projukti Limited",
@@ -398,6 +379,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "📢 We’re Hiring | System Engineer – Microsoft Infrastructure We’re looking for a hands-on System Engineer who is passionate about Microsoft infrastructure and enjoys solving real-world enterprise IT challenges. 🔧 What You’ll Work With Windows Server administration and troubleshooting Active Directory (AD) and Group Policy (GPO) Microsoft Exchange Server administration and troubleshooting Exchange S"
+    },
+    {
+      "id": "linkedin-4459975134",
+      "title": "Full-Stack Engineer – Angular + .NET (URGENT)",
+      "company": "Ajentica",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-%E2%80%93-angular-%2B-net-urgent-at-ajentica-4459975134",
+      "posted_at": "2026-09-02",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Openings: 7 Employment Type: Full-time Location: Dhaka, Bangladesh / India Experience Level: Mid Level About Ajentica Ajentica is an agentic AI and software engineering consultancy that helps ambitious organizations design, build and modernize complex digital products. Our teams work across healthcare, pharmacy software, HR technology and other enterprise domains where reliability, security and th"
     },
     {
       "id": "linkedin-4459716844",
