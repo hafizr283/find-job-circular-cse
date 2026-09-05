@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-05T05:46:01+00:00",
+  "built_at": "2026-09-05T10:33:52+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-05T05:46:01+00:00",
-  "total_jobs": 178,
-  "needing_review": 98,
+  "dataset_generated_at": "2026-09-05T10:33:52+00:00",
+  "total_jobs": 179,
+  "needing_review": 100,
   "in_this_batch": 40,
-  "remaining_after_batch": 58,
+  "remaining_after_batch": 60,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -19,31 +19,11 @@
   ],
   "pending": [
     {
-      "id": "linkedin-4460003010",
-      "title": "Full Stack Shopify Developer Needed !",
-      "company": "Kiwii IT",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
-      "posted_at": "2026-08-31",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4448964916",
+      "id": "linkedin-4448961980",
       "title": "Test Engineer",
       "company": "Niyukti Systems, Inc",
       "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/test-engineer-at-niyukti-systems-inc-4448964916",
+      "url": "https://bd.linkedin.com/jobs/view/test-engineer-at-niyukti-systems-inc-4448961980",
       "posted_at": "2026-08-05",
       "regex_job_type": "Fresher job",
       "regex_category": "Other CSE",
@@ -57,6 +37,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are looking for a Test Engineer who will thoroughly inspect our products before theyre launched. As a Test Engineer in our company, you will work closely with the production team to understand why were building a product and what the specific requirements are. Then, you will run a series of tests through all stages of production to identify potential malfunctions and recommend improvements. Ult"
+    },
+    {
+      "id": "linkedin-4462356220",
+      "title": "Intern",
+      "company": "Qunivoo",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-qunivoo-4462356220",
+      "posted_at": "2026-09-05",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "BDT 10,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description: Qunivoo is a digital solutions and AI automation firm that helps businesses improve their operations through technology and AI-powered solutions. The company focuses on delivering practical digital solutions while working closely with clients to understand their needs and challenges. Role Description: The Intern role at Qunivoo is based in Dhaka. Interns will handle client cal"
     },
     {
       "id": "linkedin-4462340270",
@@ -97,6 +96,25 @@
       "description_excerpt": "DeshIT-BD is looking for a passionate and motivated MERN Stack Developer Intern to join our development team.If you are interested in building real-world web applications and want to gain hands-on experience with the MERN stack, we’d love to hear from you!💼 PositionMERN Stack Developer Intern📌 Internship DetailsDuration: 6 Months Salary: BDT 10,000/month Working Hours: 9:30 AM – 6:30 PM Weekly Hol"
     },
     {
+      "id": "linkedin-4462778194",
+      "title": "IoT Hardware & Peripherals Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
+    },
+    {
       "id": "linkedin-4462769280",
       "title": "IoT Tools Developer",
       "company": "Worksprout",
@@ -135,25 +153,6 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
     },
     {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
-    },
-    {
       "id": "linkedin-4462771253",
       "title": "Embedded Systems & SBC Engineer",
       "company": "Worksprout",
@@ -190,6 +189,44 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
+    },
+    {
+      "id": "linkedin-4461924815",
+      "title": "Software QA Analyst BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-qa-analyst-bd-at-core-code-io-4461924815",
+      "posted_at": "2026-09-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Software QA Analyst to evaluate software applications and ensure they meet functional, technical, and business requirements. The ideal candidate will have strong knowledge of QA methodologies, excellent problem-solving skills, and the ability to analyze requirements, design effective test scenarios, identify defects, and communicate"
+    },
+    {
+      "id": "linkedin-4461925810",
+      "title": "QA Tester BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/qa-tester-bd-at-core-code-io-4461925810",
+      "posted_at": "2026-09-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused QA Tester to ensure software applications meet functional, usability, performance, and quality standards before release. The ideal candidate will have strong problem-solving skills, attention to detail, and the ability to identify, document, and communicate software issues effectively. Responsibilities Execute manual and automated t"
     },
     {
       "id": "linkedin-4461940515",
@@ -249,44 +286,6 @@
       "description_excerpt": "Qii Creative Internship Program 2026!! 🚀 We’re looking for Qii’s next generation of talent. Join Qii Creative and gain hands-on experience working on real global client projects across marketing, business growth, and technology while building the skills, confidence, and experience to kick-start your career. These are 3-month paid internships, with the opportunity to move into a full-time role base"
     },
     {
-      "id": "linkedin-4461924815",
-      "title": "Software QA Analyst BD",
-      "company": "Core Code io",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-qa-analyst-bd-at-core-code-io-4461924815",
-      "posted_at": "2026-09-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Software QA Analyst to evaluate software applications and ensure they meet functional, technical, and business requirements. The ideal candidate will have strong knowledge of QA methodologies, excellent problem-solving skills, and the ability to analyze requirements, design effective test scenarios, identify defects, and communicate"
-    },
-    {
-      "id": "linkedin-4461925810",
-      "title": "QA Tester BD",
-      "company": "Core Code io",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/qa-tester-bd-at-core-code-io-4461925810",
-      "posted_at": "2026-09-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused QA Tester to ensure software applications meet functional, usability, performance, and quality standards before release. The ideal candidate will have strong problem-solving skills, attention to detail, and the ability to identify, document, and communicate software issues effectively. Responsibilities Execute manual and automated t"
-    },
-    {
       "id": "linkedin-4457459901",
       "title": "Internship Program",
       "company": "DIGIBOX",
@@ -344,14 +343,14 @@
       "description_excerpt": "🚀 We’re Hiring Interns! (Java Spring Boot | Android | Laravel) Are you passionate about building real-world software solutions? Inovex Idea Solution Limited is looking for Software Engineering Interns in the following tracks: 🔹 Java Developer (Spring Boot) 🔹 Android Developer (Java) 🔹 Laravel Developer (PHP) 🔧 Responsibilities (based on track): Develop and maintain applications using Java Spring B"
     },
     {
-      "id": "linkedin-4459780943",
-      "title": "Full Stack Php Laravel Developer Needed !",
+      "id": "linkedin-4459787192",
+      "title": "Full Stack WordPress Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-php-laravel-developer-needed-%21-at-kiwii-it-4459780943",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
+      "regex_category": "Freelance & Niche Tech",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -363,14 +362,33 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4459787192",
-      "title": "Full Stack WordPress Developer Needed !",
+      "id": "linkedin-4460003010",
+      "title": "Full Stack Shopify Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
+    },
+    {
+      "id": "linkedin-4459780943",
+      "title": "Full Stack Php Laravel Developer Needed !",
+      "company": "Kiwii IT",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-php-laravel-developer-needed-%21-at-kiwii-it-4459780943",
+      "posted_at": "2026-08-31",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -515,25 +533,6 @@
       "description_excerpt": "WalletHub, the #1 Personal Finance App in the US, is rapidly growing and looking for a dedicated Data Analyst to join our international team. What we’re looking for: • Bachelor's or Master’s degree from a reputable university in Business/ Economics/ Science ︋︊︌︎︋︄︌︆︂︆︄︅︁︁︎︌︈︂︇︍︈︆︅️︊︄︈︌︊︎︂︎(Engineering, Computer Science, etc.) • Prior data analysis experience, regardless of domain (preferred but no"
     },
     {
-      "id": "linkedin-4459872675",
-      "title": "UI/UX Designer",
-      "company": "8bit Private Limited",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
-      "posted_at": "2026-08-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
-    },
-    {
       "id": "linkedin-4459660930",
       "title": "Customer Success Associate",
       "company": "Enerzyz",
@@ -551,6 +550,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Enerzyz is an AI-powered asset orchestration platform that helps industrial facilities, commercial buildings, and data centers run more efficiently. Our work involves developing real-time intelligent systems for any facility's asset management through agentic automation. This role is designed for building a high-performance customer organization capable of bridging AI, engineering operations, and "
+    },
+    {
+      "id": "linkedin-4459872675",
+      "title": "UI/UX Designer",
+      "company": "8bit Private Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-8bit-private-limited-4459872675",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
       "id": "linkedin-4457108571",
@@ -760,25 +778,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Note: Only for Dhaka residents. Don't apply for an academic/university internship. We are offering a comprehensive internship in software development and sales/marketing. This internship includes hands-on training in two key areas: 1. Software Development 2. Software Sales/Marketing Intern Type: Unpaid Office Time: 11 pm-7 pm (Sun-Thu). We provide Office lunch TA/DA Office Address: Adept KR Comple"
-    },
-    {
-      "id": "linkedin-4454030685",
-      "title": "Project Associate (Knowledge Management & Reporting) - Short term (NPSA-7)",
-      "company": "UNDP Careers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-associate-knowledge-management-reporting-short-term-npsa-7-at-undp-careers-4454030685",
-      "posted_at": "2026-08-14",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     }
   ]
 }
