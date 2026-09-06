@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-06T18:19:06+00:00",
+  "built_at": "2026-09-06T22:55:45+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-06T18:19:06+00:00",
-  "total_jobs": 195,
-  "needing_review": 110,
+  "dataset_generated_at": "2026-09-06T22:55:45+00:00",
+  "total_jobs": 196,
+  "needing_review": 112,
   "in_this_batch": 40,
-  "remaining_after_batch": 70,
+  "remaining_after_batch": 72,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,6 +18,26 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4462767304",
+      "title": "Robotics & Biomedical AI Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/robotics-biomedical-ai-engineer-at-worksprout-4462767304",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
     {
       "id": "linkedin-4460648300",
       "title": "Backend Engineer – Python & AI",
@@ -420,11 +440,11 @@
       "description_excerpt": "🚀 We’re Hiring Interns! (Java Spring Boot | Android | Laravel) Are you passionate about building real-world software solutions? Inovex Idea Solution Limited is looking for Software Engineering Interns in the following tracks: 🔹 Java Developer (Spring Boot) 🔹 Android Developer (Java) 🔹 Laravel Developer (PHP) 🔧 Responsibilities (based on track): Develop and maintain applications using Java Spring B"
     },
     {
-      "id": "linkedin-4459787192",
-      "title": "Full Stack WordPress Developer Needed !",
+      "id": "linkedin-4460003010",
+      "title": "Full Stack Shopify Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -439,11 +459,11 @@
       "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     },
     {
-      "id": "linkedin-4460003010",
-      "title": "Full Stack Shopify Developer Needed !",
+      "id": "linkedin-4459787192",
+      "title": "Full Stack WordPress Developer Needed !",
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -760,25 +780,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 We’re Hiring: Data Science & AI Engineering Instructor Kamrul Academy is looking for an experienced and passionate Data Science & AI Engineering Instructor to join our growing academic team. 🎯 Position: Data Science & AI Engineering Instructor 💼 Job Type: Part-time / Freelance 🌍 Work Mode: Online 🔹 Responsibilities • Conduct engaging and practical classes on Data Science & AI Engineering • Teach"
-    },
-    {
-      "id": "linkedin-4454249611",
-      "title": "Intern - Customer Success",
-      "company": "MyTravaly",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-customer-success-at-mytravaly-4454249611",
-      "posted_at": "2026-08-16",
-      "regex_job_type": "Internship",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "This is a remote position. Lead Generation Research and identify potential hotels, booking partners, travel agencies, and corporate prospects. Maintain and update lead databases using Google Sheets/CRM. Business Development Support Support the team in cold calling, follow-ups, meeting coordination, and partner communication. Assist with hotel visits and partner onboarding activities. Marketing Sup"
     }
   ]
 }
