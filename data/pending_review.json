@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-07T12:26:25+00:00",
+  "built_at": "2026-09-07T19:58:36+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-07T12:26:25+00:00",
-  "total_jobs": 200,
-  "needing_review": 114,
+  "dataset_generated_at": "2026-09-07T19:58:36+00:00",
+  "total_jobs": 205,
+  "needing_review": 119,
   "in_this_batch": 40,
-  "remaining_after_batch": 74,
+  "remaining_after_batch": 79,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -267,6 +267,63 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
+    },
+    {
+      "id": "linkedin-4462963397",
+      "title": "Pre-Sales Engineer",
+      "company": "Hikvision",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/pre-sales-engineer-at-hikvision-4462963397",
+      "posted_at": "2026-09-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Hikvision, founded in 2001, is a global leader in integrated security and scenario-based digitalization, driven by AI-powered Internet of Things (AIoT) technologies. The company focuses on machine perception and artificial intelligence to serve diverse industries and help organizations enhance safety and operational efficiency. Guided by core values of professionalism, reliabil"
+    },
+    {
+      "id": "linkedin-4462956978",
+      "title": "Backend Engineer, BANGLADESH",
+      "company": "nsave",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/backend-engineer-bangladesh-at-nsave-4462956978",
+      "posted_at": "2026-09-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Backend Engineer (Bangladesh) About nsave nsave is a fintech company headquartered in London. Founded by Amer Baroudi and Abdallah AbuHashem, our vision is to \"Protect and grow the wealth of the financially excluded\". We have built a global platform that provide trusted USD accounts, global payments, and investments for individuals from distressed economies, where inflation is high and banking sys"
+    },
+    {
+      "id": "linkedin-4461888466",
+      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (BBS) - Job ID : 1530223",
+      "company": "BRAC University",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-bbs-job-id-1530223-at-brac-university-4461888466",
+      "posted_at": "2026-09-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (BBS) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times. B"
     },
     {
       "id": "linkedin-4462771253",
@@ -723,63 +780,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
-    },
-    {
-      "id": "linkedin-4457108571",
-      "title": "Cybersecurity Instructor (Remote)",
-      "company": "ImranTheExploitHunter",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-instructor-remote-at-imrantheexploithunter-4457108571",
-      "posted_at": "2026-08-24",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Cybersecurity Instructor (Remote) ImranTheExploitHunter Academy is looking for experienced Cybersecurity Instructors / Ethical Hacking Trainers to join our remote training team. We are specifically looking for professionals who already have hands-on experience in Penetration Testing, Ethical Hacking, Red Teaming, Web Application Security, Network Security, or Active Directory Security . Preferred "
-    },
-    {
-      "id": "linkedin-4456872041",
-      "title": "Freelance Web Developer",
-      "company": "Stailor IT",
-      "location": "Khulna, Khulna, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/freelance-web-developer-at-stailor-it-4456872041",
-      "posted_at": "2026-08-24",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Stailor IT is an international IT company that delivers high-performance digital solutions designed to drive business growth. The team specializes in custom web development, SEO optimization, mobile app development, and strategic IT consulting for organizations of all sizes. Stailor IT focuses on bespoke, scalable, and user-centric digital products supported by data-driven stra"
-    },
-    {
-      "id": "linkedin-4457698041",
-      "title": "Quality Assurance Engineer (Intern)",
-      "company": "QuickTech IT",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-engineer-intern-at-quicktech-it-4457698041",
-      "posted_at": "2026-08-26",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description QuickTech IT is a technology-focused company dedicated to delivering customer-centric, clear, and practical IT solutions that drive business growth. The organization emphasizes staying at the forefront of technological evolution by continually innovating and adopting new tools and strategies for client benefit. QuickTech IT is committed to providing viable, affordable solutions"
     }
   ]
 }
