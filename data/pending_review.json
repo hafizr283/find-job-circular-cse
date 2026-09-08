@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-08T15:07:50+00:00",
+  "built_at": "2026-09-08T19:28:29+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-08T15:07:50+00:00",
-  "total_jobs": 211,
-  "needing_review": 125,
+  "dataset_generated_at": "2026-09-08T19:28:28+00:00",
+  "total_jobs": 213,
+  "needing_review": 127,
   "in_this_batch": 40,
-  "remaining_after_batch": 85,
+  "remaining_after_batch": 87,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -402,6 +402,25 @@
       "description_excerpt": "Backend Engineer (Bangladesh) About nsave nsave is a fintech company headquartered in London. Founded by Amer Baroudi and Abdallah AbuHashem, our vision is to \"Protect and grow the wealth of the financially excluded\". We have built a global platform that provide trusted USD accounts, global payments, and investments for individuals from distressed economies, where inflation is high and banking sys"
     },
     {
+      "id": "linkedin-4462774205",
+      "title": "Computer Vision & Robotics Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
+    },
+    {
       "id": "linkedin-4462771253",
       "title": "Embedded Systems & SBC Engineer",
       "company": "Worksprout",
@@ -421,23 +440,23 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     },
     {
-      "id": "linkedin-4462774205",
-      "title": "Computer Vision & Robotics Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
-      "posted_at": "2026-09-03",
+      "id": "linkedin-4461937673",
+      "title": "Quality Assurance Analyst BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-analyst-bd-at-core-code-io-4461937673",
+      "posted_at": "2026-09-04",
       "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Quality Assurance Analyst to evaluate processes, products, and services to ensure they meet established quality standards and business requirements. The ideal candidate will have strong analytical and problem-solving skills, excellent attention to detail, and the ability to identify issues, analyze root causes, and recommend effecti"
     },
     {
       "id": "linkedin-4461925810",
@@ -495,25 +514,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Manual QA Tester to ensure software applications function correctly and meet established quality standards before release. The ideal candidate will have strong testing skills, excellent attention to detail, and the ability to identify, reproduce, document, and communicate software defects clearly. Responsibilities Execute manual tes"
-    },
-    {
-      "id": "linkedin-4461937673",
-      "title": "Quality Assurance Analyst BD",
-      "company": "Core Code io",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-analyst-bd-at-core-code-io-4461937673",
-      "posted_at": "2026-09-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Quality Assurance Analyst to evaluate processes, products, and services to ensure they meet established quality standards and business requirements. The ideal candidate will have strong analytical and problem-solving skills, excellent attention to detail, and the ability to identify issues, analyze root causes, and recommend effecti"
     },
     {
       "id": "linkedin-4459744244",
