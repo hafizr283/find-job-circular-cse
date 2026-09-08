@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-08T05:59:10+00:00",
+  "built_at": "2026-09-08T11:15:19+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-08T05:59:10+00:00",
-  "total_jobs": 209,
-  "needing_review": 123,
+  "dataset_generated_at": "2026-09-08T11:15:19+00:00",
+  "total_jobs": 213,
+  "needing_review": 127,
   "in_this_batch": 40,
-  "remaining_after_batch": 83,
+  "remaining_after_batch": 87,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -174,25 +174,6 @@
       "description_excerpt": "Competitive Programmer Intern DeshIT-BD is looking for a passionate Competitive Programmer Intern to join our software development team. This opportunity is ideal for university students who enjoy problem solving, algorithms, data structures, and competitive programming and want to apply their skills to real-world software development. What You’ll Do Solve programming and algorithmic problems effi"
     },
     {
-      "id": "linkedin-4461606091",
-      "title": "MERN Stack Developer Intern",
-      "company": "DeshIT-BD",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mern-stack-developer-intern-at-deshit-bd-4461606091",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary: BDT 10,000/month",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "DeshIT-BD is looking for a passionate and motivated MERN Stack Developer Intern to join our development team.If you are interested in building real-world web applications and want to gain hands-on experience with the MERN stack, we’d love to hear from you!💼 PositionMERN Stack Developer Intern📌 Internship DetailsDuration: 6 Months Salary: BDT 10,000/month Working Hours: 9:30 AM – 6:30 PM Weekly Hol"
-    },
-    {
       "id": "linkedin-4463246338",
       "title": "Full Stack Developer",
       "company": "DevFinity Business Solutions",
@@ -210,6 +191,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description DevFinity Business Solutions delivers high-caliber BPO& IT infrastructure tailored for the U.S. various industries, enabling clients to focus on strategic growth and relationships while it manages mission-critical back-office operations. Its 24/7 operations team supports functions such as Technical Support, Software Development, dispatch, scheduling, executive reporting, full-c"
+    },
+    {
+      "id": "linkedin-4461606091",
+      "title": "MERN Stack Developer Intern",
+      "company": "DeshIT-BD",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mern-stack-developer-intern-at-deshit-bd-4461606091",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary: BDT 10,000/month",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "DeshIT-BD is looking for a passionate and motivated MERN Stack Developer Intern to join our development team.If you are interested in building real-world web applications and want to gain hands-on experience with the MERN stack, we’d love to hear from you!💼 PositionMERN Stack Developer Intern📌 Internship DetailsDuration: 6 Months Salary: BDT 10,000/month Working Hours: 9:30 AM – 6:30 PM Weekly Hol"
     },
     {
       "id": "linkedin-4464076432",
@@ -326,25 +326,6 @@
       "description_excerpt": "Job Responsibility Manage installers and provide the training as per requirements Respond to installers inquiries in a timely and professional manner Identify, diagnose, and resolve technical issues Provide technical support to installers via phone, email, or chat Record and document installers issues and resolutions via excel sheets Collaborate with other teams to resolve complex installers issue"
     },
     {
-      "id": "linkedin-4462956978",
-      "title": "Backend Engineer, BANGLADESH",
-      "company": "nsave",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/backend-engineer-bangladesh-at-nsave-4462956978",
-      "posted_at": "2026-09-07",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Backend Engineer (Bangladesh) About nsave nsave is a fintech company headquartered in London. Founded by Amer Baroudi and Abdallah AbuHashem, our vision is to \"Protect and grow the wealth of the financially excluded\". We have built a global platform that provide trusted USD accounts, global payments, and investments for individuals from distressed economies, where inflation is high and banking sys"
-    },
-    {
       "id": "linkedin-4462963397",
       "title": "Pre-Sales Engineer",
       "company": "Hikvision",
@@ -362,6 +343,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Hikvision, founded in 2001, is a global leader in integrated security and scenario-based digitalization, driven by AI-powered Internet of Things (AIoT) technologies. The company focuses on machine perception and artificial intelligence to serve diverse industries and help organizations enhance safety and operational efficiency. Guided by core values of professionalism, reliabil"
+    },
+    {
+      "id": "linkedin-4462956978",
+      "title": "Backend Engineer, BANGLADESH",
+      "company": "nsave",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/backend-engineer-bangladesh-at-nsave-4462956978",
+      "posted_at": "2026-09-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Backend Engineer (Bangladesh) About nsave nsave is a fintech company headquartered in London. Founded by Amer Baroudi and Abdallah AbuHashem, our vision is to \"Protect and grow the wealth of the financially excluded\". We have built a global platform that provide trusted USD accounts, global payments, and investments for individuals from distressed economies, where inflation is high and banking sys"
     },
     {
       "id": "linkedin-4461888466",
@@ -419,25 +419,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
-    },
-    {
-      "id": "linkedin-4459744244",
-      "title": "Paid Internship Program",
-      "company": "Qii Creative",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/paid-internship-program-at-qii-creative-4459744244",
-      "posted_at": "2026-08-30",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Qii Creative Internship Program 2026!! 🚀 We’re looking for Qii’s next generation of talent. Join Qii Creative and gain hands-on experience working on real global client projects across marketing, business growth, and technology while building the skills, confidence, and experience to kick-start your career. These are 3-month paid internships, with the opportunity to move into a full-time role base"
     },
     {
       "id": "linkedin-4461924815",
@@ -516,23 +497,23 @@
       "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Quality Assurance Analyst to evaluate processes, products, and services to ensure they meet established quality standards and business requirements. The ideal candidate will have strong analytical and problem-solving skills, excellent attention to detail, and the ability to identify issues, analyze root causes, and recommend effecti"
     },
     {
-      "id": "linkedin-4464001351",
-      "title": "Junior Unreal Engine Artist",
-      "company": "Tiltnek Studios",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-unreal-engine-artist-at-tiltnek-studios-4464001351",
-      "posted_at": "2026-09-06",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "id": "linkedin-4459744244",
+      "title": "Paid Internship Program",
+      "company": "Qii Creative",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/paid-internship-program-at-qii-creative-4459744244",
+      "posted_at": "2026-08-30",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Paid internship",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Set up assets, materials and demo scenes in Unreal Engine 5 for our marketplace packs. 01 — What You'll Do What You'll Do + Import and configure assets in UE5 + Build materials and master materials + Assemble demo and showcase scenes with lighting + Set up Nanite/LODs and package for the marketplace 02 — Requirements What We're Looking For + Hands-on UE5 experience + Material editor fundamentals +"
+      "description_excerpt": "Qii Creative Internship Program 2026!! 🚀 We’re looking for Qii’s next generation of talent. Join Qii Creative and gain hands-on experience working on real global client projects across marketing, business growth, and technology while building the skills, confidence, and experience to kick-start your career. These are 3-month paid internships, with the opportunity to move into a full-time role base"
     },
     {
       "id": "linkedin-4464010333",
@@ -552,6 +533,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Build gameplay systems and interactive experiences in Unreal Engine 5. 01 — What You'll Do What You'll Do + Implement gameplay mechanics in Blueprints and/or C++ + Integrate art assets and systems + Profile and optimize performance + Collaborate with artists and prototype features 02 — Requirements What We're Looking For + Hands-on UE5 Blueprint experience (C++ a plus) + Understanding of game arch"
+    },
+    {
+      "id": "linkedin-4464001351",
+      "title": "Junior Unreal Engine Artist",
+      "company": "Tiltnek Studios",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-unreal-engine-artist-at-tiltnek-studios-4464001351",
+      "posted_at": "2026-09-06",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Set up assets, materials and demo scenes in Unreal Engine 5 for our marketplace packs. 01 — What You'll Do What You'll Do + Import and configure assets in UE5 + Build materials and master materials + Assemble demo and showcase scenes with lighting + Set up Nanite/LODs and package for the marketplace 02 — Requirements What We're Looking For + Hands-on UE5 experience + Material editor fundamentals +"
     },
     {
       "id": "linkedin-4457459901",
@@ -763,23 +763,23 @@
       "description_excerpt": "We're hiring engineers, designers and strategists who want to do their best work alongside people who care about craft. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at 8bit Private Limited by 2x See who you know"
     },
     {
-      "id": "linkedin-4458945764",
-      "title": "Part-Time Software QA Engineers",
-      "company": "Bytecenture Consulting Sdn. Bhd.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/part-time-software-qa-engineers-at-bytecenture-consulting-sdn-bhd-4458945764",
-      "posted_at": "2026-08-28",
-      "regex_job_type": "Fresher job",
+      "id": "linkedin-4463238628",
+      "title": "Competitive Programmer Intern",
+      "company": "tecklyne",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/competitive-programmer-intern-at-tecklyne-4463238628",
+      "posted_at": "2026-09-08",
+      "regex_job_type": "Internship",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Unpaid",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description Bytecenture Consulting Sdn. Bhd. is a global software engineering services and solutions company that helps leading organizations transform complex challenges into sustainable business value. With over 500 professionals across 10 countries in South Asia, Europe, the Americas, Japan, and China, Bytecenture supports clients through modern technologies and engineering best practic"
+      "description_excerpt": "DeshIT-BD is looking for a passionate and problem-solving-oriented Competitive Programmer Intern to join our software development team. This internship is ideal for university students who enjoy Algorithms, Data Structures, Competitive Programming, and Problem Solving and want to transform their programming skills into real-world software engineering experience . 💻 What You’ll Do Solve programming"
     }
   ]
 }
