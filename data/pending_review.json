@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-08T23:26:09+00:00",
+  "built_at": "2026-09-09T06:01:04+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-08T23:26:09+00:00",
-  "total_jobs": 214,
-  "needing_review": 127,
+  "dataset_generated_at": "2026-09-09T06:01:04+00:00",
+  "total_jobs": 217,
+  "needing_review": 129,
   "in_this_batch": 40,
-  "remaining_after_batch": 87,
+  "remaining_after_batch": 89,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -326,6 +326,25 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
     },
     {
+      "id": "linkedin-4461559639",
+      "title": "AI Engineer -Hermes Agent SME",
+      "company": "PST.AG",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-hermes-agent-sme-at-pst-ag-4461559639",
+      "posted_at": "2026-09-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About the Role: We are seeking an AI Engineer specialized in the Hermes Agent framework to architect and deploy autonomous, self-improving systems within complex corporate environments. Unlike basic chatbot implementations, you will focus on building \"digital colleagues\" that leverage persistent memory and autonomous skill creation to handle high-stakes business logic. Your primary mission is to i"
+    },
+    {
       "id": "linkedin-4462261407",
       "title": "Installers Technical Support",
       "company": "Hikvision Bangladesh",
@@ -421,25 +440,6 @@
       "description_excerpt": "Backend Engineer (Bangladesh) About nsave nsave is a fintech company headquartered in London. Founded by Amer Baroudi and Abdallah AbuHashem, our vision is to \"Protect and grow the wealth of the financially excluded\". We have built a global platform that provide trusted USD accounts, global payments, and investments for individuals from distressed economies, where inflation is high and banking sys"
     },
     {
-      "id": "linkedin-4462771253",
-      "title": "Embedded Systems & SBC Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4462771253",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
-    },
-    {
       "id": "linkedin-4462774205",
       "title": "Computer Vision & Robotics Engineer",
       "company": "Worksprout",
@@ -459,15 +459,15 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     },
     {
-      "id": "linkedin-4461925810",
-      "title": "QA Tester BD",
-      "company": "Core Code io",
+      "id": "linkedin-4464346408",
+      "title": "Project Manager (Open to Internal & External Applicants)",
+      "company": "UNDP Careers",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/qa-tester-bd-at-core-code-io-4461925810",
-      "posted_at": "2026-09-04",
+      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
+      "posted_at": "2026-09-07",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -475,64 +475,26 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused QA Tester to ensure software applications meet functional, usability, performance, and quality standards before release. The ideal candidate will have strong problem-solving skills, attention to detail, and the ability to identify, document, and communicate software issues effectively. Responsibilities Execute manual and automated t"
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4461924815",
-      "title": "Software QA Analyst BD",
-      "company": "Core Code io",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-qa-analyst-bd-at-core-code-io-4461924815",
-      "posted_at": "2026-09-04",
+      "id": "linkedin-4462771253",
+      "title": "Embedded Systems & SBC Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4462771253",
+      "posted_at": "2026-09-03",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Salary negotiable",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Software QA Analyst to evaluate software applications and ensure they meet functional, technical, and business requirements. The ideal candidate will have strong knowledge of QA methodologies, excellent problem-solving skills, and the ability to analyze requirements, design effective test scenarios, identify defects, and communicate"
-    },
-    {
-      "id": "linkedin-4461940515",
-      "title": "Manual QA Tester BD",
-      "company": "Core Code io",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/manual-qa-tester-bd-at-core-code-io-4461940515",
-      "posted_at": "2026-09-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Manual QA Tester to ensure software applications function correctly and meet established quality standards before release. The ideal candidate will have strong testing skills, excellent attention to detail, and the ability to identify, reproduce, document, and communicate software defects clearly. Responsibilities Execute manual tes"
-    },
-    {
-      "id": "linkedin-4461937673",
-      "title": "Quality Assurance Analyst BD",
-      "company": "Core Code io",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-analyst-bd-at-core-code-io-4461937673",
-      "posted_at": "2026-09-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Quality Assurance Analyst to evaluate processes, products, and services to ensure they meet established quality standards and business requirements. The ideal candidate will have strong analytical and problem-solving skills, excellent attention to detail, and the ability to identify issues, analyze root causes, and recommend effecti"
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     },
     {
       "id": "linkedin-4459744244",
@@ -554,15 +516,15 @@
       "description_excerpt": "Qii Creative Internship Program 2026!! 🚀 We’re looking for Qii’s next generation of talent. Join Qii Creative and gain hands-on experience working on real global client projects across marketing, business growth, and technology while building the skills, confidence, and experience to kick-start your career. These are 3-month paid internships, with the opportunity to move into a full-time role base"
     },
     {
-      "id": "linkedin-4464010333",
-      "title": "Unreal Engine Game Developer",
-      "company": "Tiltnek Studios",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/unreal-engine-game-developer-at-tiltnek-studios-4464010333",
-      "posted_at": "2026-09-06",
+      "id": "linkedin-4461924815",
+      "title": "Software QA Analyst BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-qa-analyst-bd-at-core-code-io-4461924815",
+      "posted_at": "2026-09-04",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -570,7 +532,64 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Build gameplay systems and interactive experiences in Unreal Engine 5. 01 — What You'll Do What You'll Do + Implement gameplay mechanics in Blueprints and/or C++ + Integrate art assets and systems + Profile and optimize performance + Collaborate with artists and prototype features 02 — Requirements What We're Looking For + Hands-on UE5 Blueprint experience (C++ a plus) + Understanding of game arch"
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Software QA Analyst to evaluate software applications and ensure they meet functional, technical, and business requirements. The ideal candidate will have strong knowledge of QA methodologies, excellent problem-solving skills, and the ability to analyze requirements, design effective test scenarios, identify defects, and communicate"
+    },
+    {
+      "id": "linkedin-4461925810",
+      "title": "QA Tester BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/qa-tester-bd-at-core-code-io-4461925810",
+      "posted_at": "2026-09-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused QA Tester to ensure software applications meet functional, usability, performance, and quality standards before release. The ideal candidate will have strong problem-solving skills, attention to detail, and the ability to identify, document, and communicate software issues effectively. Responsibilities Execute manual and automated t"
+    },
+    {
+      "id": "linkedin-4461937673",
+      "title": "Quality Assurance Analyst BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-analyst-bd-at-core-code-io-4461937673",
+      "posted_at": "2026-09-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Quality Assurance Analyst to evaluate processes, products, and services to ensure they meet established quality standards and business requirements. The ideal candidate will have strong analytical and problem-solving skills, excellent attention to detail, and the ability to identify issues, analyze root causes, and recommend effecti"
+    },
+    {
+      "id": "linkedin-4461940515",
+      "title": "Manual QA Tester BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/manual-qa-tester-bd-at-core-code-io-4461940515",
+      "posted_at": "2026-09-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Manual QA Tester to ensure software applications function correctly and meet established quality standards before release. The ideal candidate will have strong testing skills, excellent attention to detail, and the ability to identify, reproduce, document, and communicate software defects clearly. Responsibilities Execute manual tes"
     },
     {
       "id": "linkedin-4464001351",
@@ -590,6 +609,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Set up assets, materials and demo scenes in Unreal Engine 5 for our marketplace packs. 01 — What You'll Do What You'll Do + Import and configure assets in UE5 + Build materials and master materials + Assemble demo and showcase scenes with lighting + Set up Nanite/LODs and package for the marketplace 02 — Requirements What We're Looking For + Hands-on UE5 experience + Material editor fundamentals +"
+    },
+    {
+      "id": "linkedin-4464010333",
+      "title": "Unreal Engine Game Developer",
+      "company": "Tiltnek Studios",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/unreal-engine-game-developer-at-tiltnek-studios-4464010333",
+      "posted_at": "2026-09-06",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Build gameplay systems and interactive experiences in Unreal Engine 5. 01 — What You'll Do What You'll Do + Implement gameplay mechanics in Blueprints and/or C++ + Integrate art assets and systems + Profile and optimize performance + Collaborate with artists and prototype features 02 — Requirements What We're Looking For + Hands-on UE5 Blueprint experience (C++ a plus) + Understanding of game arch"
     },
     {
       "id": "linkedin-4457459901",
@@ -649,25 +687,6 @@
       "description_excerpt": "🚀 We’re Hiring Interns! (Java Spring Boot | Android | Laravel) Are you passionate about building real-world software solutions? Inovex Idea Solution Limited is looking for Software Engineering Interns in the following tracks: 🔹 Java Developer (Spring Boot) 🔹 Android Developer (Java) 🔹 Laravel Developer (PHP) 🔧 Responsibilities (based on track): Develop and maintain applications using Java Spring B"
     },
     {
-      "id": "linkedin-4459787192",
-      "title": "Full Stack WordPress Developer Needed !",
-      "company": "Kiwii IT",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
-      "posted_at": "2026-08-31",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
-    },
-    {
       "id": "linkedin-4459780943",
       "title": "Full Stack Php Laravel Developer Needed !",
       "company": "Kiwii IT",
@@ -692,6 +711,25 @@
       "company": "Kiwii IT",
       "location": "Dhaka, Dhaka, Bangladesh",
       "url": "https://bd.linkedin.com/jobs/view/full-stack-shopify-developer-needed-%21-at-kiwii-it-4460003010",
+      "posted_at": "2026-08-31",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
+    },
+    {
+      "id": "linkedin-4459787192",
+      "title": "Full Stack WordPress Developer Needed !",
+      "company": "Kiwii IT",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -742,44 +780,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Openings: 7 Employment Type: Full-time Location: Dhaka, Bangladesh / India Experience Level: Mid Level About Ajentica Ajentica is an agentic AI and software engineering consultancy that helps ambitious organizations design, build and modernize complex digital products. Our teams work across healthcare, pharmacy software, HR technology and other enterprise domains where reliability, security and th"
-    },
-    {
-      "id": "linkedin-4459716844",
-      "title": "Flutter Developer (Fresher, Contract – Revenue Share)",
-      "company": "IDoSync",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/flutter-developer-fresher-contract-%E2%80%93-revenue-share-at-idosync-4459716844",
-      "posted_at": "2026-08-30",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About the Job IDoSync is a cross-device sync app that lets users sync clipboard content, notifications, contacts, and notes across their devices. Most of the UI, state management, and security layer is already built. The core remaining task is wiring up real services (currently connected to stubs) and getting the app ready for launch. How to Apply 📩 Message us on the IDoSync LinkedIn company page:"
-    },
-    {
-      "id": "linkedin-4458310276",
-      "title": "Product Designer",
-      "company": "Strong Force Analytics",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/product-designer-at-strong-force-analytics-4458310276",
-      "posted_at": "2026-08-29",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Strong Force Analytics is US-based AI and data-focused technology company that partners with businesses to design, build, and scale their digital products — from early concept through to production. About the Role As a Product Designer, you own how the product looks, how it feels to use, and how it shows up in public. Design is your core strength. You also build your own designs into working front"
     }
   ]
 }
