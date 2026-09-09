@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-09T11:20:01+00:00",
+  "built_at": "2026-09-09T19:19:07+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-09T11:20:01+00:00",
-  "total_jobs": 217,
-  "needing_review": 129,
+  "dataset_generated_at": "2026-09-09T19:19:07+00:00",
+  "total_jobs": 222,
+  "needing_review": 137,
   "in_this_batch": 40,
-  "remaining_after_batch": 89,
+  "remaining_after_batch": 97,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -345,25 +345,6 @@
       "description_excerpt": "About the Role: We are seeking an AI Engineer specialized in the Hermes Agent framework to architect and deploy autonomous, self-improving systems within complex corporate environments. Unlike basic chatbot implementations, you will focus on building \"digital colleagues\" that leverage persistent memory and autonomous skill creation to handle high-stakes business logic. Your primary mission is to i"
     },
     {
-      "id": "linkedin-4462998864",
-      "title": "Data Scientist",
-      "company": "Neufast",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/data-scientist-at-neufast-4462998864",
-      "posted_at": "2026-09-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Neufast is a VC-backed award-winning HR Tech startup company with the mission to transcend talent recruiter, assessment and management to make it easier, faster and fairer using artificial intelligence such as multi-modal models and LLMs. Our AI-powered SaaS platform is being adopted by educational institute, recruitment firms and enterprise in Asia and beyond. We are passionately looking for tale"
-    },
-    {
       "id": "linkedin-4462261407",
       "title": "Installers Technical Support",
       "company": "Hikvision Bangladesh",
@@ -381,6 +362,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Responsibility Manage installers and provide the training as per requirements Respond to installers inquiries in a timely and professional manner Identify, diagnose, and resolve technical issues Provide technical support to installers via phone, email, or chat Record and document installers issues and resolutions via excel sheets Collaborate with other teams to resolve complex installers issue"
+    },
+    {
+      "id": "linkedin-4462998864",
+      "title": "Data Scientist",
+      "company": "Neufast",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/data-scientist-at-neufast-4462998864",
+      "posted_at": "2026-09-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Neufast is a VC-backed award-winning HR Tech startup company with the mission to transcend talent recruiter, assessment and management to make it easier, faster and fairer using artificial intelligence such as multi-modal models and LLMs. Our AI-powered SaaS platform is being adopted by educational institute, recruitment firms and enterprise in Asia and beyond. We are passionately looking for tale"
     },
     {
       "id": "linkedin-4461888466",
