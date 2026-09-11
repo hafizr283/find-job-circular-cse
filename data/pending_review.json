@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-11T11:18:30+00:00",
+  "built_at": "2026-09-11T15:04:14+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-11T11:18:30+00:00",
-  "total_jobs": 211,
-  "needing_review": 129,
+  "dataset_generated_at": "2026-09-11T15:04:13+00:00",
+  "total_jobs": 212,
+  "needing_review": 130,
   "in_this_batch": 40,
-  "remaining_after_batch": 89,
+  "remaining_after_batch": 90,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -172,6 +172,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Role Overview We are looking for 1–2 Support/QA Interns to assist our technical team with software testing, issue investigation, internal support activities, and ticket triaging. You will work closely with QA, support, backend, and mobile developers to help identify issues faster, maintain clean ticket flow, validate fixes, and support reliable day-to-day software operations. This role is ideal fo"
+    },
+    {
+      "id": "linkedin-4463875578",
+      "title": "Software Engineer ll",
+      "company": "Pluto Labs",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-ll-at-pluto-labs-4463875578",
+      "posted_at": "2026-09-11",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Software Engineer II (SWE 2) — Plutolabs Remote (Monday–Friday) | 120,000 – 140,000 BDT About the Role Plutolabs is looking for a Software Engineer II to contribute to the development of our application. The ideal candidate has solid expertise in JavaScript and its frameworks, working experience with AWS services, and the ability to execute and communicate effectively to ensure timely, high-qualit"
     },
     {
       "id": "linkedin-4462356220",
@@ -752,25 +771,6 @@
       "posted_at": "2026-08-31",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
-    },
-    {
-      "id": "linkedin-4459780943",
-      "title": "Full Stack Php Laravel Developer Needed !",
-      "company": "Kiwii IT",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-php-laravel-developer-needed-%21-at-kiwii-it-4459780943",
-      "posted_at": "2026-08-31",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
