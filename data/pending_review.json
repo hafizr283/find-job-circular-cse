@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-11T19:13:26+00:00",
+  "built_at": "2026-09-11T23:18:33+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-11T19:13:26+00:00",
-  "total_jobs": 213,
-  "needing_review": 131,
+  "dataset_generated_at": "2026-09-11T23:18:33+00:00",
+  "total_jobs": 214,
+  "needing_review": 132,
   "in_this_batch": 40,
-  "remaining_after_batch": 91,
+  "remaining_after_batch": 92,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -172,6 +172,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Role Overview We are looking for 1–2 Support/QA Interns to assist our technical team with software testing, issue investigation, internal support activities, and ticket triaging. You will work closely with QA, support, backend, and mobile developers to help identify issues faster, maintain clean ticket flow, validate fixes, and support reliable day-to-day software operations. This role is ideal fo"
+    },
+    {
+      "id": "linkedin-4465157212",
+      "title": "Cyber Security Analyst",
+      "company": "Nextgen Intelligent Solutions Ltd.",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cyber-security-analyst-at-nextgen-intelligent-solutions-ltd-4465157212",
+      "posted_at": "2026-09-11",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Nextgen Intelligent Solutions Ltd. is a forward-thinking information technology company focused on working with next generation technologies. The organization is driven by innovation and dedicated to delivering cutting-edge solutions to its clients. Team members collaborate on advanced projects that push the boundaries of modern IT capabilities. The company values continuous le"
     },
     {
       "id": "linkedin-4463875578",
@@ -402,11 +421,11 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
     },
     {
-      "id": "linkedin-4464346408",
+      "id": "linkedin-4463805061",
       "title": "Project Manager (Open to Internal & External Applicants)",
-      "company": "UNDP Careers",
+      "company": "International Civil Aviation Organization",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
+      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-international-civil-aviation-organization-4463805061",
       "posted_at": "2026-09-09",
       "regex_job_type": "Fresher job",
       "regex_category": "ITES, Support & Customer Success",
@@ -421,11 +440,11 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4463805061",
+      "id": "linkedin-4464346408",
       "title": "Project Manager (Open to Internal & External Applicants)",
-      "company": "International Civil Aviation Organization",
+      "company": "UNDP Careers",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-international-civil-aviation-organization-4463805061",
+      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
       "posted_at": "2026-09-09",
       "regex_job_type": "Fresher job",
       "regex_category": "ITES, Support & Customer Success",
@@ -761,25 +780,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 We’re Hiring Interns! (Java Spring Boot | Android | Laravel) Are you passionate about building real-world software solutions? Inovex Idea Solution Limited is looking for Software Engineering Interns in the following tracks: 🔹 Java Developer (Spring Boot) 🔹 Android Developer (Java) 🔹 Laravel Developer (PHP) 🔧 Responsibilities (based on track): Develop and maintain applications using Java Spring B"
-    },
-    {
-      "id": "linkedin-4459787192",
-      "title": "Full Stack WordPress Developer Needed !",
-      "company": "Kiwii IT",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-wordpress-developer-needed-%21-at-kiwii-it-4459787192",
-      "posted_at": "2026-08-31",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Skip to content Home Company About Us Management Career Services Web Development Kiwii IT delivers scalable, tailored web development solutions to build your digital foundation and elevate success. Software Development Kiwii IT develops custom software solutions, streamlining operations and driving growth to innovate your business confidently. Digital Marketing Boost your online presence with Kiwi"
     }
   ]
 }
