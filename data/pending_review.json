@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-12T10:44:47+00:00",
+  "built_at": "2026-09-12T14:13:32+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-12T10:44:46+00:00",
-  "total_jobs": 214,
-  "needing_review": 131,
+  "dataset_generated_at": "2026-09-12T14:13:32+00:00",
+  "total_jobs": 216,
+  "needing_review": 133,
   "in_this_batch": 40,
-  "remaining_after_batch": 91,
+  "remaining_after_batch": 93,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,6 +18,26 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4463878319",
+      "title": "Go Developer (Full Stack)",
+      "company": "Strativ AB",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/go-developer-full-stack-at-strativ-ab-4463878319",
+      "posted_at": "2026-09-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
     {
       "id": "linkedin-4462767304",
       "title": "Robotics & Biomedical AI Engineer",
@@ -761,25 +781,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description AKS Khan Pharmaceutical LTD. is a vertically integrated pharmaceutical company that maintains strict quality control from the import of finished and semi-finished drugs through assembly and retail. The organization partners with leading industry manufacturers to source reliable, high-quality products. Its retail operations include stores in high-traffic locations, designed to s"
-    },
-    {
-      "id": "linkedin-4461607106",
-      "title": "Software Engineer Intern (Java Spring Boot | Android | Laravel)",
-      "company": "INovex Idea Solution Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-intern-java-spring-boot-android-laravel-at-inovex-idea-solution-limited-4461607106",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 We’re Hiring Interns! (Java Spring Boot | Android | Laravel) Are you passionate about building real-world software solutions? Inovex Idea Solution Limited is looking for Software Engineering Interns in the following tracks: 🔹 Java Developer (Spring Boot) 🔹 Android Developer (Java) 🔹 Laravel Developer (PHP) 🔧 Responsibilities (based on track): Develop and maintain applications using Java Spring B"
     }
   ]
 }
