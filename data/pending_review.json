@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-12T14:13:32+00:00",
+  "built_at": "2026-09-12T18:24:16+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-12T14:13:32+00:00",
-  "total_jobs": 216,
-  "needing_review": 133,
+  "dataset_generated_at": "2026-09-12T18:24:16+00:00",
+  "total_jobs": 217,
+  "needing_review": 134,
   "in_this_batch": 40,
-  "remaining_after_batch": 93,
+  "remaining_after_batch": 94,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -270,6 +270,25 @@
       "description_excerpt": "Competitive Programmer Intern DeshIT-BD is looking for a passionate Competitive Programmer Intern to join our software development team. This opportunity is ideal for university students who enjoy problem solving, algorithms, data structures, and competitive programming and want to apply their skills to real-world software development. What You’ll Do Solve programming and algorithmic problems effi"
     },
     {
+      "id": "linkedin-4465402862",
+      "title": "Php Laravel Developer",
+      "company": "The waresun Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/php-laravel-developer-at-the-waresun-limited-4465402862",
+      "posted_at": "2026-09-12",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description The waresun Limited is an IT and software development company based in Bangladesh, established on July 7, 2017. The company delivers international freelancing projects and provides services in web design, graphics design, web and software applications, networking, domains, and hosting. With a focus on quality, reliable solutions, and affordable services, The waresun Limited aim"
+    },
+    {
       "id": "linkedin-4463271206",
       "title": "International Client Communication Executive",
       "company": "Ruwaifi Studio Ltd",
@@ -441,11 +460,11 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
     },
     {
-      "id": "linkedin-4463805061",
+      "id": "linkedin-4464346408",
       "title": "Project Manager (Open to Internal & External Applicants)",
-      "company": "International Civil Aviation Organization",
+      "company": "UNDP Careers",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-international-civil-aviation-organization-4463805061",
+      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
       "posted_at": "2026-09-09",
       "regex_job_type": "Fresher job",
       "regex_category": "ITES, Support & Customer Success",
@@ -460,11 +479,11 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4464346408",
+      "id": "linkedin-4463805061",
       "title": "Project Manager (Open to Internal & External Applicants)",
-      "company": "UNDP Careers",
+      "company": "International Civil Aviation Organization",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
+      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-international-civil-aviation-organization-4463805061",
       "posted_at": "2026-09-09",
       "regex_job_type": "Fresher job",
       "regex_category": "ITES, Support & Customer Success",
@@ -762,25 +781,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Set up assets, materials and demo scenes in Unreal Engine 5 for our marketplace packs. 01 — What You'll Do What You'll Do + Import and configure assets in UE5 + Build materials and master materials + Assemble demo and showcase scenes with lighting + Set up Nanite/LODs and package for the marketplace 02 — Requirements What We're Looking For + Hands-on UE5 experience + Material editor fundamentals +"
-    },
-    {
-      "id": "linkedin-4462306041",
-      "title": "IT Specialist",
-      "company": "AKS HEALTHCARE LIMITED",
-      "location": "Chattogram, Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-specialist-at-aks-healthcare-limited-4462306041",
-      "posted_at": "2026-09-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description AKS Khan Pharmaceutical LTD. is a vertically integrated pharmaceutical company that maintains strict quality control from the import of finished and semi-finished drugs through assembly and retail. The organization partners with leading industry manufacturers to source reliable, high-quality products. Its retail operations include stores in high-traffic locations, designed to s"
     }
   ]
 }
