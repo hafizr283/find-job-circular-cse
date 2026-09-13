@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-13T06:09:30+00:00",
+  "built_at": "2026-09-13T11:49:20+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-13T06:09:30+00:00",
-  "total_jobs": 204,
-  "needing_review": 130,
+  "dataset_generated_at": "2026-09-13T11:49:20+00:00",
+  "total_jobs": 205,
+  "needing_review": 131,
   "in_this_batch": 40,
-  "remaining_after_batch": 90,
+  "remaining_after_batch": 91,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -137,6 +137,25 @@
       "description_excerpt": "Competitive Programmer Intern DeshIT-BD is looking for a passionate Competitive Programmer Intern to join our software development team. This opportunity is ideal for university students who enjoy problem solving, algorithms, data structures, and competitive programming and want to apply their skills to real-world software development. What You’ll Do Solve programming and algorithmic problems effi"
     },
     {
+      "id": "linkedin-4466756851",
+      "title": "Software Engineer",
+      "company": "NAAS Solutions Ltd.",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
+      "posted_at": "2026-09-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
+    },
+    {
       "id": "linkedin-4462683547",
       "title": "Job Application Engineer",
       "company": "SKARION",
@@ -230,6 +249,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Software Engineer II (SWE 2) — Plutolabs Remote (Monday–Friday) | 120,000 – 140,000 BDT About the Role Plutolabs is looking for a Software Engineer II to contribute to the development of our application. The ideal candidate has solid expertise in JavaScript and its frameworks, working experience with AWS services, and the ability to execute and communicate effectively to ensure timely, high-qualit"
+    },
+    {
+      "id": "linkedin-4465456528",
+      "title": "SOC Analyst",
+      "company": "Nextgen Intelligent Solutions Ltd.",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/soc-analyst-at-nextgen-intelligent-solutions-ltd-4465456528",
+      "posted_at": "2026-09-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Nextgen Intelligent Solutions Ltd. is a forward-thinking information technology company focused on next-generation technologies and innovative solutions. The organization is committed to staying at the forefront of the IT landscape, continuously exploring emerging tools and methodologies. Team members work on cutting-edge projects that address complex business and security chal"
     },
     {
       "id": "linkedin-4462356220",
@@ -743,44 +781,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Qii Creative Internship Program 2026!! 🚀 We’re looking for Qii’s next generation of talent. Join Qii Creative and gain hands-on experience working on real global client projects across marketing, business growth, and technology while building the skills, confidence, and experience to kick-start your career. These are 3-month paid internships, with the opportunity to move into a full-time role base"
-    },
-    {
-      "id": "linkedin-4464010333",
-      "title": "Unreal Engine Game Developer",
-      "company": "Tiltnek Studios",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/unreal-engine-game-developer-at-tiltnek-studios-4464010333",
-      "posted_at": "2026-09-06",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Build gameplay systems and interactive experiences in Unreal Engine 5. 01 — What You'll Do What You'll Do + Implement gameplay mechanics in Blueprints and/or C++ + Integrate art assets and systems + Profile and optimize performance + Collaborate with artists and prototype features 02 — Requirements What We're Looking For + Hands-on UE5 Blueprint experience (C++ a plus) + Understanding of game arch"
-    },
-    {
-      "id": "linkedin-4464001351",
-      "title": "Junior Unreal Engine Artist",
-      "company": "Tiltnek Studios",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-unreal-engine-artist-at-tiltnek-studios-4464001351",
-      "posted_at": "2026-09-06",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Set up assets, materials and demo scenes in Unreal Engine 5 for our marketplace packs. 01 — What You'll Do What You'll Do + Import and configure assets in UE5 + Build materials and master materials + Assemble demo and showcase scenes with lighting + Set up Nanite/LODs and package for the marketplace 02 — Requirements What We're Looking For + Hands-on UE5 experience + Material editor fundamentals +"
     }
   ]
 }
