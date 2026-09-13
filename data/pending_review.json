@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-09-13T18:54:24+00:00",
+  "built_at": "2026-09-13T23:10:50+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-13T18:54:24+00:00",
-  "total_jobs": 202,
+  "dataset_generated_at": "2026-09-13T23:10:50+00:00",
+  "total_jobs": 203,
   "needing_review": 130,
   "in_this_batch": 40,
   "remaining_after_batch": 90,
@@ -25,26 +25,6 @@
       "location": "Dhaka, Bangladesh",
       "url": "https://bd.linkedin.com/jobs/view/go-developer-full-stack-at-strativ-ab-4463878319",
       "posted_at": "2026-09-09",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4463229401",
-      "title": "Software QA Engineer",
-      "company": "Talent Centric",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-qa-engineer-at-talent-centric-4463229401",
-      "posted_at": "2026-09-08",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
@@ -782,6 +762,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused QA Tester to ensure software applications meet functional, usability, performance, and quality standards before release. The ideal candidate will have strong problem-solving skills, attention to detail, and the ability to identify, document, and communicate software issues effectively. Responsibilities Execute manual and automated t"
+    },
+    {
+      "id": "linkedin-4459744244",
+      "title": "Paid Internship Program",
+      "company": "Qii Creative",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/paid-internship-program-at-qii-creative-4459744244",
+      "posted_at": "2026-08-30",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Qii Creative Internship Program 2026!! 🚀 We’re looking for Qii’s next generation of talent. Join Qii Creative and gain hands-on experience working on real global client projects across marketing, business growth, and technology while building the skills, confidence, and experience to kick-start your career. These are 3-month paid internships, with the opportunity to move into a full-time role base"
     }
   ]
 }
