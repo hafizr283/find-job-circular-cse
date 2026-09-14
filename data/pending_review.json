@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-13T23:10:50+00:00",
+  "built_at": "2026-09-14T06:17:36+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-13T23:10:50+00:00",
-  "total_jobs": 203,
-  "needing_review": 130,
+  "dataset_generated_at": "2026-09-14T06:17:36+00:00",
+  "total_jobs": 206,
+  "needing_review": 132,
   "in_this_batch": 40,
-  "remaining_after_batch": 90,
+  "remaining_after_batch": 92,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -59,26 +59,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4460648300",
-      "title": "Backend Engineer – Python & AI",
-      "company": "Pipeline Co., Ltd.",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/backend-engineer-%E2%80%93-python-ai-at-pipeline-co-ltd-4460648300",
-      "posted_at": "2026-09-01",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4451120762",
       "title": "Test Engineer",
       "company": "Niyukti Systems, Inc",
@@ -97,6 +77,26 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are looking for a Test Engineer who will thoroughly inspect our products before theyre launched. As a Test Engineer in our company, you will work closely with the production team to understand why were building a product and what the specific requirements are. Then, you will run a series of tests through all stages of production to identify potential malfunctions and recommend improvements. Ult"
+    },
+    {
+      "id": "linkedin-4460648300",
+      "title": "Backend Engineer – Python & AI",
+      "company": "Pipeline Co., Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/backend-engineer-%E2%80%93-python-ai-at-pipeline-co-ltd-4460648300",
+      "posted_at": "2026-09-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4326172415",
@@ -154,6 +154,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
+    },
+    {
+      "id": "linkedin-4465492699",
+      "title": "🚀 Hiring: Elementor & Figma-to-WordPress Specialist (Remote / Contract)",
+      "company": "The KR Technology",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/%F0%9F%9A%80-hiring-elementor-figma-to-wordpress-specialist-remote-contract-at-the-kr-technology-4465492699",
+      "posted_at": "2026-09-14",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "The KR Technology is looking for a WordPress + Elementor specialist to join our project pool on a remote, contractual, per-project basis . If you're sharp with WP backend work, plugin customization, and turning Figma designs into pixel-perfect Elementor builds — we want to hear from you. 📍 100% Remote — work from anywhere What you'll do: Build and customize WordPress sites using Elementor Convert "
     },
     {
       "id": "linkedin-4462683547",
@@ -498,25 +517,6 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
     },
     {
-      "id": "linkedin-4464346408",
-      "title": "Project Manager (Open to Internal & External Applicants)",
-      "company": "UNDP Careers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
-      "posted_at": "2026-09-09",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
-    },
-    {
       "id": "linkedin-4463805061",
       "title": "Project Manager (Open to Internal & External Applicants)",
       "company": "International Civil Aviation Organization",
@@ -553,6 +553,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About the Role: We are seeking an AI Engineer specialized in the Hermes Agent framework to architect and deploy autonomous, self-improving systems within complex corporate environments. Unlike basic chatbot implementations, you will focus on building \"digital colleagues\" that leverage persistent memory and autonomous skill creation to handle high-stakes business logic. Your primary mission is to i"
+    },
+    {
+      "id": "linkedin-4464346408",
+      "title": "Project Manager (Open to Internal & External Applicants)",
+      "company": "UNDP Careers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
+      "posted_at": "2026-09-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
       "id": "linkedin-4462998864",
@@ -762,25 +781,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused QA Tester to ensure software applications meet functional, usability, performance, and quality standards before release. The ideal candidate will have strong problem-solving skills, attention to detail, and the ability to identify, document, and communicate software issues effectively. Responsibilities Execute manual and automated t"
-    },
-    {
-      "id": "linkedin-4459744244",
-      "title": "Paid Internship Program",
-      "company": "Qii Creative",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/paid-internship-program-at-qii-creative-4459744244",
-      "posted_at": "2026-08-30",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Qii Creative Internship Program 2026!! 🚀 We’re looking for Qii’s next generation of talent. Join Qii Creative and gain hands-on experience working on real global client projects across marketing, business growth, and technology while building the skills, confidence, and experience to kick-start your career. These are 3-month paid internships, with the opportunity to move into a full-time role base"
     }
   ]
 }
