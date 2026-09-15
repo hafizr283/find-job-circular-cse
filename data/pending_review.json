@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-09-15T19:44:34+00:00",
+  "built_at": "2026-09-15T23:35:48+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-15T19:44:33+00:00",
+  "dataset_generated_at": "2026-09-15T23:35:47+00:00",
   "total_jobs": 199,
   "needing_review": 128,
   "in_this_batch": 40,
@@ -194,25 +194,6 @@
       "description_excerpt": "We’re Hiring: Application Engineering Intern Skarion is looking for smart, analytical, detail oriented interns who can work on job applications and career campaigns for our client base in the U.S. market. This is not simply a data entry role. You will need to understand candidate profiles, analyze job descriptions, identify suitable opportunities, make judgment calls, conduct research, and complet"
     },
     {
-      "id": "linkedin-4467712129",
-      "title": "Salesforce Technical Consultant",
-      "company": "RocketPhone.ai",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-at-rocketphone-ai-4467712129",
-      "posted_at": "2026-09-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Salesforce Technical Consultant Company: RocketCX, part of RocketPhone.ai Location: Dhaka, Bangladesh Employment: Full-time Positions available: Three Working arrangements: Regular, agreed working-hours overlap with our UK team About RocketCX RocketCX is a Salesforce systems integrator and part of the wider RocketPhone business. We help organisations implement, improve and extend Salesforce throug"
-    },
-    {
       "id": "linkedin-4466500334",
       "title": "Software Engineer in Test",
       "company": "Populate",
@@ -230,6 +211,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
+    },
+    {
+      "id": "linkedin-4467712129",
+      "title": "Salesforce Technical Consultant",
+      "company": "RocketPhone.ai",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-at-rocketphone-ai-4467712129",
+      "posted_at": "2026-09-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Salesforce Technical Consultant Company: RocketCX, part of RocketPhone.ai Location: Dhaka, Bangladesh Employment: Full-time Positions available: Three Working arrangements: Regular, agreed working-hours overlap with our UK team About RocketCX RocketCX is a Salesforce systems integrator and part of the wider RocketPhone business. We help organisations implement, improve and extend Salesforce throug"
     },
     {
       "id": "linkedin-4466181108",
