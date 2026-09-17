@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-17T11:39:26+00:00",
+  "built_at": "2026-09-17T19:51:11+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-17T11:39:26+00:00",
-  "total_jobs": 197,
-  "needing_review": 130,
+  "dataset_generated_at": "2026-09-17T19:51:11+00:00",
+  "total_jobs": 199,
+  "needing_review": 134,
   "in_this_batch": 40,
-  "remaining_after_batch": 90,
+  "remaining_after_batch": 94,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -27,26 +27,6 @@
       "posted_at": "2026-09-09",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4465068112",
-      "title": "UI/UX Designer",
-      "company": "Fonix IT",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-fonix-it-4465068112",
-      "posted_at": "2026-09-09",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -107,6 +87,46 @@
       "posted_at": "2026-09-01",
       "regex_job_type": "Fresher job",
       "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4459660930",
+      "title": "Customer Success Associate",
+      "company": "Enerzyz",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-associate-at-enerzyz-4459660930",
+      "posted_at": "2026-08-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4455034462",
+      "title": "Full-Stack Developer (Go and React)",
+      "company": "Strativ AB",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-go-and-react-at-strativ-ab-4455034462",
+      "posted_at": "2026-08-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -763,25 +783,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Responsibility Manage installers and provide the training as per requirements Respond to installers inquiries in a timely and professional manner Identify, diagnose, and resolve technical issues Provide technical support to installers via phone, email, or chat Record and document installers issues and resolutions via excel sheets Collaborate with other teams to resolve complex installers issue"
-    },
-    {
-      "id": "linkedin-4462998864",
-      "title": "Data Scientist",
-      "company": "Neufast",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/data-scientist-at-neufast-4462998864",
-      "posted_at": "2026-09-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Neufast is a VC-backed award-winning HR Tech startup company with the mission to transcend talent recruiter, assessment and management to make it easier, faster and fairer using artificial intelligence such as multi-modal models and LLMs. Our AI-powered SaaS platform is being adopted by educational institute, recruitment firms and enterprise in Asia and beyond. We are passionately looking for tale"
     }
   ]
 }
