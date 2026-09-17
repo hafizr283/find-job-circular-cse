@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-17T06:13:46+00:00",
+  "built_at": "2026-09-17T11:39:26+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-17T06:13:45+00:00",
-  "total_jobs": 191,
-  "needing_review": 127,
+  "dataset_generated_at": "2026-09-17T11:39:26+00:00",
+  "total_jobs": 197,
+  "needing_review": 130,
   "in_this_batch": 40,
-  "remaining_after_batch": 87,
+  "remaining_after_batch": 90,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -138,25 +138,6 @@
       "description_excerpt": "📌Company Description BugsBD Limited (Your Cyber Security Partner) is a company located in Dhaka, Bangladesh. We are a team of young and skilled security professionals who work tirelessly to provide the best possible cybersecurity solutions for our clients. We emphasize networking with different skill sets in order to ensure we can provide absolute security solutions. Location: Dhaka, Bangladesh Du"
     },
     {
-      "id": "linkedin-4466876875",
-      "title": "Computer Vision Engineer (Remote)",
-      "company": "HeySoham",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-engineer-remote-at-heysoham-4466876875",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
-    },
-    {
       "id": "linkedin-4468210627",
       "title": "Facilities Intern (Bangladesh)",
       "company": "Athelas",
@@ -176,6 +157,25 @@
       "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     },
     {
+      "id": "linkedin-4466876875",
+      "title": "Computer Vision Engineer (Remote)",
+      "company": "HeySoham",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-engineer-remote-at-heysoham-4466876875",
+      "posted_at": "2026-09-16",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
+    },
+    {
       "id": "linkedin-4464529362",
       "title": "Competitive Programmer Intern",
       "company": "tecklyne",
@@ -193,6 +193,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Competitive Programmer Intern DeshIT-BD is looking for a passionate Competitive Programmer Intern to join our software development team. This opportunity is ideal for university students who enjoy problem solving, algorithms, data structures, and competitive programming and want to apply their skills to real-world software development. What You’ll Do Solve programming and algorithmic problems effi"
+    },
+    {
+      "id": "linkedin-4467164983",
+      "title": "Information & technology, internet, computer software",
+      "company": "Lead Generation Work Family",
+      "location": "Gopalganj District, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/information-technology-internet-computer-software-at-lead-generation-work-family-4467164983",
+      "posted_at": "2026-09-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Lead Generation Work Family is a dynamic B2B lead generation provider that delivers real, fresh, and actionable business information to clients on a daily basis. The team focuses on helping organizations from diverse industries grow by supplying high-quality data that supports sales and marketing efforts. As an energetic, results-oriented digital marketing group, the company of"
     },
     {
       "id": "linkedin-4466756851",
@@ -252,44 +271,6 @@
       "description_excerpt": "We’re Hiring: Application Engineering Intern Skarion is looking for smart, analytical, detail oriented interns who can work on job applications and career campaigns for our client base in the U.S. market. This is not simply a data entry role. You will need to understand candidate profiles, analyze job descriptions, identify suitable opportunities, make judgment calls, conduct research, and complet"
     },
     {
-      "id": "linkedin-4466181108",
-      "title": "UI/UX + Graphic Designer",
-      "company": "Nusabi Labs",
-      "location": "Paltan, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-%2B-graphic-designer-at-nusabi-labs-4466181108",
-      "posted_at": "2026-09-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We're Hiring — UI/UX + Graphic Designer 📍 Paltan, Dhaka | Full-time | On-site About InovixLabs InovixLabs is a USA-based technology company building modern web, mobile, and AI-assisted solutions for startups, agencies, and growing businesses — including custom SaaS platforms, driving school management systems, e-learning platforms, and CRM/ERP tools. We deliver end-to-end product development, from"
-    },
-    {
-      "id": "linkedin-4462609552",
-      "title": "Founder’s Associate - Intern",
-      "company": "Rubik - Full-stack Design Partner",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/founder%E2%80%99s-associate-intern-at-rubik-full-stack-design-partner-4462609552",
-      "posted_at": "2026-09-05",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary: 8",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About the Role We are looking for a Founder’s Associate - Intern to support our team with content research, marketing research, and copy ideas. You will work closely with our CEO to research ideas, organize insights, draft content, improve messaging, and support the marketing team’s day-to-day content and marketing workflow. The ideal person is curious, organized, comfortable with research, and in"
-    },
-    {
       "id": "linkedin-4466500334",
       "title": "Software Engineer in Test",
       "company": "Populate",
@@ -328,6 +309,44 @@
       "description_excerpt": "Salesforce Technical Consultant Company: RocketCX, part of RocketPhone.ai Location: Dhaka, Bangladesh Employment: Full-time Positions available: Three Working arrangements: Regular, agreed working-hours overlap with our UK team About RocketCX RocketCX is a Salesforce systems integrator and part of the wider RocketPhone business. We help organisations implement, improve and extend Salesforce throug"
     },
     {
+      "id": "linkedin-4466181108",
+      "title": "UI/UX + Graphic Designer",
+      "company": "Nusabi Labs",
+      "location": "Paltan, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-ux-%2B-graphic-designer-at-nusabi-labs-4466181108",
+      "posted_at": "2026-09-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We're Hiring — UI/UX + Graphic Designer 📍 Paltan, Dhaka | Full-time | On-site About InovixLabs InovixLabs is a USA-based technology company building modern web, mobile, and AI-assisted solutions for startups, agencies, and growing businesses — including custom SaaS platforms, driving school management systems, e-learning platforms, and CRM/ERP tools. We deliver end-to-end product development, from"
+    },
+    {
+      "id": "linkedin-4462609552",
+      "title": "Founder’s Associate - Intern",
+      "company": "Rubik - Full-stack Design Partner",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/founder%E2%80%99s-associate-intern-at-rubik-full-stack-design-partner-4462609552",
+      "posted_at": "2026-09-05",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary: 8",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About the Role We are looking for a Founder’s Associate - Intern to support our team with content research, marketing research, and copy ideas. You will work closely with our CEO to research ideas, organize insights, draft content, improve messaging, and support the marketing team’s day-to-day content and marketing workflow. The ideal person is curious, organized, comfortable with research, and in"
+    },
+    {
       "id": "linkedin-4462927405",
       "title": "Support / QA Intern",
       "company": "EWN Technology",
@@ -347,15 +366,15 @@
       "description_excerpt": "Role Overview We are looking for 1–2 Support/QA Interns to assist our technical team with software testing, issue investigation, internal support activities, and ticket triaging. You will work closely with QA, support, backend, and mobile developers to help identify issues faster, maintain clean ticket flow, validate fixes, and support reliable day-to-day software operations. This role is ideal fo"
     },
     {
-      "id": "linkedin-4467047672",
-      "title": "Security Engineer",
+      "id": "linkedin-4467036769",
+      "title": "Junior SOC Analyst",
       "company": "Bengal Airlift Limited",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-bengal-airlift-limited-4467047672",
+      "url": "https://bd.linkedin.com/jobs/view/junior-soc-analyst-at-bengal-airlift-limited-4467036769",
       "posted_at": "2026-09-14",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -366,15 +385,15 @@
       "description_excerpt": "Protecting Enterprise Security Founded on the principle that every organization deserves enterprise-grade security, regardless of size. About Bengal InfoSec Limited is an enterprise cybersecurity firm and a strategic business unit of the Bengal Airlift Group. We deliver comprehensive Security Operations Center (SOC) services, combining advanced open-source technologies with a team of 200+ certifie"
     },
     {
-      "id": "linkedin-4467036769",
-      "title": "Junior SOC Analyst",
+      "id": "linkedin-4467047672",
+      "title": "Security Engineer",
       "company": "Bengal Airlift Limited",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-soc-analyst-at-bengal-airlift-limited-4467036769",
+      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-bengal-airlift-limited-4467047672",
       "posted_at": "2026-09-14",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -727,25 +746,6 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4462998864",
-      "title": "Data Scientist",
-      "company": "Neufast",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/data-scientist-at-neufast-4462998864",
-      "posted_at": "2026-09-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Neufast is a VC-backed award-winning HR Tech startup company with the mission to transcend talent recruiter, assessment and management to make it easier, faster and fairer using artificial intelligence such as multi-modal models and LLMs. Our AI-powered SaaS platform is being adopted by educational institute, recruitment firms and enterprise in Asia and beyond. We are passionately looking for tale"
-    },
-    {
       "id": "linkedin-4462261407",
       "title": "Installers Technical Support",
       "company": "Hikvision Bangladesh",
@@ -765,15 +765,15 @@
       "description_excerpt": "Job Responsibility Manage installers and provide the training as per requirements Respond to installers inquiries in a timely and professional manner Identify, diagnose, and resolve technical issues Provide technical support to installers via phone, email, or chat Record and document installers issues and resolutions via excel sheets Collaborate with other teams to resolve complex installers issue"
     },
     {
-      "id": "linkedin-4461888466",
-      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (BBS) - Job ID : 1530223",
-      "company": "BRAC University",
+      "id": "linkedin-4462998864",
+      "title": "Data Scientist",
+      "company": "Neufast",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-bbs-job-id-1530223-at-brac-university-4461888466",
-      "posted_at": "2026-09-07",
+      "url": "https://bd.linkedin.com/jobs/view/data-scientist-at-neufast-4462998864",
+      "posted_at": "2026-09-08",
       "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -781,7 +781,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (BBS) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times. B"
+      "description_excerpt": "Neufast is a VC-backed award-winning HR Tech startup company with the mission to transcend talent recruiter, assessment and management to make it easier, faster and fairer using artificial intelligence such as multi-modal models and LLMs. Our AI-powered SaaS platform is being adopted by educational institute, recruitment firms and enterprise in Asia and beyond. We are passionately looking for tale"
     }
   ]
 }
