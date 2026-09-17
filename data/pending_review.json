@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-16T23:42:30+00:00",
+  "built_at": "2026-09-17T06:13:46+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-16T23:42:29+00:00",
-  "total_jobs": 192,
-  "needing_review": 128,
+  "dataset_generated_at": "2026-09-17T06:13:45+00:00",
+  "total_jobs": 191,
+  "needing_review": 127,
   "in_this_batch": 40,
-  "remaining_after_batch": 88,
+  "remaining_after_batch": 87,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -27,6 +27,26 @@
       "posted_at": "2026-09-09",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4465068112",
+      "title": "UI/UX Designer",
+      "company": "Fonix IT",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-fonix-it-4465068112",
+      "posted_at": "2026-09-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -118,25 +138,6 @@
       "description_excerpt": "📌Company Description BugsBD Limited (Your Cyber Security Partner) is a company located in Dhaka, Bangladesh. We are a team of young and skilled security professionals who work tirelessly to provide the best possible cybersecurity solutions for our clients. We emphasize networking with different skill sets in order to ensure we can provide absolute security solutions. Location: Dhaka, Bangladesh Du"
     },
     {
-      "id": "linkedin-4468210627",
-      "title": "Facilities Intern (Bangladesh)",
-      "company": "Athelas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
-    },
-    {
       "id": "linkedin-4466876875",
       "title": "Computer Vision Engineer (Remote)",
       "company": "HeySoham",
@@ -154,6 +155,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
+    },
+    {
+      "id": "linkedin-4468210627",
+      "title": "Facilities Intern (Bangladesh)",
+      "company": "Athelas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
+      "posted_at": "2026-09-16",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     },
     {
       "id": "linkedin-4464529362",
@@ -232,44 +252,6 @@
       "description_excerpt": "We’re Hiring: Application Engineering Intern Skarion is looking for smart, analytical, detail oriented interns who can work on job applications and career campaigns for our client base in the U.S. market. This is not simply a data entry role. You will need to understand candidate profiles, analyze job descriptions, identify suitable opportunities, make judgment calls, conduct research, and complet"
     },
     {
-      "id": "linkedin-4466500334",
-      "title": "Software Engineer in Test",
-      "company": "Populate",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
-      "posted_at": "2026-09-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
-    },
-    {
-      "id": "linkedin-4467712129",
-      "title": "Salesforce Technical Consultant",
-      "company": "RocketPhone.ai",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-at-rocketphone-ai-4467712129",
-      "posted_at": "2026-09-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Salesforce Technical Consultant Company: RocketCX, part of RocketPhone.ai Location: Dhaka, Bangladesh Employment: Full-time Positions available: Three Working arrangements: Regular, agreed working-hours overlap with our UK team About RocketCX RocketCX is a Salesforce systems integrator and part of the wider RocketPhone business. We help organisations implement, improve and extend Salesforce throug"
-    },
-    {
       "id": "linkedin-4466181108",
       "title": "UI/UX + Graphic Designer",
       "company": "Nusabi Labs",
@@ -306,6 +288,44 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About the Role We are looking for a Founder’s Associate - Intern to support our team with content research, marketing research, and copy ideas. You will work closely with our CEO to research ideas, organize insights, draft content, improve messaging, and support the marketing team’s day-to-day content and marketing workflow. The ideal person is curious, organized, comfortable with research, and in"
+    },
+    {
+      "id": "linkedin-4466500334",
+      "title": "Software Engineer in Test",
+      "company": "Populate",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
+      "posted_at": "2026-09-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
+    },
+    {
+      "id": "linkedin-4467712129",
+      "title": "Salesforce Technical Consultant",
+      "company": "RocketPhone.ai",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-at-rocketphone-ai-4467712129",
+      "posted_at": "2026-09-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Salesforce Technical Consultant Company: RocketCX, part of RocketPhone.ai Location: Dhaka, Bangladesh Employment: Full-time Positions available: Three Working arrangements: Regular, agreed working-hours overlap with our UK team About RocketCX RocketCX is a Salesforce systems integrator and part of the wider RocketPhone business. We help organisations implement, improve and extend Salesforce throug"
     },
     {
       "id": "linkedin-4462927405",
@@ -707,25 +727,6 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4462261407",
-      "title": "Installers Technical Support",
-      "company": "Hikvision Bangladesh",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/installers-technical-support-at-hikvision-bangladesh-4462261407",
-      "posted_at": "2026-09-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Responsibility Manage installers and provide the training as per requirements Respond to installers inquiries in a timely and professional manner Identify, diagnose, and resolve technical issues Provide technical support to installers via phone, email, or chat Record and document installers issues and resolutions via excel sheets Collaborate with other teams to resolve complex installers issue"
-    },
-    {
       "id": "linkedin-4462998864",
       "title": "Data Scientist",
       "company": "Neufast",
@@ -745,6 +746,25 @@
       "description_excerpt": "Neufast is a VC-backed award-winning HR Tech startup company with the mission to transcend talent recruiter, assessment and management to make it easier, faster and fairer using artificial intelligence such as multi-modal models and LLMs. Our AI-powered SaaS platform is being adopted by educational institute, recruitment firms and enterprise in Asia and beyond. We are passionately looking for tale"
     },
     {
+      "id": "linkedin-4462261407",
+      "title": "Installers Technical Support",
+      "company": "Hikvision Bangladesh",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/installers-technical-support-at-hikvision-bangladesh-4462261407",
+      "posted_at": "2026-09-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Responsibility Manage installers and provide the training as per requirements Respond to installers inquiries in a timely and professional manner Identify, diagnose, and resolve technical issues Provide technical support to installers via phone, email, or chat Record and document installers issues and resolutions via excel sheets Collaborate with other teams to resolve complex installers issue"
+    },
+    {
       "id": "linkedin-4461888466",
       "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (BBS) - Job ID : 1530223",
       "company": "BRAC University",
@@ -762,25 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (BBS) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary times. B"
-    },
-    {
-      "id": "linkedin-4462963397",
-      "title": "Pre-Sales Engineer",
-      "company": "Hikvision",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/pre-sales-engineer-at-hikvision-4462963397",
-      "posted_at": "2026-09-07",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Hikvision, founded in 2001, is a global leader in integrated security and scenario-based digitalization, driven by AI-powered Internet of Things (AIoT) technologies. The company focuses on machine perception and artificial intelligence to serve diverse industries and help organizations enhance safety and operational efficiency. Guided by core values of professionalism, reliabil"
     }
   ]
 }
