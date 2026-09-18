@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-18T19:05:16+00:00",
+  "built_at": "2026-09-18T23:19:44+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-18T19:05:16+00:00",
-  "total_jobs": 196,
-  "needing_review": 131,
+  "dataset_generated_at": "2026-09-18T23:19:44+00:00",
+  "total_jobs": 193,
+  "needing_review": 130,
   "in_this_batch": 40,
-  "remaining_after_batch": 91,
+  "remaining_after_batch": 90,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -212,6 +212,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
+    },
+    {
+      "id": "linkedin-4467836584",
+      "title": "Flutter developer",
+      "company": "FarmLogic.Tech",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/flutter-developer-at-farmlogic-tech-4467836584",
+      "posted_at": "2026-09-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Title: Flutter Developer Company: Farm Logic Tech (farmlogic.tech) Location: Dhaka, Bangladesh (Onsite) Job Type: Full-Time About Farm Logic Tech Farm Logic Tech is a fast-growing IT service firm dedicated to engineering bespoke digital solutions, scalable platforms, and high-performance applications. We are expanding our mobile engineering team and looking for a passionate Flutter Developer w"
     },
     {
       "id": "linkedin-4469160036",
@@ -423,15 +442,15 @@
       "description_excerpt": "Role Overview We are looking for 1–2 Support/QA Interns to assist our technical team with software testing, issue investigation, internal support activities, and ticket triaging. You will work closely with QA, support, backend, and mobile developers to help identify issues faster, maintain clean ticket flow, validate fixes, and support reliable day-to-day software operations. This role is ideal fo"
     },
     {
-      "id": "linkedin-4467036769",
-      "title": "Junior SOC Analyst",
+      "id": "linkedin-4467047672",
+      "title": "Security Engineer",
       "company": "Bengal Airlift Limited",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-soc-analyst-at-bengal-airlift-limited-4467036769",
+      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-bengal-airlift-limited-4467047672",
       "posted_at": "2026-09-14",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -442,15 +461,15 @@
       "description_excerpt": "Protecting Enterprise Security Founded on the principle that every organization deserves enterprise-grade security, regardless of size. About Bengal InfoSec Limited is an enterprise cybersecurity firm and a strategic business unit of the Bengal Airlift Group. We deliver comprehensive Security Operations Center (SOC) services, combining advanced open-source technologies with a team of 200+ certifie"
     },
     {
-      "id": "linkedin-4467047672",
-      "title": "Security Engineer",
+      "id": "linkedin-4467036769",
+      "title": "Junior SOC Analyst",
       "company": "Bengal Airlift Limited",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-bengal-airlift-limited-4467047672",
+      "url": "https://bd.linkedin.com/jobs/view/junior-soc-analyst-at-bengal-airlift-limited-4467036769",
       "posted_at": "2026-09-14",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -708,44 +727,6 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
-      "id": "linkedin-4462769280",
-      "title": "IoT Tools Developer",
-      "company": "Worksprout",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-tools-developer-at-worksprout-4462769280",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Edge & Embedded IoT Tools Developer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardware Prototypin"
-    },
-    {
-      "id": "linkedin-4462770285",
-      "title": "MLOps & Anomaly Detection Engineer",
-      "company": "Worksprout",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mlops-anomaly-detection-engineer-at-worksprout-4462770285",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Custom AI & ML MLOps & Anomaly Detection Engineer Dhaka, Bangladesh Full-time 09:00 – 18:00 (BST) Hybrid 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutions, Hardw"
-    },
-    {
       "id": "linkedin-4463805061",
       "title": "Project Manager (Open to Internal & External Applicants)",
       "company": "International Civil Aviation Organization",
@@ -782,6 +763,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About the Role: We are seeking an AI Engineer specialized in the Hermes Agent framework to architect and deploy autonomous, self-improving systems within complex corporate environments. Unlike basic chatbot implementations, you will focus on building \"digital colleagues\" that leverage persistent memory and autonomous skill creation to handle high-stakes business logic. Your primary mission is to i"
+    },
+    {
+      "id": "linkedin-4464346408",
+      "title": "Project Manager (Open to Internal & External Applicants)",
+      "company": "UNDP Careers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
+      "posted_at": "2026-09-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     }
   ]
 }
