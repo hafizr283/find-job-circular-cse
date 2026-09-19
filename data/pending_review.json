@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-18T23:19:44+00:00",
+  "built_at": "2026-09-19T05:53:07+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-18T23:19:44+00:00",
-  "total_jobs": 193,
-  "needing_review": 130,
+  "dataset_generated_at": "2026-09-19T05:53:07+00:00",
+  "total_jobs": 186,
+  "needing_review": 129,
   "in_this_batch": 40,
-  "remaining_after_batch": 90,
+  "remaining_after_batch": 89,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -157,6 +157,25 @@
       "description_excerpt": "📌Company Description BugsBD Limited (Your Cyber Security Partner) is a company located in Dhaka, Bangladesh. We are a team of young and skilled security professionals who work tirelessly to provide the best possible cybersecurity solutions for our clients. We emphasize networking with different skill sets in order to ensure we can provide absolute security solutions. Location: Dhaka, Bangladesh Du"
     },
     {
+      "id": "linkedin-4466876875",
+      "title": "Computer Vision Engineer (Remote)",
+      "company": "HeySoham",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-engineer-remote-at-heysoham-4466876875",
+      "posted_at": "2026-09-16",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
+    },
+    {
       "id": "linkedin-4468210627",
       "title": "Facilities Intern (Bangladesh)",
       "company": "Athelas",
@@ -193,25 +212,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Software Engineer | Meridian Review Group Remote | Full-Time or Long-Term Contract | €5,500–€7,000 per month depending on experience Meridian Review Group is expanding its internal technology team and is looking for a Software Engineer to help build and improve the digital infrastructure behind our growing network of business and markets publications. You’ll be joining an existing internal enginee"
-    },
-    {
-      "id": "linkedin-4466876875",
-      "title": "Computer Vision Engineer (Remote)",
-      "company": "HeySoham",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-engineer-remote-at-heysoham-4466876875",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
     },
     {
       "id": "linkedin-4467836584",
@@ -347,25 +347,6 @@
       "description_excerpt": "We’re Hiring: Application Engineering Intern Skarion is looking for smart, analytical, detail oriented interns who can work on job applications and career campaigns for our client base in the U.S. market. This is not simply a data entry role. You will need to understand candidate profiles, analyze job descriptions, identify suitable opportunities, make judgment calls, conduct research, and complet"
     },
     {
-      "id": "linkedin-4466500334",
-      "title": "Software Engineer in Test",
-      "company": "Populate",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
-      "posted_at": "2026-09-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
-    },
-    {
       "id": "linkedin-4467712129",
       "title": "Salesforce Technical Consultant",
       "company": "RocketPhone.ai",
@@ -421,6 +402,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About the Role We are looking for a Founder’s Associate - Intern to support our team with content research, marketing research, and copy ideas. You will work closely with our CEO to research ideas, organize insights, draft content, improve messaging, and support the marketing team’s day-to-day content and marketing workflow. The ideal person is curious, organized, comfortable with research, and in"
+    },
+    {
+      "id": "linkedin-4466500334",
+      "title": "Software Engineer in Test",
+      "company": "Populate",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
+      "posted_at": "2026-09-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
     },
     {
       "id": "linkedin-4462927405",
@@ -632,6 +632,25 @@
       "description_excerpt": "Company Description DevFinity Business Solutions delivers high-caliber BPO& IT infrastructure tailored for the U.S. various industries, enabling clients to focus on strategic growth and relationships while it manages mission-critical back-office operations. Its 24/7 operations team supports functions such as Technical Support, Software Development, dispatch, scheduling, executive reporting, full-c"
     },
     {
+      "id": "linkedin-4462778194",
+      "title": "IoT Hardware & Peripherals Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
+    },
+    {
       "id": "linkedin-4465683105",
       "title": "Machine Learning Engineer",
       "company": "FORGIS",
@@ -706,25 +725,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Customer Solutions Engineer — Bangladesh (Equity Partner) Own the customer-facing presence for Anqa Compliance in Bangladesh. Location: Bangladesh (Remote / Hybrid / On-site, depending on business need) Team: Bangladesh-based, working day-to-day with a globally distributed team across New Zealand, India, Mauritius, Kenya, and Nigeria. Reports to: Senior Technology Lead, with oversight from the Chi"
-    },
-    {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
       "id": "linkedin-4463805061",
