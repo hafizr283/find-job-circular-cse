@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-19T10:56:02+00:00",
+  "built_at": "2026-09-19T14:26:25+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-19T10:56:02+00:00",
-  "total_jobs": 185,
-  "needing_review": 129,
+  "dataset_generated_at": "2026-09-19T14:26:25+00:00",
+  "total_jobs": 184,
+  "needing_review": 128,
   "in_this_batch": 40,
-  "remaining_after_batch": 89,
+  "remaining_after_batch": 88,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
