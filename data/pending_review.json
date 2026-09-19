@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-19T14:26:25+00:00",
+  "built_at": "2026-09-19T18:38:28+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-19T14:26:25+00:00",
-  "total_jobs": 184,
-  "needing_review": 128,
+  "dataset_generated_at": "2026-09-19T18:38:28+00:00",
+  "total_jobs": 186,
+  "needing_review": 130,
   "in_this_batch": 40,
-  "remaining_after_batch": 88,
+  "remaining_after_batch": 90,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -119,6 +119,25 @@
       "description_excerpt": ""
     },
     {
+      "id": "linkedin-4469539956",
+      "title": "Backend Engineer",
+      "company": "Joblet-AI",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/backend-engineer-at-joblet-ai-4469539956",
+      "posted_at": "2026-09-19",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Role: Backend Engineer Location: Remote Employment Type: Full-time Compensation: Competitive salary commensurate with experience, qualifications, and location. Indicative range: $105,000 – $170,000 (USD equivalent), plus benefits. Role Overview We are hiring a Backend Engineer to design and build the services that power our product. The role focuses on APIs, data systems, and the infrastructure ch"
+    },
+    {
       "id": "linkedin-4468822963",
       "title": "Staff Full-Stack Engineer (Node/NestJs) - Logistics & Payments",
       "company": "AllChrono",
@@ -155,6 +174,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "📌Company Description BugsBD Limited (Your Cyber Security Partner) is a company located in Dhaka, Bangladesh. We are a team of young and skilled security professionals who work tirelessly to provide the best possible cybersecurity solutions for our clients. We emphasize networking with different skill sets in order to ensure we can provide absolute security solutions. Location: Dhaka, Bangladesh Du"
+    },
+    {
+      "id": "linkedin-4467889939",
+      "title": "Web Developer",
+      "company": "Picova Tech",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/web-developer-at-picova-tech-4467889939",
+      "posted_at": "2026-09-19",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Picova Tech is a modern technology and digital solutions company, founded in 2026 with a focus on turning ideas into impactful digital experiences. The team specializes in web development, mobile app development, custom software, UI/UX design, and digital marketing, supporting businesses in building a strong digital presence. Picova Tech combines technology, creativity, and bus"
     },
     {
       "id": "linkedin-4468210627",
@@ -732,44 +770,6 @@
       "company": "International Civil Aviation Organization",
       "location": "Dhaka, Dhaka, Bangladesh",
       "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-international-civil-aviation-organization-4463805061",
-      "posted_at": "2026-09-09",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
-    },
-    {
-      "id": "linkedin-4461559639",
-      "title": "AI Engineer -Hermes Agent SME",
-      "company": "PST.AG",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-engineer-hermes-agent-sme-at-pst-ag-4461559639",
-      "posted_at": "2026-09-09",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About the Role: We are seeking an AI Engineer specialized in the Hermes Agent framework to architect and deploy autonomous, self-improving systems within complex corporate environments. Unlike basic chatbot implementations, you will focus on building \"digital colleagues\" that leverage persistent memory and autonomous skill creation to handle high-stakes business logic. Your primary mission is to i"
-    },
-    {
-      "id": "linkedin-4464346408",
-      "title": "Project Manager (Open to Internal & External Applicants)",
-      "company": "UNDP Careers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
       "posted_at": "2026-09-09",
       "regex_job_type": "Fresher job",
       "regex_category": "ITES, Support & Customer Success",
