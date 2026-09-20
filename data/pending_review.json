@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-20T11:20:52+00:00",
+  "built_at": "2026-09-20T18:48:23+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-20T11:20:52+00:00",
-  "total_jobs": 184,
-  "needing_review": 124,
+  "dataset_generated_at": "2026-09-20T18:48:22+00:00",
+  "total_jobs": 185,
+  "needing_review": 127,
   "in_this_batch": 40,
-  "remaining_after_batch": 84,
+  "remaining_after_batch": 87,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -117,6 +117,25 @@
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4469820074",
+      "title": "Software QA Engineer",
+      "company": "Joblet-AI",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-qa-engineer-at-joblet-ai-4469820074",
+      "posted_at": "2026-09-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Role: Software QA Engineer Location: Remote Employment Type: Full-time Compensation: Competitive salary commensurate with experience, qualifications, and location. Indicative range: $80,000 – $125,000 (USD equivalent), plus benefits. Role Overview We are hiring a Software QA Engineer to lead test strategy across products. The role combines deep test engineering with collaboration across product an"
     },
     {
       "id": "linkedin-4469539956",
@@ -480,15 +499,15 @@
       "description_excerpt": "Role Overview We are looking for 1–2 Support/QA Interns to assist our technical team with software testing, issue investigation, internal support activities, and ticket triaging. You will work closely with QA, support, backend, and mobile developers to help identify issues faster, maintain clean ticket flow, validate fixes, and support reliable day-to-day software operations. This role is ideal fo"
     },
     {
-      "id": "linkedin-4467047672",
-      "title": "Security Engineer",
+      "id": "linkedin-4467036769",
+      "title": "Junior SOC Analyst",
       "company": "Bengal Airlift Limited",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-bengal-airlift-limited-4467047672",
+      "url": "https://bd.linkedin.com/jobs/view/junior-soc-analyst-at-bengal-airlift-limited-4467036769",
       "posted_at": "2026-09-14",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -499,15 +518,15 @@
       "description_excerpt": "Protecting Enterprise Security Founded on the principle that every organization deserves enterprise-grade security, regardless of size. About Bengal InfoSec Limited is an enterprise cybersecurity firm and a strategic business unit of the Bengal Airlift Group. We deliver comprehensive Security Operations Center (SOC) services, combining advanced open-source technologies with a team of 200+ certifie"
     },
     {
-      "id": "linkedin-4467036769",
-      "title": "Junior SOC Analyst",
+      "id": "linkedin-4467047672",
+      "title": "Security Engineer",
       "company": "Bengal Airlift Limited",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-soc-analyst-at-bengal-airlift-limited-4467036769",
+      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-bengal-airlift-limited-4467047672",
       "posted_at": "2026-09-14",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -763,25 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About the Role: We are seeking an AI Engineer specialized in the Hermes Agent framework to architect and deploy autonomous, self-improving systems within complex corporate environments. Unlike basic chatbot implementations, you will focus on building \"digital colleagues\" that leverage persistent memory and autonomous skill creation to handle high-stakes business logic. Your primary mission is to i"
-    },
-    {
-      "id": "linkedin-4464346408",
-      "title": "Project Manager (Open to Internal & External Applicants)",
-      "company": "UNDP Careers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
-      "posted_at": "2026-09-09",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     }
   ]
 }
