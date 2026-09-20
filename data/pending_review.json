@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-20T18:48:23+00:00",
+  "built_at": "2026-09-20T23:16:41+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-20T18:48:22+00:00",
-  "total_jobs": 185,
-  "needing_review": 127,
+  "dataset_generated_at": "2026-09-20T23:16:41+00:00",
+  "total_jobs": 181,
+  "needing_review": 123,
   "in_this_batch": 40,
-  "remaining_after_batch": 87,
+  "remaining_after_batch": 83,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -461,25 +461,6 @@
       "description_excerpt": "We're Hiring — UI/UX + Graphic Designer 📍 Paltan, Dhaka | Full-time | On-site About InovixLabs InovixLabs is a USA-based technology company building modern web, mobile, and AI-assisted solutions for startups, agencies, and growing businesses — including custom SaaS platforms, driving school management systems, e-learning platforms, and CRM/ERP tools. We deliver end-to-end product development, from"
     },
     {
-      "id": "linkedin-4462609552",
-      "title": "Founder’s Associate - Intern",
-      "company": "Rubik - Full-stack Design Partner",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/founder%E2%80%99s-associate-intern-at-rubik-full-stack-design-partner-4462609552",
-      "posted_at": "2026-09-05",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary: 8",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About the Role We are looking for a Founder’s Associate - Intern to support our team with content research, marketing research, and copy ideas. You will work closely with our CEO to research ideas, organize insights, draft content, improve messaging, and support the marketing team’s day-to-day content and marketing workflow. The ideal person is curious, organized, comfortable with research, and in"
-    },
-    {
       "id": "linkedin-4462927405",
       "title": "Support / QA Intern",
       "company": "EWN Technology",
@@ -782,6 +763,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About the Role: We are seeking an AI Engineer specialized in the Hermes Agent framework to architect and deploy autonomous, self-improving systems within complex corporate environments. Unlike basic chatbot implementations, you will focus on building \"digital colleagues\" that leverage persistent memory and autonomous skill creation to handle high-stakes business logic. Your primary mission is to i"
+    },
+    {
+      "id": "linkedin-4464346408",
+      "title": "Project Manager (Open to Internal & External Applicants)",
+      "company": "UNDP Careers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
+      "posted_at": "2026-09-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     }
   ]
 }
