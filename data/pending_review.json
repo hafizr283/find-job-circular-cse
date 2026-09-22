@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-22T19:48:21+00:00",
+  "built_at": "2026-09-22T23:39:37+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-22T19:48:21+00:00",
-  "total_jobs": 178,
-  "needing_review": 122,
+  "dataset_generated_at": "2026-09-22T23:39:37+00:00",
+  "total_jobs": 175,
+  "needing_review": 121,
   "in_this_batch": 40,
-  "remaining_after_batch": 82,
+  "remaining_after_batch": 81,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -96,6 +96,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored (Saudi based startup) with complete end-to-end infrastructure integration. We're a small, senior founding team, and we're hiring the lead engineer who will own the application layer end-to-e"
+    },
+    {
+      "id": "linkedin-4469033059",
+      "title": "Instructor (PLC Programmer)",
+      "company": "Gobeshona Learning Academy",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/instructor-plc-programmer-at-gobeshona-learning-academy-4469033059",
+      "posted_at": "2026-09-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Gobeshona Learning Academy is looking for a passionate PLC Programmer Instructor to join our team on a Part-Time / Remote basis. If you have hands-on experience in PLC programming and enjoy teaching, mentoring, and sharing real-world industrial knowledge, we’d love to hear from you. What we’re looking for: • Practical experience in PLC programming, HMI, SCADA Design • Strong knowledge of industria"
     },
     {
       "id": "linkedin-4468714466",
@@ -761,25 +780,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Felicity IDC Limited (FIDC) is a Bangladesh-based ICT company specializing in Tier III, PCI-DSS, ISO 9001, and ISO 27001-certified data center operations. Located in Bangabandhu Hi-Tech City, Kaliakoir, Gazipur, the facility is a purpose-built, carrier-neutral colocation and internet data center with over 100,000 square feet of space, 5 MW power capacity, and 500 racks. FIDC is"
-    },
-    {
-      "id": "linkedin-4467811365",
-      "title": "Software Quality Assurance Engineer Intern(Fully Remote)",
-      "company": "unidevGO Software Solutions Ltd.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-quality-assurance-engineer-intern-fully-remote-at-unidevgo-software-solutions-ltd-4467811365",
-      "posted_at": "2026-09-17",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Circular: Software Quality Assurance (QA) Intern (Fully Remote) Location: Remote Job Type: Internship (Full-time) Duration: 4 to 6 Months Salary: Unpaid Company Description: unidevGO Software Solutions Ltd. is a specialized quality assurance provider offering a full range of QA services since 2018, alongside web and cross‑platform application development. The team is composed of highly skilled"
     }
   ]
 }
