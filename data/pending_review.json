@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-22T06:16:18+00:00",
+  "built_at": "2026-09-22T11:35:40+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-22T06:16:18+00:00",
-  "total_jobs": 178,
-  "needing_review": 123,
+  "dataset_generated_at": "2026-09-22T11:35:40+00:00",
+  "total_jobs": 180,
+  "needing_review": 125,
   "in_this_batch": 40,
-  "remaining_after_batch": 83,
+  "remaining_after_batch": 85,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -54,26 +54,6 @@
       "review_reasons": [
         "posting status not confirmed open",
         "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4425409132",
-      "title": "CMS APPLICATION ENGINEER (CAMPAIGN MANAGEMENT SYSTEM)",
-      "company": "MIAKI",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cms-application-engineer-campaign-management-system-at-miaki-4425409132",
-      "posted_at": "2026-06-07",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Other CSE",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "category unresolved",
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
@@ -154,6 +134,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Role: Software QA Engineer Location: Remote Employment Type: Full-time Compensation: Competitive salary commensurate with experience, qualifications, and location. Indicative range: $80,000 – $125,000 (USD equivalent), plus benefits. Role Overview We are hiring a Software QA Engineer to lead test strategy across products. The role combines deep test engineering with collaboration across product an"
+    },
+    {
+      "id": "linkedin-4470279116",
+      "title": "Web Development Intern — CMS & Full-Stack",
+      "company": "Masleap Plc",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/web-development-intern-%E2%80%94-cms-full-stack-at-masleap-plc-4470279116",
+      "posted_at": "2026-09-22",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About Masleap Software Solutions Masleap Software Solutions partners with clients across the US and UK to design, build, and ship modern web and mobile products. We're looking for a curious, motivated Web Development Intern to join our team and gain hands-on experience across CMS platforms, custom web development, and deployment workflows. About the Role This internship is ideal for someone who le"
     },
     {
       "id": "linkedin-4468776940",
