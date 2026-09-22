@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-22T11:35:40+00:00",
+  "built_at": "2026-09-22T19:48:21+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-22T11:35:40+00:00",
-  "total_jobs": 180,
-  "needing_review": 125,
+  "dataset_generated_at": "2026-09-22T19:48:21+00:00",
+  "total_jobs": 178,
+  "needing_review": 122,
   "in_this_batch": 40,
-  "remaining_after_batch": 85,
+  "remaining_after_batch": 82,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -136,25 +136,6 @@
       "description_excerpt": "Role: Software QA Engineer Location: Remote Employment Type: Full-time Compensation: Competitive salary commensurate with experience, qualifications, and location. Indicative range: $80,000 – $125,000 (USD equivalent), plus benefits. Role Overview We are hiring a Software QA Engineer to lead test strategy across products. The role combines deep test engineering with collaboration across product an"
     },
     {
-      "id": "linkedin-4470279116",
-      "title": "Web Development Intern — CMS & Full-Stack",
-      "company": "Masleap Plc",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/web-development-intern-%E2%80%94-cms-full-stack-at-masleap-plc-4470279116",
-      "posted_at": "2026-09-22",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About Masleap Software Solutions Masleap Software Solutions partners with clients across the US and UK to design, build, and ship modern web and mobile products. We're looking for a curious, motivated Web Development Intern to join our team and gain hands-on experience across CMS platforms, custom web development, and deployment workflows. About the Role This internship is ideal for someone who le"
-    },
-    {
       "id": "linkedin-4468776940",
       "title": "Artificial Intelligence Engineer",
       "company": "Techub Co",
@@ -172,6 +153,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Techub is a US-based AI-native technology company that builds production-grade intelligent systems for real-world business operations. The team designs, develops, and deploys solutions across computer vision, machine learning, agentic AI, AI voice systems, enterprise software, cloud infrastructure, data intelligence, and automation. Techub’s work goes beyond prototypes, focusin"
+    },
+    {
+      "id": "linkedin-4470279116",
+      "title": "Web Development Intern — CMS & Full-Stack",
+      "company": "Masleap Plc",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/web-development-intern-%E2%80%94-cms-full-stack-at-masleap-plc-4470279116",
+      "posted_at": "2026-09-22",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About Masleap Software Solutions Masleap Software Solutions partners with clients across the US and UK to design, build, and ship modern web and mobile products. We're looking for a curious, motivated Web Development Intern to join our team and gain hands-on experience across CMS platforms, custom web development, and deployment workflows. About the Role This internship is ideal for someone who le"
     },
     {
       "id": "linkedin-4469539956",
@@ -516,25 +516,6 @@
       "description_excerpt": "We're Hiring — UI/UX + Graphic Designer 📍 Paltan, Dhaka | Full-time | On-site About InovixLabs InovixLabs is a USA-based technology company building modern web, mobile, and AI-assisted solutions for startups, agencies, and growing businesses — including custom SaaS platforms, driving school management systems, e-learning platforms, and CRM/ERP tools. We deliver end-to-end product development, from"
     },
     {
-      "id": "linkedin-4462927405",
-      "title": "Support / QA Intern",
-      "company": "EWN Technology",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/support-qa-intern-at-ewn-technology-4462927405",
-      "posted_at": "2026-09-07",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Allowance: BDT 6,000/month",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Role Overview We are looking for 1–2 Support/QA Interns to assist our technical team with software testing, issue investigation, internal support activities, and ticket triaging. You will work closely with QA, support, backend, and mobile developers to help identify issues faster, maintain clean ticket flow, validate fixes, and support reliable day-to-day software operations. This role is ideal fo"
-    },
-    {
       "id": "linkedin-4467047672",
       "title": "Security Engineer",
       "company": "Bengal Airlift Limited",
@@ -780,6 +761,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Felicity IDC Limited (FIDC) is a Bangladesh-based ICT company specializing in Tier III, PCI-DSS, ISO 9001, and ISO 27001-certified data center operations. Located in Bangabandhu Hi-Tech City, Kaliakoir, Gazipur, the facility is a purpose-built, carrier-neutral colocation and internet data center with over 100,000 square feet of space, 5 MW power capacity, and 500 racks. FIDC is"
+    },
+    {
+      "id": "linkedin-4467811365",
+      "title": "Software Quality Assurance Engineer Intern(Fully Remote)",
+      "company": "unidevGO Software Solutions Ltd.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-quality-assurance-engineer-intern-fully-remote-at-unidevgo-software-solutions-ltd-4467811365",
+      "posted_at": "2026-09-17",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Circular: Software Quality Assurance (QA) Intern (Fully Remote) Location: Remote Job Type: Internship (Full-time) Duration: 4 to 6 Months Salary: Unpaid Company Description: unidevGO Software Solutions Ltd. is a specialized quality assurance provider offering a full range of QA services since 2018, alongside web and cross‑platform application development. The team is composed of highly skilled"
     }
   ]
 }
