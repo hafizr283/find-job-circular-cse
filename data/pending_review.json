@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-22T00:07:06+00:00",
+  "built_at": "2026-09-22T06:16:18+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-22T00:07:06+00:00",
-  "total_jobs": 180,
-  "needing_review": 124,
+  "dataset_generated_at": "2026-09-22T06:16:18+00:00",
+  "total_jobs": 178,
+  "needing_review": 123,
   "in_this_batch": 40,
-  "remaining_after_batch": 84,
+  "remaining_after_batch": 83,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -59,21 +59,21 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4465068112",
-      "title": "UI/UX Designer",
-      "company": "Fonix IT",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-at-fonix-it-4465068112",
-      "posted_at": "2026-09-09",
+      "id": "linkedin-4425409132",
+      "title": "CMS APPLICATION ENGINEER (CAMPAIGN MANAGEMENT SYSTEM)",
+      "company": "MIAKI",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cms-application-engineer-campaign-management-system-at-miaki-4425409132",
+      "posted_at": "2026-06-07",
       "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
+      "regex_category": "Other CSE",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
       "pay_text": "Pay not stated",
       "review_reasons": [
         "posting status not confirmed open",
-        "company not in the reputation registry",
+        "category unresolved",
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
@@ -97,6 +97,25 @@
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4470238726",
+      "title": "Staff Android Developer - Native",
+      "company": "AllChrono",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/staff-android-developer-native-at-allchrono-4470238726",
+      "posted_at": "2026-09-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored (Saudi based startup) with complete end-to-end infrastructure integration. We're a small, senior founding team, and we're hiring the lead engineer who will own the application layer end-to-e"
     },
     {
       "id": "linkedin-4468714466",
@@ -135,6 +154,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Role: Software QA Engineer Location: Remote Employment Type: Full-time Compensation: Competitive salary commensurate with experience, qualifications, and location. Indicative range: $80,000 – $125,000 (USD equivalent), plus benefits. Role Overview We are hiring a Software QA Engineer to lead test strategy across products. The role combines deep test engineering with collaboration across product an"
+    },
+    {
+      "id": "linkedin-4468776940",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Techub Co",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-engineer-at-techub-co-4468776940",
+      "posted_at": "2026-09-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Techub is a US-based AI-native technology company that builds production-grade intelligent systems for real-world business operations. The team designs, develops, and deploys solutions across computer vision, machine learning, agentic AI, AI voice systems, enterprise software, cloud infrastructure, data intelligence, and automation. Techub’s work goes beyond prototypes, focusin"
     },
     {
       "id": "linkedin-4469539956",
@@ -251,6 +289,25 @@
       "description_excerpt": "Company Description Picova Tech is a modern technology and digital solutions company, founded in 2026 with a focus on turning ideas into impactful digital experiences. The team specializes in web development, mobile app development, custom software, UI/UX design, and digital marketing, supporting businesses in building a strong digital presence. Picova Tech combines technology, creativity, and bus"
     },
     {
+      "id": "linkedin-4468210627",
+      "title": "Facilities Intern (Bangladesh)",
+      "company": "Athelas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
+      "posted_at": "2026-09-16",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
+    },
+    {
       "id": "linkedin-4463453121",
       "title": "Software Engineer",
       "company": "Meridian Review Group",
@@ -289,14 +346,14 @@
       "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
     },
     {
-      "id": "linkedin-4468210627",
-      "title": "Facilities Intern (Bangladesh)",
-      "company": "Athelas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
+      "id": "linkedin-4469160036",
+      "title": "Junior System Administrator",
+      "company": "Pentex Ltd",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-system-administrator-at-pentex-ltd-4469160036",
+      "posted_at": "2026-09-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
       "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -305,7 +362,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
+      "description_excerpt": "Location Dhaka on-site 5 days per week About us At Pentex, integrity is at the heart of everything we do; from the way we work through to the products we create. Combining creative design with responsible and ethical practices, we deliver fashion solutions that are built for today and ready for the future. Since our beginnings in East London in the 1960s, Pentex has grown into a global design and "
     },
     {
       "id": "linkedin-4467836584",
@@ -325,25 +382,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Flutter Developer Company: Farm Logic Tech (farmlogic.tech) Location: Dhaka, Bangladesh (Onsite) Job Type: Full-Time About Farm Logic Tech Farm Logic Tech is a fast-growing IT service firm dedicated to engineering bespoke digital solutions, scalable platforms, and high-performance applications. We are expanding our mobile engineering team and looking for a passionate Flutter Developer w"
-    },
-    {
-      "id": "linkedin-4469160036",
-      "title": "Junior System Administrator",
-      "company": "Pentex Ltd",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-system-administrator-at-pentex-ltd-4469160036",
-      "posted_at": "2026-09-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Location Dhaka on-site 5 days per week About us At Pentex, integrity is at the heart of everything we do; from the way we work through to the products we create. Combining creative design with responsible and ethical practices, we deliver fashion solutions that are built for today and ready for the future. Since our beginnings in East London in the 1960s, Pentex has grown into a global design and "
     },
     {
       "id": "linkedin-4464529362",
@@ -403,25 +441,6 @@
       "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
     },
     {
-      "id": "linkedin-4462683547",
-      "title": "Job Application Engineer",
-      "company": "SKARION",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/job-application-engineer-at-skarion-4462683547",
-      "posted_at": "2026-09-06",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Compensation: BDT 10,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We’re Hiring: Application Engineering Intern Skarion is looking for smart, analytical, detail oriented interns who can work on job applications and career campaigns for our client base in the U.S. market. This is not simply a data entry role. You will need to understand candidate profiles, analyze job descriptions, identify suitable opportunities, make judgment calls, conduct research, and complet"
-    },
-    {
       "id": "linkedin-4465492699",
       "title": "🚀 Hiring: Elementor & Figma-to-WordPress Specialist (Remote / Contract)",
       "company": "The KR Technology",
@@ -439,6 +458,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "The KR Technology is looking for a WordPress + Elementor specialist to join our project pool on a remote, contractual, per-project basis . If you're sharp with WP backend work, plugin customization, and turning Figma designs into pixel-perfect Elementor builds — we want to hear from you. 📍 100% Remote — work from anywhere What you'll do: Build and customize WordPress sites using Elementor Convert "
+    },
+    {
+      "id": "linkedin-4466500334",
+      "title": "Software Engineer in Test",
+      "company": "Populate",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
+      "posted_at": "2026-09-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
     },
     {
       "id": "linkedin-4467712129",
@@ -477,25 +515,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're Hiring — UI/UX + Graphic Designer 📍 Paltan, Dhaka | Full-time | On-site About InovixLabs InovixLabs is a USA-based technology company building modern web, mobile, and AI-assisted solutions for startups, agencies, and growing businesses — including custom SaaS platforms, driving school management systems, e-learning platforms, and CRM/ERP tools. We deliver end-to-end product development, from"
-    },
-    {
-      "id": "linkedin-4466500334",
-      "title": "Software Engineer in Test",
-      "company": "Populate",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
-      "posted_at": "2026-09-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
     },
     {
       "id": "linkedin-4462927405",
@@ -762,25 +781,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Felicity IDC Limited (FIDC) is a Bangladesh-based ICT company specializing in Tier III, PCI-DSS, ISO 9001, and ISO 27001-certified data center operations. Located in Bangabandhu Hi-Tech City, Kaliakoir, Gazipur, the facility is a purpose-built, carrier-neutral colocation and internet data center with over 100,000 square feet of space, 5 MW power capacity, and 500 racks. FIDC is"
-    },
-    {
-      "id": "linkedin-4467811365",
-      "title": "Software Quality Assurance Engineer Intern(Fully Remote)",
-      "company": "unidevGO Software Solutions Ltd.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-quality-assurance-engineer-intern-fully-remote-at-unidevgo-software-solutions-ltd-4467811365",
-      "posted_at": "2026-09-17",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Circular: Software Quality Assurance (QA) Intern (Fully Remote) Location: Remote Job Type: Internship (Full-time) Duration: 4 to 6 Months Salary: Unpaid Company Description: unidevGO Software Solutions Ltd. is a specialized quality assurance provider offering a full range of QA services since 2018, alongside web and cross‑platform application development. The team is composed of highly skilled"
     }
   ]
 }
