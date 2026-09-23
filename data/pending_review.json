@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-09-23T11:36:30+00:00",
+  "built_at": "2026-09-23T19:43:42+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-23T11:36:30+00:00",
-  "total_jobs": 170,
+  "dataset_generated_at": "2026-09-23T19:43:42+00:00",
+  "total_jobs": 172,
   "needing_review": 118,
   "in_this_batch": 40,
   "remaining_after_batch": 78,
@@ -74,26 +74,6 @@
       "review_reasons": [
         "posting status not confirmed open",
         "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4448161953",
-      "title": "Test Engineer Intern",
-      "company": "Urban Job",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/test-engineer-intern-at-urban-job-4448161953",
-      "posted_at": "2026-08-03",
-      "regex_job_type": "Internship",
-      "regex_category": "Other CSE",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "category unresolved",
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
@@ -308,25 +288,6 @@
       "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored ( Saudi based startup ) with complete end-to-end infrastructure integration. This is a founding technical leadership role, reporting directly to the CTO. You won't be a ticket queue or a lay"
     },
     {
-      "id": "linkedin-4326172415",
-      "title": "Cyber Security Intern",
-      "company": "BugsBD Limited ( Your Cyber Security Partner)",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cyber-security-intern-at-bugsbd-limited-your-cyber-security-partner-4326172415",
-      "posted_at": "2026-09-08",
-      "regex_job_type": "Internship",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "📌Company Description BugsBD Limited (Your Cyber Security Partner) is a company located in Dhaka, Bangladesh. We are a team of young and skilled security professionals who work tirelessly to provide the best possible cybersecurity solutions for our clients. We emphasize networking with different skill sets in order to ensure we can provide absolute security solutions. Location: Dhaka, Bangladesh Du"
-    },
-    {
       "id": "linkedin-4467889939",
       "title": "Web Developer",
       "company": "Picova Tech",
@@ -496,6 +457,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "The KR Technology is looking for a WordPress + Elementor specialist to join our project pool on a remote, contractual, per-project basis . If you're sharp with WP backend work, plugin customization, and turning Figma designs into pixel-perfect Elementor builds — we want to hear from you. 📍 100% Remote — work from anywhere What you'll do: Build and customize WordPress sites using Elementor Convert "
+    },
+    {
+      "id": "linkedin-4466837523",
+      "title": "Business Intelligence Analyst",
+      "company": "Niyukti Systems, Inc",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/business-intelligence-analyst-at-niyukti-systems-inc-4466837523",
+      "posted_at": "2026-09-16",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are seeking a Business Intelligence Analyst to join our Business Analytics team. In this role, youll work with all company departments to define KPIs, measure performance, and implement predictive analytics. Youll develop a deep understanding of our business and contribute to our continued growth by providing actionable insights that shape our operational strategies. This is an opportunity to m"
     },
     {
       "id": "linkedin-4466500334",
@@ -781,6 +761,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Quality Assurance Analyst to evaluate processes, products, and services to ensure they meet established quality standards and business requirements. The ideal candidate will have strong analytical and problem-solving skills, excellent attention to detail, and the ability to identify issues, analyze root causes, and recommend effecti"
+    },
+    {
+      "id": "linkedin-4461924815",
+      "title": "Software QA Analyst BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-qa-analyst-bd-at-core-code-io-4461924815",
+      "posted_at": "2026-09-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Software QA Analyst to evaluate software applications and ensure they meet functional, technical, and business requirements. The ideal candidate will have strong knowledge of QA methodologies, excellent problem-solving skills, and the ability to analyze requirements, design effective test scenarios, identify defects, and communicate"
     }
   ]
 }
