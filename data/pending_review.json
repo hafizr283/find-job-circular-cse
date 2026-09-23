@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-22T23:39:37+00:00",
+  "built_at": "2026-09-23T05:59:18+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-22T23:39:37+00:00",
-  "total_jobs": 175,
-  "needing_review": 121,
+  "dataset_generated_at": "2026-09-23T05:59:17+00:00",
+  "total_jobs": 174,
+  "needing_review": 120,
   "in_this_batch": 40,
-  "remaining_after_batch": 81,
+  "remaining_after_batch": 80,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -79,25 +79,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4470238726",
-      "title": "Staff Android Developer - Native",
-      "company": "AllChrono",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/staff-android-developer-native-at-allchrono-4470238726",
-      "posted_at": "2026-09-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored (Saudi based startup) with complete end-to-end infrastructure integration. We're a small, senior founding team, and we're hiring the lead engineer who will own the application layer end-to-e"
-    },
-    {
       "id": "linkedin-4469033059",
       "title": "Instructor (PLC Programmer)",
       "company": "Gobeshona Learning Academy",
@@ -115,6 +96,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Gobeshona Learning Academy is looking for a passionate PLC Programmer Instructor to join our team on a Part-Time / Remote basis. If you have hands-on experience in PLC programming and enjoy teaching, mentoring, and sharing real-world industrial knowledge, we’d love to hear from you. What we’re looking for: • Practical experience in PLC programming, HMI, SCADA Design • Strong knowledge of industria"
+    },
+    {
+      "id": "linkedin-4470238726",
+      "title": "Staff Android Developer - Native",
+      "company": "AllChrono",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/staff-android-developer-native-at-allchrono-4470238726",
+      "posted_at": "2026-09-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored (Saudi based startup) with complete end-to-end infrastructure integration. We're a small, senior founding team, and we're hiring the lead engineer who will own the application layer end-to-e"
     },
     {
       "id": "linkedin-4468714466",
@@ -136,6 +136,25 @@
       "description_excerpt": "We are looking for a Technical Support Engineer to provide enterprise-level assistance to our customers. You will diagnose and troubleshoot software and hardware problems and help our customers install applications and programs. Technical Support Engineer responsibilities include resolving network issues, configuring operating systems and using remote desktop connections to provide immediate suppo"
     },
     {
+      "id": "linkedin-4467391459",
+      "title": "Software Engineer",
+      "company": "Meridian Review Group",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-meridian-review-group-4467391459",
+      "posted_at": "2026-09-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Software Engineer | Meridian Review Group Remote | Full-Time or Long-Term Contract | €5,500–€7,000 per month depending on experience Meridian Review Group is expanding its internal technology team and is looking for a Software Engineer to help build and improve the digital infrastructure behind our growing network of business and markets publications. You’ll be joining an existing internal enginee"
+    },
+    {
       "id": "linkedin-4469820074",
       "title": "Software QA Engineer",
       "company": "Joblet-AI",
@@ -155,25 +174,6 @@
       "description_excerpt": "Role: Software QA Engineer Location: Remote Employment Type: Full-time Compensation: Competitive salary commensurate with experience, qualifications, and location. Indicative range: $80,000 – $125,000 (USD equivalent), plus benefits. Role Overview We are hiring a Software QA Engineer to lead test strategy across products. The role combines deep test engineering with collaboration across product an"
     },
     {
-      "id": "linkedin-4468776940",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Techub Co",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-engineer-at-techub-co-4468776940",
-      "posted_at": "2026-09-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Techub is a US-based AI-native technology company that builds production-grade intelligent systems for real-world business operations. The team designs, develops, and deploys solutions across computer vision, machine learning, agentic AI, AI voice systems, enterprise software, cloud infrastructure, data intelligence, and automation. Techub’s work goes beyond prototypes, focusin"
-    },
-    {
       "id": "linkedin-4470279116",
       "title": "Web Development Intern — CMS & Full-Stack",
       "company": "Masleap Plc",
@@ -191,6 +191,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About Masleap Software Solutions Masleap Software Solutions partners with clients across the US and UK to design, build, and ship modern web and mobile products. We're looking for a curious, motivated Web Development Intern to join our team and gain hands-on experience across CMS platforms, custom web development, and deployment workflows. About the Role This internship is ideal for someone who le"
+    },
+    {
+      "id": "linkedin-4468776940",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Techub Co",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-engineer-at-techub-co-4468776940",
+      "posted_at": "2026-09-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Techub is a US-based AI-native technology company that builds production-grade intelligent systems for real-world business operations. The team designs, develops, and deploys solutions across computer vision, machine learning, agentic AI, AI voice systems, enterprise software, cloud infrastructure, data intelligence, and automation. Techub’s work goes beyond prototypes, focusin"
     },
     {
       "id": "linkedin-4469539956",
@@ -307,44 +326,6 @@
       "description_excerpt": "Company Description Picova Tech is a modern technology and digital solutions company, founded in 2026 with a focus on turning ideas into impactful digital experiences. The team specializes in web development, mobile app development, custom software, UI/UX design, and digital marketing, supporting businesses in building a strong digital presence. Picova Tech combines technology, creativity, and bus"
     },
     {
-      "id": "linkedin-4468210627",
-      "title": "Facilities Intern (Bangladesh)",
-      "company": "Athelas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
-    },
-    {
-      "id": "linkedin-4463453121",
-      "title": "Software Engineer",
-      "company": "Meridian Review Group",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-meridian-review-group-4463453121",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Software Engineer | Meridian Review Group Remote | Full-Time or Long-Term Contract | €5,500–€7,000 per month depending on experience Meridian Review Group is expanding its internal technology team and is looking for a Software Engineer to help build and improve the digital infrastructure behind our growing network of business and markets publications. You’ll be joining an existing internal enginee"
-    },
-    {
       "id": "linkedin-4466876875",
       "title": "Computer Vision Engineer (Remote)",
       "company": "HeySoham",
@@ -364,14 +345,14 @@
       "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
     },
     {
-      "id": "linkedin-4469160036",
-      "title": "Junior System Administrator",
-      "company": "Pentex Ltd",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-system-administrator-at-pentex-ltd-4469160036",
-      "posted_at": "2026-09-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
+      "id": "linkedin-4468210627",
+      "title": "Facilities Intern (Bangladesh)",
+      "company": "Athelas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
+      "posted_at": "2026-09-16",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
       "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -380,7 +361,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Location Dhaka on-site 5 days per week About us At Pentex, integrity is at the heart of everything we do; from the way we work through to the products we create. Combining creative design with responsible and ethical practices, we deliver fashion solutions that are built for today and ready for the future. Since our beginnings in East London in the 1960s, Pentex has grown into a global design and "
+      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     },
     {
       "id": "linkedin-4467836584",
@@ -400,6 +381,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Flutter Developer Company: Farm Logic Tech (farmlogic.tech) Location: Dhaka, Bangladesh (Onsite) Job Type: Full-Time About Farm Logic Tech Farm Logic Tech is a fast-growing IT service firm dedicated to engineering bespoke digital solutions, scalable platforms, and high-performance applications. We are expanding our mobile engineering team and looking for a passionate Flutter Developer w"
+    },
+    {
+      "id": "linkedin-4469160036",
+      "title": "Junior System Administrator",
+      "company": "Pentex Ltd",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-system-administrator-at-pentex-ltd-4469160036",
+      "posted_at": "2026-09-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Location Dhaka on-site 5 days per week About us At Pentex, integrity is at the heart of everything we do; from the way we work through to the products we create. Combining creative design with responsible and ethical practices, we deliver fashion solutions that are built for today and ready for the future. Since our beginnings in East London in the 1960s, Pentex has grown into a global design and "
     },
     {
       "id": "linkedin-4464529362",
@@ -478,25 +478,6 @@
       "description_excerpt": "The KR Technology is looking for a WordPress + Elementor specialist to join our project pool on a remote, contractual, per-project basis . If you're sharp with WP backend work, plugin customization, and turning Figma designs into pixel-perfect Elementor builds — we want to hear from you. 📍 100% Remote — work from anywhere What you'll do: Build and customize WordPress sites using Elementor Convert "
     },
     {
-      "id": "linkedin-4466500334",
-      "title": "Software Engineer in Test",
-      "company": "Populate",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
-      "posted_at": "2026-09-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
-    },
-    {
       "id": "linkedin-4467712129",
       "title": "Salesforce Technical Consultant",
       "company": "RocketPhone.ai",
@@ -533,6 +514,44 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're Hiring — UI/UX + Graphic Designer 📍 Paltan, Dhaka | Full-time | On-site About InovixLabs InovixLabs is a USA-based technology company building modern web, mobile, and AI-assisted solutions for startups, agencies, and growing businesses — including custom SaaS platforms, driving school management systems, e-learning platforms, and CRM/ERP tools. We deliver end-to-end product development, from"
+    },
+    {
+      "id": "linkedin-4466500334",
+      "title": "Software Engineer in Test",
+      "company": "Populate",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
+      "posted_at": "2026-09-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
+    },
+    {
+      "id": "linkedin-4462778194",
+      "title": "IoT Hardware & Peripherals Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
       "id": "linkedin-4467047672",
@@ -609,25 +628,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Software Engineer II (SWE 2) — Plutolabs Remote (Monday–Friday) | 120,000 – 140,000 BDT About the Role Plutolabs is looking for a Software Engineer II to contribute to the development of our application. The ideal candidate has solid expertise in JavaScript and its frameworks, working experience with AWS services, and the ability to execute and communicate effectively to ensure timely, high-qualit"
-    },
-    {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
       "id": "linkedin-4465456528",
@@ -725,12 +725,12 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     },
     {
-      "id": "linkedin-4463246338",
-      "title": "Full Stack Developer",
-      "company": "DevFinity Business Solutions",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-at-devfinity-business-solutions-4463246338",
-      "posted_at": "2026-09-08",
+      "id": "linkedin-4461940515",
+      "title": "Manual QA Tester BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/manual-qa-tester-bd-at-core-code-io-4461940515",
+      "posted_at": "2026-09-04",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "Seniority level Entry level",
@@ -741,17 +741,17 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description DevFinity Business Solutions delivers high-caliber BPO& IT infrastructure tailored for the U.S. various industries, enabling clients to focus on strategic growth and relationships while it manages mission-critical back-office operations. Its 24/7 operations team supports functions such as Technical Support, Software Development, dispatch, scheduling, executive reporting, full-c"
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Manual QA Tester to ensure software applications function correctly and meet established quality standards before release. The ideal candidate will have strong testing skills, excellent attention to detail, and the ability to identify, reproduce, document, and communicate software defects clearly. Responsibilities Execute manual tes"
     },
     {
-      "id": "linkedin-4465683105",
-      "title": "Machine Learning Engineer",
-      "company": "FORGIS",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/machine-learning-engineer-at-forgis-4465683105",
-      "posted_at": "2026-09-10",
+      "id": "linkedin-4461937673",
+      "title": "Quality Assurance Analyst BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-analyst-bd-at-core-code-io-4461937673",
+      "posted_at": "2026-09-04",
       "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -760,17 +760,17 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company description Forgis is building the intelligent layer for manufacturing plants, an orchestration platform that integrates machines across vendors, hardware types, and applications. On top of this, we bring real-time intelligence: digital engineers that learn from data, make decisions, and continuously optimize production, from configuring and validating lines to predicting failures and guid"
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Quality Assurance Analyst to evaluate processes, products, and services to ensure they meet established quality standards and business requirements. The ideal candidate will have strong analytical and problem-solving skills, excellent attention to detail, and the ability to identify issues, analyze root causes, and recommend effecti"
     },
     {
-      "id": "linkedin-4464180712",
-      "title": "Network Engineer",
-      "company": "Felicity IDC Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/network-engineer-at-felicity-idc-limited-4464180712",
-      "posted_at": "2026-09-10",
+      "id": "linkedin-4461924815",
+      "title": "Software QA Analyst BD",
+      "company": "Core Code io",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-qa-analyst-bd-at-core-code-io-4461924815",
+      "posted_at": "2026-09-04",
       "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -779,7 +779,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description Felicity IDC Limited (FIDC) is a Bangladesh-based ICT company specializing in Tier III, PCI-DSS, ISO 9001, and ISO 27001-certified data center operations. Located in Bangabandhu Hi-Tech City, Kaliakoir, Gazipur, the facility is a purpose-built, carrier-neutral colocation and internet data center with over 100,000 square feet of space, 5 MW power capacity, and 500 racks. FIDC is"
+      "description_excerpt": "We are seeking a detail-oriented, analytical, and quality-focused Software QA Analyst to evaluate software applications and ensure they meet functional, technical, and business requirements. The ideal candidate will have strong knowledge of QA methodologies, excellent problem-solving skills, and the ability to analyze requirements, design effective test scenarios, identify defects, and communicate"
     }
   ]
 }
