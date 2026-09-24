@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-23T23:43:42+00:00",
+  "built_at": "2026-09-24T06:15:20+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-23T23:43:42+00:00",
-  "total_jobs": 170,
-  "needing_review": 118,
+  "dataset_generated_at": "2026-09-24T06:15:20+00:00",
+  "total_jobs": 165,
+  "needing_review": 117,
   "in_this_batch": 40,
-  "remaining_after_batch": 78,
+  "remaining_after_batch": 77,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -37,6 +37,26 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are looking for a Test Engineer who will thoroughly inspect our products before theyre launched. As a Test Engineer in our company, you will work closely with the production team to understand why were building a product and what the specific requirements are. Then, you will run a series of tests through all stages of production to identify potential malfunctions and recommend improvements. Ult"
+    },
+    {
+      "id": "linkedin-4469160036",
+      "title": "Junior System Administrator",
+      "company": "Pentex Ltd",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-system-administrator-at-pentex-ltd-4469160036",
+      "posted_at": "2026-09-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4463878319",
@@ -79,6 +99,25 @@
       "description_excerpt": ""
     },
     {
+      "id": "linkedin-4471189411",
+      "title": "Technical Support Executive",
+      "company": "IBCS-Primax Software Bangladesh Ltd.",
+      "location": "Cox’s Bazar, Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-executive-at-ibcs-primax-software-bangladesh-ltd-4471189411",
+      "posted_at": "2026-09-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description TigerIT Bangladesh Ltd. designs and delivers end-to-end identity and credential management solutions for government, corporate, healthcare, and other large-scale service providers worldwide. The company’s flagship Automated Fingerprint Identification System, TigerAFIS, is NIST-certified and ranked among the top global biometric solutions. TigerIT’s portfolio includes biometric "
+    },
+    {
       "id": "linkedin-4470238726",
       "title": "Staff Android Developer - Native",
       "company": "AllChrono",
@@ -117,25 +156,6 @@
       "description_excerpt": "Gobeshona Learning Academy is looking for a passionate PLC Programmer Instructor to join our team on a Part-Time / Remote basis. If you have hands-on experience in PLC programming and enjoy teaching, mentoring, and sharing real-world industrial knowledge, we’d love to hear from you. What we’re looking for: • Practical experience in PLC programming, HMI, SCADA Design • Strong knowledge of industria"
     },
     {
-      "id": "linkedin-4468714466",
-      "title": "Technical Support Engineer",
-      "company": "Niyukti Systems, Inc",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-niyukti-systems-inc-4468714466",
-      "posted_at": "2026-09-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are looking for a Technical Support Engineer to provide enterprise-level assistance to our customers. You will diagnose and troubleshoot software and hardware problems and help our customers install applications and programs. Technical Support Engineer responsibilities include resolving network issues, configuring operating systems and using remote desktop connections to provide immediate suppo"
-    },
-    {
       "id": "linkedin-4467391459",
       "title": "Software Engineer",
       "company": "Meridian Review Group",
@@ -153,6 +173,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Software Engineer | Meridian Review Group Remote | Full-Time or Long-Term Contract | €5,500–€7,000 per month depending on experience Meridian Review Group is expanding its internal technology team and is looking for a Software Engineer to help build and improve the digital infrastructure behind our growing network of business and markets publications. You’ll be joining an existing internal enginee"
+    },
+    {
+      "id": "linkedin-4468714466",
+      "title": "Technical Support Engineer",
+      "company": "Niyukti Systems, Inc",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-niyukti-systems-inc-4468714466",
+      "posted_at": "2026-09-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are looking for a Technical Support Engineer to provide enterprise-level assistance to our customers. You will diagnose and troubleshoot software and hardware problems and help our customers install applications and programs. Technical Support Engineer responsibilities include resolving network issues, configuring operating systems and using remote desktop connections to provide immediate suppo"
     },
     {
       "id": "linkedin-4469621102",
@@ -193,25 +232,6 @@
       "description_excerpt": "Role: Software QA Engineer Location: Remote Employment Type: Full-time Compensation: Competitive salary commensurate with experience, qualifications, and location. Indicative range: $80,000 – $125,000 (USD equivalent), plus benefits. Role Overview We are hiring a Software QA Engineer to lead test strategy across products. The role combines deep test engineering with collaboration across product an"
     },
     {
-      "id": "linkedin-4468776940",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Techub Co",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-engineer-at-techub-co-4468776940",
-      "posted_at": "2026-09-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Techub is a US-based AI-native technology company that builds production-grade intelligent systems for real-world business operations. The team designs, develops, and deploys solutions across computer vision, machine learning, agentic AI, AI voice systems, enterprise software, cloud infrastructure, data intelligence, and automation. Techub’s work goes beyond prototypes, focusin"
-    },
-    {
       "id": "linkedin-4470279116",
       "title": "Web Development Intern — CMS & Full-Stack",
       "company": "Masleap Plc",
@@ -229,6 +249,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About Masleap Software Solutions Masleap Software Solutions partners with clients across the US and UK to design, build, and ship modern web and mobile products. We're looking for a curious, motivated Web Development Intern to join our team and gain hands-on experience across CMS platforms, custom web development, and deployment workflows. About the Role This internship is ideal for someone who le"
+    },
+    {
+      "id": "linkedin-4468776940",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Techub Co",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-engineer-at-techub-co-4468776940",
+      "posted_at": "2026-09-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Techub is a US-based AI-native technology company that builds production-grade intelligent systems for real-world business operations. The team designs, develops, and deploys solutions across computer vision, machine learning, agentic AI, AI voice systems, enterprise software, cloud infrastructure, data intelligence, and automation. Techub’s work goes beyond prototypes, focusin"
     },
     {
       "id": "linkedin-4469539956",
@@ -326,25 +365,6 @@
       "description_excerpt": "Company Description Picova Tech is a modern technology and digital solutions company, founded in 2026 with a focus on turning ideas into impactful digital experiences. The team specializes in web development, mobile app development, custom software, UI/UX design, and digital marketing, supporting businesses in building a strong digital presence. Picova Tech combines technology, creativity, and bus"
     },
     {
-      "id": "linkedin-4468210627",
-      "title": "Facilities Intern (Bangladesh)",
-      "company": "Athelas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
-    },
-    {
       "id": "linkedin-4466876875",
       "title": "Computer Vision Engineer (Remote)",
       "company": "HeySoham",
@@ -364,14 +384,14 @@
       "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
     },
     {
-      "id": "linkedin-4469160036",
-      "title": "Junior System Administrator",
-      "company": "Pentex Ltd",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-system-administrator-at-pentex-ltd-4469160036",
-      "posted_at": "2026-09-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
+      "id": "linkedin-4468210627",
+      "title": "Facilities Intern (Bangladesh)",
+      "company": "Athelas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
+      "posted_at": "2026-09-16",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
       "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -380,7 +400,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Location Dhaka on-site 5 days per week About us At Pentex, integrity is at the heart of everything we do; from the way we work through to the products we create. Combining creative design with responsible and ethical practices, we deliver fashion solutions that are built for today and ready for the future. Since our beginnings in East London in the 1960s, Pentex has grown into a global design and "
+      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     },
     {
       "id": "linkedin-4467836584",
@@ -497,23 +517,23 @@
       "description_excerpt": "We are seeking a Business Intelligence Analyst to join our Business Analytics team. In this role, youll work with all company departments to define KPIs, measure performance, and implement predictive analytics. Youll develop a deep understanding of our business and contribute to our continued growth by providing actionable insights that shape our operational strategies. This is an opportunity to m"
     },
     {
-      "id": "linkedin-4466500334",
-      "title": "Software Engineer in Test",
-      "company": "Populate",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
-      "posted_at": "2026-09-15",
+      "id": "linkedin-4462778194",
+      "title": "IoT Hardware & Peripherals Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
+      "posted_at": "2026-09-03",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Salary negotiable",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
       "id": "linkedin-4467712129",
@@ -554,23 +574,23 @@
       "description_excerpt": "We're Hiring — UI/UX + Graphic Designer 📍 Paltan, Dhaka | Full-time | On-site About InovixLabs InovixLabs is a USA-based technology company building modern web, mobile, and AI-assisted solutions for startups, agencies, and growing businesses — including custom SaaS platforms, driving school management systems, e-learning platforms, and CRM/ERP tools. We deliver end-to-end product development, from"
     },
     {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
+      "id": "linkedin-4466500334",
+      "title": "Software Engineer in Test",
+      "company": "Populate",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
+      "posted_at": "2026-09-15",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
+      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
     },
     {
       "id": "linkedin-4467047672",
@@ -668,44 +688,6 @@
       "description_excerpt": "Company Description Nextgen Intelligent Solutions Ltd. is a forward-thinking information technology company focused on next-generation technologies and innovative solutions. The organization is committed to staying at the forefront of the IT landscape, continuously exploring emerging tools and methodologies. Team members work on cutting-edge projects that address complex business and security chal"
     },
     {
-      "id": "linkedin-4465402862",
-      "title": "Php Laravel Developer",
-      "company": "The waresun Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/php-laravel-developer-at-the-waresun-limited-4465402862",
-      "posted_at": "2026-09-12",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description The waresun Limited is an IT and software development company based in Bangladesh, established on July 7, 2017. The company delivers international freelancing projects and provides services in web design, graphics design, web and software applications, networking, domains, and hosting. With a focus on quality, reliable solutions, and affordable services, The waresun Limited aim"
-    },
-    {
-      "id": "linkedin-4463271206",
-      "title": "International Client Communication Executive",
-      "company": "Ruwaifi Studio Ltd",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/international-client-communication-executive-at-ruwaifi-studio-ltd-4463271206",
-      "posted_at": "2026-09-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We’re #Hiring! International Client Communication Executive Join Ruwaifi Studio Ltd and work directly with international clients while helping our team deliver smooth, professional digital services. 📍Location: House-2, Road-13, Block-C, Banasree, Rampura, Dhaka 1219 💼 Job Type: Full-Time, On-Site 💰 Salary: Negotiable What You’ll Do ✅ Communicate with international clients professionally ✅ Understa"
-    },
-    {
       "id": "linkedin-4462774205",
       "title": "Computer Vision & Robotics Engineer",
       "company": "Worksprout",
@@ -742,6 +724,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
+    },
+    {
+      "id": "linkedin-4465402862",
+      "title": "Php Laravel Developer",
+      "company": "The waresun Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/php-laravel-developer-at-the-waresun-limited-4465402862",
+      "posted_at": "2026-09-12",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description The waresun Limited is an IT and software development company based in Bangladesh, established on July 7, 2017. The company delivers international freelancing projects and provides services in web design, graphics design, web and software applications, networking, domains, and hosting. With a focus on quality, reliable solutions, and affordable services, The waresun Limited aim"
     },
     {
       "id": "linkedin-4461940515",
