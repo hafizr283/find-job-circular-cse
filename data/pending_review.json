@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-26T19:20:38+00:00",
+  "built_at": "2026-09-26T23:39:07+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-26T19:20:38+00:00",
-  "total_jobs": 146,
-  "needing_review": 102,
+  "dataset_generated_at": "2026-09-26T23:39:07+00:00",
+  "total_jobs": 145,
+  "needing_review": 101,
   "in_this_batch": 40,
-  "remaining_after_batch": 62,
+  "remaining_after_batch": 61,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -77,6 +77,25 @@
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4471059589",
+      "title": "Intern",
+      "company": "Arivon IT",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-arivon-it-4471059589",
+      "posted_at": "2026-09-26",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Arivon IT is a technology-driven company specializing in web development, mobile app development, custom software solutions, and cloud services. The team helps startups and established businesses turn their ideas into scalable, high-performing digital products. With a strong focus on quality, innovation, and client satisfaction, Arivon IT combines modern technology stacks with "
     },
     {
       "id": "linkedin-4472268046",
@@ -497,6 +516,25 @@
       "description_excerpt": "Job Title: Flutter Developer Company: Farm Logic Tech (farmlogic.tech) Location: Dhaka, Bangladesh (Onsite) Job Type: Full-Time About Farm Logic Tech Farm Logic Tech is a fast-growing IT service firm dedicated to engineering bespoke digital solutions, scalable platforms, and high-performance applications. We are expanding our mobile engineering team and looking for a passionate Flutter Developer w"
     },
     {
+      "id": "linkedin-4453886063",
+      "title": "React & AI Application Developer",
+      "company": "PEN Group",
+      "location": "Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/react-ai-application-developer-at-pen-group-4453886063",
+      "posted_at": "2026-09-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
       "id": "linkedin-4467164983",
       "title": "Information & technology, internet, computer software",
       "company": "Lead Generation Work Family",
@@ -533,25 +571,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
-    },
-    {
-      "id": "linkedin-4453886063",
-      "title": "React & AI Application Developer",
-      "company": "PEN Group",
-      "location": "Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/react-ai-application-developer-at-pen-group-4453886063",
-      "posted_at": "2026-09-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
     },
     {
       "id": "linkedin-4465492699",
@@ -687,25 +706,6 @@
       "description_excerpt": "Protecting Enterprise Security Founded on the principle that every organization deserves enterprise-grade security, regardless of size. About Bengal InfoSec Limited is an enterprise cybersecurity firm and a strategic business unit of the Bengal Airlift Group. We deliver comprehensive Security Operations Center (SOC) services, combining advanced open-source technologies with a team of 200+ certifie"
     },
     {
-      "id": "linkedin-4465157212",
-      "title": "Cyber Security Analyst",
-      "company": "Nextgen Intelligent Solutions Ltd.",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cyber-security-analyst-at-nextgen-intelligent-solutions-ltd-4465157212",
-      "posted_at": "2026-09-11",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Nextgen Intelligent Solutions Ltd. is a forward-thinking information technology company focused on working with next generation technologies. The organization is driven by innovation and dedicated to delivering cutting-edge solutions to its clients. Team members collaborate on advanced projects that push the boundaries of modern IT capabilities. The company values continuous le"
-    },
-    {
       "id": "linkedin-4465456528",
       "title": "SOC Analyst",
       "company": "Nextgen Intelligent Solutions Ltd.",
@@ -763,15 +763,15 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4463805061",
-      "title": "Project Manager (Open to Internal & External Applicants)",
-      "company": "International Civil Aviation Organization",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-international-civil-aviation-organization-4463805061",
-      "posted_at": "2026-09-09",
+      "id": "linkedin-4462261407",
+      "title": "Installers Technical Support",
+      "company": "Hikvision Bangladesh",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/installers-technical-support-at-hikvision-bangladesh-4462261407",
+      "posted_at": "2026-09-08",
       "regex_job_type": "Fresher job",
       "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
+      "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -779,7 +779,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+      "description_excerpt": "Job Responsibility Manage installers and provide the training as per requirements Respond to installers inquiries in a timely and professional manner Identify, diagnose, and resolve technical issues Provide technical support to installers via phone, email, or chat Record and document installers issues and resolutions via excel sheets Collaborate with other teams to resolve complex installers issue"
     }
   ]
 }
