@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-26T11:22:16+00:00",
+  "built_at": "2026-09-26T19:20:38+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-26T11:22:16+00:00",
-  "total_jobs": 151,
-  "needing_review": 107,
+  "dataset_generated_at": "2026-09-26T19:20:38+00:00",
+  "total_jobs": 146,
+  "needing_review": 102,
   "in_this_batch": 40,
-  "remaining_after_batch": 67,
+  "remaining_after_batch": 62,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -134,6 +134,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description TigerIT Bangladesh Ltd. designs and delivers end-to-end identity and credential management solutions for government, corporate, healthcare, and other large-scale service providers worldwide. The company’s flagship Automated Fingerprint Identification System, TigerAFIS, is NIST-certified and ranked among the top global biometric solutions. TigerIT’s portfolio includes biometric "
+    },
+    {
+      "id": "linkedin-4471040172",
+      "title": "Intern, Red Team Operations",
+      "company": "QA Pro Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-red-team-operations-at-qa-pro-limited-4471040172",
+      "posted_at": "2026-09-26",
+      "regex_job_type": "Internship",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "𝗪𝗘’𝗥𝗘 𝗛𝗜𝗥𝗜𝗡𝗚 𝗜𝗻𝘁𝗲𝗿𝗻, 𝗥𝗲𝗱 𝗧𝗲𝗮𝗺 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 𝗤𝗔 𝗣𝗿𝗼 𝗟𝗶𝗺𝗶𝘁𝗲𝗱 | 𝗗𝗵𝗮𝗸𝗮, 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗘𝗺𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁: Full-Time | 6-Month Internship 𝗪𝗼𝗿𝗸 𝗠𝗼𝗱𝗲: Onsite 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗗𝗮𝘆𝘀: Sunday–Thursday | 40 Hours/Week 𝗗𝗲𝗮𝗱𝗹𝗶𝗻𝗲: 30 September 2026 𝗧𝗛𝗘 𝗥𝗢𝗟𝗘 QA Pro Limited is looking for a highly motivated and curious individual to join our Red Team Operations team. This opportunity is for someone with a genuine passion for Red Teaming"
     },
     {
       "id": "linkedin-4470791919",
@@ -478,25 +497,6 @@
       "description_excerpt": "Job Title: Flutter Developer Company: Farm Logic Tech (farmlogic.tech) Location: Dhaka, Bangladesh (Onsite) Job Type: Full-Time About Farm Logic Tech Farm Logic Tech is a fast-growing IT service firm dedicated to engineering bespoke digital solutions, scalable platforms, and high-performance applications. We are expanding our mobile engineering team and looking for a passionate Flutter Developer w"
     },
     {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
-    },
-    {
       "id": "linkedin-4467164983",
       "title": "Information & technology, internet, computer software",
       "company": "Lead Generation Work Family",
@@ -533,6 +533,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
+    },
+    {
+      "id": "linkedin-4453886063",
+      "title": "React & AI Application Developer",
+      "company": "PEN Group",
+      "location": "Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/react-ai-application-developer-at-pen-group-4453886063",
+      "posted_at": "2026-09-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4465492699",
@@ -630,25 +649,6 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     },
     {
-      "id": "linkedin-4462771253",
-      "title": "Embedded Systems & SBC Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4462771253",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
-    },
-    {
       "id": "linkedin-4467047672",
       "title": "Security Engineer",
       "company": "Bengal Airlift Limited",
@@ -706,25 +706,6 @@
       "description_excerpt": "Company Description Nextgen Intelligent Solutions Ltd. is a forward-thinking information technology company focused on working with next generation technologies. The organization is driven by innovation and dedicated to delivering cutting-edge solutions to its clients. Team members collaborate on advanced projects that push the boundaries of modern IT capabilities. The company values continuous le"
     },
     {
-      "id": "linkedin-4463875578",
-      "title": "Software Engineer ll",
-      "company": "Pluto Labs",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-ll-at-pluto-labs-4463875578",
-      "posted_at": "2026-09-11",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Software Engineer II (SWE 2) — Plutolabs Remote (Monday–Friday) | 120,000 – 140,000 BDT About the Role Plutolabs is looking for a Software Engineer II to contribute to the development of our application. The ideal candidate has solid expertise in JavaScript and its frameworks, working experience with AWS services, and the ability to execute and communicate effectively to ensure timely, high-qualit"
-    },
-    {
       "id": "linkedin-4465456528",
       "title": "SOC Analyst",
       "company": "Nextgen Intelligent Solutions Ltd.",
@@ -768,6 +749,25 @@
       "company": "UNDP Careers",
       "location": "Dhaka, Dhaka, Bangladesh",
       "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-undp-careers-4464346408",
+      "posted_at": "2026-09-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+    },
+    {
+      "id": "linkedin-4463805061",
+      "title": "Project Manager (Open to Internal & External Applicants)",
+      "company": "International Civil Aviation Organization",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-manager-open-to-internal-external-applicants-at-international-civil-aviation-organization-4463805061",
       "posted_at": "2026-09-09",
       "regex_job_type": "Fresher job",
       "regex_category": "ITES, Support & Customer Success",
