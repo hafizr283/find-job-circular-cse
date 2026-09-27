@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-27T19:47:45+00:00",
+  "built_at": "2026-09-27T23:51:39+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-27T19:47:45+00:00",
+  "dataset_generated_at": "2026-09-27T23:51:38+00:00",
   "total_jobs": 146,
-  "needing_review": 99,
+  "needing_review": 100,
   "in_this_batch": 40,
-  "remaining_after_batch": 59,
+  "remaining_after_batch": 60,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -686,25 +686,6 @@
       "description_excerpt": "Company Description Nextgen Intelligent Solutions Ltd. is a forward-thinking information technology company focused on next-generation technologies and innovative solutions. The organization is committed to staying at the forefront of the IT landscape, continuously exploring emerging tools and methodologies. Team members work on cutting-edge projects that address complex business and security chal"
     },
     {
-      "id": "linkedin-4465402862",
-      "title": "Php Laravel Developer",
-      "company": "The waresun Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/php-laravel-developer-at-the-waresun-limited-4465402862",
-      "posted_at": "2026-09-12",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description The waresun Limited is an IT and software development company based in Bangladesh, established on July 7, 2017. The company delivers international freelancing projects and provides services in web design, graphics design, web and software applications, networking, domains, and hosting. With a focus on quality, reliable solutions, and affordable services, The waresun Limited aim"
-    },
-    {
       "id": "linkedin-4464346408",
       "title": "Project Manager (Open to Internal & External Applicants)",
       "company": "UNDP Careers",
@@ -779,6 +760,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Build gameplay systems and interactive experiences in Unreal Engine 5. 01 — What You'll Do What You'll Do + Implement gameplay mechanics in Blueprints and/or C++ + Integrate art assets and systems + Profile and optimize performance + Collaborate with artists and prototype features 02 — Requirements What We're Looking For + Hands-on UE5 Blueprint experience (C++ a plus) + Understanding of game arch"
+    },
+    {
+      "id": "linkedin-4464001351",
+      "title": "Junior Unreal Engine Artist",
+      "company": "Tiltnek Studios",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-unreal-engine-artist-at-tiltnek-studios-4464001351",
+      "posted_at": "2026-09-06",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Set up assets, materials and demo scenes in Unreal Engine 5 for our marketplace packs. 01 — What You'll Do What You'll Do + Import and configure assets in UE5 + Build materials and master materials + Assemble demo and showcase scenes with lighting + Set up Nanite/LODs and package for the marketplace 02 — Requirements What We're Looking For + Hands-on UE5 experience + Material editor fundamentals +"
     }
   ]
 }
