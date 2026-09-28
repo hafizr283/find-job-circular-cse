@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-28T06:52:15+00:00",
+  "built_at": "2026-09-28T18:38:52+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-28T06:52:15+00:00",
-  "total_jobs": 152,
-  "needing_review": 100,
+  "dataset_generated_at": "2026-09-28T18:38:52+00:00",
+  "total_jobs": 153,
+  "needing_review": 101,
   "in_this_batch": 40,
-  "remaining_after_batch": 60,
+  "remaining_after_batch": 61,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -420,25 +420,6 @@
       "description_excerpt": "Company Description Picova Tech is a modern technology and digital solutions company, founded in 2026 with a focus on turning ideas into impactful digital experiences. The team specializes in web development, mobile app development, custom software, UI/UX design, and digital marketing, supporting businesses in building a strong digital presence. Picova Tech combines technology, creativity, and bus"
     },
     {
-      "id": "linkedin-4466876875",
-      "title": "Computer Vision Engineer (Remote)",
-      "company": "HeySoham",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-engineer-remote-at-heysoham-4466876875",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
-    },
-    {
       "id": "linkedin-4468210627",
       "title": "Facilities Intern (Bangladesh)",
       "company": "Athelas",
@@ -458,14 +439,14 @@
       "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     },
     {
-      "id": "linkedin-4467836584",
-      "title": "Flutter developer",
-      "company": "FarmLogic.Tech",
+      "id": "linkedin-4466876875",
+      "title": "Computer Vision Engineer (Remote)",
+      "company": "HeySoham",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/flutter-developer-at-farmlogic-tech-4467836584",
-      "posted_at": "2026-09-18",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-engineer-remote-at-heysoham-4466876875",
+      "posted_at": "2026-09-16",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
+      "regex_category": "AI, Data & Machine Learning",
       "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -474,7 +455,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Job Title: Flutter Developer Company: Farm Logic Tech (farmlogic.tech) Location: Dhaka, Bangladesh (Onsite) Job Type: Full-Time About Farm Logic Tech Farm Logic Tech is a fast-growing IT service firm dedicated to engineering bespoke digital solutions, scalable platforms, and high-performance applications. We are expanding our mobile engineering team and looking for a passionate Flutter Developer w"
+      "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
     },
     {
       "id": "linkedin-4469160036",
@@ -494,6 +475,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Location Dhaka on-site 5 days per week About us At Pentex, integrity is at the heart of everything we do; from the way we work through to the products we create. Combining creative design with responsible and ethical practices, we deliver fashion solutions that are built for today and ready for the future. Since our beginnings in East London in the 1960s, Pentex has grown into a global design and "
+    },
+    {
+      "id": "linkedin-4467836584",
+      "title": "Flutter developer",
+      "company": "FarmLogic.Tech",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/flutter-developer-at-farmlogic-tech-4467836584",
+      "posted_at": "2026-09-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Title: Flutter Developer Company: Farm Logic Tech (farmlogic.tech) Location: Dhaka, Bangladesh (Onsite) Job Type: Full-Time About Farm Logic Tech Farm Logic Tech is a fast-growing IT service firm dedicated to engineering bespoke digital solutions, scalable platforms, and high-performance applications. We are expanding our mobile engineering team and looking for a passionate Flutter Developer w"
     },
     {
       "id": "linkedin-4453886063",
@@ -572,6 +572,25 @@
       "description_excerpt": "The KR Technology is looking for a WordPress + Elementor specialist to join our project pool on a remote, contractual, per-project basis . If you're sharp with WP backend work, plugin customization, and turning Figma designs into pixel-perfect Elementor builds — we want to hear from you. 📍 100% Remote — work from anywhere What you'll do: Build and customize WordPress sites using Elementor Convert "
     },
     {
+      "id": "linkedin-4466500334",
+      "title": "Software Engineer in Test",
+      "company": "Populate",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
+      "posted_at": "2026-09-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
+    },
+    {
       "id": "linkedin-4467712129",
       "title": "Salesforce Technical Consultant",
       "company": "RocketPhone.ai",
@@ -610,25 +629,6 @@
       "description_excerpt": "We're Hiring — UI/UX + Graphic Designer 📍 Paltan, Dhaka | Full-time | On-site About InovixLabs InovixLabs is a USA-based technology company building modern web, mobile, and AI-assisted solutions for startups, agencies, and growing businesses — including custom SaaS platforms, driving school management systems, e-learning platforms, and CRM/ERP tools. We deliver end-to-end product development, from"
     },
     {
-      "id": "linkedin-4466500334",
-      "title": "Software Engineer in Test",
-      "company": "Populate",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
-      "posted_at": "2026-09-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
-    },
-    {
       "id": "linkedin-4467047672",
       "title": "Security Engineer",
       "company": "Bengal Airlift Limited",
@@ -665,25 +665,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Protecting Enterprise Security Founded on the principle that every organization deserves enterprise-grade security, regardless of size. About Bengal InfoSec Limited is an enterprise cybersecurity firm and a strategic business unit of the Bengal Airlift Group. We deliver comprehensive Security Operations Center (SOC) services, combining advanced open-source technologies with a team of 200+ certifie"
-    },
-    {
-      "id": "linkedin-4465456528",
-      "title": "SOC Analyst",
-      "company": "Nextgen Intelligent Solutions Ltd.",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/soc-analyst-at-nextgen-intelligent-solutions-ltd-4465456528",
-      "posted_at": "2026-09-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Nextgen Intelligent Solutions Ltd. is a forward-thinking information technology company focused on next-generation technologies and innovative solutions. The organization is committed to staying at the forefront of the IT landscape, continuously exploring emerging tools and methodologies. Team members work on cutting-edge projects that address complex business and security chal"
     },
     {
       "id": "linkedin-4464346408",
@@ -779,6 +760,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Set up assets, materials and demo scenes in Unreal Engine 5 for our marketplace packs. 01 — What You'll Do What You'll Do + Import and configure assets in UE5 + Build materials and master materials + Assemble demo and showcase scenes with lighting + Set up Nanite/LODs and package for the marketplace 02 — Requirements What We're Looking For + Hands-on UE5 experience + Material editor fundamentals +"
+    },
+    {
+      "id": "linkedin-4458945764",
+      "title": "Part-Time Software QA Engineers",
+      "company": "Bytecenture Consulting Sdn. Bhd.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/part-time-software-qa-engineers-at-bytecenture-consulting-sdn-bhd-4458945764",
+      "posted_at": "2026-08-28",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Bytecenture Consulting Sdn. Bhd. is a global software engineering services and solutions company that helps leading organizations transform complex challenges into sustainable business value. With over 500 professionals across 10 countries in South Asia, Europe, the Americas, Japan, and China, Bytecenture supports clients through modern technologies and engineering best practic"
     }
   ]
 }
