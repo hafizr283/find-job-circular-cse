@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-09-29T16:56:28+00:00",
+  "built_at": "2026-09-30T00:27:25+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-09-29T16:56:28+00:00",
-  "total_jobs": 155,
-  "needing_review": 103,
+  "dataset_generated_at": "2026-09-30T00:27:25+00:00",
+  "total_jobs": 159,
+  "needing_review": 105,
   "in_this_batch": 40,
-  "remaining_after_batch": 63,
+  "remaining_after_batch": 65,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -77,6 +77,63 @@
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4471951425",
+      "title": "Software Engineer Intern",
+      "company": "SKARION",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-intern-at-skarion-4471951425",
+      "posted_at": "2026-09-29",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Compensation: BDT 10,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "[Read \"How to Apply\" First Before Applying] Company: Skarion Type: Full-Time Internship Mode: Remote Duration: 4 Months Working Hours: 9 hours per day including 1 hour lunch break, 5 days a week Compensation: BDT 10,000 per month About Skarion Skarion helps individuals confidently navigate the hiring process and secure better career opportunities through expert coaching, resume optimization, profi"
+    },
+    {
+      "id": "linkedin-4473527754",
+      "title": "Backend Engineer Intern",
+      "company": "Basira IT",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/backend-engineer-intern-at-basira-it-4473527754",
+      "posted_at": "2026-09-29",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Home Careers Backend Engineer Intern Join the Engineering team at Basira IT in Dhaka. Opening soon Engineering Dhaka, Bangladesh (On-site) Internship All Positions LocationDhaka, Bangladesh (On-site) Job typeInternship ExperienceEntry Level Team8 people About This Role A 6-month internship for aspiring backend engineers. You will work on real features in our microservices architecture, learn indus"
+    },
+    {
+      "id": "linkedin-4471957742",
+      "title": "🚀 INTENSIVE AI & BUSINESS INTERNSHIP PROGRAM",
+      "company": "Sticker Visa",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/%F0%9F%9A%80-intensive-ai-business-internship-program-at-sticker-visa-4471957742",
+      "posted_at": "2026-09-29",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Remuneration: BDT 8,000/month",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Build Yourself Before You Build the Future. Sticker Visa | Mirpur DOHS, Dhaka Internship Duration: 3 Months Remuneration: BDT 8,000/month Workplace: Full-Time, On-Site ⚠️ READ THIS BEFORE YOU APPLY Saturday to Thursday | 12:00 PM – 9:00 PM This schedule is non-negotiable . You must have the complete availability to work from our office during this period. If you have another job, academic commitme"
     },
     {
       "id": "linkedin-4473219337",
@@ -478,23 +535,23 @@
       "description_excerpt": "Company Description Picova Tech is a modern technology and digital solutions company, founded in 2026 with a focus on turning ideas into impactful digital experiences. The team specializes in web development, mobile app development, custom software, UI/UX design, and digital marketing, supporting businesses in building a strong digital presence. Picova Tech combines technology, creativity, and bus"
     },
     {
-      "id": "linkedin-4468210627",
-      "title": "Facilities Intern (Bangladesh)",
-      "company": "Athelas",
+      "id": "linkedin-4466756851",
+      "title": "Software Engineer",
+      "company": "NAAS Solutions Ltd.",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
+      "posted_at": "2026-09-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Salary negotiable",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
+      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
     },
     {
       "id": "linkedin-4466876875",
@@ -516,14 +573,14 @@
       "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
     },
     {
-      "id": "linkedin-4469160036",
-      "title": "Junior System Administrator",
-      "company": "Pentex Ltd",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-system-administrator-at-pentex-ltd-4469160036",
-      "posted_at": "2026-09-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
+      "id": "linkedin-4468210627",
+      "title": "Facilities Intern (Bangladesh)",
+      "company": "Athelas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
+      "posted_at": "2026-09-16",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
       "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -532,7 +589,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Location Dhaka on-site 5 days per week About us At Pentex, integrity is at the heart of everything we do; from the way we work through to the products we create. Combining creative design with responsible and ethical practices, we deliver fashion solutions that are built for today and ready for the future. Since our beginnings in East London in the 1960s, Pentex has grown into a global design and "
+      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     },
     {
       "id": "linkedin-4467836584",
@@ -554,42 +611,23 @@
       "description_excerpt": "Job Title: Flutter Developer Company: Farm Logic Tech (farmlogic.tech) Location: Dhaka, Bangladesh (Onsite) Job Type: Full-Time About Farm Logic Tech Farm Logic Tech is a fast-growing IT service firm dedicated to engineering bespoke digital solutions, scalable platforms, and high-performance applications. We are expanding our mobile engineering team and looking for a passionate Flutter Developer w"
     },
     {
-      "id": "linkedin-4466756851",
-      "title": "Software Engineer",
-      "company": "NAAS Solutions Ltd.",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
-      "posted_at": "2026-09-13",
+      "id": "linkedin-4469160036",
+      "title": "Junior System Administrator",
+      "company": "Pentex Ltd",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-system-administrator-at-pentex-ltd-4469160036",
+      "posted_at": "2026-09-18",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
-    },
-    {
-      "id": "linkedin-4469544287",
-      "title": "Laravel & Flutter Developers",
-      "company": "ShareDeal",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/laravel-flutter-developers-at-sharedeal-4469544287",
-      "posted_at": "2026-09-19",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
+      "description_excerpt": "Location Dhaka on-site 5 days per week About us At Pentex, integrity is at the heart of everything we do; from the way we work through to the products we create. Combining creative design with responsible and ethical practices, we deliver fashion solutions that are built for today and ready for the future. Since our beginnings in East London in the 1960s, Pentex has grown into a global design and "
     },
     {
       "id": "linkedin-4453886063",
@@ -630,25 +668,6 @@
       "description_excerpt": "Company Description Lead Generation Work Family is a dynamic B2B lead generation provider that delivers real, fresh, and actionable business information to clients on a daily basis. The team focuses on helping organizations from diverse industries grow by supplying high-quality data that supports sales and marketing efforts. As an energetic, results-oriented digital marketing group, the company of"
     },
     {
-      "id": "linkedin-4466500334",
-      "title": "Software Engineer in Test",
-      "company": "Populate",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
-      "posted_at": "2026-09-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
-    },
-    {
       "id": "linkedin-4467712129",
       "title": "Salesforce Technical Consultant",
       "company": "RocketPhone.ai",
@@ -685,6 +704,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're Hiring — UI/UX + Graphic Designer 📍 Paltan, Dhaka | Full-time | On-site About InovixLabs InovixLabs is a USA-based technology company building modern web, mobile, and AI-assisted solutions for startups, agencies, and growing businesses — including custom SaaS platforms, driving school management systems, e-learning platforms, and CRM/ERP tools. We deliver end-to-end product development, from"
+    },
+    {
+      "id": "linkedin-4466500334",
+      "title": "Software Engineer in Test",
+      "company": "Populate",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-in-test-at-populate-4466500334",
+      "posted_at": "2026-09-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 We’re hiring: Software Development Engineer in Test (SDET) 📍 Dhaka, Bangladesh Populate is building an AI-first, cloud-based EMR used by healthcare practices across the United States. Our platform connects clinical documentation, scheduling, billing, claims, patient engagement, and AI-powered workflows. We’re looking for an exceptional SDET who treats quality as an engineering discipline—not sim"
     },
     {
       "id": "linkedin-4467047672",
@@ -742,44 +780,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
-    },
-    {
-      "id": "linkedin-4462261407",
-      "title": "Installers Technical Support",
-      "company": "Hikvision Bangladesh",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/installers-technical-support-at-hikvision-bangladesh-4462261407",
-      "posted_at": "2026-09-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Responsibility Manage installers and provide the training as per requirements Respond to installers inquiries in a timely and professional manner Identify, diagnose, and resolve technical issues Provide technical support to installers via phone, email, or chat Record and document installers issues and resolutions via excel sheets Collaborate with other teams to resolve complex installers issue"
-    },
-    {
-      "id": "linkedin-4462998864",
-      "title": "Data Scientist",
-      "company": "Neufast",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/data-scientist-at-neufast-4462998864",
-      "posted_at": "2026-09-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Neufast is a VC-backed award-winning HR Tech startup company with the mission to transcend talent recruiter, assessment and management to make it easier, faster and fairer using artificial intelligence such as multi-modal models and LLMs. Our AI-powered SaaS platform is being adopted by educational institute, recruitment firms and enterprise in Asia and beyond. We are passionately looking for tale"
     }
   ]
 }
