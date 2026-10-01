@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-10-01T07:18:54+00:00",
+  "built_at": "2026-10-01T17:29:14+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-01T07:18:54+00:00",
-  "total_jobs": 168,
+  "dataset_generated_at": "2026-10-01T17:29:14+00:00",
+  "total_jobs": 166,
   "needing_review": 110,
   "in_this_batch": 40,
   "remaining_after_batch": 70,
@@ -136,31 +136,12 @@
       "description_excerpt": "Build Yourself Before You Build the Future. Sticker Visa | Mirpur DOHS, Dhaka Internship Duration: 3 Months Remuneration: BDT 8,000/month Workplace: Full-Time, On-Site ⚠️ READ THIS BEFORE YOU APPLY Saturday to Thursday | 12:00 PM – 9:00 PM This schedule is non-negotiable . You must have the complete availability to work from our office during this period. If you have another job, academic commitme"
     },
     {
-      "id": "linkedin-4472601019",
-      "title": "Physical AI & IoT Venture Research Fellowship",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/physical-ai-iot-venture-research-fellowship-at-gaotek-inc-4472601019",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Postdoctoral Researcher – AI & IoT Employment: Full-Time Duration: 1Year Compensation: Paid Postdoctoral Program Location: Remote GAO Group & Aperture Venture Studio are looking for recent PhDs and early-career researchers for a paid Postdoctoral Researcher position focused on AI and IoT. The role focuses primarily on IoT systems, intelligent connected devices, edge computing, sensing and AI-enabl"
-    },
-    {
       "id": "linkedin-4473901791",
       "title": "Security Officer (Open to Internal and External Applicants)",
       "company": "International Civil Aviation Organization",
       "location": "Dhaka, Dhaka, Bangladesh",
       "url": "https://bd.linkedin.com/jobs/view/security-officer-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4473901791",
-      "posted_at": "2026-09-30",
+      "posted_at": "2026-10-01",
       "regex_job_type": "Fresher job",
       "regex_category": "ITES, Support & Customer Success",
       "regex_experience_text": "",
@@ -193,14 +174,33 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4473744409",
-      "title": "MLOps Engineer",
-      "company": "Enerzyz",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mlops-engineer-at-enerzyz-4473744409",
+      "id": "linkedin-4472601019",
+      "title": "Physical AI & IoT Venture Research Fellowship",
+      "company": "GAOTek Inc.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/physical-ai-iot-venture-research-fellowship-at-gaotek-inc-4472601019",
       "posted_at": "2026-09-30",
       "regex_job_type": "Fresher job",
       "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Postdoctoral Researcher – AI & IoT Employment: Full-Time Duration: 1Year Compensation: Paid Postdoctoral Program Location: Remote GAO Group & Aperture Venture Studio are looking for recent PhDs and early-career researchers for a paid Postdoctoral Researcher position focused on AI and IoT. The role focuses primarily on IoT systems, intelligent connected devices, edge computing, sensing and AI-enabl"
+    },
+    {
+      "id": "linkedin-4471763797",
+      "title": "Software Engineer",
+      "company": "Meridian Review Group",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-meridian-review-group-4471763797",
+      "posted_at": "2026-09-29",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -209,7 +209,64 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control infrastructure and autonomously runs energy assets across data centres, commercial buildings, and industrial sites. Our models don’t just predict. They act on physical equipment. The Role As an MLOps Engineer at Enerzyz, you’ll own the path from raw sensor data to models running safe"
+      "description_excerpt": "Software Engineer | Meridian Review Group Remote, London, Prague or Costa Rica | Full-Time or Long-Term Contract | $9,000–$12,000 per month depending on experience Meridian Review Group is looking for a Software Engineer to join our growing international team and help build the technology behind a rapidly expanding network of independent business, markets and economic publications. This is a role "
+    },
+    {
+      "id": "linkedin-4472545049",
+      "title": "Full Stack Engineer",
+      "company": "Cortex Applied",
+      "location": "Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-cortex-applied-4472545049",
+      "posted_at": "2026-10-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Cortex Applied is a growing technology company focused on building modern, scalable software solutions for a variety of industries. The team emphasizes practical innovation, clean architecture, and reliable products that solve real-world problems. Working at Cortex Applied offers opportunities to collaborate closely with engineers, product managers, and stakeholders to deliver "
+    },
+    {
+      "id": "linkedin-4473774928",
+      "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
+      "company": "UNDP Careers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-undp-careers-4473774928",
+      "posted_at": "2026-10-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+    },
+    {
+      "id": "linkedin-4473916091",
+      "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
+      "company": "International Civil Aviation Organization",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4473916091",
+      "posted_at": "2026-10-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
       "id": "linkedin-4473761115",
@@ -231,15 +288,15 @@
       "description_excerpt": "About Enerzyz Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control system infrastructure and autonomously runs energy assets across data centres, any type of commercial buildings and industrial sites. Our software doesn't just report on equipment. It controls it, so quality here is a safety discipline, not a checkbox. The role You'll o"
     },
     {
-      "id": "linkedin-4473774928",
-      "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
-      "company": "UNDP Careers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-undp-careers-4473774928",
+      "id": "linkedin-4473744409",
+      "title": "MLOps Engineer",
+      "company": "Enerzyz",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mlops-engineer-at-enerzyz-4473744409",
       "posted_at": "2026-09-30",
       "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -247,26 +304,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
-    },
-    {
-      "id": "linkedin-4473916091",
-      "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
-      "company": "International Civil Aviation Organization",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4473916091",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+      "description_excerpt": "Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control infrastructure and autonomously runs energy assets across data centres, commercial buildings, and industrial sites. Our models don’t just predict. They act on physical equipment. The Role As an MLOps Engineer at Enerzyz, you’ll own the path from raw sensor data to models running safe"
     },
     {
       "id": "linkedin-4473916174",
@@ -476,25 +514,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored (Saudi based startup) with complete end-to-end infrastructure integration. We're a small, senior founding team, and we're hiring the lead engineer who will own the application layer end-to-e"
-    },
-    {
-      "id": "linkedin-4467391459",
-      "title": "Software Engineer",
-      "company": "Meridian Review Group",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-meridian-review-group-4467391459",
-      "posted_at": "2026-09-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Software Engineer | Meridian Review Group Remote | Full-Time or Long-Term Contract | €5,500–€7,000 per month depending on experience Meridian Review Group is expanding its internal technology team and is looking for a Software Engineer to help build and improve the digital infrastructure behind our growing network of business and markets publications. You’ll be joining an existing internal enginee"
     },
     {
       "id": "linkedin-4468714466",
@@ -761,25 +780,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Position: Computer Vision Engineer HeySoham is looking to connect with skilled Computer Vision Engineers for upcoming AI, computer vision, and data-focused projects. We’re particularly interested in engineers with experience in: Object Detection Image Segmentation Object Tracking OCR & Document/Image Understanding Video Analytics PyTorch / TensorFlow OpenCV Model training, evaluation & optimizatio"
-    },
-    {
-      "id": "linkedin-4469160036",
-      "title": "Junior System Administrator",
-      "company": "Pentex Ltd",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-system-administrator-at-pentex-ltd-4469160036",
-      "posted_at": "2026-09-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Location Dhaka on-site 5 days per week About us At Pentex, integrity is at the heart of everything we do; from the way we work through to the products we create. Combining creative design with responsible and ethical practices, we deliver fashion solutions that are built for today and ready for the future. Since our beginnings in East London in the 1960s, Pentex has grown into a global design and "
     }
   ]
 }
