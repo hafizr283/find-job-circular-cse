@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-03T19:20:19+00:00",
+  "built_at": "2026-10-03T23:49:15+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-03T19:20:19+00:00",
-  "total_jobs": 162,
-  "needing_review": 106,
+  "dataset_generated_at": "2026-10-03T23:49:15+00:00",
+  "total_jobs": 161,
+  "needing_review": 105,
   "in_this_batch": 40,
-  "remaining_after_batch": 66,
+  "remaining_after_batch": 65,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -59,6 +59,25 @@
       "description_excerpt": "We are looking for a Test Engineer who will thoroughly inspect our products before theyre launched. As a Test Engineer in our company, you will work closely with the production team to understand why were building a product and what the specific requirements are. Then, you will run a series of tests through all stages of production to identify potential malfunctions and recommend improvements. Ult"
     },
     {
+      "id": "linkedin-4475353170",
+      "title": "Backend Engineer Intern",
+      "company": "Basira IT",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/backend-engineer-intern-at-basira-it-4475353170",
+      "posted_at": "2026-10-03",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Home Careers Backend Engineer Intern Join the Engineering team at Basira IT in Dhaka. Opening soon Engineering Dhaka, Bangladesh (On-site) Internship All Positions LocationDhaka, Bangladesh (On-site) Job typeInternship ExperienceEntry Level Team8 people About This Role A 6-month internship for aspiring backend engineers. You will work on real features in our microservices architecture, learn indus"
+    },
+    {
       "id": "linkedin-4474783624",
       "title": "System Administrator",
       "company": "Binary Quest Limited",
@@ -76,25 +95,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
-    },
-    {
-      "id": "linkedin-4473527754",
-      "title": "Backend Engineer Intern",
-      "company": "Basira IT",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/backend-engineer-intern-at-basira-it-4473527754",
-      "posted_at": "2026-09-29",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Home Careers Backend Engineer Intern Join the Engineering team at Basira IT in Dhaka. Opening soon Engineering Dhaka, Bangladesh (On-site) Internship All Positions LocationDhaka, Bangladesh (On-site) Job typeInternship ExperienceEntry Level Team8 people About This Role A 6-month internship for aspiring backend engineers. You will work on real features in our microservices architecture, learn indus"
     },
     {
       "id": "linkedin-4471951425",
