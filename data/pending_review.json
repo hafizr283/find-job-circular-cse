@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-04T06:52:47+00:00",
+  "built_at": "2026-10-04T15:51:19+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-04T06:52:47+00:00",
-  "total_jobs": 162,
-  "needing_review": 107,
+  "dataset_generated_at": "2026-10-04T15:51:19+00:00",
+  "total_jobs": 165,
+  "needing_review": 108,
   "in_this_batch": 40,
-  "remaining_after_batch": 67,
+  "remaining_after_batch": 68,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -154,25 +154,6 @@
       "description_excerpt": "Build Yourself Before You Build the Future. Sticker Visa | Mirpur DOHS, Dhaka Internship Duration: 3 Months Remuneration: BDT 8,000/month Workplace: Full-Time, On-Site ⚠️ READ THIS BEFORE YOU APPLY Saturday to Thursday | 12:00 PM – 9:00 PM This schedule is non-negotiable . You must have the complete availability to work from our office during this period. If you have another job, academic commitme"
     },
     {
-      "id": "linkedin-4473160109",
-      "title": "Postdoctoral Researcher AI and IoT",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/postdoctoral-researcher-ai-and-iot-at-gaotek-inc-4473160109",
-      "posted_at": "2026-10-02",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Postdoctoral Researcher – AI & IoT Employment: Full-Time Duration: 1 Year Compensation: Paid Postdoctoral Program Location: Remote GAO Group & Aperture Venture Studio are looking for recent PhDs and early-career researchers for a paid Postdoctoral Researcher position focused on AI and IoT. The role focuses on IoT systems, intelligent connected devices, edge computing, sensing and AI-enabled system"
-    },
-    {
       "id": "linkedin-4473794031",
       "title": "Security Officer (Open to Internal and External Applicants)",
       "company": "UNDP Careers",
@@ -190,6 +171,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+    },
+    {
+      "id": "linkedin-4473160109",
+      "title": "Postdoctoral Researcher AI and IoT",
+      "company": "GAOTek Inc.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/postdoctoral-researcher-ai-and-iot-at-gaotek-inc-4473160109",
+      "posted_at": "2026-10-02",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Postdoctoral Researcher – AI & IoT Employment: Full-Time Duration: 1 Year Compensation: Paid Postdoctoral Program Location: Remote GAO Group & Aperture Venture Studio are looking for recent PhDs and early-career researchers for a paid Postdoctoral Researcher position focused on AI and IoT. The role focuses on IoT systems, intelligent connected devices, edge computing, sensing and AI-enabled system"
     },
     {
       "id": "linkedin-4474210171",
@@ -287,25 +287,6 @@
       "description_excerpt": "Software Engineer | Meridian Review Group Remote, London, Prague or Costa Rica | Full-Time or Long-Term Contract | $9,000–$12,000 per month depending on experience Meridian Review Group is looking for a Software Engineer to join our growing international team and help build the technology behind a rapidly expanding network of independent business, markets and economic publications. This is a role "
     },
     {
-      "id": "linkedin-4472545049",
-      "title": "Full Stack Engineer",
-      "company": "Cortex Applied",
-      "location": "Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-cortex-applied-4472545049",
-      "posted_at": "2026-10-01",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Cortex Applied is a growing technology company focused on building modern, scalable software solutions for a variety of industries. The team emphasizes practical innovation, clean architecture, and reliable products that solve real-world problems. Working at Cortex Applied offers opportunities to collaborate closely with engineers, product managers, and stakeholders to deliver "
-    },
-    {
       "id": "linkedin-4473774928",
       "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
       "company": "UNDP Careers",
@@ -344,15 +325,15 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4473916174",
-      "title": "Software Development Intern",
-      "company": "MIS Solution",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-at-mis-solution-4473916174",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Internship",
+      "id": "linkedin-4472545049",
+      "title": "Full Stack Engineer",
+      "company": "Cortex Applied",
+      "location": "Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-cortex-applied-4472545049",
+      "posted_at": "2026-10-01",
+      "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -360,7 +341,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description MIS Solution, founded in 2018, is a Bangladesh-based IT company that delivers end-to-end technology solutions for businesses and institutions. The organization supports clients with IT product supply, technology consultancy, systems integration, and procurement, ensuring they receive and maintain the hardware and software that match their needs. Its software and web development"
+      "description_excerpt": "Company Description Cortex Applied is a growing technology company focused on building modern, scalable software solutions for a variety of industries. The team emphasizes practical innovation, clean architecture, and reliable products that solve real-world problems. Working at Cortex Applied offers opportunities to collaborate closely with engineers, product managers, and stakeholders to deliver "
     },
     {
       "id": "linkedin-4473744409",
@@ -398,18 +379,18 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "About Enerzyz Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control system infrastructure and autonomously runs energy assets across data centres, any type of commercial buildings and industrial sites. Our software doesn't just report on equipment. It controls it, so quality here is a safety discipline, not a checkbox. The role You'll o"
+      "description_excerpt": "About Enerzyz Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control infrastructure and autonomously manages energy assets across data centres, commercial buildings and industrial sites. Our software doesn't just report on equipment. It controls it, so quality here is a safety discipline, not a checkbox. The role You'll own quality acros"
     },
     {
-      "id": "linkedin-4471710124",
-      "title": "Technical Support Expert",
-      "company": "International Journal of Agricultural Research, Innovation and Technology (IJARIT)",
-      "location": "Sreemangal Upazila, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-expert-at-international-journal-of-agricultural-research-innovation-and-technology-ijarit-4471710124",
-      "posted_at": "2026-09-29",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
+      "id": "linkedin-4473916174",
+      "title": "Software Development Intern",
+      "company": "MIS Solution",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-at-mis-solution-4473916174",
+      "posted_at": "2026-09-30",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -417,7 +398,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description International Journal of Agricultural Research, Innovation and Technology (IJARIT) (eISSN: 2224-0616) is an open-access, international scientific journal published by the IJARIT Research Foundation. The journal focuses on original research and reviews in agricultural science, innovation, and technology, with global coverage and particular emphasis on Bangladesh, South Asia, and"
+      "description_excerpt": "Company Description MIS Solution, founded in 2018, is a Bangladesh-based IT company that delivers end-to-end technology solutions for businesses and institutions. The organization supports clients with IT product supply, technology consultancy, systems integration, and procurement, ensuring they receive and maintain the hardware and software that match their needs. Its software and web development"
     },
     {
       "id": "linkedin-4473219337",
@@ -437,6 +418,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Agentic Systems and Intelligent Automation Multiple Openings | Full-time About Ajentica Ajentica is an AI-native product engineering company helping ambitious software businesses become truly agentic. We partner with growth-stage and private-equity-backed companies to modernize complex platforms, redesign operational workflows and build intelligent systems that work alongside people, not merely ge"
+    },
+    {
+      "id": "linkedin-4471710124",
+      "title": "Technical Support Expert",
+      "company": "International Journal of Agricultural Research, Innovation and Technology (IJARIT)",
+      "location": "Sreemangal Upazila, Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-expert-at-international-journal-of-agricultural-research-innovation-and-technology-ijarit-4471710124",
+      "posted_at": "2026-09-29",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description International Journal of Agricultural Research, Innovation and Technology (IJARIT) (eISSN: 2224-0616) is an open-access, international scientific journal published by the IJARIT Research Foundation. The journal focuses on original research and reviews in agricultural science, innovation, and technology, with global coverage and particular emphasis on Bangladesh, South Asia, and"
     },
     {
       "id": "linkedin-4471059589",
