@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-03T23:49:15+00:00",
+  "built_at": "2026-10-04T06:52:47+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-03T23:49:15+00:00",
-  "total_jobs": 161,
-  "needing_review": 105,
+  "dataset_generated_at": "2026-10-04T06:52:47+00:00",
+  "total_jobs": 162,
+  "needing_review": 107,
   "in_this_batch": 40,
-  "remaining_after_batch": 65,
+  "remaining_after_batch": 67,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -78,6 +78,25 @@
       "description_excerpt": "Home Careers Backend Engineer Intern Join the Engineering team at Basira IT in Dhaka. Opening soon Engineering Dhaka, Bangladesh (On-site) Internship All Positions LocationDhaka, Bangladesh (On-site) Job typeInternship ExperienceEntry Level Team8 people About This Role A 6-month internship for aspiring backend engineers. You will work on real features in our microservices architecture, learn indus"
     },
     {
+      "id": "linkedin-4466564784",
+      "title": "2d Mobile Game Programmer (Unity)",
+      "company": "Dreamanimagine Studio",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/2d-mobile-game-programmer-unity-at-dreamanimagine-studio-4466564784",
+      "posted_at": "2026-10-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Tk. 25,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "2D Mobile Game Programmer (Unity) Hello, I am looking for BUET students or graduates to help me develop a 2D mobile game. The game is relatively simple, similar to Doodle Jump. I will design the game concept, gameplay, game mechanics, graphics assets, and animations myself. I need a highly capable programmer to take care of the coding and technical side of the project. My previous programmer, Ashi"
+    },
+    {
       "id": "linkedin-4474783624",
       "title": "System Administrator",
       "company": "Binary Quest Limited",
@@ -135,6 +154,25 @@
       "description_excerpt": "Build Yourself Before You Build the Future. Sticker Visa | Mirpur DOHS, Dhaka Internship Duration: 3 Months Remuneration: BDT 8,000/month Workplace: Full-Time, On-Site ⚠️ READ THIS BEFORE YOU APPLY Saturday to Thursday | 12:00 PM – 9:00 PM This schedule is non-negotiable . You must have the complete availability to work from our office during this period. If you have another job, academic commitme"
     },
     {
+      "id": "linkedin-4473160109",
+      "title": "Postdoctoral Researcher AI and IoT",
+      "company": "GAOTek Inc.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/postdoctoral-researcher-ai-and-iot-at-gaotek-inc-4473160109",
+      "posted_at": "2026-10-02",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Postdoctoral Researcher – AI & IoT Employment: Full-Time Duration: 1 Year Compensation: Paid Postdoctoral Program Location: Remote GAO Group & Aperture Venture Studio are looking for recent PhDs and early-career researchers for a paid Postdoctoral Researcher position focused on AI and IoT. The role focuses on IoT systems, intelligent connected devices, edge computing, sensing and AI-enabled system"
+    },
+    {
       "id": "linkedin-4473794031",
       "title": "Security Officer (Open to Internal and External Applicants)",
       "company": "UNDP Careers",
@@ -154,14 +192,14 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4473160109",
-      "title": "Postdoctoral Researcher AI and IoT",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/postdoctoral-researcher-ai-and-iot-at-gaotek-inc-4473160109",
-      "posted_at": "2026-10-02",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
+      "id": "linkedin-4474210171",
+      "title": "Quality Assurance Engineer",
+      "company": "Enerzyz",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-engineer-at-enerzyz-4474210171",
+      "posted_at": "2026-10-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -170,7 +208,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Postdoctoral Researcher – AI & IoT Employment: Full-Time Duration: 1 Year Compensation: Paid Postdoctoral Program Location: Remote GAO Group & Aperture Venture Studio are looking for recent PhDs and early-career researchers for a paid Postdoctoral Researcher position focused on AI and IoT. The role focuses on IoT systems, intelligent connected devices, edge computing, sensing and AI-enabled system"
+      "description_excerpt": "About Enerzyz Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control infrastructure and autonomously manages energy assets across data centres, commercial buildings and industrial sites. Our software doesn't just report on equipment. It controls it, so quality here is a safety discipline, not a checkbox. The role You'll own quality acros"
     },
     {
       "id": "linkedin-4473901791",
@@ -249,6 +287,25 @@
       "description_excerpt": "Software Engineer | Meridian Review Group Remote, London, Prague or Costa Rica | Full-Time or Long-Term Contract | $9,000–$12,000 per month depending on experience Meridian Review Group is looking for a Software Engineer to join our growing international team and help build the technology behind a rapidly expanding network of independent business, markets and economic publications. This is a role "
     },
     {
+      "id": "linkedin-4472545049",
+      "title": "Full Stack Engineer",
+      "company": "Cortex Applied",
+      "location": "Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-cortex-applied-4472545049",
+      "posted_at": "2026-10-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Cortex Applied is a growing technology company focused on building modern, scalable software solutions for a variety of industries. The team emphasizes practical innovation, clean architecture, and reliable products that solve real-world problems. Working at Cortex Applied offers opportunities to collaborate closely with engineers, product managers, and stakeholders to deliver "
+    },
+    {
       "id": "linkedin-4473774928",
       "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
       "company": "UNDP Careers",
@@ -287,15 +344,15 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4472545049",
-      "title": "Full Stack Engineer",
-      "company": "Cortex Applied",
-      "location": "Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-cortex-applied-4472545049",
-      "posted_at": "2026-10-01",
-      "regex_job_type": "Fresher job",
+      "id": "linkedin-4473916174",
+      "title": "Software Development Intern",
+      "company": "MIS Solution",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-at-mis-solution-4473916174",
+      "posted_at": "2026-09-30",
+      "regex_job_type": "Internship",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -303,7 +360,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description Cortex Applied is a growing technology company focused on building modern, scalable software solutions for a variety of industries. The team emphasizes practical innovation, clean architecture, and reliable products that solve real-world problems. Working at Cortex Applied offers opportunities to collaborate closely with engineers, product managers, and stakeholders to deliver "
+      "description_excerpt": "Company Description MIS Solution, founded in 2018, is a Bangladesh-based IT company that delivers end-to-end technology solutions for businesses and institutions. The organization supports clients with IT product supply, technology consultancy, systems integration, and procurement, ensuring they receive and maintain the hardware and software that match their needs. Its software and web development"
     },
     {
       "id": "linkedin-4473744409",
@@ -344,15 +401,15 @@
       "description_excerpt": "About Enerzyz Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control system infrastructure and autonomously runs energy assets across data centres, any type of commercial buildings and industrial sites. Our software doesn't just report on equipment. It controls it, so quality here is a safety discipline, not a checkbox. The role You'll o"
     },
     {
-      "id": "linkedin-4473916174",
-      "title": "Software Development Intern",
-      "company": "MIS Solution",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-at-mis-solution-4473916174",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "id": "linkedin-4471710124",
+      "title": "Technical Support Expert",
+      "company": "International Journal of Agricultural Research, Innovation and Technology (IJARIT)",
+      "location": "Sreemangal Upazila, Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-expert-at-international-journal-of-agricultural-research-innovation-and-technology-ijarit-4471710124",
+      "posted_at": "2026-09-29",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -360,7 +417,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description MIS Solution, founded in 2018, is a Bangladesh-based IT company that delivers end-to-end technology solutions for businesses and institutions. The organization supports clients with IT product supply, technology consultancy, systems integration, and procurement, ensuring they receive and maintain the hardware and software that match their needs. Its software and web development"
+      "description_excerpt": "Company Description International Journal of Agricultural Research, Innovation and Technology (IJARIT) (eISSN: 2224-0616) is an open-access, international scientific journal published by the IJARIT Research Foundation. The journal focuses on original research and reviews in agricultural science, innovation, and technology, with global coverage and particular emphasis on Bangladesh, South Asia, and"
     },
     {
       "id": "linkedin-4473219337",
@@ -380,25 +437,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Agentic Systems and Intelligent Automation Multiple Openings | Full-time About Ajentica Ajentica is an AI-native product engineering company helping ambitious software businesses become truly agentic. We partner with growth-stage and private-equity-backed companies to modernize complex platforms, redesign operational workflows and build intelligent systems that work alongside people, not merely ge"
-    },
-    {
-      "id": "linkedin-4471710124",
-      "title": "Technical Support Expert",
-      "company": "International Journal of Agricultural Research, Innovation and Technology (IJARIT)",
-      "location": "Sreemangal Upazila, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-expert-at-international-journal-of-agricultural-research-innovation-and-technology-ijarit-4471710124",
-      "posted_at": "2026-09-29",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description International Journal of Agricultural Research, Innovation and Technology (IJARIT) (eISSN: 2224-0616) is an open-access, international scientific journal published by the IJARIT Research Foundation. The journal focuses on original research and reviews in agricultural science, innovation, and technology, with global coverage and particular emphasis on Bangladesh, South Asia, and"
     },
     {
       "id": "linkedin-4471059589",
@@ -591,6 +629,25 @@
       "description_excerpt": "Company Description Automas Technologies Ltd. specializes in transforming connectivity through advanced automation solutions. The company focuses on IoT, SMS Marketing, and IPPBX technologies that help businesses streamline operations, improve communication, and support sustainable growth. Automas Technologies collaborates with clients across industries to design scalable, reliable systems tailore"
     },
     {
+      "id": "linkedin-4466756851",
+      "title": "Software Engineer",
+      "company": "NAAS Solutions Ltd.",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
+      "posted_at": "2026-09-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
+    },
+    {
       "id": "linkedin-4469820074",
       "title": "Software QA Engineer",
       "company": "Joblet-AI",
@@ -648,25 +705,6 @@
       "description_excerpt": "About Masleap Software Solutions Masleap Software Solutions partners with clients across the US and UK to design, build, and ship modern web and mobile products. We're looking for a curious, motivated Web Development Intern to join our team and gain hands-on experience across CMS platforms, custom web development, and deployment workflows. About the Role This internship is ideal for someone who le"
     },
     {
-      "id": "linkedin-4466756851",
-      "title": "Software Engineer",
-      "company": "NAAS Solutions Ltd.",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
-      "posted_at": "2026-09-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
-    },
-    {
       "id": "linkedin-4469539956",
       "title": "Backend Engineer",
       "company": "Joblet-AI",
@@ -684,44 +722,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Role: Backend Engineer Location: Remote Employment Type: Full-time Compensation: Competitive salary commensurate with experience, qualifications, and location. Indicative range: $105,000 – $170,000 (USD equivalent), plus benefits. Role Overview We are hiring a Backend Engineer to design and build the services that power our product. The role focuses on APIs, data systems, and the infrastructure ch"
-    },
-    {
-      "id": "linkedin-4468491338",
-      "title": "Oracle Database Administrator",
-      "company": "Combined Military Hospital (CMH)",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/oracle-database-administrator-at-combined-military-hospital-cmh-4468491338",
-      "posted_at": "2026-09-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Interested applicants can apply through google form also. Please go to this link: https://forms.gle/KH5q47AvBZ5oHqU7A নিয়োগ বিজ্ঞপ্তি ১। বাংলাদেশ সেনাবাহিনীর সম্মিলিত সামরিক হাসপাতাল, ঢাকা-এর Database Management বিভাগে নিম্নবর্ণিত পদে জনবল নিয়োগের নিমিত্তে যোগ্য ও অভিজ্ঞ পুরুষ প্রার্থীদের নিকট হতে দরখাস্ত আহ্বান করা যাচ্ছে। ক। পদের নাম: Senior DBA/DBA (Oracle) খ। কর্মস্থল: সম্মিলিত সামরিক হাসপাত"
-    },
-    {
-      "id": "linkedin-4468487978",
-      "title": "Technical Support Engineer",
-      "company": "BDCOM ONLINE LTD.",
-      "location": "Sylhet Sadar Upazila, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-bdcom-online-ltd-4468487978",
-      "posted_at": "2026-09-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Join our team and be part of a dynamic organization committed to delivering exceptional internet and network services. 🔹 Position: Support Engineer 🔹 Location: Moulvibazar 🔹 Employment Type: Full-time Key Responsibilities: ✅ Provide technical support and troubleshooting for customer connectivity issues ✅ Configure and maintain routers, switches, Wi-Fi devices, and networking equipment ✅ Monitor ne"
     },
     {
       "id": "linkedin-4468822963",
@@ -762,23 +762,23 @@
       "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     },
     {
-      "id": "linkedin-4472339013",
-      "title": "Intern (Unpaid)",
-      "company": "Bengal Software",
+      "id": "linkedin-4468491338",
+      "title": "Oracle Database Administrator",
+      "company": "Combined Military Hospital (CMH)",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-unpaid-at-bengal-software-4472339013",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "url": "https://bd.linkedin.com/jobs/view/oracle-database-administrator-at-combined-military-hospital-cmh-4468491338",
+      "posted_at": "2026-09-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Unpaid",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Note: Please use only email (hr@bengalsoftware.com) for applying. Don't apply for an academic/university internship. We are offering a comprehensive internship in software development & sales/marketing . This internship offers practical training and skill development in two main areas: 1. Software Development 2. Software Sales/Marketing Intern Type: Unpaid Office Time: 11 am-7 pm (Sun-Thu). We pro"
+      "description_excerpt": "Interested applicants can apply through google form also. Please go to this link: https://forms.gle/KH5q47AvBZ5oHqU7A নিয়োগ বিজ্ঞপ্তি ১। বাংলাদেশ সেনাবাহিনীর সম্মিলিত সামরিক হাসপাতাল, ঢাকা-এর Database Management বিভাগে নিম্নবর্ণিত পদে জনবল নিয়োগের নিমিত্তে যোগ্য ও অভিজ্ঞ পুরুষ প্রার্থীদের নিকট হতে দরখাস্ত আহ্বান করা যাচ্ছে। ক। পদের নাম: Senior DBA/DBA (Oracle) খ। কর্মস্থল: সম্মিলিত সামরিক হাসপাত"
     }
   ]
 }
