@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-05T07:02:01+00:00",
+  "built_at": "2026-10-05T19:40:26+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-05T07:02:01+00:00",
-  "total_jobs": 168,
-  "needing_review": 111,
+  "dataset_generated_at": "2026-10-05T19:40:26+00:00",
+  "total_jobs": 170,
+  "needing_review": 110,
   "in_this_batch": 40,
-  "remaining_after_batch": 71,
+  "remaining_after_batch": 70,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -363,11 +363,11 @@
       "description_excerpt": "Software Engineer | Meridian Review Group Remote, London, Prague or Costa Rica | Full-Time or Long-Term Contract | $9,000–$12,000 per month depending on experience Meridian Review Group is looking for a Software Engineer to join our growing international team and help build the technology behind a rapidly expanding network of independent business, markets and economic publications. This is a role "
     },
     {
-      "id": "linkedin-4473774928",
+      "id": "linkedin-4473916091",
       "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
-      "company": "UNDP Careers",
+      "company": "International Civil Aviation Organization",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-undp-careers-4473774928",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4473916091",
       "posted_at": "2026-10-01",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -382,11 +382,11 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4473916091",
+      "id": "linkedin-4473774928",
       "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
-      "company": "International Civil Aviation Organization",
+      "company": "UNDP Careers",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4473916091",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-undp-careers-4473774928",
       "posted_at": "2026-10-01",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -629,25 +629,6 @@
       "description_excerpt": "We are seeking a Business Intelligence Analyst to join our Business Analytics team. In this role, youll work with all company departments to define KPIs, measure performance, and implement predictive analytics. Youll develop a deep understanding of our business and contribute to our continued growth by providing actionable insights that shape our operational strategies. This is an opportunity to m"
     },
     {
-      "id": "linkedin-4470238726",
-      "title": "Staff Android Developer - Native",
-      "company": "AllChrono",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/staff-android-developer-native-at-allchrono-4470238726",
-      "posted_at": "2026-09-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored (Saudi based startup) with complete end-to-end infrastructure integration. We're a small, senior founding team, and we're hiring the lead engineer who will own the application layer end-to-e"
-    },
-    {
       "id": "linkedin-4469033059",
       "title": "Instructor (PLC Programmer)",
       "company": "Gobeshona Learning Academy",
@@ -665,6 +646,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Gobeshona Learning Academy is looking for a passionate PLC Programmer Instructor to join our team on a Part-Time / Remote basis. If you have hands-on experience in PLC programming and enjoy teaching, mentoring, and sharing real-world industrial knowledge, we’d love to hear from you. What we’re looking for: • Practical experience in PLC programming, HMI, SCADA Design • Strong knowledge of industria"
+    },
+    {
+      "id": "linkedin-4470238726",
+      "title": "Staff Android Developer - Native",
+      "company": "AllChrono",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/staff-android-developer-native-at-allchrono-4470238726",
+      "posted_at": "2026-09-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored (Saudi based startup) with complete end-to-end infrastructure integration. We're a small, senior founding team, and we're hiring the lead engineer who will own the application layer end-to-e"
     },
     {
       "id": "linkedin-4466756851",
