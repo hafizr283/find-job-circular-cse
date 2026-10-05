@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-05T00:01:28+00:00",
+  "built_at": "2026-10-05T07:02:01+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-05T00:01:28+00:00",
-  "total_jobs": 164,
-  "needing_review": 107,
+  "dataset_generated_at": "2026-10-05T07:02:01+00:00",
+  "total_jobs": 168,
+  "needing_review": 111,
   "in_this_batch": 40,
-  "remaining_after_batch": 67,
+  "remaining_after_batch": 71,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -135,6 +135,25 @@
       "description_excerpt": "[Read \"How to Apply\" First Before Applying] Company: Skarion Type: Full-Time Internship Mode: Remote Duration: 4 Months Working Hours: 9 hours per day including 1 hour lunch break, 5 days a week Compensation: BDT 10,000 per month About Skarion Skarion helps individuals confidently navigate the hiring process and secure better career opportunities through expert coaching, resume optimization, profi"
     },
     {
+      "id": "linkedin-4475527657",
+      "title": "Engineer, IT Support",
+      "company": "Gildan",
+      "location": "Gulshan, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/engineer-it-support-at-gildan-4475527657",
+      "posted_at": "2026-10-05",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Who we are Gildan is a leading apparel manufacturing company, with a strong portfolio of brands, including Gildan®, American Apparel®, Comfort Colors®, GOLDTOE®, Peds®, and under the Under Armour® brand through a sock licensing agreement. With close to four decades of developing global manufacturing expertise, Gildan is one of the world’s most efficient, ethical, and sustainable apparel manufactur"
+    },
+    {
       "id": "linkedin-4471957742",
       "title": "🚀 INTENSIVE AI & BUSINESS INTERNSHIP PROGRAM",
       "company": "Sticker Visa",
@@ -152,6 +171,63 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Build Yourself Before You Build the Future. Sticker Visa | Mirpur DOHS, Dhaka Internship Duration: 3 Months Remuneration: BDT 8,000/month Workplace: Full-Time, On-Site ⚠️ READ THIS BEFORE YOU APPLY Saturday to Thursday | 12:00 PM – 9:00 PM This schedule is non-negotiable . You must have the complete availability to work from our office during this period. If you have another job, academic commitme"
+    },
+    {
+      "id": "linkedin-4459791514",
+      "title": "Databricks Certified Data Engineering Instructor",
+      "company": "Skills and Jobs",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/databricks-certified-data-engineering-instructor-at-skills-and-jobs-4459791514",
+      "posted_at": "2026-10-05",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Skills and Jobs is a global skills and employment platform focused on connecting talent with meaningful opportunities in a rapidly changing world of work. The organization uses an integrated, technology-driven ecosystem that combines skills assessment, personalized upskilling, and AI-enabled job matching to address skills gaps and underemployment. Its platform supports job seek"
+    },
+    {
+      "id": "linkedin-4474228761",
+      "title": "Cyber Security & SOC Trainer",
+      "company": "Skills and Jobs",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cyber-security-soc-trainer-at-skills-and-jobs-4474228761",
+      "posted_at": "2026-10-05",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Skills and Jobs is a global skills and employment platform focused on closing the gap between talent and opportunity in a rapidly evolving world of work. The organization empowers individuals with future-ready skills and connects them to meaningful employment across local and international markets. Through a technology-driven ecosystem, Skills and Jobs offers skills assessment,"
+    },
+    {
+      "id": "linkedin-4474250256",
+      "title": "Wordpress Web Developer",
+      "company": "Cyber Developer BD",
+      "location": "Bogra District, Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/wordpress-web-developer-at-cyber-developer-bd-4474250256",
+      "posted_at": "2026-10-05",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Cyber Developer BD is one of the largest web hosting and web design companies based in Bangladesh, serving a wide range of local and global clients. The company provides comprehensive services including web hosting, reseller and master reseller hosting, domain registration, dedicated servers, VPS, and professional web design. It also offers website maintenance and related solut"
     },
     {
       "id": "linkedin-4473794031",
@@ -703,82 +779,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored ( Saudi based startup ) with complete end-to-end infrastructure integration. This is a founding technical leadership role, reporting directly to the CTO. You won't be a ticket queue or a lay"
-    },
-    {
-      "id": "linkedin-4468210627",
-      "title": "Facilities Intern (Bangladesh)",
-      "company": "Athelas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
-    },
-    {
-      "id": "linkedin-4468776940",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Techub Co",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-engineer-at-techub-co-4468776940",
-      "posted_at": "2026-09-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Techub is a US-based AI-native technology company that builds production-grade intelligent systems for real-world business operations. The team designs, develops, and deploys solutions across computer vision, machine learning, agentic AI, AI voice systems, enterprise software, cloud infrastructure, data intelligence, and automation. Techub’s work goes beyond prototypes, focusin"
-    },
-    {
-      "id": "linkedin-4470279116",
-      "title": "Web Development Intern — CMS & Full-Stack",
-      "company": "Masleap Plc",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/web-development-intern-%E2%80%94-cms-full-stack-at-masleap-plc-4470279116",
-      "posted_at": "2026-09-22",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About Masleap Software Solutions Masleap Software Solutions partners with clients across the US and UK to design, build, and ship modern web and mobile products. We're looking for a curious, motivated Web Development Intern to join our team and gain hands-on experience across CMS platforms, custom web development, and deployment workflows. About the Role This internship is ideal for someone who le"
-    },
-    {
-      "id": "linkedin-4468491338",
-      "title": "Oracle Database Administrator",
-      "company": "Combined Military Hospital (CMH)",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/oracle-database-administrator-at-combined-military-hospital-cmh-4468491338",
-      "posted_at": "2026-09-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Interested applicants can apply through google form also. Please go to this link: https://forms.gle/KH5q47AvBZ5oHqU7A নিয়োগ বিজ্ঞপ্তি ১। বাংলাদেশ সেনাবাহিনীর সম্মিলিত সামরিক হাসপাতাল, ঢাকা-এর Database Management বিভাগে নিম্নবর্ণিত পদে জনবল নিয়োগের নিমিত্তে যোগ্য ও অভিজ্ঞ পুরুষ প্রার্থীদের নিকট হতে দরখাস্ত আহ্বান করা যাচ্ছে। ক। পদের নাম: Senior DBA/DBA (Oracle) খ। কর্মস্থল: সম্মিলিত সামরিক হাসপাত"
     }
   ]
 }
