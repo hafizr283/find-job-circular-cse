@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-10-06T01:49:25+00:00",
+  "built_at": "2026-10-06T13:19:02+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-06T01:49:25+00:00",
-  "total_jobs": 167,
+  "dataset_generated_at": "2026-10-06T13:19:02+00:00",
+  "total_jobs": 166,
   "needing_review": 108,
   "in_this_batch": 40,
   "remaining_after_batch": 68,
@@ -173,15 +173,15 @@
       "description_excerpt": "Build Yourself Before You Build the Future. Sticker Visa | Mirpur DOHS, Dhaka Internship Duration: 3 Months Remuneration: BDT 8,000/month Workplace: Full-Time, On-Site ⚠️ READ THIS BEFORE YOU APPLY Saturday to Thursday | 12:00 PM – 9:00 PM This schedule is non-negotiable . You must have the complete availability to work from our office during this period. If you have another job, academic commitme"
     },
     {
-      "id": "linkedin-4474250256",
-      "title": "Wordpress Web Developer",
-      "company": "Cyber Developer BD",
-      "location": "Bogra District, Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/wordpress-web-developer-at-cyber-developer-bd-4474250256",
-      "posted_at": "2026-10-05",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "Seniority level Entry level",
+      "id": "linkedin-4474902094",
+      "title": "Product Operations Intern",
+      "company": "EWN Technology",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/product-operations-intern-at-ewn-technology-4474902094",
+      "posted_at": "2026-10-06",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -189,7 +189,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description Cyber Developer BD is one of the largest web hosting and web design companies based in Bangladesh, serving a wide range of local and global clients. The company provides comprehensive services including web hosting, reseller and master reseller hosting, domain registration, dedicated servers, VPS, and professional web design. It also offers website maintenance and related solut"
+      "description_excerpt": "Role Overview EWN is looking for a Product Operations Intern to support the day-to-day execution of our software products and technology projects. This role sits between product, engineering, QA, operations, and management . You will help ensure that priorities are clear, tasks move forward, releases are properly coordinated, blockers are followed up, and management has accurate visibility into wh"
     },
     {
       "id": "linkedin-4459791514",
@@ -228,6 +228,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Skills and Jobs is a global skills and employment platform focused on closing the gap between talent and opportunity in a rapidly evolving world of work. The organization empowers individuals with future-ready skills and connects them to meaningful employment across local and international markets. Through a technology-driven ecosystem, Skills and Jobs offers skills assessment,"
+    },
+    {
+      "id": "linkedin-4474250256",
+      "title": "Wordpress Web Developer",
+      "company": "Cyber Developer BD",
+      "location": "Bogra District, Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/wordpress-web-developer-at-cyber-developer-bd-4474250256",
+      "posted_at": "2026-10-05",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Cyber Developer BD is one of the largest web hosting and web design companies based in Bangladesh, serving a wide range of local and global clients. The company provides comprehensive services including web hosting, reseller and master reseller hosting, domain registration, dedicated servers, VPS, and professional web design. It also offers website maintenance and related solut"
     },
     {
       "id": "linkedin-4473160109",
@@ -363,6 +382,25 @@
       "description_excerpt": "Software Engineer | Meridian Review Group Remote, London, Prague or Costa Rica | Full-Time or Long-Term Contract | $9,000–$12,000 per month depending on experience Meridian Review Group is looking for a Software Engineer to join our growing international team and help build the technology behind a rapidly expanding network of independent business, markets and economic publications. This is a role "
     },
     {
+      "id": "linkedin-4473774928",
+      "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
+      "company": "UNDP Careers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-undp-careers-4473774928",
+      "posted_at": "2026-10-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+    },
+    {
       "id": "linkedin-4472545049",
       "title": "Full Stack Engineer",
       "company": "Cortex Applied",
@@ -401,44 +439,6 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4473774928",
-      "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
-      "company": "UNDP Careers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-undp-careers-4473774928",
-      "posted_at": "2026-10-01",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
-    },
-    {
-      "id": "linkedin-4473916174",
-      "title": "Software Development Intern",
-      "company": "MIS Solution",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-at-mis-solution-4473916174",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description MIS Solution, founded in 2018, is a Bangladesh-based IT company that delivers end-to-end technology solutions for businesses and institutions. The organization supports clients with IT product supply, technology consultancy, systems integration, and procurement, ensuring they receive and maintain the hardware and software that match their needs. Its software and web development"
-    },
-    {
       "id": "linkedin-4473744409",
       "title": "MLOps Engineer",
       "company": "Enerzyz",
@@ -475,6 +475,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About Enerzyz Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control infrastructure and autonomously manages energy assets across data centres, commercial buildings and industrial sites. Our software doesn't just report on equipment. It controls it, so quality here is a safety discipline, not a checkbox. The role You'll own quality acros"
+    },
+    {
+      "id": "linkedin-4473916174",
+      "title": "Software Development Intern",
+      "company": "MIS Solution",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-at-mis-solution-4473916174",
+      "posted_at": "2026-09-30",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description MIS Solution, founded in 2018, is a Bangladesh-based IT company that delivers end-to-end technology solutions for businesses and institutions. The organization supports clients with IT product supply, technology consultancy, systems integration, and procurement, ensuring they receive and maintain the hardware and software that match their needs. Its software and web development"
     },
     {
       "id": "linkedin-4473219337",
@@ -589,6 +608,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description TigerIT Bangladesh Ltd. designs and delivers end-to-end identity and credential management solutions for government, corporate, healthcare, and other large-scale service providers worldwide. The company’s flagship Automated Fingerprint Identification System, TigerAFIS, is NIST-certified and ranked among the top global biometric solutions. TigerIT’s portfolio includes biometric "
+    },
+    {
+      "id": "linkedin-4474646282",
+      "title": "Competitive Programmer Intern",
+      "company": "DeshIT-BD",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/competitive-programmer-intern-at-deshit-bd-4474646282",
+      "posted_at": "2026-10-06",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "DeshIT-BD is looking for a passionate and problem-solving-oriented Competitive Programmer Intern to join our software development team. This internship is ideal for university students who enjoy Algorithms, Data Structures, Competitive Programming, and Problem Solving and want to transform their programming skills into real-world software engineering experience . 💻 What You’ll Do Solve programming"
     },
     {
       "id": "linkedin-4471040172",
@@ -741,44 +779,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
-    },
-    {
-      "id": "linkedin-4469621102",
-      "title": "Technical Support Engineer",
-      "company": "Automas Technologies Ltd.",
-      "location": "Mohammadpur Thana, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-automas-technologies-ltd-4469621102",
-      "posted_at": "2026-09-23",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Automas Technologies Ltd. specializes in transforming connectivity through advanced automation solutions. The company focuses on IoT, SMS Marketing, and IPPBX technologies that help businesses streamline operations, improve communication, and support sustainable growth. Automas Technologies collaborates with clients across industries to design scalable, reliable systems tailore"
-    },
-    {
-      "id": "linkedin-4468776940",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Techub Co",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-engineer-at-techub-co-4468776940",
-      "posted_at": "2026-09-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Techub is a US-based AI-native technology company that builds production-grade intelligent systems for real-world business operations. The team designs, develops, and deploys solutions across computer vision, machine learning, agentic AI, AI voice systems, enterprise software, cloud infrastructure, data intelligence, and automation. Techub’s work goes beyond prototypes, focusin"
     }
   ]
 }
