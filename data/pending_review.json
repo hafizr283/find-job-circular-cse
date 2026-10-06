@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-06T13:19:02+00:00",
+  "built_at": "2026-10-06T21:00:54+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-06T13:19:02+00:00",
-  "total_jobs": 166,
-  "needing_review": 108,
+  "dataset_generated_at": "2026-10-06T21:00:54+00:00",
+  "total_jobs": 168,
+  "needing_review": 109,
   "in_this_batch": 40,
-  "remaining_after_batch": 68,
+  "remaining_after_batch": 69,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -171,6 +171,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Build Yourself Before You Build the Future. Sticker Visa | Mirpur DOHS, Dhaka Internship Duration: 3 Months Remuneration: BDT 8,000/month Workplace: Full-Time, On-Site ⚠️ READ THIS BEFORE YOU APPLY Saturday to Thursday | 12:00 PM – 9:00 PM This schedule is non-negotiable . You must have the complete availability to work from our office during this period. If you have another job, academic commitme"
+    },
+    {
+      "id": "linkedin-4475115416",
+      "title": "Customer Success Associate",
+      "company": "Tenels",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-associate-at-tenels-4475115416",
+      "posted_at": "2026-10-06",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We’re looking for a Customer Success Associate to be the first point of contact for Tenels’ customers — answering questions, troubleshooting issues, and making sure every interaction leaves people better off than before they reached out. You’ll work closely with product and engineering to escalate and track recurring issues, and help build out our knowledge base as the customer base grows. This is"
     },
     {
       "id": "linkedin-4474902094",
@@ -760,25 +779,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored ( Saudi based startup ) with complete end-to-end infrastructure integration. This is a founding technical leadership role, reporting directly to the CTO. You won't be a ticket queue or a lay"
-    },
-    {
-      "id": "linkedin-4468210627",
-      "title": "Facilities Intern (Bangladesh)",
-      "company": "Athelas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     }
   ]
 }
