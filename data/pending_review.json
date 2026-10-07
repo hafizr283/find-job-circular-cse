@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-07T07:17:27+00:00",
+  "built_at": "2026-10-07T17:56:04+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-07T07:17:27+00:00",
-  "total_jobs": 171,
-  "needing_review": 111,
+  "dataset_generated_at": "2026-10-07T17:56:04+00:00",
+  "total_jobs": 174,
+  "needing_review": 114,
   "in_this_batch": 40,
-  "remaining_after_batch": 71,
+  "remaining_after_batch": 74,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -610,6 +610,25 @@
       "description_excerpt": "About the Company & Role ===================== AequiSym AI is a Cambridge-based startup and a proud winner of the MIT Solve Global Challenge. We are dedicated to creating innovative healthcare solutions. Your core responsibilities will center on developing and maintaining our cutting-edge, AI-powered healthcare applications. You will play a crucial role in building robust back-end architectures an"
     },
     {
+      "id": "linkedin-4475459470",
+      "title": "Competitive Programming Intern",
+      "company": "DeshIT-BD",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-deshit-bd-4475459470",
+      "posted_at": "2026-10-07",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Competitive Programming Intern | 6 Months | Unpaid We are looking for a motivated intern with strong interest in Competitive Programming, DSA, Algorithms, and Problem Solving. Requirements: * Basic knowledge of DSA & Algorithms * C++ / Java / Python * Problem-solving mindset * Codeforces / LeetCode / AtCoder experience preferred * Willingness to learn and work consistently Mandatory: During the 6-"
+    },
+    {
       "id": "linkedin-4469760072",
       "title": "AI & IoT Venture Research Fellowship",
       "company": "GAOTek Inc.",
@@ -760,25 +779,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Gobeshona Learning Academy is looking for a passionate PLC Programmer Instructor to join our team on a Part-Time / Remote basis. If you have hands-on experience in PLC programming and enjoy teaching, mentoring, and sharing real-world industrial knowledge, we’d love to hear from you. What we’re looking for: • Practical experience in PLC programming, HMI, SCADA Design • Strong knowledge of industria"
-    },
-    {
-      "id": "linkedin-4468714466",
-      "title": "Technical Support Engineer",
-      "company": "Niyukti Systems, Inc",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-niyukti-systems-inc-4468714466",
-      "posted_at": "2026-09-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are looking for a Technical Support Engineer to provide enterprise-level assistance to our customers. You will diagnose and troubleshoot software and hardware problems and help our customers install applications and programs. Technical Support Engineer responsibilities include resolving network issues, configuring operating systems and using remote desktop connections to provide immediate suppo"
     }
   ]
 }
