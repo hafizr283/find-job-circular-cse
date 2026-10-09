@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-09T07:30:16+00:00",
+  "built_at": "2026-10-09T17:30:09+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-09T07:30:16+00:00",
-  "total_jobs": 174,
-  "needing_review": 108,
+  "dataset_generated_at": "2026-10-09T17:30:09+00:00",
+  "total_jobs": 176,
+  "needing_review": 111,
   "in_this_batch": 40,
-  "remaining_after_batch": 68,
+  "remaining_after_batch": 71,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -37,6 +37,25 @@
         "title bundles several unrelated roles"
       ],
       "description_excerpt": "Pixxen is looking for experienced and creative Expert UI/UX Designers to join our growing team. We are hiring 5-10 UI/UX Designers for full-time, on-site positions. We’re looking for talented professionals who understand both visual design and user experience and can create modern, intuitive, and engaging digital experiences. The ideal candidates should have strong UI/UX design skills, practical e"
+    },
+    {
+      "id": "linkedin-4475974456",
+      "title": "Entry-Level Flutter App Developer",
+      "company": "SoftNiiq",
+      "location": "Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/entry-level-flutter-app-developer-at-softniiq-4475974456",
+      "posted_at": "2026-10-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "WE’RE HIRING — ENTRY-LEVEL FLUTTER APP DEVELOPER SoftNiiq is looking for a motivated Entry-Level Flutter App Developer to join our team on a full-time, remote basis. If you’re a fresh graduate, self-taught developer, or junior Flutter developer who enjoys building mobile applications and wants to gain real-world experience, we’d love to hear from you! WHAT YOU’LL DO Develop and maintain cross-plat"
     },
     {
       "id": "linkedin-4475719736",
@@ -75,6 +94,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Home Careers Backend Engineer Intern Join the Engineering team at Basira IT in Dhaka. Opening soon Engineering Dhaka, Bangladesh (On-site) Internship All Positions LocationDhaka, Bangladesh (On-site) Job typeInternship ExperienceEntry Level Team8 people About This Role A 6-month internship for aspiring backend engineers. You will work on real features in our microservices architecture, learn indus"
+    },
+    {
+      "id": "linkedin-4474899743",
+      "title": "AI-Integrated Full-Stack Engineer",
+      "company": "Codiora Tech",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-integrated-full-stack-engineer-at-codiora-tech-4474899743",
+      "posted_at": "2026-10-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "← Back to Careers Selected Role AI-Integrated Full-Stack Engineer Position LevelMid to Senior Level Employment TypeFull-Time (Hybrid / On-site) LocationDhaka, Bangladesh DepartmentEngineering & AI Labs At Codiora Tech, we build scalable, intelligent software solutions and AI-driven platforms for modern businesses. As an AI-Integrated Full-Stack Engineer, you will operate at the intersection of mod"
     },
     {
       "id": "linkedin-4466564784",
@@ -438,11 +476,11 @@
       "description_excerpt": "Software Engineer | Meridian Review Group Remote, London, Prague or Costa Rica | Full-Time or Long-Term Contract | $9,000–$12,000 per month depending on experience Meridian Review Group is looking for a Software Engineer to join our growing international team and help build the technology behind a rapidly expanding network of independent business, markets and economic publications. This is a role "
     },
     {
-      "id": "linkedin-4473774928",
+      "id": "linkedin-4473916091",
       "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
-      "company": "UNDP Careers",
+      "company": "International Civil Aviation Organization",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-undp-careers-4473774928",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4473916091",
       "posted_at": "2026-10-01",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -457,11 +495,11 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4473916091",
+      "id": "linkedin-4473774928",
       "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
-      "company": "International Civil Aviation Organization",
+      "company": "UNDP Careers",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4473916091",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-undp-careers-4473774928",
       "posted_at": "2026-10-01",
       "regex_job_type": "Fresher job",
       "regex_category": "Freelance & Niche Tech",
@@ -740,44 +778,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored ( Saudi based startup ) with complete end-to-end infrastructure integration. This is a founding technical leadership role, reporting directly to the CTO. You won't be a ticket queue or a lay"
-    },
-    {
-      "id": "linkedin-4468210627",
-      "title": "Facilities Intern (Bangladesh)",
-      "company": "Athelas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
-    },
-    {
-      "id": "linkedin-4474646282",
-      "title": "Competitive Programmer Intern",
-      "company": "DeshIT-BD",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/competitive-programmer-intern-at-deshit-bd-4474646282",
-      "posted_at": "2026-10-06",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "DeshIT-BD is looking for a passionate and problem-solving-oriented Competitive Programmer Intern to join our software development team. This internship is ideal for university students who enjoy Algorithms, Data Structures, Competitive Programming, and Problem Solving and want to transform their programming skills into real-world software engineering experience . 💻 What You’ll Do Solve programming"
     }
   ]
 }
