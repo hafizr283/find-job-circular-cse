@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-08T17:55:56+00:00",
+  "built_at": "2026-10-09T01:15:57+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-08T17:55:56+00:00",
-  "total_jobs": 175,
-  "needing_review": 111,
+  "dataset_generated_at": "2026-10-09T01:15:56+00:00",
+  "total_jobs": 173,
+  "needing_review": 109,
   "in_this_batch": 40,
-  "remaining_after_batch": 71,
+  "remaining_after_batch": 69,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -419,6 +419,25 @@
       "description_excerpt": "Software Engineer | Meridian Review Group Remote, London, Prague or Costa Rica | Full-Time or Long-Term Contract | $9,000–$12,000 per month depending on experience Meridian Review Group is looking for a Software Engineer to join our growing international team and help build the technology behind a rapidly expanding network of independent business, markets and economic publications. This is a role "
     },
     {
+      "id": "linkedin-4472545049",
+      "title": "Full Stack Engineer",
+      "company": "Cortex Applied",
+      "location": "Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-cortex-applied-4472545049",
+      "posted_at": "2026-10-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Cortex Applied is a growing technology company focused on building modern, scalable software solutions for a variety of industries. The team emphasizes practical innovation, clean architecture, and reliable products that solve real-world problems. Working at Cortex Applied offers opportunities to collaborate closely with engineers, product managers, and stakeholders to deliver "
+    },
+    {
       "id": "linkedin-4473774928",
       "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
       "company": "UNDP Careers",
@@ -457,15 +476,15 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4472545049",
-      "title": "Full Stack Engineer",
-      "company": "Cortex Applied",
-      "location": "Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-cortex-applied-4472545049",
-      "posted_at": "2026-10-01",
-      "regex_job_type": "Fresher job",
+      "id": "linkedin-4473916174",
+      "title": "Software Development Intern",
+      "company": "MIS Solution",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-at-mis-solution-4473916174",
+      "posted_at": "2026-09-30",
+      "regex_job_type": "Internship",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -473,7 +492,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description Cortex Applied is a growing technology company focused on building modern, scalable software solutions for a variety of industries. The team emphasizes practical innovation, clean architecture, and reliable products that solve real-world problems. Working at Cortex Applied offers opportunities to collaborate closely with engineers, product managers, and stakeholders to deliver "
+      "description_excerpt": "Company Description MIS Solution, founded in 2018, is a Bangladesh-based IT company that delivers end-to-end technology solutions for businesses and institutions. The organization supports clients with IT product supply, technology consultancy, systems integration, and procurement, ensuring they receive and maintain the hardware and software that match their needs. Its software and web development"
     },
     {
       "id": "linkedin-4473761115",
@@ -512,25 +531,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control infrastructure and autonomously runs energy assets across data centres, commercial buildings, and industrial sites. Our models don’t just predict. They act on physical equipment. The Role As an MLOps Engineer at Enerzyz, you’ll own the path from raw sensor data to models running safe"
-    },
-    {
-      "id": "linkedin-4473916174",
-      "title": "Software Development Intern",
-      "company": "MIS Solution",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-at-mis-solution-4473916174",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description MIS Solution, founded in 2018, is a Bangladesh-based IT company that delivers end-to-end technology solutions for businesses and institutions. The organization supports clients with IT product supply, technology consultancy, systems integration, and procurement, ensuring they receive and maintain the hardware and software that match their needs. Its software and web development"
     },
     {
       "id": "linkedin-4473219337",
@@ -609,25 +609,6 @@
       "description_excerpt": "About the Company & Role ===================== AequiSym AI is a Cambridge-based startup and a proud winner of the MIT Solve Global Challenge. We are dedicated to creating innovative healthcare solutions. Your core responsibilities will center on developing and maintaining our cutting-edge, AI-powered healthcare applications. You will play a crucial role in building robust back-end architectures an"
     },
     {
-      "id": "linkedin-4475459470",
-      "title": "Competitive Programming Intern",
-      "company": "DeshIT-BD",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-deshit-bd-4475459470",
-      "posted_at": "2026-10-07",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Competitive Programming Intern | 6 Months | Unpaid We are looking for a motivated intern with strong interest in Competitive Programming, DSA, Algorithms, and Problem Solving. Requirements: * Basic knowledge of DSA & Algorithms * C++ / Java / Python * Problem-solving mindset * Codeforces / LeetCode / AtCoder experience preferred * Willingness to learn and work consistently Mandatory: During the 6-"
-    },
-    {
       "id": "linkedin-4466756851",
       "title": "Software Engineer",
       "company": "NAAS Solutions Ltd.",
@@ -645,6 +626,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
+    },
+    {
+      "id": "linkedin-4475459470",
+      "title": "Competitive Programming Intern",
+      "company": "DeshIT-BD",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-deshit-bd-4475459470",
+      "posted_at": "2026-10-07",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Competitive Programming Intern | 6 Months | Unpaid We are looking for a motivated intern with strong interest in Competitive Programming, DSA, Algorithms, and Problem Solving. Requirements: * Basic knowledge of DSA & Algorithms * C++ / Java / Python * Problem-solving mindset * Codeforces / LeetCode / AtCoder experience preferred * Willingness to learn and work consistently Mandatory: During the 6-"
     },
     {
       "id": "linkedin-4469760072",
@@ -685,82 +685,6 @@
       "description_excerpt": "Company Description TigerIT Bangladesh Ltd. designs and delivers end-to-end identity and credential management solutions for government, corporate, healthcare, and other large-scale service providers worldwide. The company’s flagship Automated Fingerprint Identification System, TigerAFIS, is NIST-certified and ranked among the top global biometric solutions. TigerIT’s portfolio includes biometric "
     },
     {
-      "id": "linkedin-4474646282",
-      "title": "Competitive Programmer Intern",
-      "company": "DeshIT-BD",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/competitive-programmer-intern-at-deshit-bd-4474646282",
-      "posted_at": "2026-10-06",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "DeshIT-BD is looking for a passionate and problem-solving-oriented Competitive Programmer Intern to join our software development team. This internship is ideal for university students who enjoy Algorithms, Data Structures, Competitive Programming, and Problem Solving and want to transform their programming skills into real-world software engineering experience . 💻 What You’ll Do Solve programming"
-    },
-    {
-      "id": "linkedin-4471040172",
-      "title": "Intern, Red Team Operations",
-      "company": "QA Pro Limited",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-red-team-operations-at-qa-pro-limited-4471040172",
-      "posted_at": "2026-09-26",
-      "regex_job_type": "Internship",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "𝗪𝗘’𝗥𝗘 𝗛𝗜𝗥𝗜𝗡𝗚 𝗜𝗻𝘁𝗲𝗿𝗻, 𝗥𝗲𝗱 𝗧𝗲𝗮𝗺 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 𝗤𝗔 𝗣𝗿𝗼 𝗟𝗶𝗺𝗶𝘁𝗲𝗱 | 𝗗𝗵𝗮𝗸𝗮, 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗘𝗺𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁: Full-Time | 6-Month Internship 𝗪𝗼𝗿𝗸 𝗠𝗼𝗱𝗲: Onsite 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗗𝗮𝘆𝘀: Sunday–Thursday | 40 Hours/Week 𝗗𝗲𝗮𝗱𝗹𝗶𝗻𝗲: 30 September 2026 𝗧𝗛𝗘 𝗥𝗢𝗟𝗘 QA Pro Limited is looking for a highly motivated and curious individual to join our Red Team Operations team. This opportunity is for someone with a genuine passion for Red Teaming"
-    },
-    {
-      "id": "linkedin-4470791919",
-      "title": "Business Intelligence Analyst",
-      "company": "Niyukti Systems, Inc",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/business-intelligence-analyst-at-niyukti-systems-inc-4470791919",
-      "posted_at": "2026-09-26",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are seeking a Business Intelligence Analyst to join our Business Analytics team. In this role, youll work with all company departments to define KPIs, measure performance, and implement predictive analytics. Youll develop a deep understanding of our business and contribute to our continued growth by providing actionable insights that shape our operational strategies. This is an opportunity to m"
-    },
-    {
-      "id": "linkedin-4470238726",
-      "title": "Staff Android Developer - Native",
-      "company": "AllChrono",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/staff-android-developer-native-at-allchrono-4470238726",
-      "posted_at": "2026-09-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored (Saudi based startup) with complete end-to-end infrastructure integration. We're a small, senior founding team, and we're hiring the lead engineer who will own the application layer end-to-e"
-    },
-    {
       "id": "linkedin-4469033059",
       "title": "Instructor (PLC Programmer)",
       "company": "Gobeshona Learning Academy",
@@ -778,6 +702,82 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Gobeshona Learning Academy is looking for a passionate PLC Programmer Instructor to join our team on a Part-Time / Remote basis. If you have hands-on experience in PLC programming and enjoy teaching, mentoring, and sharing real-world industrial knowledge, we’d love to hear from you. What we’re looking for: • Practical experience in PLC programming, HMI, SCADA Design • Strong knowledge of industria"
+    },
+    {
+      "id": "linkedin-4468714466",
+      "title": "Technical Support Engineer",
+      "company": "Niyukti Systems, Inc",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-niyukti-systems-inc-4468714466",
+      "posted_at": "2026-09-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are looking for a Technical Support Engineer to provide enterprise-level assistance to our customers. You will diagnose and troubleshoot software and hardware problems and help our customers install applications and programs. Technical Support Engineer responsibilities include resolving network issues, configuring operating systems and using remote desktop connections to provide immediate suppo"
+    },
+    {
+      "id": "linkedin-4468822963",
+      "title": "Staff Full-Stack Engineer (Node/NestJs) - Logistics & Payments",
+      "company": "AllChrono",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/staff-full-stack-engineer-node-nestjs-logistics-payments-at-allchrono-4468822963",
+      "posted_at": "2026-09-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored ( Saudi based startup ) with complete end-to-end infrastructure integration. This is a founding technical leadership role, reporting directly to the CTO. You won't be a ticket queue or a lay"
+    },
+    {
+      "id": "linkedin-4468210627",
+      "title": "Facilities Intern (Bangladesh)",
+      "company": "Athelas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
+      "posted_at": "2026-09-16",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
+    },
+    {
+      "id": "linkedin-4474646282",
+      "title": "Competitive Programmer Intern",
+      "company": "DeshIT-BD",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/competitive-programmer-intern-at-deshit-bd-4474646282",
+      "posted_at": "2026-10-06",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "DeshIT-BD is looking for a passionate and problem-solving-oriented Competitive Programmer Intern to join our software development team. This internship is ideal for university students who enjoy Algorithms, Data Structures, Competitive Programming, and Problem Solving and want to transform their programming skills into real-world software engineering experience . 💻 What You’ll Do Solve programming"
     }
   ]
 }
