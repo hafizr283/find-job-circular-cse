@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-09T17:30:09+00:00",
+  "built_at": "2026-10-10T00:49:44+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-09T17:30:09+00:00",
+  "dataset_generated_at": "2026-10-10T00:49:44+00:00",
   "total_jobs": 176,
-  "needing_review": 111,
+  "needing_review": 110,
   "in_this_batch": 40,
-  "remaining_after_batch": 71,
+  "remaining_after_batch": 70,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -94,6 +94,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Home Careers Backend Engineer Intern Join the Engineering team at Basira IT in Dhaka. Opening soon Engineering Dhaka, Bangladesh (On-site) Internship All Positions LocationDhaka, Bangladesh (On-site) Job typeInternship ExperienceEntry Level Team8 people About This Role A 6-month internship for aspiring backend engineers. You will work on real features in our microservices architecture, learn indus"
+    },
+    {
+      "id": "linkedin-4476867397",
+      "title": "Laravel Developer",
+      "company": "EnhanceerBD",
+      "location": "Uttara, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-enhanceerbd-4476867397",
+      "posted_at": "2026-10-09",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Home / Career / Laravel Developer Laravel Developer Internship IT Uttara, Dhaka 2+ years Negotiable Apply before 18 Oct 2026 Join Enhanceer IT building client platforms in Laravel and MySQL — eCommerce, ERP modules, dashboards and internal tools. What you will do Build and maintain Laravel applications Write migrations, tests and documentation as you go Review teammates' pull requests Help scope w"
     },
     {
       "id": "linkedin-4474899743",
@@ -476,6 +495,25 @@
       "description_excerpt": "Software Engineer | Meridian Review Group Remote, London, Prague or Costa Rica | Full-Time or Long-Term Contract | $9,000–$12,000 per month depending on experience Meridian Review Group is looking for a Software Engineer to join our growing international team and help build the technology behind a rapidly expanding network of independent business, markets and economic publications. This is a role "
     },
     {
+      "id": "linkedin-4472545049",
+      "title": "Full Stack Engineer",
+      "company": "Cortex Applied",
+      "location": "Sylhet, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-cortex-applied-4472545049",
+      "posted_at": "2026-10-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Cortex Applied is a growing technology company focused on building modern, scalable software solutions for a variety of industries. The team emphasizes practical innovation, clean architecture, and reliable products that solve real-world problems. Working at Cortex Applied offers opportunities to collaborate closely with engineers, product managers, and stakeholders to deliver "
+    },
+    {
       "id": "linkedin-4473916091",
       "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
       "company": "International Civil Aviation Organization",
@@ -514,15 +552,15 @@
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
-      "id": "linkedin-4472545049",
-      "title": "Full Stack Engineer",
-      "company": "Cortex Applied",
-      "location": "Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-engineer-at-cortex-applied-4472545049",
-      "posted_at": "2026-10-01",
-      "regex_job_type": "Fresher job",
+      "id": "linkedin-4473916174",
+      "title": "Software Development Intern",
+      "company": "MIS Solution",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-at-mis-solution-4473916174",
+      "posted_at": "2026-09-30",
+      "regex_job_type": "Internship",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -530,7 +568,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description Cortex Applied is a growing technology company focused on building modern, scalable software solutions for a variety of industries. The team emphasizes practical innovation, clean architecture, and reliable products that solve real-world problems. Working at Cortex Applied offers opportunities to collaborate closely with engineers, product managers, and stakeholders to deliver "
+      "description_excerpt": "Company Description MIS Solution, founded in 2018, is a Bangladesh-based IT company that delivers end-to-end technology solutions for businesses and institutions. The organization supports clients with IT product supply, technology consultancy, systems integration, and procurement, ensuring they receive and maintain the hardware and software that match their needs. Its software and web development"
     },
     {
       "id": "linkedin-4473761115",
@@ -571,25 +609,6 @@
       "description_excerpt": "Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control infrastructure and autonomously runs energy assets across data centres, commercial buildings, and industrial sites. Our models don’t just predict. They act on physical equipment. The Role As an MLOps Engineer at Enerzyz, you’ll own the path from raw sensor data to models running safe"
     },
     {
-      "id": "linkedin-4473916174",
-      "title": "Software Development Intern",
-      "company": "MIS Solution",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-development-intern-at-mis-solution-4473916174",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description MIS Solution, founded in 2018, is a Bangladesh-based IT company that delivers end-to-end technology solutions for businesses and institutions. The organization supports clients with IT product supply, technology consultancy, systems integration, and procurement, ensuring they receive and maintain the hardware and software that match their needs. Its software and web development"
-    },
-    {
       "id": "linkedin-4473219337",
       "title": "AI Application Engineer",
       "company": "Ajentica",
@@ -628,6 +647,25 @@
       "description_excerpt": "Company Description International Journal of Agricultural Research, Innovation and Technology (IJARIT) (eISSN: 2224-0616) is an open-access, international scientific journal published by the IJARIT Research Foundation. The journal focuses on original research and reviews in agricultural science, innovation, and technology, with global coverage and particular emphasis on Bangladesh, South Asia, and"
     },
     {
+      "id": "linkedin-4466756851",
+      "title": "Software Engineer",
+      "company": "NAAS Solutions Ltd.",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
+      "posted_at": "2026-09-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
+    },
+    {
       "id": "linkedin-4471059589",
       "title": "Intern",
       "company": "Arivon IT",
@@ -664,63 +702,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About the Company & Role ===================== AequiSym AI is a Cambridge-based startup and a proud winner of the MIT Solve Global Challenge. We are dedicated to creating innovative healthcare solutions. Your core responsibilities will center on developing and maintaining our cutting-edge, AI-powered healthcare applications. You will play a crucial role in building robust back-end architectures an"
-    },
-    {
-      "id": "linkedin-4466756851",
-      "title": "Software Engineer",
-      "company": "NAAS Solutions Ltd.",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
-      "posted_at": "2026-09-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
-    },
-    {
-      "id": "linkedin-4475459470",
-      "title": "Competitive Programming Intern",
-      "company": "DeshIT-BD",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-deshit-bd-4475459470",
-      "posted_at": "2026-10-07",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Competitive Programming Intern | 6 Months | Unpaid We are looking for a motivated intern with strong interest in Competitive Programming, DSA, Algorithms, and Problem Solving. Requirements: * Basic knowledge of DSA & Algorithms * C++ / Java / Python * Problem-solving mindset * Codeforces / LeetCode / AtCoder experience preferred * Willingness to learn and work consistently Mandatory: During the 6-"
-    },
-    {
-      "id": "linkedin-4469760072",
-      "title": "AI & IoT Venture Research Fellowship",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-iot-venture-research-fellowship-at-gaotek-inc-4469760072",
-      "posted_at": "2026-09-24",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Postdoctoral Researcher – AI & IoT Employment: Full-Time Duration: 1 Year Location: Remote GAO Group & Aperture Venture Studio are looking for recent PhDs and early-career researchers for a paid Postdoctoral Researcher position focused on AI and IoT. The role focuses on IoT systems, intelligent connected devices, edge computing, sensing and AI-enabled systems, with opportunities to develop practic"
     },
     {
       "id": "linkedin-4469033059",
@@ -778,6 +759,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored ( Saudi based startup ) with complete end-to-end infrastructure integration. This is a founding technical leadership role, reporting directly to the CTO. You won't be a ticket queue or a lay"
+    },
+    {
+      "id": "linkedin-4468210627",
+      "title": "Facilities Intern (Bangladesh)",
+      "company": "Athelas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
+      "posted_at": "2026-09-16",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     }
   ]
 }
