@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-10T07:05:58+00:00",
+  "built_at": "2026-10-10T16:18:57+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-10T07:05:57+00:00",
-  "total_jobs": 174,
-  "needing_review": 109,
+  "dataset_generated_at": "2026-10-10T16:18:56+00:00",
+  "total_jobs": 177,
+  "needing_review": 113,
   "in_this_batch": 40,
-  "remaining_after_batch": 69,
+  "remaining_after_batch": 73,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -37,6 +37,44 @@
         "title bundles several unrelated roles"
       ],
       "description_excerpt": "Pixxen is looking for experienced and creative Expert UI/UX Designers to join our growing team. We are hiring 5-10 UI/UX Designers for full-time, on-site positions. We’re looking for talented professionals who understand both visual design and user experience and can create modern, intuitive, and engaging digital experiences. The ideal candidates should have strong UI/UX design skills, practical e"
+    },
+    {
+      "id": "linkedin-4476899740",
+      "title": "UI Designer Intern",
+      "company": "ZORG IT",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-designer-intern-at-zorg-it-4476899740",
+      "posted_at": "2026-10-10",
+      "regex_job_type": "Internship",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Stipend: BDT 10,000/month",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We’re Hiring: UI/UX Designer Intern ⚠️ Do not apply if you do not align with the requirements. Location: Dhaka Type: Full-Time | Internship | On-site Address: Lift 8, Rangs Courtyard (Rancon), 1901 Apollo Road, Vatara, Dhaka - 1213. Internship Duration: 3 Months Stipend: BDT 10,000/month Joining: Immediate Interview: Ongoing Work Time: 10:00 AM to 7:00 PM – 1-hour break We’re looking for a UI/UX D"
+    },
+    {
+      "id": "linkedin-4478057362",
+      "title": "Full Stack AI-Software Engineer",
+      "company": "Marstark",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-ai-software-engineer-at-marstark-4478057362",
+      "posted_at": "2026-10-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary: BDT 55,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 We're Hiring: Full Stack AI Engineers (Remote, Bangladesh) Marstark IT Service, a Netherlands-registered technology company, is looking for Full Stack AI Engineers who can turn an idea into working software, from system architecture to deployment. If you love building from scratch, move fast, and enjoy hard problems in new industries, we want to talk to you. What you'll do: • Design system archi"
     },
     {
       "id": "linkedin-4475974456",
@@ -113,6 +151,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Home / Career / Laravel Developer Laravel Developer Internship IT Uttara, Dhaka 2+ years Negotiable Apply before 18 Oct 2026 Join Enhanceer IT building client platforms in Laravel and MySQL — eCommerce, ERP modules, dashboards and internal tools. What you will do Build and maintain Laravel applications Write migrations, tests and documentation as you go Review teammates' pull requests Help scope w"
+    },
+    {
+      "id": "linkedin-4477222317",
+      "title": "Technical Support Engineer",
+      "company": "ThriveIT",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-thriveit-4477222317",
+      "posted_at": "2026-10-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description ThriveIT focuses on simplifying technology, accounting, and growth for modern enterprises, helping organizations operate more efficiently and scale with confidence. The company provides integrated solutions and services that reduce complexity and streamline day-to-day business operations. By aligning technical expertise with practical business needs, ThriveIT supports clients i"
     },
     {
       "id": "linkedin-4474899743",
@@ -457,6 +514,25 @@
       "description_excerpt": "Company Description Khulna Khan Bahadur Ahsanullah University (KKBAU) is a premier private university in Khulna, Bangladesh, established with UGC approval in 2018 and commencing academic activities in 2022. Located at 140 Khulna Khan Bahadur Ahsanullah Road, Boyra, Khulna, the university currently offers programs across four faculties: Engineering, Business, Arts, and Social Sciences. KKBAU is fou"
     },
     {
+      "id": "linkedin-4473725644",
+      "title": "Technical Support Engineer",
+      "company": "Niyukti Systems, Inc",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-niyukti-systems-inc-4473725644",
+      "posted_at": "2026-09-30",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are looking for a Technical Support Engineer to provide enterprise-level assistance to our customers. You will diagnose and troubleshoot software and hardware problems and help our customers install applications and programs. Technical Support Engineer responsibilities include resolving network issues, configuring operating systems and using remote desktop connections to provide immediate suppo"
+    },
+    {
       "id": "linkedin-4472601019",
       "title": "Physical AI & IoT Venture Research Fellowship",
       "company": "GAOTek Inc.",
@@ -550,6 +626,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+    },
+    {
+      "id": "linkedin-4477228026",
+      "title": "Competitive Programming Intern",
+      "company": "tecklyne",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-tecklyne-4477228026",
+      "posted_at": "2026-10-10",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Competitive Programming Intern | 6 Months | Unpaid We are looking for a motivated intern with strong interest in Competitive Programming, DSA, Algorithms, and Problem Solving. Requirements: * Basic knowledge of DSA & Algorithms * C++ / Java / Python * Problem-solving mindset * Codeforces / LeetCode / AtCoder experience preferred * Willingness to learn and work consistently Mandatory: During the 6-"
     },
     {
       "id": "linkedin-4473761115",
@@ -666,118 +761,23 @@
       "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
     },
     {
-      "id": "linkedin-4471059589",
-      "title": "Intern",
-      "company": "Arivon IT",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-arivon-it-4471059589",
-      "posted_at": "2026-09-26",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Arivon IT is a technology-driven company specializing in web development, mobile app development, custom software solutions, and cloud services. The team helps startups and established businesses turn their ideas into scalable, high-performing digital products. With a strong focus on quality, innovation, and client satisfaction, Arivon IT combines modern technology stacks with "
-    },
-    {
-      "id": "linkedin-4472268046",
-      "title": "Full-Stack Software Developer (Intern)",
-      "company": "Aequisym AI",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-software-developer-intern-at-aequisym-ai-4472268046",
-      "posted_at": "2026-09-26",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About the Company & Role ===================== AequiSym AI is a Cambridge-based startup and a proud winner of the MIT Solve Global Challenge. We are dedicated to creating innovative healthcare solutions. Your core responsibilities will center on developing and maintaining our cutting-edge, AI-powered healthcare applications. You will play a crucial role in building robust back-end architectures an"
-    },
-    {
-      "id": "linkedin-4469033059",
-      "title": "Instructor (PLC Programmer)",
-      "company": "Gobeshona Learning Academy",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/instructor-plc-programmer-at-gobeshona-learning-academy-4469033059",
-      "posted_at": "2026-09-22",
+      "id": "linkedin-4462771253",
+      "title": "Embedded Systems & SBC Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4462771253",
+      "posted_at": "2026-09-03",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Salary negotiable",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Gobeshona Learning Academy is looking for a passionate PLC Programmer Instructor to join our team on a Part-Time / Remote basis. If you have hands-on experience in PLC programming and enjoy teaching, mentoring, and sharing real-world industrial knowledge, we’d love to hear from you. What we’re looking for: • Practical experience in PLC programming, HMI, SCADA Design • Strong knowledge of industria"
-    },
-    {
-      "id": "linkedin-4468714466",
-      "title": "Technical Support Engineer",
-      "company": "Niyukti Systems, Inc",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-niyukti-systems-inc-4468714466",
-      "posted_at": "2026-09-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are looking for a Technical Support Engineer to provide enterprise-level assistance to our customers. You will diagnose and troubleshoot software and hardware problems and help our customers install applications and programs. Technical Support Engineer responsibilities include resolving network issues, configuring operating systems and using remote desktop connections to provide immediate suppo"
-    },
-    {
-      "id": "linkedin-4468822963",
-      "title": "Staff Full-Stack Engineer (Node/NestJs) - Logistics & Payments",
-      "company": "AllChrono",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/staff-full-stack-engineer-node-nestjs-logistics-payments-at-allchrono-4468822963",
-      "posted_at": "2026-09-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About AllChrono AllChrono is building the new industry standard for the $15B luxury watch. We will be the first to take the global market with blockchain-verified passports, escrow-secured trades, GCC-anchored ( Saudi based startup ) with complete end-to-end infrastructure integration. This is a founding technical leadership role, reporting directly to the CTO. You won't be a ticket queue or a lay"
-    },
-    {
-      "id": "linkedin-4468210627",
-      "title": "Facilities Intern (Bangladesh)",
-      "company": "Athelas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/facilities-intern-bangladesh-at-athelas-4468210627",
-      "posted_at": "2026-09-16",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     }
   ]
 }
