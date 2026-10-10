@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-10T16:18:57+00:00",
+  "built_at": "2026-10-10T20:12:38+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-10T16:18:56+00:00",
-  "total_jobs": 177,
-  "needing_review": 113,
+  "dataset_generated_at": "2026-10-10T20:12:37+00:00",
+  "total_jobs": 180,
+  "needing_review": 115,
   "in_this_batch": 40,
-  "remaining_after_batch": 73,
+  "remaining_after_batch": 75,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,6 +18,26 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4477187787",
+      "title": "Developer, Business Intelligence",
+      "company": "Gildan",
+      "location": "Gulshan, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/developer-business-intelligence-at-gildan-4477187787",
+      "posted_at": "2026-10-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
     {
       "id": "linkedin-4471912330",
       "title": "Expert UI/UX Designer | 5-10 Vacancies | Night Shift",
@@ -153,6 +173,25 @@
       "description_excerpt": "Home / Career / Laravel Developer Laravel Developer Internship IT Uttara, Dhaka 2+ years Negotiable Apply before 18 Oct 2026 Join Enhanceer IT building client platforms in Laravel and MySQL — eCommerce, ERP modules, dashboards and internal tools. What you will do Build and maintain Laravel applications Write migrations, tests and documentation as you go Review teammates' pull requests Help scope w"
     },
     {
+      "id": "linkedin-4477213791",
+      "title": "Junior Support Engineer",
+      "company": "Thrive IT Solutions",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-support-engineer-at-thrive-it-solutions-4477213791",
+      "posted_at": "2026-10-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description ThriveIT focuses on simplifying technology, accounting, and growth for modern enterprises, helping organizations manage complexity with streamlined solutions. The company supports clients in optimizing their systems and processes so they can focus on strategic business outcomes. ThriveIT values practical innovation, reliability, and strong customer partnerships. Team members co"
+    },
+    {
       "id": "linkedin-4477222317",
       "title": "Technical Support Engineer",
       "company": "ThriveIT",
@@ -246,6 +285,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
+    },
+    {
+      "id": "linkedin-4476565384",
+      "title": "Customer Success Executive",
+      "company": "Ding",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-executive-at-ding-4476565384",
+      "posted_at": "2026-10-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4471951425",
@@ -721,63 +779,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Agentic Systems and Intelligent Automation Multiple Openings | Full-time About Ajentica Ajentica is an AI-native product engineering company helping ambitious software businesses become truly agentic. We partner with growth-stage and private-equity-backed companies to modernize complex platforms, redesign operational workflows and build intelligent systems that work alongside people, not merely ge"
-    },
-    {
-      "id": "linkedin-4471710124",
-      "title": "Technical Support Expert",
-      "company": "International Journal of Agricultural Research, Innovation and Technology (IJARIT)",
-      "location": "Sreemangal Upazila, Sylhet, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-expert-at-international-journal-of-agricultural-research-innovation-and-technology-ijarit-4471710124",
-      "posted_at": "2026-09-29",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description International Journal of Agricultural Research, Innovation and Technology (IJARIT) (eISSN: 2224-0616) is an open-access, international scientific journal published by the IJARIT Research Foundation. The journal focuses on original research and reviews in agricultural science, innovation, and technology, with global coverage and particular emphasis on Bangladesh, South Asia, and"
-    },
-    {
-      "id": "linkedin-4466756851",
-      "title": "Software Engineer",
-      "company": "NAAS Solutions Ltd.",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
-      "posted_at": "2026-09-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
-    },
-    {
-      "id": "linkedin-4462771253",
-      "title": "Embedded Systems & SBC Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4462771253",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     }
   ]
 }
