@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-11T16:41:59+00:00",
+  "built_at": "2026-10-12T00:34:37+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-11T16:41:59+00:00",
+  "dataset_generated_at": "2026-10-12T00:34:36+00:00",
   "total_jobs": 179,
-  "needing_review": 115,
+  "needing_review": 113,
   "in_this_batch": 40,
-  "remaining_after_batch": 75,
+  "remaining_after_batch": 73,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -76,6 +76,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We’re Hiring: UI/UX Designer Intern ⚠️ Do not apply if you do not align with the requirements. Location: Dhaka Type: Full-Time | Internship | On-site Address: Lift 8, Rangs Courtyard (Rancon), 1901 Apollo Road, Vatara, Dhaka - 1213. Internship Duration: 3 Months Stipend: BDT 10,000/month Joining: Immediate Interview: Ongoing Work Time: 10:00 AM to 7:00 PM – 1-hour break We’re looking for a UI/UX D"
+    },
+    {
+      "id": "linkedin-4478350950",
+      "title": "DevOps And Platform Engineer Intern",
+      "company": "Sheerwater Consulting",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/devops-and-platform-engineer-intern-at-sheerwater-consulting-4478350950",
+      "posted_at": "2026-10-11",
+      "regex_job_type": "Internship",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "salary",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We're hiring 2 DevOps and Platform Engineer Interns. Sheerwater Consulting is a UK-led infrastructure consultancy helping research groups, startups and regulated businesses run reliable cloud, Linux and Kubernetes systems. We're recruiting from Bangladesh, and UK graduates are welcome to apply too. You'll work on real client projects, not practice exercises: • Write Terraform and Ansible for cloud"
     },
     {
       "id": "linkedin-4478057362",
@@ -667,25 +686,6 @@
       "description_excerpt": "Software Engineer | Meridian Review Group Remote, London, Prague or Costa Rica | Full-Time or Long-Term Contract | $9,000–$12,000 per month depending on experience Meridian Review Group is looking for a Software Engineer to join our growing international team and help build the technology behind a rapidly expanding network of independent business, markets and economic publications. This is a role "
     },
     {
-      "id": "linkedin-4473916091",
-      "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
-      "company": "International Civil Aviation Organization",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4473916091",
-      "posted_at": "2026-10-01",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
-    },
-    {
       "id": "linkedin-4473774928",
       "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
       "company": "UNDP Careers",
@@ -724,61 +724,61 @@
       "description_excerpt": "Company Description Cortex Applied is a growing technology company focused on building modern, scalable software solutions for a variety of industries. The team emphasizes practical innovation, clean architecture, and reliable products that solve real-world problems. Working at Cortex Applied offers opportunities to collaborate closely with engineers, product managers, and stakeholders to deliver "
     },
     {
-      "id": "linkedin-4477228026",
-      "title": "Competitive Programming Intern",
-      "company": "tecklyne",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-tecklyne-4477228026",
-      "posted_at": "2026-10-10",
-      "regex_job_type": "Internship",
+      "id": "linkedin-4473916091",
+      "title": "Project Analyst (Monitoring, Evaluation & Learning) - [Open to internal and external applicants]",
+      "company": "International Civil Aviation Organization",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-monitoring-evaluation-learning-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4473916091",
+      "posted_at": "2026-10-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+    },
+    {
+      "id": "linkedin-4466756851",
+      "title": "Software Engineer",
+      "company": "NAAS Solutions Ltd.",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
+      "posted_at": "2026-09-13",
+      "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Unpaid",
+      "pay_text": "Salary negotiable",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Competitive Programming Intern | 6 Months | Unpaid We are looking for a motivated intern with strong interest in Competitive Programming, DSA, Algorithms, and Problem Solving. Requirements: * Basic knowledge of DSA & Algorithms * C++ / Java / Python * Problem-solving mindset * Codeforces / LeetCode / AtCoder experience preferred * Willingness to learn and work consistently Mandatory: During the 6-"
+      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
     },
     {
-      "id": "linkedin-4473761115",
-      "title": "QA Engineer",
-      "company": "Enerzyz",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/qa-engineer-at-enerzyz-4473761115",
-      "posted_at": "2026-09-30",
+      "id": "linkedin-4462771253",
+      "title": "Embedded Systems & SBC Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4462771253",
+      "posted_at": "2026-09-03",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Salary negotiable",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "About Enerzyz Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control infrastructure and autonomously manages energy assets across data centres, commercial buildings and industrial sites. Our software doesn't just report on equipment. It controls it, so quality here is a safety discipline, not a checkbox. The role You'll own quality acros"
-    },
-    {
-      "id": "linkedin-4473744409",
-      "title": "MLOps Engineer",
-      "company": "Enerzyz",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mlops-engineer-at-enerzyz-4473744409",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control infrastructure and autonomously runs energy assets across data centres, commercial buildings, and industrial sites. Our models don’t just predict. They act on physical equipment. The Role As an MLOps Engineer at Enerzyz, you’ll own the path from raw sensor data to models running safe"
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     }
   ]
 }
