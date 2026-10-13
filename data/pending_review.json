@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-13T14:21:19+00:00",
+  "built_at": "2026-10-13T21:35:37+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-13T14:21:19+00:00",
-  "total_jobs": 179,
-  "needing_review": 116,
+  "dataset_generated_at": "2026-10-13T21:35:37+00:00",
+  "total_jobs": 183,
+  "needing_review": 122,
   "in_this_batch": 40,
-  "remaining_after_batch": 76,
+  "remaining_after_batch": 82,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -57,6 +57,26 @@
         "title bundles several unrelated roles"
       ],
       "description_excerpt": "Pixxen is looking for experienced and creative Expert UI/UX Designers to join our growing team. We are hiring 5-10 UI/UX Designers for full-time, on-site positions. We’re looking for talented professionals who understand both visual design and user experience and can create modern, intuitive, and engaging digital experiences. The ideal candidates should have strong UI/UX design skills, practical e"
+    },
+    {
+      "id": "linkedin-4472496924",
+      "title": "Cyber Security Engineer",
+      "company": "Invicta Solutions Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cyber-security-engineer-at-invicta-solutions-ltd-4472496924",
+      "posted_at": "2026-09-28",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4476899740",
@@ -133,6 +153,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About Us Oak Network builds decentralized infrastructure for crowdfunding and commerce, enabling creators to run campaigns and shops with seamless blockchain-backed trust and payments. We are a fully remote global team where members take ownership and collaborate across time zones. (https://oaknetwork.org/) The Role This role focuses on computer vision for extracting insights from imagery at scale"
+    },
+    {
+      "id": "linkedin-4478137193",
+      "title": "Operations & Growth Associate",
+      "company": "Carenika AI",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/operations-growth-associate-at-carenika-ai-4478137193",
+      "posted_at": "2026-10-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Carenika AI is an AI-powered clinical documentation and healthcare technology company focused on building practical tools for medical professionals, particularly in emerging markets. The platform addresses the documentation gap in settings where consultations are conducted in one language and recorded in another, reducing administrative burden for doctors in busy outpatient env"
     },
     {
       "id": "linkedin-4475974456",
@@ -741,44 +780,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
-    },
-    {
-      "id": "linkedin-4462774205",
-      "title": "Computer Vision & Robotics Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
-    },
-    {
-      "id": "linkedin-4462771253",
-      "title": "Embedded Systems & SBC Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4462771253",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     }
   ]
 }
