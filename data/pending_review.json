@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-13T21:35:37+00:00",
+  "built_at": "2026-10-14T00:45:15+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-13T21:35:37+00:00",
-  "total_jobs": 183,
-  "needing_review": 122,
+  "dataset_generated_at": "2026-10-14T00:45:15+00:00",
+  "total_jobs": 187,
+  "needing_review": 128,
   "in_this_batch": 40,
-  "remaining_after_batch": 82,
+  "remaining_after_batch": 88,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -39,6 +39,26 @@
       "description_excerpt": ""
     },
     {
+      "id": "linkedin-4475432898",
+      "title": "We're Hiring: Web Developer with Digital Marketing Experience (Night Shift)",
+      "company": "Pixxen",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/we-re-hiring-web-developer-with-digital-marketing-experience-night-shift-at-pixxen-4475432898",
+      "posted_at": "2026-10-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
       "id": "linkedin-4471912330",
       "title": "Expert UI/UX Designer | 5-10 Vacancies | Night Shift",
       "company": "Pixxen",
@@ -57,6 +77,46 @@
         "title bundles several unrelated roles"
       ],
       "description_excerpt": "Pixxen is looking for experienced and creative Expert UI/UX Designers to join our growing team. We are hiring 5-10 UI/UX Designers for full-time, on-site positions. We’re looking for talented professionals who understand both visual design and user experience and can create modern, intuitive, and engaging digital experiences. The ideal candidates should have strong UI/UX design skills, practical e"
+    },
+    {
+      "id": "linkedin-4475870291",
+      "title": "Business Intelligence Engineer (Bangladesh)",
+      "company": "Athelas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/business-intelligence-engineer-bangladesh-at-athelas-4475870291",
+      "posted_at": "2026-10-05",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4425409132",
+      "title": "CMS APPLICATION ENGINEER (CAMPAIGN MANAGEMENT SYSTEM)",
+      "company": "MIAKI",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cms-application-engineer-campaign-management-system-at-miaki-4425409132",
+      "posted_at": "2026-06-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Other CSE",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "category unresolved",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4472496924",
@@ -193,25 +253,6 @@
       "description_excerpt": "WE’RE HIRING — ENTRY-LEVEL FLUTTER APP DEVELOPER SoftNiiq is looking for a motivated Entry-Level Flutter App Developer to join our team on a full-time, remote basis. If you’re a fresh graduate, self-taught developer, or junior Flutter developer who enjoys building mobile applications and wants to gain real-world experience, we’d love to hear from you! WHAT YOU’LL DO Develop and maintain cross-plat"
     },
     {
-      "id": "linkedin-4477930021",
-      "title": "IT Support Engineer – IT Operations, Software & Automation (Remote)",
-      "company": "TheHiveCareers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-it-operations-software-automation-remote-at-thehivecareers-4477930021",
-      "posted_at": "2026-10-12",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
-    },
-    {
       "id": "linkedin-4475719736",
       "title": "Full Stack Developer",
       "company": "Lab3",
@@ -229,6 +270,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
+    },
+    {
+      "id": "linkedin-4477930021",
+      "title": "IT Support Engineer – IT Operations, Software & Automation (Remote)",
+      "company": "TheHiveCareers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-it-operations-software-automation-remote-at-thehivecareers-4477930021",
+      "posted_at": "2026-10-12",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
     },
     {
       "id": "linkedin-4475509645",
@@ -364,25 +424,6 @@
       "description_excerpt": "2D Mobile Game Programmer (Unity) Hello, I am looking for BUET students or graduates to help me develop a 2D mobile game. The game is relatively simple, similar to Doodle Jump. I will design the game concept, gameplay, game mechanics, graphics assets, and animations myself. I need a highly capable programmer to take care of the coding and technical side of the project. My previous programmer, Ashi"
     },
     {
-      "id": "linkedin-4475667021",
-      "title": "Monitoring & Evaluation (M&E) Associate-I",
-      "company": "Ipas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/monitoring-evaluation-m-e-associate-i-at-ipas-4475667021",
-      "posted_at": "2026-10-11",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "The incumbent will plan and implement initiatives to strengthen SRHR services, particularly Family Planning (FP), Menstrual Regulation (MR), Post-Abortion Care (PAC), and the management of GBV survivors in urban health facilities, especially urban clinics previously operated under UPHCSDP and now transferring under MOH&FW, as well as among private practitioners in DSCC and DNCC. The Technical Coor"
-    },
-    {
       "id": "linkedin-4477250883",
       "title": "Software Support Executive",
       "company": "Bdjobs Live",
@@ -419,6 +460,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Hiring: Freelance Web Developer – Accessibility Checker I'm looking for a developer to build a lightweight web-based accessibility checker with two input options: Website URL: Scan live websites for accessibility issues. Design upload: Upload screenshots or UI designs to analyze accessibility and visual issues. Core features: WCAG accessibility checks and color contrast analysis Detect common issu"
+    },
+    {
+      "id": "linkedin-4475667021",
+      "title": "Monitoring & Evaluation (M&E) Associate-I",
+      "company": "Ipas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/monitoring-evaluation-m-e-associate-i-at-ipas-4475667021",
+      "posted_at": "2026-10-11",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "The incumbent will plan and implement initiatives to strengthen SRHR services, particularly Family Planning (FP), Menstrual Regulation (MR), Post-Abortion Care (PAC), and the management of GBV survivors in urban health facilities, especially urban clinics previously operated under UPHCSDP and now transferring under MOH&FW, as well as among private practitioners in DSCC and DNCC. The Technical Coor"
     },
     {
       "id": "linkedin-4475780578",
@@ -723,63 +783,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Khulna Khan Bahadur Ahsanullah University (KKBAU) is a premier private university in Khulna, Bangladesh, established with UGC approval in 2018 and commencing academic activities in 2022. Located at 140 Khulna Khan Bahadur Ahsanullah Road, Boyra, Khulna, the university currently offers programs across four faculties: Engineering, Business, Arts, and Social Sciences. KKBAU is fou"
-    },
-    {
-      "id": "linkedin-4473725644",
-      "title": "Technical Support Engineer",
-      "company": "Niyukti Systems, Inc",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-niyukti-systems-inc-4473725644",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are looking for a Technical Support Engineer to provide enterprise-level assistance to our customers. You will diagnose and troubleshoot software and hardware problems and help our customers install applications and programs. Technical Support Engineer responsibilities include resolving network issues, configuring operating systems and using remote desktop connections to provide immediate suppo"
-    },
-    {
-      "id": "linkedin-4472601019",
-      "title": "Physical AI & IoT Venture Research Fellowship",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/physical-ai-iot-venture-research-fellowship-at-gaotek-inc-4472601019",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Postdoctoral Researcher – AI & IoT Employment: Full-Time Duration: 1Year Compensation: Paid Postdoctoral Program Location: Remote GAO Group & Aperture Venture Studio are looking for recent PhDs and early-career researchers for a paid Postdoctoral Researcher position focused on AI and IoT. The role focuses primarily on IoT systems, intelligent connected devices, edge computing, sensing and AI-enabl"
-    },
-    {
-      "id": "linkedin-4466756851",
-      "title": "Software Engineer",
-      "company": "NAAS Solutions Ltd.",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
-      "posted_at": "2026-09-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
     }
   ]
 }
