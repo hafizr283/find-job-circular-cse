@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-15T05:58:55+00:00",
+  "built_at": "2026-10-15T11:26:46+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-15T05:58:55+00:00",
-  "total_jobs": 189,
-  "needing_review": 126,
+  "dataset_generated_at": "2026-10-15T11:26:46+00:00",
+  "total_jobs": 191,
+  "needing_review": 128,
   "in_this_batch": 40,
-  "remaining_after_batch": 86,
+  "remaining_after_batch": 88,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -270,6 +270,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "WE’RE HIRING — ENTRY-LEVEL FLUTTER APP DEVELOPER SoftNiiq is looking for a motivated Entry-Level Flutter App Developer to join our team on a full-time, remote basis. If you’re a fresh graduate, self-taught developer, or junior Flutter developer who enjoys building mobile applications and wants to gain real-world experience, we’d love to hear from you! WHAT YOU’LL DO Develop and maintain cross-plat"
+    },
+    {
+      "id": "linkedin-4478858125",
+      "title": "IoT & Embedded system Intern",
+      "company": "BooleanForce",
+      "location": "Badda Thana, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-embedded-system-intern-at-booleanforce-4478858125",
+      "posted_at": "2026-10-15",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 Build the Future of Smart Water — With Us! Neapure is hiring an IoT & Embedded Systems Intern 💧 Work on a real ESP32-based smart water purifier — sensors, cloud, hardware. Not a classroom project. A real product. You'll play with: ⚡ ESP32 / Arduino 📡 IoT Cloud (Blynk, Firebase, MQTT) 💦 TDS • pH • Turbidity Sensors 🔧 Pumps, Valves & Relays Perks: 💰 Stipend 📜 Certificate + LOR 🚀 Full-time conversi"
     },
     {
       "id": "linkedin-4477930021",
@@ -764,25 +783,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Postdoctoral Researcher – AI & IoT Employment: Full-Time Duration: 1 Year Compensation: Paid Postdoctoral Program Location: Remote GAO Group & Aperture Venture Studio are looking for recent PhDs and early-career researchers for a paid Postdoctoral Researcher position focused on AI and IoT. The role focuses on IoT systems, intelligent connected devices, edge computing, sensing and AI-enabled system"
-    },
-    {
-      "id": "linkedin-4474210171",
-      "title": "Quality Assurance Engineer",
-      "company": "Enerzyz",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/quality-assurance-engineer-at-enerzyz-4474210171",
-      "posted_at": "2026-10-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About Enerzyz Enerzyz is an AI-powered, protocol-agnostic energy asset orchestration platform. It sits on top of existing control infrastructure and autonomously manages energy assets across data centres, commercial buildings and industrial sites. Our software doesn't just report on equipment. It controls it, so quality here is a safety discipline, not a checkbox. The role You'll own quality acros"
     }
   ]
 }
