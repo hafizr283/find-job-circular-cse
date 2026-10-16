@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-16T19:44:06+00:00",
+  "built_at": "2026-10-16T23:42:31+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-16T19:44:06+00:00",
-  "total_jobs": 182,
-  "needing_review": 120,
+  "dataset_generated_at": "2026-10-16T23:42:31+00:00",
+  "total_jobs": 183,
+  "needing_review": 122,
   "in_this_batch": 40,
-  "remaining_after_batch": 80,
+  "remaining_after_batch": 82,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -127,6 +127,26 @@
       "posted_at": "2026-09-28",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4462778194",
+      "title": "IoT Hardware & Peripherals Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -365,6 +385,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
+    },
+    {
+      "id": "linkedin-4479515299",
+      "title": "Oracle Database Administrator",
+      "company": "Munshi HR Solutions Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/oracle-database-administrator-at-munshi-hr-solutions-limited-4479515299",
+      "posted_at": "2026-10-14",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Strong expertise in Oracle Database (12c, 19c, 21c and above). Practical experience with Oracle RAC, Data Guard, and GoldenGate. Proficiency in database performance tuning, SQL optimization, indexing, and partitioning. Hands-on experience with RMAN backup and recovery. Knowledge of Oracle Grid Infrastructure and Clusterware. Working knowledge of MySQL, MS SQL Server, and/or PostgreSQL. Oracle Data"
     },
     {
       "id": "linkedin-4478194428",
@@ -633,25 +672,6 @@
       "description_excerpt": "Who we are Gildan is a leading apparel manufacturing company, with a strong portfolio of brands, including Gildan®, American Apparel®, Comfort Colors®, GOLDTOE®, Peds®, and under the Under Armour® brand through a sock licensing agreement. With close to four decades of developing global manufacturing expertise, Gildan is one of the world’s most efficient, ethical, and sustainable apparel manufactur"
     },
     {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
-    },
-    {
       "id": "linkedin-4475171953",
       "title": "Jr. System Engineer",
       "company": "Magnus Corporation Ltd.",
@@ -764,25 +784,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Cyber Developer BD is one of the largest web hosting and web design companies based in Bangladesh, serving a wide range of local and global clients. The company provides comprehensive services including web hosting, reseller and master reseller hosting, domain registration, dedicated servers, VPS, and professional web design. It also offers website maintenance and related solut"
-    },
-    {
-      "id": "linkedin-4466756851",
-      "title": "Software Engineer",
-      "company": "NAAS Solutions Ltd.",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
-      "posted_at": "2026-09-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
     }
   ]
 }
