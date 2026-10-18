@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-18T18:40:09+00:00",
+  "built_at": "2026-10-18T23:09:56+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-18T18:40:09+00:00",
-  "total_jobs": 193,
-  "needing_review": 129,
+  "dataset_generated_at": "2026-10-18T23:09:56+00:00",
+  "total_jobs": 194,
+  "needing_review": 131,
   "in_this_batch": 40,
-  "remaining_after_batch": 89,
+  "remaining_after_batch": 91,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -119,6 +119,25 @@
       "description_excerpt": ""
     },
     {
+      "id": "linkedin-4479935666",
+      "title": "Intern",
+      "company": "Dreams of Bangladesh",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-dreams-of-bangladesh-4479935666",
+      "posted_at": "2026-10-18",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 WE’RE HIRING | MONTHLY PAID INTERNSHIP! Learn. Create. Innovate. Grow. DoB Innovation & Learning Hub, a sister concern of Dreams of Bangladesh (DoB), is expanding its team! We are looking for enthusiastic, responsible, creative, and motivated individuals who are eager to gain practical experience, develop professional skills, and contribute to a growing innovation and education platform. 💼 Key R"
+    },
+    {
       "id": "linkedin-4478429711",
       "title": "Customer Support Intern",
       "company": "DIGIBOX",
@@ -176,25 +195,6 @@
       "description_excerpt": "We're hiring 2 DevOps and Platform Engineer Interns. Sheerwater Consulting is a UK-led infrastructure consultancy helping research groups, startups and regulated businesses run reliable cloud, Linux and Kubernetes systems. We're recruiting from Bangladesh, and UK graduates are welcome to apply too. You'll work on real client projects, not practice exercises: • Write Terraform and Ansible for cloud"
     },
     {
-      "id": "linkedin-4478222743",
-      "title": "Tech Support Virtual Internship",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/tech-support-virtual-internship-at-gaotek-inc-4478222743",
-      "posted_at": "2026-10-18",
-      "regex_job_type": "Internship",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
-    },
-    {
       "id": "linkedin-4479947196",
       "title": "Growth & Outreach Intern (Remote) – SaaS Startup",
       "company": "Writova Ltd",
@@ -212,6 +212,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Writova Ltd is an AI-powered content automation platform designed for SEO teams, bloggers, marketers, and businesses that rely on scalable content production. The platform enables users to generate high-quality articles, manage end-to-end content campaigns, and optimize content for search engines from a single modern dashboard. Writova also streamlines publishing workflows, hel"
+    },
+    {
+      "id": "linkedin-4478222743",
+      "title": "Tech Support Virtual Internship",
+      "company": "GAOTek Inc.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/tech-support-virtual-internship-at-gaotek-inc-4478222743",
+      "posted_at": "2026-10-18",
+      "regex_job_type": "Internship",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
     },
     {
       "id": "linkedin-4477348901",
@@ -763,25 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Who we are Gildan is a leading apparel manufacturing company, with a strong portfolio of brands, including Gildan®, American Apparel®, Comfort Colors®, GOLDTOE®, Peds®, and under the Under Armour® brand through a sock licensing agreement. With close to four decades of developing global manufacturing expertise, Gildan is one of the world’s most efficient, ethical, and sustainable apparel manufactur"
-    },
-    {
-      "id": "linkedin-4475171953",
-      "title": "Jr. System Engineer",
-      "company": "Magnus Corporation Ltd.",
-      "location": "Banani, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/jr-system-engineer-at-magnus-corporation-ltd-4475171953",
-      "posted_at": "2026-10-07",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Magnus Corporation Ltd. is a leading ICT solution provider based in Banani, Dhaka, Bangladesh. We are hiring Jr. System Engineer with below responsibilities Job Responsibilities: Provide L1 technical support for the Order Management System (OMS) project. Assist in deployment, configuration, and maintenance of servers and networks. Monitor system health, server performance, and connectivity to ensu"
     }
   ]
 }
