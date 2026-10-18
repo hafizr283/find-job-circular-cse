@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-18T14:37:41+00:00",
+  "built_at": "2026-10-18T18:40:09+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-18T14:37:41+00:00",
-  "total_jobs": 189,
-  "needing_review": 126,
+  "dataset_generated_at": "2026-10-18T18:40:09+00:00",
+  "total_jobs": 193,
+  "needing_review": 129,
   "in_this_batch": 40,
-  "remaining_after_batch": 86,
+  "remaining_after_batch": 89,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -176,6 +176,44 @@
       "description_excerpt": "We're hiring 2 DevOps and Platform Engineer Interns. Sheerwater Consulting is a UK-led infrastructure consultancy helping research groups, startups and regulated businesses run reliable cloud, Linux and Kubernetes systems. We're recruiting from Bangladesh, and UK graduates are welcome to apply too. You'll work on real client projects, not practice exercises: • Write Terraform and Ansible for cloud"
     },
     {
+      "id": "linkedin-4478222743",
+      "title": "Tech Support Virtual Internship",
+      "company": "GAOTek Inc.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/tech-support-virtual-internship-at-gaotek-inc-4478222743",
+      "posted_at": "2026-10-18",
+      "regex_job_type": "Internship",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
+    },
+    {
+      "id": "linkedin-4479947196",
+      "title": "Growth & Outreach Intern (Remote) – SaaS Startup",
+      "company": "Writova Ltd",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/growth-outreach-intern-remote-%E2%80%93-saas-startup-at-writova-ltd-4479947196",
+      "posted_at": "2026-10-18",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Writova Ltd is an AI-powered content automation platform designed for SEO teams, bloggers, marketers, and businesses that rely on scalable content production. The platform enables users to generate high-quality articles, manage end-to-end content campaigns, and optimize content for search engines from a single modern dashboard. Writova also streamlines publishing workflows, hel"
+    },
+    {
       "id": "linkedin-4477348901",
       "title": "Embedded Systems & SBC Engineer",
       "company": "Worksprout",
@@ -231,6 +269,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: UI/UX Designer (Figma/Adobe XD/Other Tools) Location: Remote Job Type: Internship 𝗖𝗼𝗺𝗽𝗮𝗻𝘆: The GAO Group – USA & Canada 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: www.TheGAOGroup.com The GAO Group is headquartered in New York City, USA, and Toronto, Canada. Its member companies are incorporated in both the USA and Canada and are leading suppliers of advanced electronics and network products for engineers worldwide. Role"
+    },
+    {
+      "id": "linkedin-4479942315",
+      "title": "AI Developer & Automation Specialist",
+      "company": "Affpilot",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-developer-automation-specialist-at-affpilot-4479942315",
+      "posted_at": "2026-10-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Affpilot AI কোম্পানিতে ডেভেলপার হায়ার করবো। Onsite Desk Job. Location: Mirpur, Dhaka ২ বছরের জব এক্সপেরিয়েন্স থাকতে হবে। আগেই সরি বলে নিচ্ছি, AI দিয়ে লিখে কোনো ফ্যান্সি জব পোস্ট লিখবো না, তাই খুব একটা প্রফেশনাল ভাইব পাবেন না এই জব পোস্টে। আমার যা দরকার সেটাই লিখছি সংক্ষেপে। চলুন শুরু করিঃ কিছু রিকয়ারমেন্টস আমি সংক্ষেপে লিখে দিচ্ছি। ১) লিমিটলেস মাইন্ডের অধিকারি হতে হবে (ইলন মাস্ক মাইন্ড - এই দুনিয"
     },
     {
       "id": "linkedin-4479928035",
@@ -725,63 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Magnus Corporation Ltd. is a leading ICT solution provider based in Banani, Dhaka, Bangladesh. We are hiring Jr. System Engineer with below responsibilities Job Responsibilities: Provide L1 technical support for the Order Management System (OMS) project. Assist in deployment, configuration, and maintenance of servers and networks. Monitor system health, server performance, and connectivity to ensu"
-    },
-    {
-      "id": "linkedin-4466756851",
-      "title": "Software Engineer",
-      "company": "NAAS Solutions Ltd.",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
-      "posted_at": "2026-09-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
-    },
-    {
-      "id": "linkedin-4462774205",
-      "title": "Computer Vision & Robotics Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
-    },
-    {
-      "id": "linkedin-4475115416",
-      "title": "Customer Success Associate",
-      "company": "Tenels",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/customer-success-associate-at-tenels-4475115416",
-      "posted_at": "2026-10-06",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We’re looking for a Customer Success Associate to be the first point of contact for Tenels’ customers — answering questions, troubleshooting issues, and making sure every interaction leaves people better off than before they reached out. You’ll work closely with product and engineering to escalate and track recurring issues, and help build out our knowledge base as the customer base grows. This is"
     }
   ]
 }
