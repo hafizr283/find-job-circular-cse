@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-18T06:03:50+00:00",
+  "built_at": "2026-10-18T11:06:21+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-18T06:03:50+00:00",
-  "total_jobs": 188,
-  "needing_review": 125,
+  "dataset_generated_at": "2026-10-18T11:06:21+00:00",
+  "total_jobs": 187,
+  "needing_review": 124,
   "in_this_batch": 40,
-  "remaining_after_batch": 85,
+  "remaining_after_batch": 84,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,6 +18,26 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4477348901",
+      "title": "Embedded Systems & SBC Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4477348901",
+      "posted_at": "2026-10-16",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
     {
       "id": "linkedin-4477187787",
       "title": "Developer, Business Intelligence",
@@ -195,25 +215,6 @@
       "description_excerpt": "🚀 We're Hiring: Full Stack AI Engineers (Remote, Bangladesh) Marstark IT Service, a Netherlands-registered technology company, is looking for Full Stack AI Engineers who can turn an idea into working software, from system architecture to deployment. If you love building from scratch, move fast, and enjoy hard problems in new industries, we want to talk to you. What you'll do: • Design system archi"
     },
     {
-      "id": "linkedin-4477348901",
-      "title": "Embedded Systems & SBC Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4477348901",
-      "posted_at": "2026-10-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
-    },
-    {
       "id": "linkedin-4477716504",
       "title": "UI/UX Designer Virtual Internship",
       "company": "GAOTek Inc.",
@@ -231,6 +232,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: UI/UX Designer (Figma/Adobe XD/Other Tools) Location: Remote Job Type: Internship 𝗖𝗼𝗺𝗽𝗮𝗻𝘆: The GAO Group – USA & Canada 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: www.TheGAOGroup.com The GAO Group is headquartered in New York City, USA, and Toronto, Canada. Its member companies are incorporated in both the USA and Canada and are leading suppliers of advanced electronics and network products for engineers worldwide. Role"
+    },
+    {
+      "id": "linkedin-4479928035",
+      "title": "Web3 Developer Intern",
+      "company": "Chainomation Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/web3-developer-intern-at-chainomation-limited-4479928035",
+      "posted_at": "2026-10-18",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Chainomation Limited is building trusted digital infrastructure by connecting enterprises, real-world data, AI, and blockchain technologies. The company designs secure, interoperable, and automated systems powered by Chainlink, smart contracts, decentralized oracle networks, and enterprise AI. Its work spans financial services, agriculture, climate, supply chains, digital ident"
     },
     {
       "id": "linkedin-4479652892",
@@ -328,6 +348,25 @@
       "description_excerpt": "🚀 Build the Future of Smart Water — With Us! Neapure is hiring an IoT & Embedded Systems Intern 💧 Work on a real ESP32-based smart water purifier — sensors, cloud, hardware. Not a classroom project. A real product. You'll play with: ⚡ ESP32 / Arduino 📡 IoT Cloud (Blynk, Firebase, MQTT) 💦 TDS • pH • Turbidity Sensors 🔧 Pumps, Valves & Relays Perks: 💰 Stipend 📜 Certificate + LOR 🚀 Full-time conversi"
     },
     {
+      "id": "linkedin-4477930021",
+      "title": "IT Support Engineer – IT Operations, Software & Automation (Remote)",
+      "company": "TheHiveCareers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-it-operations-software-automation-remote-at-thehivecareers-4477930021",
+      "posted_at": "2026-10-12",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
+    },
+    {
       "id": "linkedin-4475719736",
       "title": "Full Stack Developer",
       "company": "Lab3",
@@ -347,15 +386,15 @@
       "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
     },
     {
-      "id": "linkedin-4477930021",
-      "title": "IT Support Engineer – IT Operations, Software & Automation (Remote)",
-      "company": "TheHiveCareers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-it-operations-software-automation-remote-at-thehivecareers-4477930021",
-      "posted_at": "2026-10-12",
+      "id": "linkedin-4478194428",
+      "title": "Mid-level Full-Stack Engineer",
+      "company": "Truey",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mid-level-full-stack-engineer-at-truey-4478194428",
+      "posted_at": "2026-10-14",
       "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -363,7 +402,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
+      "description_excerpt": "Mid-level full-stack engineer - Truey Truey helps people turn goals into action through tasks, scheduling, reusable methods, and an AI assistant. We're looking for an engineer who can build across frontend and backend, use AI effectively, and take well-defined features through to release. What you'll do: • Build interfaces, APIs, and database changes. • Work with product and design to clarify requ"
     },
     {
       "id": "linkedin-4479515299",
@@ -402,25 +441,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Home Careers Backend Engineer Intern Join the Engineering team at Basira IT in Dhaka. Opening soon Engineering Dhaka, Bangladesh (On-site) Internship All Positions LocationDhaka, Bangladesh (On-site) Job typeInternship ExperienceEntry Level Team8 people About This Role A 6-month internship for aspiring backend engineers. You will work on real features in our microservices architecture, learn indus"
-    },
-    {
-      "id": "linkedin-4478194428",
-      "title": "Mid-level Full-Stack Engineer",
-      "company": "Truey",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mid-level-full-stack-engineer-at-truey-4478194428",
-      "posted_at": "2026-10-14",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Mid-level full-stack engineer - Truey Truey helps people turn goals into action through tasks, scheduling, reusable methods, and an AI assistant. We're looking for an engineer who can build across frontend and backend, use AI effectively, and take well-defined features through to release. What you'll do: • Build interfaces, APIs, and database changes. • Work with product and design to clarify requ"
     },
     {
       "id": "linkedin-4477995396",
@@ -499,25 +519,6 @@
       "description_excerpt": "Company Description ThriveIT focuses on simplifying technology, accounting, and growth for modern enterprises, helping organizations operate more efficiently and scale with confidence. The company provides integrated solutions and services that reduce complexity and streamline day-to-day business operations. By aligning technical expertise with practical business needs, ThriveIT supports clients i"
     },
     {
-      "id": "linkedin-4466564784",
-      "title": "2d Mobile Game Programmer (Unity)",
-      "company": "Dreamanimagine Studio",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/2d-mobile-game-programmer-unity-at-dreamanimagine-studio-4466564784",
-      "posted_at": "2026-10-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Tk. 25,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "2D Mobile Game Programmer (Unity) Hello, I am looking for BUET students or graduates to help me develop a 2D mobile game. The game is relatively simple, similar to Doodle Jump. I will design the game concept, gameplay, game mechanics, graphics assets, and animations myself. I need a highly capable programmer to take care of the coding and technical side of the project. My previous programmer, Ashi"
-    },
-    {
       "id": "linkedin-4474899743",
       "title": "AI-Integrated Full-Stack Engineer",
       "company": "Codiora Tech",
@@ -535,6 +536,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "← Back to Careers Selected Role AI-Integrated Full-Stack Engineer Position LevelMid to Senior Level Employment TypeFull-Time (Hybrid / On-site) LocationDhaka, Bangladesh DepartmentEngineering & AI Labs At Codiora Tech, we build scalable, intelligent software solutions and AI-driven platforms for modern businesses. As an AI-Integrated Full-Stack Engineer, you will operate at the intersection of mod"
+    },
+    {
+      "id": "linkedin-4466564784",
+      "title": "2d Mobile Game Programmer (Unity)",
+      "company": "Dreamanimagine Studio",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/2d-mobile-game-programmer-unity-at-dreamanimagine-studio-4466564784",
+      "posted_at": "2026-10-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Tk. 25,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "2D Mobile Game Programmer (Unity) Hello, I am looking for BUET students or graduates to help me develop a 2D mobile game. The game is relatively simple, similar to Doodle Jump. I will design the game concept, gameplay, game mechanics, graphics assets, and animations myself. I need a highly capable programmer to take care of the coding and technical side of the project. My previous programmer, Ashi"
     },
     {
       "id": "linkedin-4475667021",
@@ -670,6 +690,25 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
+      "id": "linkedin-4476565384",
+      "title": "Customer Success Executive",
+      "company": "Ding",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-executive-at-ding-4476565384",
+      "posted_at": "2026-10-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
       "id": "linkedin-4475527657",
       "title": "Engineer, IT Support",
       "company": "Gildan",
@@ -744,44 +783,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
-    },
-    {
-      "id": "linkedin-4475115416",
-      "title": "Customer Success Associate",
-      "company": "Tenels",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/customer-success-associate-at-tenels-4475115416",
-      "posted_at": "2026-10-06",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We’re looking for a Customer Success Associate to be the first point of contact for Tenels’ customers — answering questions, troubleshooting issues, and making sure every interaction leaves people better off than before they reached out. You’ll work closely with product and engineering to escalate and track recurring issues, and help build out our knowledge base as the customer base grows. This is"
-    },
-    {
-      "id": "linkedin-4474902094",
-      "title": "Product Operations Intern",
-      "company": "EWN Technology",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/product-operations-intern-at-ewn-technology-4474902094",
-      "posted_at": "2026-10-06",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Role Overview EWN is looking for a Product Operations Intern to support the day-to-day execution of our software products and technology projects. This role sits between product, engineering, QA, operations, and management . You will help ensure that priorities are clear, tasks move forward, releases are properly coordinated, blockers are followed up, and management has accurate visibility into wh"
     }
   ]
 }
