@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-19T13:06:04+00:00",
+  "built_at": "2026-10-19T21:15:16+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-19T13:06:04+00:00",
+  "dataset_generated_at": "2026-10-19T21:15:15+00:00",
   "total_jobs": 195,
-  "needing_review": 133,
+  "needing_review": 134,
   "in_this_batch": 40,
-  "remaining_after_batch": 93,
+  "remaining_after_batch": 94,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -174,6 +174,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Writova Ltd is an AI-powered content automation platform designed for SEO teams, bloggers, marketers, and businesses that rely on scalable content production. The platform enables users to generate high-quality articles, manage end-to-end content campaigns, and optimize content for search engines from a single modern dashboard. Writova also streamlines publishing workflows, hel"
+    },
+    {
+      "id": "linkedin-4479957829",
+      "title": "Cyber Security Expert",
+      "company": "Famous IT Solutions",
+      "location": "Netrakona, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cyber-security-expert-at-famous-it-solutions-4479957829",
+      "posted_at": "2026-10-19",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Famous IT Solutions is a modern IT company delivering high-quality digital solutions for businesses across the globe. The organization specializes in custom web and software development, business automation systems, cybersecurity solutions, UI/UX and graphic design, and booking and inventory management systems. Its mission is to help startups, hotels, agencies, and enterprises "
     },
     {
       "id": "linkedin-4476899740",
@@ -763,25 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company: SBM Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months Work Mode: Hybrid (Office & Remote) Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns . This opportunity is designed for aspiring developers who want to gain hands"
-    },
-    {
-      "id": "linkedin-4479975453",
-      "title": "Competitive Programming Intern",
-      "company": "sbmbd-it",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-sbmbd-it-4479975453",
-      "posted_at": "2026-10-19",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Competitive Programming Intern | 6 Months | Unpaid We are looking for a motivated intern with strong interest in Competitive Programming, DSA, Algorithms, and Problem Solving. Requirements: * Basic knowledge of DSA & Algorithms * C++ / Java / Python * Problem-solving mindset * Codeforces / LeetCode / AtCoder experience preferred * Willingness to learn and work consistently Mandatory: During the 6-"
     }
   ]
 }
