@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-10-18T23:09:56+00:00",
+  "built_at": "2026-10-19T06:14:25+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-18T23:09:56+00:00",
+  "dataset_generated_at": "2026-10-19T06:14:25+00:00",
   "total_jobs": 194,
   "needing_review": 131,
   "in_this_batch": 40,
@@ -119,25 +119,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4479935666",
-      "title": "Intern",
-      "company": "Dreams of Bangladesh",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-dreams-of-bangladesh-4479935666",
-      "posted_at": "2026-10-18",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 WE’RE HIRING | MONTHLY PAID INTERNSHIP! Learn. Create. Innovate. Grow. DoB Innovation & Learning Hub, a sister concern of Dreams of Bangladesh (DoB), is expanding its team! We are looking for enthusiastic, responsible, creative, and motivated individuals who are eager to gain practical experience, develop professional skills, and contribute to a growing innovation and education platform. 💼 Key R"
-    },
-    {
       "id": "linkedin-4478429711",
       "title": "Customer Support Intern",
       "company": "DIGIBOX",
@@ -155,6 +136,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Position Summary Digibox blends IoT, AI and logistics through a network of smart lockers where customers can collect and return parcels 24/7. This 3-month internship gives you hands-on experience in customer support, call handling and cross-team coordination in a startup environment. Key Responsibilities Assist the team in handling inbound and outbound customer calls regarding parcel collection, r"
+    },
+    {
+      "id": "linkedin-4479935666",
+      "title": "Intern",
+      "company": "Dreams of Bangladesh",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-dreams-of-bangladesh-4479935666",
+      "posted_at": "2026-10-18",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 WE’RE HIRING | MONTHLY PAID INTERNSHIP! Learn. Create. Innovate. Grow. DoB Innovation & Learning Hub, a sister concern of Dreams of Bangladesh (DoB), is expanding its team! We are looking for enthusiastic, responsible, creative, and motivated individuals who are eager to gain practical experience, develop professional skills, and contribute to a growing innovation and education platform. 💼 Key R"
     },
     {
       "id": "linkedin-4476899740",
@@ -233,25 +233,6 @@
       "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
     },
     {
-      "id": "linkedin-4477348901",
-      "title": "Embedded Systems & SBC Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4477348901",
-      "posted_at": "2026-10-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
-    },
-    {
       "id": "linkedin-4478057362",
       "title": "Full Stack AI-Software Engineer",
       "company": "Marstark",
@@ -269,6 +250,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 We're Hiring: Full Stack AI Engineers (Remote, Bangladesh) Marstark IT Service, a Netherlands-registered technology company, is looking for Full Stack AI Engineers who can turn an idea into working software, from system architecture to deployment. If you love building from scratch, move fast, and enjoy hard problems in new industries, we want to talk to you. What you'll do: • Design system archi"
+    },
+    {
+      "id": "linkedin-4477348901",
+      "title": "Embedded Systems & SBC Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4477348901",
+      "posted_at": "2026-10-16",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     },
     {
       "id": "linkedin-4477716504",
@@ -423,25 +423,6 @@
       "description_excerpt": "🚀 Build the Future of Smart Water — With Us! Neapure is hiring an IoT & Embedded Systems Intern 💧 Work on a real ESP32-based smart water purifier — sensors, cloud, hardware. Not a classroom project. A real product. You'll play with: ⚡ ESP32 / Arduino 📡 IoT Cloud (Blynk, Firebase, MQTT) 💦 TDS • pH • Turbidity Sensors 🔧 Pumps, Valves & Relays Perks: 💰 Stipend 📜 Certificate + LOR 🚀 Full-time conversi"
     },
     {
-      "id": "linkedin-4477930021",
-      "title": "IT Support Engineer – IT Operations, Software & Automation (Remote)",
-      "company": "TheHiveCareers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-it-operations-software-automation-remote-at-thehivecareers-4477930021",
-      "posted_at": "2026-10-12",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
-    },
-    {
       "id": "linkedin-4475719736",
       "title": "Full Stack Developer",
       "company": "Lab3",
@@ -461,15 +442,15 @@
       "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
     },
     {
-      "id": "linkedin-4478194428",
-      "title": "Mid-level Full-Stack Engineer",
-      "company": "Truey",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mid-level-full-stack-engineer-at-truey-4478194428",
-      "posted_at": "2026-10-14",
+      "id": "linkedin-4477930021",
+      "title": "IT Support Engineer – IT Operations, Software & Automation (Remote)",
+      "company": "TheHiveCareers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-it-operations-software-automation-remote-at-thehivecareers-4477930021",
+      "posted_at": "2026-10-12",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -477,7 +458,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Mid-level full-stack engineer - Truey Truey helps people turn goals into action through tasks, scheduling, reusable methods, and an AI assistant. We're looking for an engineer who can build across frontend and backend, use AI effectively, and take well-defined features through to release. What you'll do: • Build interfaces, APIs, and database changes. • Work with product and design to clarify requ"
+      "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
     },
     {
       "id": "linkedin-4479515299",
@@ -518,6 +499,25 @@
       "description_excerpt": "Home Careers Backend Engineer Intern Join the Engineering team at Basira IT in Dhaka. Opening soon Engineering Dhaka, Bangladesh (On-site) Internship All Positions LocationDhaka, Bangladesh (On-site) Job typeInternship ExperienceEntry Level Team8 people About This Role A 6-month internship for aspiring backend engineers. You will work on real features in our microservices architecture, learn indus"
     },
     {
+      "id": "linkedin-4478194428",
+      "title": "Mid-level Full-Stack Engineer",
+      "company": "Truey",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mid-level-full-stack-engineer-at-truey-4478194428",
+      "posted_at": "2026-10-14",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Mid-level full-stack engineer - Truey Truey helps people turn goals into action through tasks, scheduling, reusable methods, and an AI assistant. We're looking for an engineer who can build across frontend and backend, use AI effectively, and take well-defined features through to release. What you'll do: • Build interfaces, APIs, and database changes. • Work with product and design to clarify requ"
+    },
+    {
       "id": "linkedin-4477995396",
       "title": "Junior Technical Support Engineer",
       "company": "Thrive IT Solutions",
@@ -535,25 +535,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "- Show more Show less Seniority level Entry level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Thrive IT Solutions by 2x See who you know"
-    },
-    {
-      "id": "linkedin-4476867397",
-      "title": "Laravel Developer",
-      "company": "EnhanceerBD",
-      "location": "Uttara, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-enhanceerbd-4476867397",
-      "posted_at": "2026-10-09",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Home / Career / Laravel Developer Laravel Developer Internship IT Uttara, Dhaka 2+ years Negotiable Apply before 18 Oct 2026 Join Enhanceer IT building client platforms in Laravel and MySQL — eCommerce, ERP modules, dashboards and internal tools. What you will do Build and maintain Laravel applications Write migrations, tests and documentation as you go Review teammates' pull requests Help scope w"
     },
     {
       "id": "linkedin-4477213791",
@@ -594,25 +575,6 @@
       "description_excerpt": "Company Description ThriveIT focuses on simplifying technology, accounting, and growth for modern enterprises, helping organizations operate more efficiently and scale with confidence. The company provides integrated solutions and services that reduce complexity and streamline day-to-day business operations. By aligning technical expertise with practical business needs, ThriveIT supports clients i"
     },
     {
-      "id": "linkedin-4474899743",
-      "title": "AI-Integrated Full-Stack Engineer",
-      "company": "Codiora Tech",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-integrated-full-stack-engineer-at-codiora-tech-4474899743",
-      "posted_at": "2026-10-09",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "← Back to Careers Selected Role AI-Integrated Full-Stack Engineer Position LevelMid to Senior Level Employment TypeFull-Time (Hybrid / On-site) LocationDhaka, Bangladesh DepartmentEngineering & AI Labs At Codiora Tech, we build scalable, intelligent software solutions and AI-driven platforms for modern businesses. As an AI-Integrated Full-Stack Engineer, you will operate at the intersection of mod"
-    },
-    {
       "id": "linkedin-4466564784",
       "title": "2d Mobile Game Programmer (Unity)",
       "company": "Dreamanimagine Studio",
@@ -632,14 +594,14 @@
       "description_excerpt": "2D Mobile Game Programmer (Unity) Hello, I am looking for BUET students or graduates to help me develop a 2D mobile game. The game is relatively simple, similar to Doodle Jump. I will design the game concept, gameplay, game mechanics, graphics assets, and animations myself. I need a highly capable programmer to take care of the coding and technical side of the project. My previous programmer, Ashi"
     },
     {
-      "id": "linkedin-4475667021",
-      "title": "Monitoring & Evaluation (M&E) Associate-I",
-      "company": "Ipas",
+      "id": "linkedin-4474899743",
+      "title": "AI-Integrated Full-Stack Engineer",
+      "company": "Codiora Tech",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/monitoring-evaluation-m-e-associate-i-at-ipas-4475667021",
-      "posted_at": "2026-10-11",
+      "url": "https://bd.linkedin.com/jobs/view/ai-integrated-full-stack-engineer-at-codiora-tech-4474899743",
+      "posted_at": "2026-10-09",
       "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
+      "regex_category": "AI, Data & Machine Learning",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -648,7 +610,26 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "The incumbent will plan and implement initiatives to strengthen SRHR services, particularly Family Planning (FP), Menstrual Regulation (MR), Post-Abortion Care (PAC), and the management of GBV survivors in urban health facilities, especially urban clinics previously operated under UPHCSDP and now transferring under MOH&FW, as well as among private practitioners in DSCC and DNCC. The Technical Coor"
+      "description_excerpt": "← Back to Careers Selected Role AI-Integrated Full-Stack Engineer Position LevelMid to Senior Level Employment TypeFull-Time (Hybrid / On-site) LocationDhaka, Bangladesh DepartmentEngineering & AI Labs At Codiora Tech, we build scalable, intelligent software solutions and AI-driven platforms for modern businesses. As an AI-Integrated Full-Stack Engineer, you will operate at the intersection of mod"
+    },
+    {
+      "id": "linkedin-4474783624",
+      "title": "System Administrator",
+      "company": "Binary Quest Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/system-administrator-at-binary-quest-limited-4474783624",
+      "posted_at": "2026-10-02",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Tk 40,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
     },
     {
       "id": "linkedin-4477250883",
@@ -689,6 +670,25 @@
       "description_excerpt": "Hiring: Freelance Web Developer – Accessibility Checker I'm looking for a developer to build a lightweight web-based accessibility checker with two input options: Website URL: Scan live websites for accessibility issues. Design upload: Upload screenshots or UI designs to analyze accessibility and visual issues. Core features: WCAG accessibility checks and color contrast analysis Detect common issu"
     },
     {
+      "id": "linkedin-4475667021",
+      "title": "Monitoring & Evaluation (M&E) Associate-I",
+      "company": "Ipas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/monitoring-evaluation-m-e-associate-i-at-ipas-4475667021",
+      "posted_at": "2026-10-11",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "The incumbent will plan and implement initiatives to strengthen SRHR services, particularly Family Planning (FP), Menstrual Regulation (MR), Post-Abortion Care (PAC), and the management of GBV survivors in urban health facilities, especially urban clinics previously operated under UPHCSDP and now transferring under MOH&FW, as well as among private practitioners in DSCC and DNCC. The Technical Coor"
+    },
+    {
       "id": "linkedin-4475780578",
       "title": "Digital Support Associate (Contractual)",
       "company": "MetLife Bangladesh",
@@ -706,44 +706,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Scope The incumbent will be responsible for providing technical and logistical support to financial associates over the phone or virtually. This position is located outside Dhaka (Anywhere in Bangladesh). Key Responsibilities Providing technical assistance and support to financial associates over the phone or through remote desktop tools. Troubleshooting and resolving technical issues related "
-    },
-    {
-      "id": "linkedin-4474783624",
-      "title": "System Administrator",
-      "company": "Binary Quest Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/system-administrator-at-binary-quest-limited-4474783624",
-      "posted_at": "2026-10-02",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Tk 40,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
-    },
-    {
-      "id": "linkedin-4478435468",
-      "title": "n8n Automation & AI Workflow Developer (Intern)",
-      "company": "sbm",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbm-4478435468",
-      "posted_at": "2026-10-17",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: SBM Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months Work Mode: Hybrid (Office & Remote) Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns . This opportunity is designed for aspiring developers who want to gain hands"
     },
     {
       "id": "linkedin-4462778194",
@@ -765,23 +727,61 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
-      "id": "linkedin-4475527657",
-      "title": "Engineer, IT Support",
-      "company": "Gildan",
-      "location": "Gulshan, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/engineer-it-support-at-gildan-4475527657",
-      "posted_at": "2026-10-05",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
+      "id": "linkedin-4478435468",
+      "title": "n8n Automation & AI Workflow Developer (Intern)",
+      "company": "sbm",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbm-4478435468",
+      "posted_at": "2026-10-17",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Unpaid",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Who we are Gildan is a leading apparel manufacturing company, with a strong portfolio of brands, including Gildan®, American Apparel®, Comfort Colors®, GOLDTOE®, Peds®, and under the Under Armour® brand through a sock licensing agreement. With close to four decades of developing global manufacturing expertise, Gildan is one of the world’s most efficient, ethical, and sustainable apparel manufactur"
+      "description_excerpt": "Company: SBM Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months Work Mode: Hybrid (Office & Remote) Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns . This opportunity is designed for aspiring developers who want to gain hands"
+    },
+    {
+      "id": "linkedin-4466756851",
+      "title": "Software Engineer",
+      "company": "NAAS Solutions Ltd.",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-naas-solutions-ltd-4466756851",
+      "posted_at": "2026-09-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Software Engineer (.NET Developer) Job Context: We are looking for experienced developers with fluency in .NET technologies who will be able to develop code, test, and prototype. Translate complex Client requirements to technical Implementation. Must be able to understand the running system to upgrade. Job Requirements: Strong working knowledge in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ Good "
+    },
+    {
+      "id": "linkedin-4462774205",
+      "title": "Computer Vision & Robotics Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     }
   ]
 }
