@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-20T06:13:27+00:00",
+  "built_at": "2026-10-20T11:34:18+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-20T06:13:27+00:00",
-  "total_jobs": 195,
-  "needing_review": 134,
+  "dataset_generated_at": "2026-10-20T11:34:18+00:00",
+  "total_jobs": 194,
+  "needing_review": 132,
   "in_this_batch": 40,
-  "remaining_after_batch": 94,
+  "remaining_after_batch": 92,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -250,6 +250,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
+    },
+    {
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-10-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4480409105",
@@ -763,25 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Scope The incumbent will be responsible for providing technical and logistical support to financial associates over the phone or virtually. This position is located outside Dhaka (Anywhere in Bangladesh). Key Responsibilities Providing technical assistance and support to financial associates over the phone or through remote desktop tools. Troubleshooting and resolving technical issues related "
-    },
-    {
-      "id": "linkedin-4478435468",
-      "title": "n8n Automation & AI Workflow Developer (Intern)",
-      "company": "sbm",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbm-4478435468",
-      "posted_at": "2026-10-17",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: SBM Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months Work Mode: Hybrid (Office & Remote) Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns . This opportunity is designed for aspiring developers who want to gain hands"
     }
   ]
 }
