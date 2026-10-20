@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-20T11:34:18+00:00",
+  "built_at": "2026-10-20T20:03:35+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-20T11:34:18+00:00",
-  "total_jobs": 194,
-  "needing_review": 132,
+  "dataset_generated_at": "2026-10-20T20:03:35+00:00",
+  "total_jobs": 197,
+  "needing_review": 135,
   "in_this_batch": 40,
-  "remaining_after_batch": 92,
+  "remaining_after_batch": 95,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -250,6 +250,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
+    },
+    {
+      "id": "linkedin-4480447994",
+      "title": "Artificial Intelligence Developer",
+      "company": "XproyIT",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-developer-at-xproyit-4480447994",
+      "posted_at": "2026-10-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description XproyIT is a technology-driven organization focused on delivering innovative software solutions and digital services to clients across various industries. The company emphasizes the use of modern technologies, including artificial intelligence, to help businesses improve efficiency, make data-driven decisions, and enhance user experiences. At XproyIT, team members collaborate i"
     },
     {
       "id": "linkedin-4481537456",
@@ -537,25 +556,6 @@
       "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
     },
     {
-      "id": "linkedin-4478194428",
-      "title": "Mid-level Full-Stack Engineer",
-      "company": "Truey",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mid-level-full-stack-engineer-at-truey-4478194428",
-      "posted_at": "2026-10-14",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Mid-level full-stack engineer - Truey Truey helps people turn goals into action through tasks, scheduling, reusable methods, and an AI assistant. We're looking for an engineer who can build across frontend and backend, use AI effectively, and take well-defined features through to release. What you'll do: • Build interfaces, APIs, and database changes. • Work with product and design to clarify requ"
-    },
-    {
       "id": "linkedin-4479515299",
       "title": "Oracle Database Administrator",
       "company": "Munshi HR Solutions Limited",
@@ -573,6 +573,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Strong expertise in Oracle Database (12c, 19c, 21c and above). Practical experience with Oracle RAC, Data Guard, and GoldenGate. Proficiency in database performance tuning, SQL optimization, indexing, and partitioning. Hands-on experience with RMAN backup and recovery. Knowledge of Oracle Grid Infrastructure and Clusterware. Working knowledge of MySQL, MS SQL Server, and/or PostgreSQL. Oracle Data"
+    },
+    {
+      "id": "linkedin-4478194428",
+      "title": "Mid-level Full-Stack Engineer",
+      "company": "Truey",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mid-level-full-stack-engineer-at-truey-4478194428",
+      "posted_at": "2026-10-14",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Mid-level full-stack engineer - Truey Truey helps people turn goals into action through tasks, scheduling, reusable methods, and an AI assistant. We're looking for an engineer who can build across frontend and backend, use AI effectively, and take well-defined features through to release. What you'll do: • Build interfaces, APIs, and database changes. • Work with product and design to clarify requ"
     },
     {
       "id": "linkedin-4477995396",
@@ -763,25 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Hiring: Freelance Web Developer – Accessibility Checker I'm looking for a developer to build a lightweight web-based accessibility checker with two input options: Website URL: Scan live websites for accessibility issues. Design upload: Upload screenshots or UI designs to analyze accessibility and visual issues. Core features: WCAG accessibility checks and color contrast analysis Detect common issu"
-    },
-    {
-      "id": "linkedin-4475780578",
-      "title": "Digital Support Associate (Contractual)",
-      "company": "MetLife Bangladesh",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/digital-support-associate-contractual-at-metlife-bangladesh-4475780578",
-      "posted_at": "2026-10-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Scope The incumbent will be responsible for providing technical and logistical support to financial associates over the phone or virtually. This position is located outside Dhaka (Anywhere in Bangladesh). Key Responsibilities Providing technical assistance and support to financial associates over the phone or through remote desktop tools. Troubleshooting and resolving technical issues related "
     }
   ]
 }
