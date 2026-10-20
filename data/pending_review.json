@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-20T00:25:58+00:00",
+  "built_at": "2026-10-20T06:13:27+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-20T00:25:58+00:00",
-  "total_jobs": 194,
-  "needing_review": 133,
+  "dataset_generated_at": "2026-10-20T06:13:27+00:00",
+  "total_jobs": 195,
+  "needing_review": 134,
   "in_this_batch": 40,
-  "remaining_after_batch": 93,
+  "remaining_after_batch": 94,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -157,25 +157,6 @@
       "description_excerpt": "Position Summary Digibox blends IoT, AI and logistics through a network of smart lockers where customers can collect and return parcels 24/7. This 3-month internship gives you hands-on experience in customer support, call handling and cross-team coordination in a startup environment. Key Responsibilities Assist the team in handling inbound and outbound customer calls regarding parcel collection, r"
     },
     {
-      "id": "linkedin-4476899740",
-      "title": "UI Designer Intern",
-      "company": "ZORG IT",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-designer-intern-at-zorg-it-4476899740",
-      "posted_at": "2026-10-10",
-      "regex_job_type": "Internship",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Stipend: BDT 10,000/month",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We’re Hiring: UI/UX Designer Intern ⚠️ Do not apply if you do not align with the requirements. Location: Dhaka Type: Full-Time | Internship | On-site Address: Lift 8, Rangs Courtyard (Rancon), 1901 Apollo Road, Vatara, Dhaka - 1213. Internship Duration: 3 Months Stipend: BDT 10,000/month Joining: Immediate Interview: Ongoing Work Time: 10:00 AM to 7:00 PM – 1-hour break We’re looking for a UI/UX D"
-    },
-    {
       "id": "linkedin-4479947196",
       "title": "Growth & Outreach Intern (Remote) – SaaS Startup",
       "company": "Writova Ltd",
@@ -212,6 +193,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Famous IT Solutions is a modern IT company delivering high-quality digital solutions for businesses across the globe. The organization specializes in custom web and software development, business automation systems, cybersecurity solutions, UI/UX and graphic design, and booking and inventory management systems. Its mission is to help startups, hotels, agencies, and enterprises "
+    },
+    {
+      "id": "linkedin-4476899740",
+      "title": "UI Designer Intern",
+      "company": "ZORG IT",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-designer-intern-at-zorg-it-4476899740",
+      "posted_at": "2026-10-10",
+      "regex_job_type": "Internship",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Stipend: BDT 10,000/month",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We’re Hiring: UI/UX Designer Intern ⚠️ Do not apply if you do not align with the requirements. Location: Dhaka Type: Full-Time | Internship | On-site Address: Lift 8, Rangs Courtyard (Rancon), 1901 Apollo Road, Vatara, Dhaka - 1213. Internship Duration: 3 Months Stipend: BDT 10,000/month Joining: Immediate Interview: Ongoing Work Time: 10:00 AM to 7:00 PM – 1-hour break We’re looking for a UI/UX D"
     },
     {
       "id": "linkedin-4478350950",
@@ -252,23 +252,23 @@
       "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
     },
     {
-      "id": "linkedin-4478057362",
-      "title": "Full Stack AI-Software Engineer",
-      "company": "Marstark",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-ai-software-engineer-at-marstark-4478057362",
-      "posted_at": "2026-10-10",
+      "id": "linkedin-4480409105",
+      "title": "Site Reliability & DevOps Engineer",
+      "company": "Pipeline Co., Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/site-reliability-devops-engineer-at-pipeline-co-ltd-4480409105",
+      "posted_at": "2026-10-20",
       "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
+      "regex_category": "Cloud, Infrastructure & DevOps",
       "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Salary: BDT 55,000",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "🚀 We're Hiring: Full Stack AI Engineers (Remote, Bangladesh) Marstark IT Service, a Netherlands-registered technology company, is looking for Full Stack AI Engineers who can turn an idea into working software, from system architecture to deployment. If you love building from scratch, move fast, and enjoy hard problems in new industries, we want to talk to you. What you'll do: • Design system archi"
+      "description_excerpt": "PIPELINE is a cybersecurity company headquartered in Tokyo, with an engineering team in Dhaka. We operate security products and services for continuous security assessment and improvement. We are looking for a hands-on Site reliability and DevOps Engineer to own infrastructure operations, improve reliability and help our developers deliver safely and efficiently. You will work closely with our CTO"
     },
     {
       "id": "linkedin-4477348901",
@@ -288,6 +288,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
+    },
+    {
+      "id": "linkedin-4478057362",
+      "title": "Full Stack AI-Software Engineer",
+      "company": "Marstark",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-ai-software-engineer-at-marstark-4478057362",
+      "posted_at": "2026-10-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary: BDT 55,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 We're Hiring: Full Stack AI Engineers (Remote, Bangladesh) Marstark IT Service, a Netherlands-registered technology company, is looking for Full Stack AI Engineers who can turn an idea into working software, from system architecture to deployment. If you love building from scratch, move fast, and enjoy hard problems in new industries, we want to talk to you. What you'll do: • Design system archi"
     },
     {
       "id": "linkedin-4480949828",
@@ -461,25 +480,6 @@
       "description_excerpt": "🚀 Build the Future of Smart Water — With Us! Neapure is hiring an IoT & Embedded Systems Intern 💧 Work on a real ESP32-based smart water purifier — sensors, cloud, hardware. Not a classroom project. A real product. You'll play with: ⚡ ESP32 / Arduino 📡 IoT Cloud (Blynk, Firebase, MQTT) 💦 TDS • pH • Turbidity Sensors 🔧 Pumps, Valves & Relays Perks: 💰 Stipend 📜 Certificate + LOR 🚀 Full-time conversi"
     },
     {
-      "id": "linkedin-4475719736",
-      "title": "Full Stack Developer",
-      "company": "Lab3",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-at-lab3-4475719736",
-      "posted_at": "2026-10-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Allowance or benefit mentioned",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
-    },
-    {
       "id": "linkedin-4477930021",
       "title": "IT Support Engineer – IT Operations, Software & Automation (Remote)",
       "company": "TheHiveCareers",
@@ -497,6 +497,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
+    },
+    {
+      "id": "linkedin-4475719736",
+      "title": "Full Stack Developer",
+      "company": "Lab3",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-at-lab3-4475719736",
+      "posted_at": "2026-10-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Allowance or benefit mentioned",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
     },
     {
       "id": "linkedin-4478194428",
@@ -670,6 +689,25 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
+      "id": "linkedin-4475667021",
+      "title": "Monitoring & Evaluation (M&E) Associate-I",
+      "company": "Ipas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/monitoring-evaluation-m-e-associate-i-at-ipas-4475667021",
+      "posted_at": "2026-10-11",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "The incumbent will plan and implement initiatives to strengthen SRHR services, particularly Family Planning (FP), Menstrual Regulation (MR), Post-Abortion Care (PAC), and the management of GBV survivors in urban health facilities, especially urban clinics previously operated under UPHCSDP and now transferring under MOH&FW, as well as among private practitioners in DSCC and DNCC. The Technical Coor"
+    },
+    {
       "id": "linkedin-4477250883",
       "title": "Software Support Executive",
       "company": "Bdjobs Live",
@@ -708,25 +746,6 @@
       "description_excerpt": "Hiring: Freelance Web Developer – Accessibility Checker I'm looking for a developer to build a lightweight web-based accessibility checker with two input options: Website URL: Scan live websites for accessibility issues. Design upload: Upload screenshots or UI designs to analyze accessibility and visual issues. Core features: WCAG accessibility checks and color contrast analysis Detect common issu"
     },
     {
-      "id": "linkedin-4475667021",
-      "title": "Monitoring & Evaluation (M&E) Associate-I",
-      "company": "Ipas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/monitoring-evaluation-m-e-associate-i-at-ipas-4475667021",
-      "posted_at": "2026-10-11",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "The incumbent will plan and implement initiatives to strengthen SRHR services, particularly Family Planning (FP), Menstrual Regulation (MR), Post-Abortion Care (PAC), and the management of GBV survivors in urban health facilities, especially urban clinics previously operated under UPHCSDP and now transferring under MOH&FW, as well as among private practitioners in DSCC and DNCC. The Technical Coor"
-    },
-    {
       "id": "linkedin-4475780578",
       "title": "Digital Support Associate (Contractual)",
       "company": "MetLife Bangladesh",
@@ -763,25 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company: SBM Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months Work Mode: Hybrid (Office & Remote) Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns . This opportunity is designed for aspiring developers who want to gain hands"
-    },
-    {
-      "id": "linkedin-4479975453",
-      "title": "Competitive Programming Intern",
-      "company": "sbmbd-it",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-sbmbd-it-4479975453",
-      "posted_at": "2026-10-19",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Competitive Programming Intern | 6 Months | Unpaid We are looking for a motivated intern with strong interest in Competitive Programming, DSA, Algorithms, and Problem Solving. Requirements: * Basic knowledge of DSA & Algorithms * C++ / Java / Python * Problem-solving mindset * Codeforces / LeetCode / AtCoder experience preferred * Willingness to learn and work consistently Mandatory: During the 6-"
     }
   ]
 }
