@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-10-21T11:45:31+00:00",
+  "built_at": "2026-10-21T20:10:39+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-21T11:45:31+00:00",
-  "total_jobs": 196,
+  "dataset_generated_at": "2026-10-21T20:10:39+00:00",
+  "total_jobs": 197,
   "needing_review": 135,
   "in_this_batch": 40,
   "remaining_after_batch": 95,
@@ -155,6 +155,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Position Summary Digibox blends IoT, AI and logistics through a network of smart lockers where customers can collect and return parcels 24/7. This 3-month internship gives you hands-on experience in customer support, call handling and cross-team coordination in a startup environment. Key Responsibilities Assist the team in handling inbound and outbound customer calls regarding parcel collection, r"
+    },
+    {
+      "id": "linkedin-4480789892",
+      "title": "Cybersecurity, AI & Tech Business Consultant",
+      "company": "Kaosar Ahmed",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-ai-tech-business-consultant-at-kaosar-ahmed-4480789892",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
     },
     {
       "id": "linkedin-4478985804",
@@ -763,25 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "The incumbent will plan and implement initiatives to strengthen SRHR services, particularly Family Planning (FP), Menstrual Regulation (MR), Post-Abortion Care (PAC), and the management of GBV survivors in urban health facilities, especially urban clinics previously operated under UPHCSDP and now transferring under MOH&FW, as well as among private practitioners in DSCC and DNCC. The Technical Coor"
-    },
-    {
-      "id": "linkedin-4477250883",
-      "title": "Software Support Executive",
-      "company": "Bdjobs Live",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-support-executive-at-bdjobs-live-4477250883",
-      "posted_at": "2026-10-11",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are looking for a dedicated Software Support Intern to join our team! You will serve as the first point of contact for our users, assisting with software issues, troubleshooting problems, and ensuring our clients have a smooth and efficient experience with our products. Key Responsibilities: Respond to customer queries via chat, email, or phone Diagnose and troubleshoot software issues Guide us"
     }
   ]
 }
