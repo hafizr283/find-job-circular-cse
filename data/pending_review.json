@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-23T00:02:20+00:00",
+  "built_at": "2026-10-23T06:06:13+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-23T00:02:19+00:00",
-  "total_jobs": 192,
-  "needing_review": 131,
+  "dataset_generated_at": "2026-10-23T06:06:13+00:00",
+  "total_jobs": 191,
+  "needing_review": 130,
   "in_this_batch": 40,
-  "remaining_after_batch": 91,
+  "remaining_after_batch": 90,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -252,6 +252,25 @@
       "description_excerpt": "We’re hiring: Customer Success & Account Growth Specialist — Cybersecurity 📍 Dhaka, Bangladesh | Full-time PIPELINE is looking for a proactive customer success professional who can help customers succeed, retain their business and grow existing accounts. This role combines customer onboarding and relationship management with a clear commercial focus on renewals, upselling and expansion. You will a"
     },
     {
+      "id": "linkedin-4479947196",
+      "title": "Growth & Outreach Intern (Remote) – SaaS Startup",
+      "company": "Writova Ltd",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/growth-outreach-intern-remote-%E2%80%93-saas-startup-at-writova-ltd-4479947196",
+      "posted_at": "2026-10-19",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Writova Ltd is an AI-powered content automation platform designed for SEO teams, bloggers, marketers, and businesses that rely on scalable content production. The platform enables users to generate high-quality articles, manage end-to-end content campaigns, and optimize content for search engines from a single modern dashboard. Writova also streamlines publishing workflows, hel"
+    },
+    {
       "id": "linkedin-4479957829",
       "title": "Cyber Security Expert",
       "company": "Famous IT Solutions",
@@ -288,25 +307,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We’re Hiring: UI/UX Designer Intern ⚠️ Do not apply if you do not align with the requirements. Location: Dhaka Type: Full-Time | Internship | On-site Address: Lift 8, Rangs Courtyard (Rancon), 1901 Apollo Road, Vatara, Dhaka - 1213. Internship Duration: 3 Months Stipend: BDT 10,000/month Joining: Immediate Interview: Ongoing Work Time: 10:00 AM to 7:00 PM – 1-hour break We’re looking for a UI/UX D"
-    },
-    {
-      "id": "linkedin-4479947196",
-      "title": "Growth & Outreach Intern (Remote) – SaaS Startup",
-      "company": "Writova Ltd",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/growth-outreach-intern-remote-%E2%80%93-saas-startup-at-writova-ltd-4479947196",
-      "posted_at": "2026-10-19",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Writova Ltd is an AI-powered content automation platform designed for SEO teams, bloggers, marketers, and businesses that rely on scalable content production. The platform enables users to generate high-quality articles, manage end-to-end content campaigns, and optimize content for search engines from a single modern dashboard. Writova also streamlines publishing workflows, hel"
     },
     {
       "id": "linkedin-4480409105",
@@ -366,6 +366,25 @@
       "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
     },
     {
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-10-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
+    },
+    {
       "id": "linkedin-4480447994",
       "title": "Artificial Intelligence Developer",
       "company": "XproyIT",
@@ -421,25 +440,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 We're Hiring: Full Stack AI Engineers (Remote, Bangladesh) Marstark IT Service, a Netherlands-registered technology company, is looking for Full Stack AI Engineers who can turn an idea into working software, from system architecture to deployment. If you love building from scratch, move fast, and enjoy hard problems in new industries, we want to talk to you. What you'll do: • Design system archi"
-    },
-    {
-      "id": "linkedin-4481537456",
-      "title": "Technical Support Engineer",
-      "company": "Imou",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
-      "posted_at": "2026-10-20",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4480949828",
@@ -670,25 +670,6 @@
       "description_excerpt": "Software Engineer Intern (Unpaid) 📍 Work Mode: Hybrid ⏳ Duration: 6 Months Job Desc r iption:We are lo oking for a motivated Software Engineer Intern eager to gain hands-on experience in software development, problem-solving, and real-world projects. The intern will collaborate with the development team to build, test, and maintain software applications. Requirem e nts: * Basic k nowledge of progr"
     },
     {
-      "id": "linkedin-4475719736",
-      "title": "Full Stack Developer",
-      "company": "Lab3",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-at-lab3-4475719736",
-      "posted_at": "2026-10-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Allowance or benefit mentioned",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
-    },
-    {
       "id": "linkedin-4477930021",
       "title": "IT Support Engineer – IT Operations, Software & Automation (Remote)",
       "company": "TheHiveCareers",
@@ -706,6 +687,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
+    },
+    {
+      "id": "linkedin-4475719736",
+      "title": "Full Stack Developer",
+      "company": "Lab3",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-at-lab3-4475719736",
+      "posted_at": "2026-10-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Allowance or benefit mentioned",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
     },
     {
       "id": "linkedin-4462778194",
