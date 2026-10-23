@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-23T11:35:54+00:00",
+  "built_at": "2026-10-23T20:08:25+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-23T11:35:53+00:00",
-  "total_jobs": 191,
-  "needing_review": 130,
+  "dataset_generated_at": "2026-10-23T20:08:25+00:00",
+  "total_jobs": 193,
+  "needing_review": 132,
   "in_this_batch": 40,
-  "remaining_after_batch": 90,
+  "remaining_after_batch": 92,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -138,6 +138,25 @@
       "description_excerpt": "Build Scalable Cloud Infrastructure for AI-Powered CRM, CMS & SaaS Platforms Company: Voice Pro LLC Position: Mid-Level DevOps Engineer Employment Type: Full-Time, On-Site Location: Mirpur DOHS, Dhaka, Bangladesh Work Schedule: Monday–Friday, 9:00 PM–6:00 AM (Bangladesh Time)/ Night shift Salary: BDT 60,000–75,000 per month Hiring: Immediately Compensation & Benefits Monthly Salary: BDT 60,000–75,"
     },
     {
+      "id": "linkedin-4481699148",
+      "title": "Competitive Programming Intern",
+      "company": "DeshIT-BD",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-deshit-bd-4481699148",
+      "posted_at": "2026-10-23",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Competitive Programming Intern 📍 Work Mode: Hybrid ⏳ Duration: 6 Months We’re lo o king for passionate problem-solvers interested in algorithms, data structures, and competitive programming. What You ’ ll Do: * Solve a lgorithmic problems using platforms like Codeforces, LeetCode, and CodeChef.* Practic e Data Structures & Algorithms (DSA).* Partici pate in coding contests and problem-solving sess"
+    },
+    {
       "id": "linkedin-4479935666",
       "title": "Intern",
       "company": "Dreams of Bangladesh",
@@ -212,6 +231,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
+    },
+    {
+      "id": "linkedin-4483129581",
+      "title": "Data Analyst– MRM",
+      "company": "SAJIDA Foundation",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/data-analyst%E2%80%93-mrm-at-sajida-foundation-4483129581",
+      "posted_at": "2026-10-23",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Location: Dhaka (with frequent field travel) Employment Type: Full-time Job Summary: The Data Analyst under MRM Unit will strengthen SAJIDA Foundation’s capacity to manage, analyse, interpret, and use program data for evidence-based decision-making. The position will support the MRM team and Development Programs in data management, statistical analysis, visualization, assessments, and reportin"
     },
     {
       "id": "linkedin-4481158660",
@@ -744,44 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Strong expertise in Oracle Database (12c, 19c, 21c and above). Practical experience with Oracle RAC, Data Guard, and GoldenGate. Proficiency in database performance tuning, SQL optimization, indexing, and partitioning. Hands-on experience with RMAN backup and recovery. Knowledge of Oracle Grid Infrastructure and Clusterware. Working knowledge of MySQL, MS SQL Server, and/or PostgreSQL. Oracle Data"
-    },
-    {
-      "id": "linkedin-4478194428",
-      "title": "Mid-level Full-Stack Engineer",
-      "company": "Truey",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mid-level-full-stack-engineer-at-truey-4478194428",
-      "posted_at": "2026-10-14",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Mid-level full-stack engineer - Truey Truey helps people turn goals into action through tasks, scheduling, reusable methods, and an AI assistant. We're looking for an engineer who can build across frontend and backend, use AI effectively, and take well-defined features through to release. What you'll do: • Build interfaces, APIs, and database changes. • Work with product and design to clarify requ"
-    },
-    {
-      "id": "linkedin-4477995396",
-      "title": "Junior Technical Support Engineer",
-      "company": "Thrive IT Solutions",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/junior-technical-support-engineer-at-thrive-it-solutions-4477995396",
-      "posted_at": "2026-10-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "- Show more Show less Seniority level Entry level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Thrive IT Solutions by 2x See who you know"
     }
   ]
 }
