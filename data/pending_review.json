@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-24T11:14:40+00:00",
+  "built_at": "2026-10-24T14:38:27+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-24T11:14:40+00:00",
-  "total_jobs": 195,
-  "needing_review": 138,
+  "dataset_generated_at": "2026-10-24T14:38:27+00:00",
+  "total_jobs": 197,
+  "needing_review": 137,
   "in_this_batch": 40,
-  "remaining_after_batch": 98,
+  "remaining_after_batch": 97,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,46 +18,6 @@
     "Other CSE"
   ],
   "pending": [
-    {
-      "id": "linkedin-4480409105",
-      "title": "Site Reliability & DevOps Engineer",
-      "company": "Pipeline Co., Ltd.",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/site-reliability-devops-engineer-at-pipeline-co-ltd-4480409105",
-      "posted_at": "2026-10-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4478194428",
-      "title": "Mid-level Full-Stack Engineer",
-      "company": "Truey",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mid-level-full-stack-engineer-at-truey-4478194428",
-      "posted_at": "2026-10-14",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
     {
       "id": "linkedin-4477187787",
       "title": "Developer, Business Intelligence",
@@ -199,6 +159,25 @@
       "description_excerpt": ""
     },
     {
+      "id": "linkedin-4477775805",
+      "title": "Software Engineer Intern",
+      "company": "Brainify Technology",
+      "location": "Nārāyanganj, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-intern-at-brainify-technology-4477775805",
+      "posted_at": "2026-10-24",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We're Hiring Software Engineer Intern - Onsite Location: Signboard, Narayanganj Employment Type: #Internship 3–6 months (with possibility of full-time offer) Department: Engineering About Brainify Technology #Brainify_Technology_LLC is an innovative and fast-growing #software_company delivering modern digital solutions for both local and global clients. We actively work on #AI_driven solutions and"
+    },
+    {
       "id": "linkedin-4481628141",
       "title": "Hiring: Mid-Level DevOps Engineer",
       "company": "Global Softel, Inc.",
@@ -216,6 +195,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Build Scalable Cloud Infrastructure for AI-Powered CRM, CMS & SaaS Platforms Company: Voice Pro LLC Position: Mid-Level DevOps Engineer Employment Type: Full-Time, On-Site Location: Mirpur DOHS, Dhaka, Bangladesh Work Schedule: Monday–Friday, 9:00 PM–6:00 AM (Bangladesh Time)/ Night shift Salary: BDT 60,000–75,000 per month Hiring: Immediately Compensation & Benefits Monthly Salary: BDT 60,000–75,"
+    },
+    {
+      "id": "linkedin-4481972200",
+      "title": "Penetration Tester",
+      "company": "Nyktos",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/penetration-tester-at-nyktos-4481972200",
+      "posted_at": "2026-10-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Nyktos is an end-to-end encrypted messenger built from the ground up to prioritize privacy and security. Each message leverages ephemeral keys (libsodium X25519), pairwise group encryption, and safety number verification to protect user communications. Nyktos does not rely on phone numbers, supporting anonymous and secure interactions. The product is built with modern web techn"
     },
     {
       "id": "linkedin-4481699148",
@@ -444,6 +442,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We’re Hiring: UI/UX Designer Intern ⚠️ Do not apply if you do not align with the requirements. Location: Dhaka Type: Full-Time | Internship | On-site Address: Lift 8, Rangs Courtyard (Rancon), 1901 Apollo Road, Vatara, Dhaka - 1213. Internship Duration: 3 Months Stipend: BDT 10,000/month Joining: Immediate Interview: Ongoing Work Time: 10:00 AM to 7:00 PM – 1-hour break We’re looking for a UI/UX D"
+    },
+    {
+      "id": "linkedin-4480409105",
+      "title": "Site Reliability & DevOps Engineer",
+      "company": "Pipeline Co., Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/site-reliability-devops-engineer-at-pipeline-co-ltd-4480409105",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "PIPELINE is a cybersecurity company headquartered in Tokyo, with an engineering team in Dhaka. We operate security products and services for continuous security assessment and improvement. We are looking for a hands-on Site reliability and DevOps Engineer to own infrastructure operations, improve reliability and help our developers deliver safely and efficiently. You will work closely with our CTO"
     },
     {
       "id": "linkedin-4478350950",
@@ -767,25 +784,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
-    },
-    {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     }
   ]
 }
