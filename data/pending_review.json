@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-10-24T00:08:50+00:00",
+  "built_at": "2026-10-24T05:55:27+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-24T00:08:50+00:00",
+  "dataset_generated_at": "2026-10-24T05:55:27+00:00",
   "total_jobs": 196,
   "needing_review": 135,
   "in_this_batch": 40,
@@ -197,6 +197,25 @@
       "description_excerpt": "Competitive Programming Intern 📍 Work Mode: Hybrid ⏳ Duration: 6 Months We’re lo o king for passionate problem-solvers interested in algorithms, data structures, and competitive programming. What You ’ ll Do: * Solve a lgorithmic problems using platforms like Codeforces, LeetCode, and CodeChef.* Practic e Data Structures & Algorithms (DSA).* Partici pate in coding contests and problem-solving sess"
     },
     {
+      "id": "linkedin-4481949077",
+      "title": "Investment Research Intern",
+      "company": "GAOTek Inc.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/investment-research-intern-at-gaotek-inc-4481949077",
+      "posted_at": "2026-10-23",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company: Aperture Venture Studio sister company of GAOTek Inc. Position Type: Internship Field: Investment Research, Investor Identification, AI and Physical AI Location: Remote About the Role We are seeking motivated Investment Research Interns to help identify major investors, investment firms, and funding opportunities for AI and Physical AI ventures. You will support investor research, databas"
+    },
+    {
       "id": "linkedin-4479935666",
       "title": "Intern",
       "company": "Dreams of Bangladesh",
@@ -233,25 +252,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Position Summary Digibox blends IoT, AI and logistics through a network of smart lockers where customers can collect and return parcels 24/7. This 3-month internship gives you hands-on experience in customer support, call handling and cross-team coordination in a startup environment. Key Responsibilities Assist the team in handling inbound and outbound customer calls regarding parcel collection, r"
-    },
-    {
-      "id": "linkedin-4481949077",
-      "title": "Investment Research Intern",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/investment-research-intern-at-gaotek-inc-4481949077",
-      "posted_at": "2026-10-23",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: Aperture Venture Studio sister company of GAOTek Inc. Position Type: Internship Field: Investment Research, Investor Identification, AI and Physical AI Location: Remote About the Role We are seeking motivated Investment Research Interns to help identify major investors, investment firms, and funding opportunities for AI and Physical AI ventures. You will support investor research, databas"
     },
     {
       "id": "linkedin-4480789892",
@@ -463,6 +463,25 @@
       "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
     },
     {
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-10-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
+    },
+    {
       "id": "linkedin-4480447994",
       "title": "Artificial Intelligence Developer",
       "company": "XproyIT",
@@ -518,25 +537,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "🚀 We're Hiring: Full Stack AI Engineers (Remote, Bangladesh) Marstark IT Service, a Netherlands-registered technology company, is looking for Full Stack AI Engineers who can turn an idea into working software, from system architecture to deployment. If you love building from scratch, move fast, and enjoy hard problems in new industries, we want to talk to you. What you'll do: • Design system archi"
-    },
-    {
-      "id": "linkedin-4481537456",
-      "title": "Technical Support Engineer",
-      "company": "Imou",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
-      "posted_at": "2026-10-20",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4480949828",
