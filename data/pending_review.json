@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-26T12:56:47+00:00",
+  "built_at": "2026-10-26T21:06:00+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-26T12:56:47+00:00",
-  "total_jobs": 195,
-  "needing_review": 132,
+  "dataset_generated_at": "2026-10-26T21:06:00+00:00",
+  "total_jobs": 193,
+  "needing_review": 131,
   "in_this_batch": 40,
-  "remaining_after_batch": 92,
+  "remaining_after_batch": 91,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -194,6 +194,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Nyktos is an end-to-end encrypted messenger built from the ground up to prioritize privacy and security. Each message leverages ephemeral keys (libsodium X25519), pairwise group encryption, and safety number verification to protect user communications. Nyktos does not rely on phone numbers, supporting anonymous and secure interactions. The product is built with modern web techn"
+    },
+    {
+      "id": "linkedin-4483232511",
+      "title": "Php Laravel Developer",
+      "company": "The waresun Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/php-laravel-developer-at-the-waresun-limited-4483232511",
+      "posted_at": "2026-10-26",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description The waresun Limited is an IT and software development company based in Bangladesh, established on July 7, 2017. The company delivers international freelancing jobs and a wide range of services including web and graphics design, web and software applications, networking, domain, and hosting. With a focus on quality, reliability, and affordability, The waresun Limited aims for 10"
     },
     {
       "id": "linkedin-4481699148",
@@ -479,25 +498,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're hiring 2 DevOps and Platform Engineer Interns. Sheerwater Consulting is a UK-led infrastructure consultancy helping research groups, startups and regulated businesses run reliable cloud, Linux and Kubernetes systems. We're recruiting from Bangladesh, and UK graduates are welcome to apply too. You'll work on real client projects, not practice exercises: • Write Terraform and Ansible for cloud"
-    },
-    {
-      "id": "linkedin-4478057362",
-      "title": "Full Stack AI-Software Engineer",
-      "company": "Marstark",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-ai-software-engineer-at-marstark-4478057362",
-      "posted_at": "2026-10-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary: BDT 55,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 We're Hiring: Full Stack AI Engineers (Remote, Bangladesh) Marstark IT Service, a Netherlands-registered technology company, is looking for Full Stack AI Engineers who can turn an idea into working software, from system architecture to deployment. If you love building from scratch, move fast, and enjoy hard problems in new industries, we want to talk to you. What you'll do: • Design system archi"
     },
     {
       "id": "linkedin-4478222743",
