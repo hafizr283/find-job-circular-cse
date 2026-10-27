@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-27T12:29:49+00:00",
+  "built_at": "2026-10-27T20:43:36+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-27T12:29:49+00:00",
-  "total_jobs": 192,
-  "needing_review": 130,
+  "dataset_generated_at": "2026-10-27T20:43:36+00:00",
+  "total_jobs": 194,
+  "needing_review": 132,
   "in_this_batch": 40,
-  "remaining_after_batch": 90,
+  "remaining_after_batch": 92,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -19,21 +19,21 @@
   ],
   "pending": [
     {
-      "id": "linkedin-4481537456",
-      "title": "Technical Support Engineer",
-      "company": "Imou",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
-      "posted_at": "2026-10-20",
+      "id": "linkedin-4425409132",
+      "title": "CMS APPLICATION ENGINEER (CAMPAIGN MANAGEMENT SYSTEM)",
+      "company": "MIAKI",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cms-application-engineer-campaign-management-system-at-miaki-4425409132",
+      "posted_at": "2026-06-07",
       "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
+      "regex_category": "Other CSE",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
       "pay_text": "Pay not stated",
       "review_reasons": [
         "posting status not confirmed open",
-        "company not in the reputation registry",
+        "category unresolved",
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
@@ -159,26 +159,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4473744409",
-      "title": "MLOps Engineer",
-      "company": "Enerzyz",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/mlops-engineer-at-enerzyz-4473744409",
-      "posted_at": "2026-09-30",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4472496924",
       "title": "Cyber Security Engineer",
       "company": "Invicta Solutions Ltd.",
@@ -276,25 +256,6 @@
       "description_excerpt": "We're Hiring Software Engineer Intern - Onsite Location: Signboard, Narayanganj Employment Type: #Internship 3–6 months (with possibility of full-time offer) Department: Engineering About Brainify Technology #Brainify_Technology_LLC is an innovative and fast-growing #software_company delivering modern digital solutions for both local and global clients. We actively work on #AI_driven solutions and"
     },
     {
-      "id": "linkedin-4481859792",
-      "title": "AI & IoT Research Intern Remote",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-iot-research-intern-remote-at-gaotek-inc-4481859792",
-      "posted_at": "2026-10-27",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Type: Internship Duration: 3–6 Months Location: Remote GAO Group & Aperture Venture Studio are seeking Master’s & PhD students for a 3–6 month AI & IoT Research Internship. Join our R&D team and contribute to Physical AI, AIoT, IoT, AI/ML, intelligent sensing, Edge AI, connected systems, and emerging technologies through research, experiments, prototypes, and proof-of-concepts. Research Areas "
-    },
-    {
       "id": "linkedin-4483289476",
       "title": "Full-Stack Software Engineer (Python or Node.js)",
       "company": "Affpilot",
@@ -312,6 +273,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Please read the requirements first. If you don’t meet the requirements, please don’t apply. We read every application, and we’d rather get ten good ones than three hundred random ones. This is a software engineering job. It is not a machine learning or data science job. We don’t train models. We build web products, and we use AI coding tools to build them fast. You must have: At least 3 years of f"
+    },
+    {
+      "id": "linkedin-4481859792",
+      "title": "AI & IoT Research Intern Remote",
+      "company": "GAOTek Inc.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-iot-research-intern-remote-at-gaotek-inc-4481859792",
+      "posted_at": "2026-10-27",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Type: Internship Duration: 3–6 Months Location: Remote GAO Group & Aperture Venture Studio are seeking Master’s & PhD students for a 3–6 month AI & IoT Research Internship. Join our R&D team and contribute to Physical AI, AIoT, IoT, AI/ML, intelligent sensing, Edge AI, connected systems, and emerging technologies through research, experiments, prototypes, and proof-of-concepts. Research Areas "
     },
     {
       "id": "linkedin-4481628141",
@@ -635,6 +615,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
+    },
+    {
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-10-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4480447994",
