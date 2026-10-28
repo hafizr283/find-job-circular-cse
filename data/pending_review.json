@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-27T20:43:36+00:00",
+  "built_at": "2026-10-28T00:33:08+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-27T20:43:36+00:00",
-  "total_jobs": 194,
-  "needing_review": 132,
+  "dataset_generated_at": "2026-10-28T00:33:08+00:00",
+  "total_jobs": 193,
+  "needing_review": 131,
   "in_this_batch": 40,
-  "remaining_after_batch": 92,
+  "remaining_after_batch": 91,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,26 +18,6 @@
     "Other CSE"
   ],
   "pending": [
-    {
-      "id": "linkedin-4425409132",
-      "title": "CMS APPLICATION ENGINEER (CAMPAIGN MANAGEMENT SYSTEM)",
-      "company": "MIAKI",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cms-application-engineer-campaign-management-system-at-miaki-4425409132",
-      "posted_at": "2026-06-07",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Other CSE",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "category unresolved",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
     {
       "id": "linkedin-4477462133",
       "title": "System Administrator",
@@ -256,25 +236,6 @@
       "description_excerpt": "We're Hiring Software Engineer Intern - Onsite Location: Signboard, Narayanganj Employment Type: #Internship 3–6 months (with possibility of full-time offer) Department: Engineering About Brainify Technology #Brainify_Technology_LLC is an innovative and fast-growing #software_company delivering modern digital solutions for both local and global clients. We actively work on #AI_driven solutions and"
     },
     {
-      "id": "linkedin-4483289476",
-      "title": "Full-Stack Software Engineer (Python or Node.js)",
-      "company": "Affpilot",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-software-engineer-python-or-node-js-at-affpilot-4483289476",
-      "posted_at": "2026-10-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Please read the requirements first. If you don’t meet the requirements, please don’t apply. We read every application, and we’d rather get ten good ones than three hundred random ones. This is a software engineering job. It is not a machine learning or data science job. We don’t train models. We build web products, and we use AI coding tools to build them fast. You must have: At least 3 years of f"
-    },
-    {
       "id": "linkedin-4481859792",
       "title": "AI & IoT Research Intern Remote",
       "company": "GAOTek Inc.",
@@ -311,6 +272,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Build Scalable Cloud Infrastructure for AI-Powered CRM, CMS & SaaS Platforms Company: Voice Pro LLC Position: Mid-Level DevOps Engineer Employment Type: Full-Time, On-Site Location: Mirpur DOHS, Dhaka, Bangladesh Work Schedule: Monday–Friday, 9:00 PM–6:00 AM (Bangladesh Time)/ Night shift Salary: BDT 60,000–75,000 per month Hiring: Immediately Compensation & Benefits Monthly Salary: BDT 60,000–75,"
+    },
+    {
+      "id": "linkedin-4483289476",
+      "title": "Full-Stack Software Engineer (Python or Node.js)",
+      "company": "Affpilot",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-software-engineer-python-or-node-js-at-affpilot-4483289476",
+      "posted_at": "2026-10-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Please read the requirements first. If you don’t meet the requirements, please don’t apply. We read every application, and we’d rather get ten good ones than three hundred random ones. This is a software engineering job. It is not a machine learning or data science job. We don’t train models. We build web products, and we use AI coding tools to build them fast. You must have: At least 3 years of f"
     },
     {
       "id": "linkedin-4481972200",
@@ -446,25 +426,6 @@
       "description_excerpt": "This job is provided by apna.co Job Description: IT Executive - Chemist Box Private Limited. About Chemist Box Private Limited: Chemist Box Private Limited, a prominent multi-outlet retail pharmacy chain in Bihar, With 16-17 physical stores. Position: IT Executive Location: Patna Objectives Of This Role Maintain essential IT operations, including operating systems, security tools, applications, se"
     },
     {
-      "id": "linkedin-4478985804",
-      "title": "Product Designer",
-      "company": "PEN Global",
-      "location": "Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/product-designer-at-pen-global-4478985804",
-      "posted_at": "2026-10-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
-    },
-    {
       "id": "linkedin-4480789892",
       "title": "Cybersecurity, AI & Tech Business Consultant",
       "company": "Kaosar Ahmed",
@@ -482,6 +443,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
+    },
+    {
+      "id": "linkedin-4478985804",
+      "title": "Product Designer",
+      "company": "PEN Global",
+      "location": "Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/product-designer-at-pen-global-4478985804",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
     },
     {
       "id": "linkedin-4483129581",
@@ -617,23 +597,42 @@
       "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
     },
     {
-      "id": "linkedin-4481537456",
-      "title": "Technical Support Engineer",
-      "company": "Imou",
+      "id": "linkedin-4466564784",
+      "title": "2d Mobile Game Programmer (Unity)",
+      "company": "Dreamanimagine Studio",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
-      "posted_at": "2026-10-20",
+      "url": "https://bd.linkedin.com/jobs/view/2d-mobile-game-programmer-unity-at-dreamanimagine-studio-4466564784",
+      "posted_at": "2026-10-04",
       "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Tk. 25,000",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
+      "description_excerpt": "2D Mobile Game Programmer (Unity) Hello, I am looking for BUET students or graduates to help me develop a 2D mobile game. The game is relatively simple, similar to Doodle Jump. I will design the game concept, gameplay, game mechanics, graphics assets, and animations myself. I need a highly capable programmer to take care of the coding and technical side of the project. My previous programmer, Ashi"
+    },
+    {
+      "id": "linkedin-4474783624",
+      "title": "System Administrator",
+      "company": "Binary Quest Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/system-administrator-at-binary-quest-limited-4474783624",
+      "posted_at": "2026-10-02",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Tk 40,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
     },
     {
       "id": "linkedin-4480447994",
@@ -653,6 +652,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description XproyIT is a technology-driven organization focused on delivering innovative software solutions and digital services to clients across various industries. The company emphasizes the use of modern technologies, including artificial intelligence, to help businesses improve efficiency, make data-driven decisions, and enhance user experiences. At XproyIT, team members collaborate i"
+    },
+    {
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-10-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4477348901",
@@ -693,42 +711,23 @@
       "description_excerpt": "Company: SBM Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months Work Mode: Hybrid (Office & Remote) Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns . This opportunity is designed for aspiring developers who want to gain hands"
     },
     {
-      "id": "linkedin-4466564784",
-      "title": "2d Mobile Game Programmer (Unity)",
-      "company": "Dreamanimagine Studio",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/2d-mobile-game-programmer-unity-at-dreamanimagine-studio-4466564784",
-      "posted_at": "2026-10-04",
+      "id": "linkedin-4462778194",
+      "title": "IoT Hardware & Peripherals Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
+      "posted_at": "2026-09-03",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Tk. 25,000",
+      "pay_text": "Salary negotiable",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "2D Mobile Game Programmer (Unity) Hello, I am looking for BUET students or graduates to help me develop a 2D mobile game. The game is relatively simple, similar to Doodle Jump. I will design the game concept, gameplay, game mechanics, graphics assets, and animations myself. I need a highly capable programmer to take care of the coding and technical side of the project. My previous programmer, Ashi"
-    },
-    {
-      "id": "linkedin-4474783624",
-      "title": "System Administrator",
-      "company": "Binary Quest Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/system-administrator-at-binary-quest-limited-4474783624",
-      "posted_at": "2026-10-02",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Tk 40,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
       "id": "linkedin-4480949828",
@@ -769,23 +768,23 @@
       "description_excerpt": "Job Title: UI/UX Designer (Figma/Adobe XD/Other Tools) Location: Remote Job Type: Internship 𝗖𝗼𝗺𝗽𝗮𝗻𝘆: The GAO Group – USA & Canada 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: www.TheGAOGroup.com The GAO Group is headquartered in New York City, USA, and Toronto, Canada. Its member companies are incorporated in both the USA and Canada and are leading suppliers of advanced electronics and network products for engineers worldwide. Role"
     },
     {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
+      "id": "linkedin-4479942315",
+      "title": "AI Developer & Automation Specialist",
+      "company": "Affpilot",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-developer-automation-specialist-at-affpilot-4479942315",
+      "posted_at": "2026-10-18",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
+      "description_excerpt": "Affpilot AI কোম্পানিতে ডেভেলপার হায়ার করবো। Onsite Desk Job. Location: Mirpur, Dhaka ২ বছরের জব এক্সপেরিয়েন্স থাকতে হবে। আগেই সরি বলে নিচ্ছি, AI দিয়ে লিখে কোনো ফ্যান্সি জব পোস্ট লিখবো না, তাই খুব একটা প্রফেশনাল ভাইব পাবেন না এই জব পোস্টে। আমার যা দরকার সেটাই লিখছি সংক্ষেপে। চলুন শুরু করিঃ কিছু রিকয়ারমেন্টস আমি সংক্ষেপে লিখে দিচ্ছি। ১) লিমিটলেস মাইন্ডের অধিকারি হতে হবে (ইলন মাস্ক মাইন্ড - এই দুনিয"
     }
   ]
 }
