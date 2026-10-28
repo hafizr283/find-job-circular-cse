@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-28T06:53:43+00:00",
+  "built_at": "2026-10-28T17:13:42+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-28T06:53:43+00:00",
-  "total_jobs": 193,
-  "needing_review": 129,
+  "dataset_generated_at": "2026-10-28T17:13:42+00:00",
+  "total_jobs": 195,
+  "needing_review": 132,
   "in_this_batch": 40,
-  "remaining_after_batch": 89,
+  "remaining_after_batch": 92,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -331,6 +331,25 @@
       "description_excerpt": "Company Description The waresun Limited is an IT and software development company based in Bangladesh, established on July 7, 2017. The company delivers international freelancing jobs and a wide range of services including web and graphics design, web and software applications, networking, domain, and hosting. With a focus on quality, reliability, and affordability, The waresun Limited aims for 10"
     },
     {
+      "id": "linkedin-4484050746",
+      "title": "Software Quality Assurance Engineer (SQA)",
+      "company": "Polygon Technology",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-quality-assurance-engineer-sqa-at-polygon-technology-4484050746",
+      "posted_at": "2026-10-27",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
       "id": "linkedin-4481699148",
       "title": "Competitive Programming Intern",
       "company": "DeshIT-BD",
@@ -578,6 +597,25 @@
       "description_excerpt": "PIPELINE is a cybersecurity company headquartered in Tokyo, with an engineering team in Dhaka. We operate security products and services for continuous security assessment and improvement. We are looking for a hands-on Site reliability and DevOps Engineer to own infrastructure operations, improve reliability and help our developers deliver safely and efficiently. You will work closely with our CTO"
     },
     {
+      "id": "linkedin-4483843301",
+      "title": "n8n Automation & AI Workflow Developer (Intern)",
+      "company": "sbmbd-it",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4483843301",
+      "posted_at": "2026-10-28",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company: SBM Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months Work Mode: Hybrid (Office & Remote) Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns . This opportunity is designed for aspiring developers who want to gain hands"
+    },
+    {
       "id": "linkedin-4478222743",
       "title": "Tech Support Virtual Internship",
       "company": "GAOTek Inc.",
@@ -747,44 +785,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Are you ready to use your domain knowledge to advance AI? Join us as a PhD Data Partner and work remotely with flexible hours. We are seeking highly knowledgeable Subject Matter Expert to design advanced, domain-specific questions and solutions. The role involves creating challenging problem sets that test deep reasoning and expertise in the assigned field. TELUS Digital AI Community Our global AI"
-    },
-    {
-      "id": "linkedin-4477716504",
-      "title": "UI/UX Designer Virtual Internship",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-virtual-internship-at-gaotek-inc-4477716504",
-      "posted_at": "2026-10-16",
-      "regex_job_type": "Internship",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Title: UI/UX Designer (Figma/Adobe XD/Other Tools) Location: Remote Job Type: Internship 𝗖𝗼𝗺𝗽𝗮𝗻𝘆: The GAO Group – USA & Canada 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: www.TheGAOGroup.com The GAO Group is headquartered in New York City, USA, and Toronto, Canada. Its member companies are incorporated in both the USA and Canada and are leading suppliers of advanced electronics and network products for engineers worldwide. Role"
-    },
-    {
-      "id": "linkedin-4479942315",
-      "title": "AI Developer & Automation Specialist",
-      "company": "Affpilot",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-developer-automation-specialist-at-affpilot-4479942315",
-      "posted_at": "2026-10-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Affpilot AI কোম্পানিতে ডেভেলপার হায়ার করবো। Onsite Desk Job. Location: Mirpur, Dhaka ২ বছরের জব এক্সপেরিয়েন্স থাকতে হবে। আগেই সরি বলে নিচ্ছি, AI দিয়ে লিখে কোনো ফ্যান্সি জব পোস্ট লিখবো না, তাই খুব একটা প্রফেশনাল ভাইব পাবেন না এই জব পোস্টে। আমার যা দরকার সেটাই লিখছি সংক্ষেপে। চলুন শুরু করিঃ কিছু রিকয়ারমেন্টস আমি সংক্ষেপে লিখে দিচ্ছি। ১) লিমিটলেস মাইন্ডের অধিকারি হতে হবে (ইলন মাস্ক মাইন্ড - এই দুনিয"
     }
   ]
 }
