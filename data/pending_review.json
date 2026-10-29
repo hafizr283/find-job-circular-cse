@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-29T07:04:05+00:00",
+  "built_at": "2026-10-29T17:28:47+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-29T07:04:05+00:00",
-  "total_jobs": 185,
-  "needing_review": 122,
+  "dataset_generated_at": "2026-10-29T17:28:47+00:00",
+  "total_jobs": 182,
+  "needing_review": 119,
   "in_this_batch": 40,
-  "remaining_after_batch": 82,
+  "remaining_after_batch": 79,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -47,26 +47,6 @@
       "posted_at": "2026-10-07",
       "regex_job_type": "Fresher job",
       "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4476584642",
-      "title": "Analyst, IT Cyber Security",
-      "company": "Gildan",
-      "location": "Gulshan, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/analyst-it-cyber-security-at-gildan-4476584642",
-      "posted_at": "2026-10-07",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -251,6 +231,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Build Scalable Cloud Infrastructure for AI-Powered CRM, CMS & SaaS Platforms Company: Voice Pro LLC Position: Mid-Level DevOps Engineer Employment Type: Full-Time, On-Site Location: Mirpur DOHS, Dhaka, Bangladesh Work Schedule: Monday–Friday, 9:00 PM–6:00 AM (Bangladesh Time)/ Night shift Salary: BDT 60,000–75,000 per month Hiring: Immediately Compensation & Benefits Monthly Salary: BDT 60,000–75,"
+    },
+    {
+      "id": "linkedin-4484916538",
+      "title": "PhD Data Partner - Technical Writer - Asia",
+      "company": "TELUS Digital",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/phd-data-partner-technical-writer-asia-at-telus-digital-4484916538",
+      "posted_at": "2026-10-29",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Click here to Apply! Are you ready to use your domain knowledge to advance AI? Join us as a PhD Data Partner and work remotely with flexible hours. We are seeking highly knowledgeable Subject Matter Expert to design advanced, domain-specific questions and solutions. The role involves creating challenging problem sets that test deep reasoning and expertise in the assigned field. TELUS Digital AI Co"
     },
     {
       "id": "linkedin-4481972200",
@@ -462,25 +461,6 @@
       "description_excerpt": "Job Location: Dhaka (with frequent field travel) Employment Type: Full-time Job Summary: The Data Analyst under MRM Unit will strengthen SAJIDA Foundation’s capacity to manage, analyse, interpret, and use program data for evidence-based decision-making. The position will support the MRM team and Development Programs in data management, statistical analysis, visualization, assessments, and reportin"
     },
     {
-      "id": "linkedin-4481158660",
-      "title": "Security Software Engineer",
-      "company": "Pipeline Co., Ltd.",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/security-software-engineer-at-pipeline-co-ltd-4481158660",
-      "posted_at": "2026-10-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We’re hiring: Security Software Engineer 📍 Dhaka, Bangladesh | Full-time At PIPELINE, we build cybersecurity solutions that help organizations understand security risks and take action. We’re looking for an engineer who enjoys building software, exploring security problems and turning ideas into useful features. You will work with our development team and security experts to improve and develop ne"
-    },
-    {
       "id": "linkedin-4481171145",
       "title": "Customer Success Specialist",
       "company": "Pipeline Co., Ltd.",
@@ -498,6 +478,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We’re hiring: Customer Success & Account Growth Specialist — Cybersecurity 📍 Dhaka, Bangladesh | Full-time PIPELINE is looking for a proactive customer success professional who can help customers succeed, retain their business and grow existing accounts. This role combines customer onboarding and relationship management with a clear commercial focus on renewals, upselling and expansion. You will a"
+    },
+    {
+      "id": "linkedin-4481158660",
+      "title": "Security Software Engineer",
+      "company": "Pipeline Co., Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/security-software-engineer-at-pipeline-co-ltd-4481158660",
+      "posted_at": "2026-10-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We’re hiring: Security Software Engineer 📍 Dhaka, Bangladesh | Full-time At PIPELINE, we build cybersecurity solutions that help organizations understand security risks and take action. We’re looking for an engineer who enjoys building software, exploring security problems and turning ideas into useful features. You will work with our development team and security experts to improve and develop ne"
     },
     {
       "id": "linkedin-4479947196",
