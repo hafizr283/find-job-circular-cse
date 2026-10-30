@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-30T00:56:59+00:00",
+  "built_at": "2026-10-30T07:11:54+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-30T00:56:59+00:00",
-  "total_jobs": 180,
-  "needing_review": 116,
+  "dataset_generated_at": "2026-10-30T07:11:54+00:00",
+  "total_jobs": 177,
+  "needing_review": 113,
   "in_this_batch": 40,
-  "remaining_after_batch": 76,
+  "remaining_after_batch": 73,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -385,25 +385,6 @@
       "description_excerpt": "This job is provided by apna.co Job Description: IT Executive - Chemist Box Private Limited. About Chemist Box Private Limited: Chemist Box Private Limited, a prominent multi-outlet retail pharmacy chain in Bihar, With 16-17 physical stores. Position: IT Executive Location: Patna Objectives Of This Role Maintain essential IT operations, including operating systems, security tools, applications, se"
     },
     {
-      "id": "linkedin-4480789892",
-      "title": "Cybersecurity, AI & Tech Business Consultant",
-      "company": "Kaosar Ahmed",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-ai-tech-business-consultant-at-kaosar-ahmed-4480789892",
-      "posted_at": "2026-10-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
-    },
-    {
       "id": "linkedin-4478985804",
       "title": "Product Designer",
       "company": "PEN Global",
@@ -421,6 +402,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
+    },
+    {
+      "id": "linkedin-4480789892",
+      "title": "Cybersecurity, AI & Tech Business Consultant",
+      "company": "Kaosar Ahmed",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-ai-tech-business-consultant-at-kaosar-ahmed-4480789892",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
     },
     {
       "id": "linkedin-4483129581",
@@ -575,6 +575,25 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
+      "id": "linkedin-4447245601",
+      "title": "Salesforce Technical Consultant – Interns (Paid) – Onsite",
+      "company": "GFGG IT Solutions",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/salesforce-technical-consultant-%E2%80%93-interns-paid-%E2%80%93-onsite-at-gfgg-it-solutions-4447245601",
+      "posted_at": "2026-07-31",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
       "id": "linkedin-4480409105",
       "title": "Site Reliability & DevOps Engineer",
       "company": "Pipeline Co., Ltd.",
@@ -632,25 +651,6 @@
       "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
     },
     {
-      "id": "linkedin-4480447994",
-      "title": "Artificial Intelligence Developer",
-      "company": "XproyIT",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-developer-at-xproyit-4480447994",
-      "posted_at": "2026-10-20",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description XproyIT is a technology-driven organization focused on delivering innovative software solutions and digital services to clients across various industries. The company emphasizes the use of modern technologies, including artificial intelligence, to help businesses improve efficiency, make data-driven decisions, and enhance user experiences. At XproyIT, team members collaborate i"
-    },
-    {
       "id": "linkedin-4481537456",
       "title": "Technical Support Engineer",
       "company": "Imou",
@@ -668,6 +668,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
+    },
+    {
+      "id": "linkedin-4480447994",
+      "title": "Artificial Intelligence Developer",
+      "company": "XproyIT",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-developer-at-xproyit-4480447994",
+      "posted_at": "2026-10-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description XproyIT is a technology-driven organization focused on delivering innovative software solutions and digital services to clients across various industries. The company emphasizes the use of modern technologies, including artificial intelligence, to help businesses improve efficiency, make data-driven decisions, and enhance user experiences. At XproyIT, team members collaborate i"
     },
     {
       "id": "linkedin-4477348901",
@@ -763,25 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: UI/UX Designer (Figma/Adobe XD/Other Tools) Location: Remote Job Type: Internship 𝗖𝗼𝗺𝗽𝗮𝗻𝘆: The GAO Group – USA & Canada 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: www.TheGAOGroup.com The GAO Group is headquartered in New York City, USA, and Toronto, Canada. Its member companies are incorporated in both the USA and Canada and are leading suppliers of advanced electronics and network products for engineers worldwide. Role"
-    },
-    {
-      "id": "linkedin-4479942315",
-      "title": "AI Developer & Automation Specialist",
-      "company": "Affpilot",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-developer-automation-specialist-at-affpilot-4479942315",
-      "posted_at": "2026-10-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Affpilot AI কোম্পানিতে ডেভেলপার হায়ার করবো। Onsite Desk Job. Location: Mirpur, Dhaka ২ বছরের জব এক্সপেরিয়েন্স থাকতে হবে। আগেই সরি বলে নিচ্ছি, AI দিয়ে লিখে কোনো ফ্যান্সি জব পোস্ট লিখবো না, তাই খুব একটা প্রফেশনাল ভাইব পাবেন না এই জব পোস্টে। আমার যা দরকার সেটাই লিখছি সংক্ষেপে। চলুন শুরু করিঃ কিছু রিকয়ারমেন্টস আমি সংক্ষেপে লিখে দিচ্ছি। ১) লিমিটলেস মাইন্ডের অধিকারি হতে হবে (ইলন মাস্ক মাইন্ড - এই দুনিয"
     }
   ]
 }
