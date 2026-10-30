@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-29T17:28:47+00:00",
+  "built_at": "2026-10-30T00:56:59+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-29T17:28:47+00:00",
-  "total_jobs": 182,
-  "needing_review": 119,
+  "dataset_generated_at": "2026-10-30T00:56:59+00:00",
+  "total_jobs": 180,
+  "needing_review": 116,
   "in_this_batch": 40,
-  "remaining_after_batch": 79,
+  "remaining_after_batch": 76,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -366,25 +366,6 @@
       "description_excerpt": "🚀 WE’RE HIRING | MONTHLY PAID INTERNSHIP! Learn. Create. Innovate. Grow. DoB Innovation & Learning Hub, a sister concern of Dreams of Bangladesh (DoB), is expanding its team! We are looking for enthusiastic, responsible, creative, and motivated individuals who are eager to gain practical experience, develop professional skills, and contribute to a growing innovation and education platform. 💼 Key R"
     },
     {
-      "id": "linkedin-4478429711",
-      "title": "Customer Support Intern",
-      "company": "DIGIBOX",
-      "location": "Gulshan, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/customer-support-intern-at-digibox-4478429711",
-      "posted_at": "2026-10-14",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "No prior experience required",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "BDT 5,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Position Summary Digibox blends IoT, AI and logistics through a network of smart lockers where customers can collect and return parcels 24/7. This 3-month internship gives you hands-on experience in customer support, call handling and cross-team coordination in a startup environment. Key Responsibilities Assist the team in handling inbound and outbound customer calls regarding parcel collection, r"
-    },
-    {
       "id": "linkedin-4482661749",
       "title": "IT Executive",
       "company": "Chemist Box",
@@ -402,25 +383,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "This job is provided by apna.co Job Description: IT Executive - Chemist Box Private Limited. About Chemist Box Private Limited: Chemist Box Private Limited, a prominent multi-outlet retail pharmacy chain in Bihar, With 16-17 physical stores. Position: IT Executive Location: Patna Objectives Of This Role Maintain essential IT operations, including operating systems, security tools, applications, se"
-    },
-    {
-      "id": "linkedin-4478985804",
-      "title": "Product Designer",
-      "company": "PEN Global",
-      "location": "Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/product-designer-at-pen-global-4478985804",
-      "posted_at": "2026-10-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
     },
     {
       "id": "linkedin-4480789892",
@@ -442,6 +404,25 @@
       "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
     },
     {
+      "id": "linkedin-4478985804",
+      "title": "Product Designer",
+      "company": "PEN Global",
+      "location": "Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/product-designer-at-pen-global-4478985804",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
+    },
+    {
       "id": "linkedin-4483129581",
       "title": "Data Analyst– MRM",
       "company": "SAJIDA Foundation",
@@ -461,23 +442,42 @@
       "description_excerpt": "Job Location: Dhaka (with frequent field travel) Employment Type: Full-time Job Summary: The Data Analyst under MRM Unit will strengthen SAJIDA Foundation’s capacity to manage, analyse, interpret, and use program data for evidence-based decision-making. The position will support the MRM team and Development Programs in data management, statistical analysis, visualization, assessments, and reportin"
     },
     {
-      "id": "linkedin-4481171145",
-      "title": "Customer Success Specialist",
-      "company": "Pipeline Co., Ltd.",
+      "id": "linkedin-4466564784",
+      "title": "2d Mobile Game Programmer (Unity)",
+      "company": "Dreamanimagine Studio",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/customer-success-specialist-at-pipeline-co-ltd-4481171145",
-      "posted_at": "2026-10-22",
+      "url": "https://bd.linkedin.com/jobs/view/2d-mobile-game-programmer-unity-at-dreamanimagine-studio-4466564784",
+      "posted_at": "2026-10-04",
       "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
+      "pay_text": "Tk. 25,000",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "We’re hiring: Customer Success & Account Growth Specialist — Cybersecurity 📍 Dhaka, Bangladesh | Full-time PIPELINE is looking for a proactive customer success professional who can help customers succeed, retain their business and grow existing accounts. This role combines customer onboarding and relationship management with a clear commercial focus on renewals, upselling and expansion. You will a"
+      "description_excerpt": "2D Mobile Game Programmer (Unity) Hello, I am looking for BUET students or graduates to help me develop a 2D mobile game. The game is relatively simple, similar to Doodle Jump. I will design the game concept, gameplay, game mechanics, graphics assets, and animations myself. I need a highly capable programmer to take care of the coding and technical side of the project. My previous programmer, Ashi"
+    },
+    {
+      "id": "linkedin-4474783624",
+      "title": "System Administrator",
+      "company": "Binary Quest Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/system-administrator-at-binary-quest-limited-4474783624",
+      "posted_at": "2026-10-02",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Tk 40,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
     },
     {
       "id": "linkedin-4481158660",
@@ -497,6 +497,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We’re hiring: Security Software Engineer 📍 Dhaka, Bangladesh | Full-time At PIPELINE, we build cybersecurity solutions that help organizations understand security risks and take action. We’re looking for an engineer who enjoys building software, exploring security problems and turning ideas into useful features. You will work with our development team and security experts to improve and develop ne"
+    },
+    {
+      "id": "linkedin-4481171145",
+      "title": "Customer Success Specialist",
+      "company": "Pipeline Co., Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-specialist-at-pipeline-co-ltd-4481171145",
+      "posted_at": "2026-10-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We’re hiring: Customer Success & Account Growth Specialist — Cybersecurity 📍 Dhaka, Bangladesh | Full-time PIPELINE is looking for a proactive customer success professional who can help customers succeed, retain their business and grow existing accounts. This role combines customer onboarding and relationship management with a clear commercial focus on renewals, upselling and expansion. You will a"
     },
     {
       "id": "linkedin-4479947196",
@@ -537,42 +556,23 @@
       "description_excerpt": "Company Description Famous IT Solutions is a modern IT company delivering high-quality digital solutions for businesses across the globe. The organization specializes in custom web and software development, business automation systems, cybersecurity solutions, UI/UX and graphic design, and booking and inventory management systems. Its mission is to help startups, hotels, agencies, and enterprises "
     },
     {
-      "id": "linkedin-4466564784",
-      "title": "2d Mobile Game Programmer (Unity)",
-      "company": "Dreamanimagine Studio",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/2d-mobile-game-programmer-unity-at-dreamanimagine-studio-4466564784",
-      "posted_at": "2026-10-04",
+      "id": "linkedin-4462778194",
+      "title": "IoT Hardware & Peripherals Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
+      "posted_at": "2026-09-03",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Tk. 25,000",
+      "pay_text": "Salary negotiable",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "2D Mobile Game Programmer (Unity) Hello, I am looking for BUET students or graduates to help me develop a 2D mobile game. The game is relatively simple, similar to Doodle Jump. I will design the game concept, gameplay, game mechanics, graphics assets, and animations myself. I need a highly capable programmer to take care of the coding and technical side of the project. My previous programmer, Ashi"
-    },
-    {
-      "id": "linkedin-4474783624",
-      "title": "System Administrator",
-      "company": "Binary Quest Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/system-administrator-at-binary-quest-limited-4474783624",
-      "posted_at": "2026-10-02",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Tk 40,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
       "id": "linkedin-4480409105",
@@ -632,23 +632,23 @@
       "description_excerpt": "𝐉𝐨𝐛 𝐓𝐢𝐭𝐥𝐞: Tech Support Virtual Internship 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: The GAO Group, USA & Canada 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: www.TheGAOGroup.com 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞: Internship 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: remote 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬 The GAO Group, headquartered in New York City, USA, and Toronto, Canada, is a leading supplier of advanced electronics and networking products for engineers worldwide. 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐑𝐨𝐥𝐞 GAO Tek Inc. is seeking Tech Support Interns to assist with "
     },
     {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
+      "id": "linkedin-4480447994",
+      "title": "Artificial Intelligence Developer",
+      "company": "XproyIT",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-developer-at-xproyit-4480447994",
+      "posted_at": "2026-10-20",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
+      "description_excerpt": "Company Description XproyIT is a technology-driven organization focused on delivering innovative software solutions and digital services to clients across various industries. The company emphasizes the use of modern technologies, including artificial intelligence, to help businesses improve efficiency, make data-driven decisions, and enhance user experiences. At XproyIT, team members collaborate i"
     },
     {
       "id": "linkedin-4481537456",
@@ -668,25 +668,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
-    },
-    {
-      "id": "linkedin-4480447994",
-      "title": "Artificial Intelligence Developer",
-      "company": "XproyIT",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-developer-at-xproyit-4480447994",
-      "posted_at": "2026-10-20",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description XproyIT is a technology-driven organization focused on delivering innovative software solutions and digital services to clients across various industries. The company emphasizes the use of modern technologies, including artificial intelligence, to help businesses improve efficiency, make data-driven decisions, and enhance user experiences. At XproyIT, team members collaborate i"
     },
     {
       "id": "linkedin-4477348901",
@@ -744,6 +725,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Are you ready to use your domain knowledge to advance AI? Join us as a PhD Data Partner and work remotely with flexible hours. We are seeking highly knowledgeable Subject Matter Expert to design advanced, domain-specific questions and solutions. The role involves creating challenging problem sets that test deep reasoning and expertise in the assigned field. TELUS Digital AI Community Our global AI"
+    },
+    {
+      "id": "linkedin-4462774205",
+      "title": "Computer Vision & Robotics Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     },
     {
       "id": "linkedin-4477716504",
