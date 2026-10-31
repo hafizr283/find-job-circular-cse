@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-10-31T07:00:50+00:00",
+  "built_at": "2026-10-31T16:07:13+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-31T07:00:49+00:00",
-  "total_jobs": 176,
-  "needing_review": 113,
+  "dataset_generated_at": "2026-10-31T16:07:13+00:00",
+  "total_jobs": 177,
+  "needing_review": 114,
   "in_this_batch": 40,
-  "remaining_after_batch": 73,
+  "remaining_after_batch": 74,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -461,25 +461,6 @@
       "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
     },
     {
-      "id": "linkedin-4466564784",
-      "title": "2d Mobile Game Programmer (Unity)",
-      "company": "Dreamanimagine Studio",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/2d-mobile-game-programmer-unity-at-dreamanimagine-studio-4466564784",
-      "posted_at": "2026-10-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Tk. 25,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "2D Mobile Game Programmer (Unity) Hello, I am looking for BUET students or graduates to help me develop a 2D mobile game. The game is relatively simple, similar to Doodle Jump. I will design the game concept, gameplay, game mechanics, graphics assets, and animations myself. I need a highly capable programmer to take care of the coding and technical side of the project. My previous programmer, Ashi"
-    },
-    {
       "id": "linkedin-4474783624",
       "title": "System Administrator",
       "company": "Binary Quest Limited",
@@ -782,6 +763,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Are you ready to use your domain knowledge to advance AI? Join us as a PhD Data Partner and work remotely with flexible hours. We are seeking highly knowledgeable Subject Matter Expert to design advanced, domain-specific questions and solutions. The role involves creating challenging problem sets that test deep reasoning and expertise in the assigned field. TELUS Digital AI Community Our global AI"
+    },
+    {
+      "id": "linkedin-4477716504",
+      "title": "UI/UX Designer Virtual Internship",
+      "company": "GAOTek Inc.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-virtual-internship-at-gaotek-inc-4477716504",
+      "posted_at": "2026-10-16",
+      "regex_job_type": "Internship",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Title: UI/UX Designer (Figma/Adobe XD/Other Tools) Location: Remote Job Type: Internship 𝗖𝗼𝗺𝗽𝗮𝗻𝘆: The GAO Group – USA & Canada 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: www.TheGAOGroup.com The GAO Group is headquartered in New York City, USA, and Toronto, Canada. Its member companies are incorporated in both the USA and Canada and are leading suppliers of advanced electronics and network products for engineers worldwide. Role"
     }
   ]
 }
