@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-10-31T16:07:13+00:00",
+  "built_at": "2026-10-31T19:59:51+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-10-31T16:07:13+00:00",
-  "total_jobs": 177,
+  "dataset_generated_at": "2026-10-31T19:59:51+00:00",
+  "total_jobs": 176,
   "needing_review": 114,
   "in_this_batch": 40,
   "remaining_after_batch": 74,
@@ -594,6 +594,25 @@
       "description_excerpt": "Company Description Famous IT Solutions is a modern IT company delivering high-quality digital solutions for businesses across the globe. The organization specializes in custom web and software development, business automation systems, cybersecurity solutions, UI/UX and graphic design, and booking and inventory management systems. Its mission is to help startups, hotels, agencies, and enterprises "
     },
     {
+      "id": "linkedin-4485153710",
+      "title": "Intern",
+      "company": "Bengal Software",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-bengal-software-4485153710",
+      "posted_at": "2026-10-31",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Note: It's an unpaid internship. Please use only email ( hr@bengalsoftware.com ) to apply. Don't apply for an academic/university internship. We are offering a comprehensive internship in software development & sales/marketing. This internship offers practical training and skill development in two main areas: 1. Software Development 2. Software Sales/Marketing Intern Type: Unpaid Office Time: 11 a"
+    },
+    {
       "id": "linkedin-4480409105",
       "title": "Site Reliability & DevOps Engineer",
       "company": "Pipeline Co., Ltd.",
@@ -763,25 +782,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Are you ready to use your domain knowledge to advance AI? Join us as a PhD Data Partner and work remotely with flexible hours. We are seeking highly knowledgeable Subject Matter Expert to design advanced, domain-specific questions and solutions. The role involves creating challenging problem sets that test deep reasoning and expertise in the assigned field. TELUS Digital AI Community Our global AI"
-    },
-    {
-      "id": "linkedin-4477716504",
-      "title": "UI/UX Designer Virtual Internship",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-virtual-internship-at-gaotek-inc-4477716504",
-      "posted_at": "2026-10-16",
-      "regex_job_type": "Internship",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Title: UI/UX Designer (Figma/Adobe XD/Other Tools) Location: Remote Job Type: Internship 𝗖𝗼𝗺𝗽𝗮𝗻𝘆: The GAO Group – USA & Canada 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: www.TheGAOGroup.com The GAO Group is headquartered in New York City, USA, and Toronto, Canada. Its member companies are incorporated in both the USA and Canada and are leading suppliers of advanced electronics and network products for engineers worldwide. Role"
     }
   ]
 }
