@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-02T01:15:57+00:00",
+  "built_at": "2026-11-02T07:53:29+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-02T01:15:57+00:00",
-  "total_jobs": 176,
-  "needing_review": 122,
+  "dataset_generated_at": "2026-11-02T07:53:29+00:00",
+  "total_jobs": 162,
+  "needing_review": 117,
   "in_this_batch": 40,
-  "remaining_after_batch": 82,
+  "remaining_after_batch": 77,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -39,26 +39,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4483129581",
-      "title": "Data Analyst– MRM",
-      "company": "SAJIDA Foundation",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/data-analyst%E2%80%93-mrm-at-sajida-foundation-4483129581",
-      "posted_at": "2026-10-23",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4478271666",
       "title": "Information Security Engineer",
       "company": "Deel",
@@ -67,26 +47,6 @@
       "posted_at": "2026-10-19",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4477348901",
-      "title": "Embedded Systems & SBC Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4477348901",
-      "posted_at": "2026-10-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -179,26 +139,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4462774205",
-      "title": "Computer Vision & Robotics Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4481406979",
       "title": "Application Engineer - (For Particles Bangladesh Ltd.) - Job ID - 1548817",
       "company": "Bdjobs.com",
@@ -206,26 +146,6 @@
       "url": "https://bd.linkedin.com/jobs/view/application-engineer-for-particles-bangladesh-ltd-job-id-1548817-at-bdjobs-com-4481406979",
       "posted_at": "2026-10-26",
       "regex_job_type": "Fresher job",
-      "regex_category": "Other CSE",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "category unresolved",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4448161953",
-      "title": "Test Engineer Intern",
-      "company": "Urban Job",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/test-engineer-intern-at-urban-job-4448161953",
-      "posted_at": "2026-08-03",
-      "regex_job_type": "Internship",
       "regex_category": "Other CSE",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
@@ -258,6 +178,25 @@
       "description_excerpt": "Company Description StrategyByte is an AI-first technology company headquartered in Sydney, Australia, and the parent company of two AI product brands, ByteVoice and ByteForce, serving organisations across Australia, New Zealand, the UK, Canada and the USA. The company delivers tailored solutions across digital marketing, IT support, web development, process optimization, and related services for "
     },
     {
+      "id": "linkedin-4485445387",
+      "title": "AI Policy Specialist (QA Annotation)",
+      "company": "Thoth AI",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-policy-specialist-qa-annotation-at-thoth-ai-4485445387",
+      "posted_at": "2026-11-02",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Position: Policy Labeler & Policy QA (Bangladesh) Job Type: Full-time Position Arrangement: Fully On-Site (Dhaka, Bangladesh) Work Contents We are seeking a detail-oriented QA professional to ensure accuracy and consistency in daily operations by reviewing agents’ work, handling case disputes, and tracking performance. You will monitor quality trends, identify risks, and support continuous improve"
+    },
+    {
       "id": "linkedin-4483237904",
       "title": "Full Stack Developer",
       "company": "Lab3",
@@ -277,25 +216,6 @@
       "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
     },
     {
-      "id": "linkedin-4485182761",
-      "title": "Intern",
-      "company": "Bondstein Technologies Limited",
-      "location": "Tejgaon Industrial Area Thana, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-bondstein-technologies-limited-4485182761",
-      "posted_at": "2026-11-01",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Bondstein Technologies Limited is an Internet of Things (IoT) company that designs and fabricates smart, sensor-enabled devices to advance connectivity in the era of Industry 4.0. The organization specializes in security and tracking solutions and has launched connected car services in Bangladesh, Nepal, and Kuwait. Bondstein primarily serves enterprise customers and has delive"
-    },
-    {
       "id": "linkedin-4485404424",
       "title": "Internet Of Things Engineer",
       "company": "Vista Consultants BD",
@@ -313,6 +233,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Vista Consultants BD is a growing technology consulting firm focused on delivering practical, innovation-driven solutions for local and regional clients. The organization emphasizes collaboration, continuous learning, and hands-on problem solving to address real-world business and technical challenges. Team members are encouraged to explore emerging technologies, including Inte"
+    },
+    {
+      "id": "linkedin-4485182761",
+      "title": "Intern",
+      "company": "Bondstein Technologies Limited",
+      "location": "Tejgaon Industrial Area Thana, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-bondstein-technologies-limited-4485182761",
+      "posted_at": "2026-11-01",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Bondstein Technologies Limited is an Internet of Things (IoT) company that designs and fabricates smart, sensor-enabled devices to advance connectivity in the era of Industry 4.0. The organization specializes in security and tracking solutions and has launched connected car services in Bangladesh, Nepal, and Kuwait. Bondstein primarily serves enterprise customers and has delive"
     },
     {
       "id": "linkedin-4483007547",
@@ -619,6 +558,25 @@
       "description_excerpt": "This job is provided by apna.co Job Description: IT Executive - Chemist Box Private Limited. About Chemist Box Private Limited: Chemist Box Private Limited, a prominent multi-outlet retail pharmacy chain in Bihar, With 16-17 physical stores. Position: IT Executive Location: Patna Objectives Of This Role Maintain essential IT operations, including operating systems, security tools, applications, se"
     },
     {
+      "id": "linkedin-4478985804",
+      "title": "Product Designer",
+      "company": "PEN Global",
+      "location": "Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/product-designer-at-pen-global-4478985804",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
+    },
+    {
       "id": "linkedin-4480789892",
       "title": "Cybersecurity, AI & Tech Business Consultant",
       "company": "Kaosar Ahmed",
@@ -638,14 +596,33 @@
       "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
     },
     {
-      "id": "linkedin-4478985804",
-      "title": "Product Designer",
-      "company": "PEN Global",
-      "location": "Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/product-designer-at-pen-global-4478985804",
-      "posted_at": "2026-10-21",
+      "id": "linkedin-4485441552",
+      "title": "n8n Automation & AI Workflow Developer (Intern)",
+      "company": "sbm",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbm-4485441552",
+      "posted_at": "2026-11-02",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company: SBM Position: n8n Automation & AI Workflow Developer InternInternship Duration: 6 Months Work Mode: Onsite Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns. This opportunity is designed for aspiring developers who want to gain hands-on experience in AI"
+    },
+    {
+      "id": "linkedin-4483129581",
+      "title": "Data Analyst– MRM",
+      "company": "SAJIDA Foundation",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/data-analyst%E2%80%93-mrm-at-sajida-foundation-4483129581",
+      "posted_at": "2026-10-23",
       "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
+      "regex_category": "AI, Data & Machine Learning",
       "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -654,7 +631,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
+      "description_excerpt": "Job Location: Dhaka (with frequent field travel) Employment Type: Full-time Job Summary: The Data Analyst under MRM Unit will strengthen SAJIDA Foundation’s capacity to manage, analyse, interpret, and use program data for evidence-based decision-making. The position will support the MRM team and Development Programs in data management, statistical analysis, visualization, assessments, and reportin"
     },
     {
       "id": "linkedin-4481158660",
@@ -693,6 +670,44 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We’re hiring: Customer Success & Account Growth Specialist — Cybersecurity 📍 Dhaka, Bangladesh | Full-time PIPELINE is looking for a proactive customer success professional who can help customers succeed, retain their business and grow existing accounts. This role combines customer onboarding and relationship management with a clear commercial focus on renewals, upselling and expansion. You will a"
+    },
+    {
+      "id": "linkedin-4477348901",
+      "title": "Embedded Systems & SBC Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4477348901",
+      "posted_at": "2026-10-16",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
+    },
+    {
+      "id": "linkedin-4462774205",
+      "title": "Computer Vision & Robotics Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     },
     {
       "id": "linkedin-4479947196",
@@ -769,25 +784,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "PIPELINE is a cybersecurity company headquartered in Tokyo, with an engineering team in Dhaka. We operate security products and services for continuous security assessment and improvement. We are looking for a hands-on Site reliability and DevOps Engineer to own infrastructure operations, improve reliability and help our developers deliver safely and efficiently. You will work closely with our CTO"
-    },
-    {
-      "id": "linkedin-4483843301",
-      "title": "n8n Automation & AI Workflow Developer (Intern)",
-      "company": "sbmbd-it",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4483843301",
-      "posted_at": "2026-10-28",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: SBM Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months Work Mode: Hybrid (Office & Remote) Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns . This opportunity is designed for aspiring developers who want to gain hands"
     }
   ]
 }
