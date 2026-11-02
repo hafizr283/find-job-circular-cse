@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-02T07:53:29+00:00",
+  "built_at": "2026-11-02T20:48:32+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-02T07:53:29+00:00",
-  "total_jobs": 162,
-  "needing_review": 117,
+  "dataset_generated_at": "2026-11-02T20:48:32+00:00",
+  "total_jobs": 163,
+  "needing_review": 114,
   "in_this_batch": 40,
-  "remaining_after_batch": 77,
+  "remaining_after_batch": 74,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -157,6 +157,25 @@
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4484355829",
+      "title": "Web content uploading Virtual Internship",
+      "company": "GAOTek Inc.",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/web-content-uploading-virtual-internship-at-gaotek-inc-4484355829",
+      "posted_at": "2026-11-02",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Title: Web content uploading Internship Location: Virtual/Remote Duration: 3-6 months The GAO Group, USA & Canada www.TheGAOGroup.com The GAO Group is headquartered in NYC, USA, and Toronto, Canada, and its member companies are incorporated in both USA & Canada, and its member companies are leading suppliers of advanced electronics and network products for engineers worldwide. Key Responsibili"
     },
     {
       "id": "linkedin-4483295292",
@@ -765,25 +784,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Note: It's an unpaid internship. Please use only email ( hr@bengalsoftware.com ) to apply. Don't apply for an academic/university internship. We are offering a comprehensive internship in software development & sales/marketing. This internship offers practical training and skill development in two main areas: 1. Software Development 2. Software Sales/Marketing Intern Type: Unpaid Office Time: 11 a"
-    },
-    {
-      "id": "linkedin-4480409105",
-      "title": "Site Reliability & DevOps Engineer",
-      "company": "Pipeline Co., Ltd.",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/site-reliability-devops-engineer-at-pipeline-co-ltd-4480409105",
-      "posted_at": "2026-10-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "PIPELINE is a cybersecurity company headquartered in Tokyo, with an engineering team in Dhaka. We operate security products and services for continuous security assessment and improvement. We are looking for a hands-on Site reliability and DevOps Engineer to own infrastructure operations, improve reliability and help our developers deliver safely and efficiently. You will work closely with our CTO"
     }
   ]
 }
