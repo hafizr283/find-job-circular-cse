@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-03T02:58:49+00:00",
+  "built_at": "2026-11-03T14:07:17+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-03T02:58:49+00:00",
-  "total_jobs": 166,
-  "needing_review": 114,
+  "dataset_generated_at": "2026-11-03T14:07:17+00:00",
+  "total_jobs": 162,
+  "needing_review": 111,
   "in_this_batch": 40,
-  "remaining_after_batch": 74,
+  "remaining_after_batch": 71,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -197,6 +197,25 @@
       "description_excerpt": "Company Description StrategyByte is an AI-first technology company headquartered in Sydney, Australia, and the parent company of two AI product brands, ByteVoice and ByteForce, serving organisations across Australia, New Zealand, the UK, Canada and the USA. The company delivers tailored solutions across digital marketing, IT support, web development, process optimization, and related services for "
     },
     {
+      "id": "linkedin-4486054147",
+      "title": "Flutter Developer",
+      "company": "PlanPost AI",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/flutter-developer-at-planpost-ai-4486054147",
+      "posted_at": "2026-11-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "PlanPost AI is an AI-powered social media content creation and marketing automation platform designed to help businesses, marketers, and entrepreneurs simplify their digital marketing activities. Our platform enables users to generate engaging social media content, create AI-powered graphics, manage content calendars, schedule posts, and publish across multiple social media platforms. We are conti"
+    },
+    {
       "id": "linkedin-4485779638",
       "title": "n8n Automation & AI Workflow Developer (Intern)",
       "company": "sbmbd-it",
@@ -254,25 +273,6 @@
       "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
     },
     {
-      "id": "linkedin-4485182761",
-      "title": "Intern",
-      "company": "Bondstein Technologies Limited",
-      "location": "Tejgaon Industrial Area Thana, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-bondstein-technologies-limited-4485182761",
-      "posted_at": "2026-11-01",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Bondstein Technologies Limited is an Internet of Things (IoT) company that designs and fabricates smart, sensor-enabled devices to advance connectivity in the era of Industry 4.0. The organization specializes in security and tracking solutions and has launched connected car services in Bangladesh, Nepal, and Kuwait. Bondstein primarily serves enterprise customers and has delive"
-    },
-    {
       "id": "linkedin-4485404424",
       "title": "Internet Of Things Engineer",
       "company": "Vista Consultants BD",
@@ -290,6 +290,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Vista Consultants BD is a growing technology consulting firm focused on delivering practical, innovation-driven solutions for local and regional clients. The organization emphasizes collaboration, continuous learning, and hands-on problem solving to address real-world business and technical challenges. Team members are encouraged to explore emerging technologies, including Inte"
+    },
+    {
+      "id": "linkedin-4485182761",
+      "title": "Intern",
+      "company": "Bondstein Technologies Limited",
+      "location": "Tejgaon Industrial Area Thana, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-bondstein-technologies-limited-4485182761",
+      "posted_at": "2026-11-01",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Bondstein Technologies Limited is an Internet of Things (IoT) company that designs and fabricates smart, sensor-enabled devices to advance connectivity in the era of Industry 4.0. The organization specializes in security and tracking solutions and has launched connected car services in Bangladesh, Nepal, and Kuwait. Bondstein primarily serves enterprise customers and has delive"
     },
     {
       "id": "linkedin-4483007547",
@@ -330,25 +349,6 @@
       "description_excerpt": "We're Hiring Software Engineer Intern - Onsite Location: Signboard, Narayanganj Employment Type: #Internship 3–6 months (with possibility of full-time offer) Department: Engineering About Brainify Technology #Brainify_Technology_LLC is an innovative and fast-growing #software_company delivering modern digital solutions for both local and global clients. We actively work on #AI_driven solutions and"
     },
     {
-      "id": "linkedin-4483492181",
-      "title": "Full-Stack Developer Intern (Remote)",
-      "company": "LuneCode",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-intern-remote-at-lunecode-4483492181",
-      "posted_at": "2026-10-30",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About LuneCode LuneCode is a software engineering agency focused on building modern web applications, scalable backend infrastructure, and intuitive digital interfaces. We emphasize clean architecture, type safety, modular design, and robust engineering practices. Interns work alongside experienced engineers across the entire application lifecycle. Role Overview We are looking for a proactive Full"
-    },
-    {
       "id": "linkedin-4484856250",
       "title": "Professional Graphic Designer And Web Developer",
       "company": "Graphic Design",
@@ -366,6 +366,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Graphic Design is a Web and Mobile App design, development, marketing, and branding company established in 2020. The organization focuses on bringing clients’ online presence to life through innovative, visually compelling digital solutions. With teams based in the USA, Canada, and India, Graphic Design serves a global client base and emphasizes creativity, quality, and impact."
+    },
+    {
+      "id": "linkedin-4483492181",
+      "title": "Full-Stack Developer Intern (Remote)",
+      "company": "LuneCode",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-intern-remote-at-lunecode-4483492181",
+      "posted_at": "2026-10-30",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About LuneCode LuneCode is a software engineering agency focused on building modern web applications, scalable backend infrastructure, and intuitive digital interfaces. We emphasize clean architecture, type safety, modular design, and robust engineering practices. Interns work alongside experienced engineers across the entire application lifecycle. Role Overview We are looking for a proactive Full"
     },
     {
       "id": "linkedin-4483289476",
@@ -461,25 +480,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Nyktos is an end-to-end encrypted messenger built from the ground up to prioritize privacy and security. Each message leverages ephemeral keys (libsodium X25519), pairwise group encryption, and safety number verification to protect user communications. Nyktos does not rely on phone numbers, supporting anonymous and secure interactions. The product is built with modern web techn"
-    },
-    {
-      "id": "linkedin-4479935666",
-      "title": "Intern",
-      "company": "Dreams of Bangladesh",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-dreams-of-bangladesh-4479935666",
-      "posted_at": "2026-10-18",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 WE’RE HIRING | MONTHLY PAID INTERNSHIP! Learn. Create. Innovate. Grow. DoB Innovation & Learning Hub, a sister concern of Dreams of Bangladesh (DoB), is expanding its team! We are looking for enthusiastic, responsible, creative, and motivated individuals who are eager to gain practical experience, develop professional skills, and contribute to a growing innovation and education platform. 💼 Key R"
     },
     {
       "id": "linkedin-4474783624",
@@ -615,25 +615,6 @@
       "description_excerpt": "This job is provided by apna.co Job Description: IT Executive - Chemist Box Private Limited. About Chemist Box Private Limited: Chemist Box Private Limited, a prominent multi-outlet retail pharmacy chain in Bihar, With 16-17 physical stores. Position: IT Executive Location: Patna Objectives Of This Role Maintain essential IT operations, including operating systems, security tools, applications, se"
     },
     {
-      "id": "linkedin-4480789892",
-      "title": "Cybersecurity, AI & Tech Business Consultant",
-      "company": "Kaosar Ahmed",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-ai-tech-business-consultant-at-kaosar-ahmed-4480789892",
-      "posted_at": "2026-10-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
-    },
-    {
       "id": "linkedin-4478985804",
       "title": "Product Designer",
       "company": "PEN Global",
@@ -651,6 +632,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
+    },
+    {
+      "id": "linkedin-4480789892",
+      "title": "Cybersecurity, AI & Tech Business Consultant",
+      "company": "Kaosar Ahmed",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-ai-tech-business-consultant-at-kaosar-ahmed-4480789892",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
     },
     {
       "id": "linkedin-4485441552",
