@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-11-02T20:48:32+00:00",
+  "built_at": "2026-11-03T02:58:49+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-02T20:48:32+00:00",
-  "total_jobs": 163,
+  "dataset_generated_at": "2026-11-03T02:58:49+00:00",
+  "total_jobs": 166,
   "needing_review": 114,
   "in_this_batch": 40,
   "remaining_after_batch": 74,
@@ -197,6 +197,25 @@
       "description_excerpt": "Company Description StrategyByte is an AI-first technology company headquartered in Sydney, Australia, and the parent company of two AI product brands, ByteVoice and ByteForce, serving organisations across Australia, New Zealand, the UK, Canada and the USA. The company delivers tailored solutions across digital marketing, IT support, web development, process optimization, and related services for "
     },
     {
+      "id": "linkedin-4485779638",
+      "title": "n8n Automation & AI Workflow Developer (Intern)",
+      "company": "sbmbd-it",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4485779638",
+      "posted_at": "2026-11-02",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
+    },
+    {
       "id": "linkedin-4485445387",
       "title": "AI Policy Specialist (QA Annotation)",
       "company": "Thoth AI",
@@ -235,25 +254,6 @@
       "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
     },
     {
-      "id": "linkedin-4485404424",
-      "title": "Internet Of Things Engineer",
-      "company": "Vista Consultants BD",
-      "location": "Rajshahi, Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/internet-of-things-engineer-at-vista-consultants-bd-4485404424",
-      "posted_at": "2026-11-01",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Vista Consultants BD is a growing technology consulting firm focused on delivering practical, innovation-driven solutions for local and regional clients. The organization emphasizes collaboration, continuous learning, and hands-on problem solving to address real-world business and technical challenges. Team members are encouraged to explore emerging technologies, including Inte"
-    },
-    {
       "id": "linkedin-4485182761",
       "title": "Intern",
       "company": "Bondstein Technologies Limited",
@@ -271,6 +271,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Bondstein Technologies Limited is an Internet of Things (IoT) company that designs and fabricates smart, sensor-enabled devices to advance connectivity in the era of Industry 4.0. The organization specializes in security and tracking solutions and has launched connected car services in Bangladesh, Nepal, and Kuwait. Bondstein primarily serves enterprise customers and has delive"
+    },
+    {
+      "id": "linkedin-4485404424",
+      "title": "Internet Of Things Engineer",
+      "company": "Vista Consultants BD",
+      "location": "Rajshahi, Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/internet-of-things-engineer-at-vista-consultants-bd-4485404424",
+      "posted_at": "2026-11-01",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Vista Consultants BD is a growing technology consulting firm focused on delivering practical, innovation-driven solutions for local and regional clients. The organization emphasizes collaboration, continuous learning, and hands-on problem solving to address real-world business and technical challenges. Team members are encouraged to explore emerging technologies, including Inte"
     },
     {
       "id": "linkedin-4483007547",
@@ -309,6 +328,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're Hiring Software Engineer Intern - Onsite Location: Signboard, Narayanganj Employment Type: #Internship 3–6 months (with possibility of full-time offer) Department: Engineering About Brainify Technology #Brainify_Technology_LLC is an innovative and fast-growing #software_company delivering modern digital solutions for both local and global clients. We actively work on #AI_driven solutions and"
+    },
+    {
+      "id": "linkedin-4483492181",
+      "title": "Full-Stack Developer Intern (Remote)",
+      "company": "LuneCode",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-intern-remote-at-lunecode-4483492181",
+      "posted_at": "2026-10-30",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About LuneCode LuneCode is a software engineering agency focused on building modern web applications, scalable backend infrastructure, and intuitive digital interfaces. We emphasize clean architecture, type safety, modular design, and robust engineering practices. Interns work alongside experienced engineers across the entire application lifecycle. Role Overview We are looking for a proactive Full"
     },
     {
       "id": "linkedin-4484856250",
@@ -425,6 +463,44 @@
       "description_excerpt": "Company Description Nyktos is an end-to-end encrypted messenger built from the ground up to prioritize privacy and security. Each message leverages ephemeral keys (libsodium X25519), pairwise group encryption, and safety number verification to protect user communications. Nyktos does not rely on phone numbers, supporting anonymous and secure interactions. The product is built with modern web techn"
     },
     {
+      "id": "linkedin-4479935666",
+      "title": "Intern",
+      "company": "Dreams of Bangladesh",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-at-dreams-of-bangladesh-4479935666",
+      "posted_at": "2026-10-18",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "🚀 WE’RE HIRING | MONTHLY PAID INTERNSHIP! Learn. Create. Innovate. Grow. DoB Innovation & Learning Hub, a sister concern of Dreams of Bangladesh (DoB), is expanding its team! We are looking for enthusiastic, responsible, creative, and motivated individuals who are eager to gain practical experience, develop professional skills, and contribute to a growing innovation and education platform. 💼 Key R"
+    },
+    {
+      "id": "linkedin-4474783624",
+      "title": "System Administrator",
+      "company": "Binary Quest Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/system-administrator-at-binary-quest-limited-4474783624",
+      "posted_at": "2026-10-02",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Tk 40,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
+    },
+    {
       "id": "linkedin-4484050746",
       "title": "Software Quality Assurance Engineer (SQA)",
       "company": "Polygon Technology",
@@ -501,44 +577,6 @@
       "description_excerpt": "Company: Aperture Venture Studio sister company of GAOTek Inc. Position Type: Internship Field: Investment Research, Investor Identification, AI and Physical AI Location: Remote About the Role We are seeking motivated Investment Research Interns to help identify major investors, investment firms, and funding opportunities for AI and Physical AI ventures. You will support investor research, databas"
     },
     {
-      "id": "linkedin-4479935666",
-      "title": "Intern",
-      "company": "Dreams of Bangladesh",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-dreams-of-bangladesh-4479935666",
-      "posted_at": "2026-10-18",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "🚀 WE’RE HIRING | MONTHLY PAID INTERNSHIP! Learn. Create. Innovate. Grow. DoB Innovation & Learning Hub, a sister concern of Dreams of Bangladesh (DoB), is expanding its team! We are looking for enthusiastic, responsible, creative, and motivated individuals who are eager to gain practical experience, develop professional skills, and contribute to a growing innovation and education platform. 💼 Key R"
-    },
-    {
-      "id": "linkedin-4474783624",
-      "title": "System Administrator",
-      "company": "Binary Quest Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/system-administrator-at-binary-quest-limited-4474783624",
-      "posted_at": "2026-10-02",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Tk 40,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
-    },
-    {
       "id": "linkedin-4462778194",
       "title": "IoT Hardware & Peripherals Engineer",
       "company": "Worksprout",
@@ -577,25 +615,6 @@
       "description_excerpt": "This job is provided by apna.co Job Description: IT Executive - Chemist Box Private Limited. About Chemist Box Private Limited: Chemist Box Private Limited, a prominent multi-outlet retail pharmacy chain in Bihar, With 16-17 physical stores. Position: IT Executive Location: Patna Objectives Of This Role Maintain essential IT operations, including operating systems, security tools, applications, se"
     },
     {
-      "id": "linkedin-4478985804",
-      "title": "Product Designer",
-      "company": "PEN Global",
-      "location": "Chattogram, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/product-designer-at-pen-global-4478985804",
-      "posted_at": "2026-10-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Product, Design & UI/UX",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
-    },
-    {
       "id": "linkedin-4480789892",
       "title": "Cybersecurity, AI & Tech Business Consultant",
       "company": "Kaosar Ahmed",
@@ -613,6 +632,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
+    },
+    {
+      "id": "linkedin-4478985804",
+      "title": "Product Designer",
+      "company": "PEN Global",
+      "location": "Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/product-designer-at-pen-global-4478985804",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
     },
     {
       "id": "linkedin-4485441552",
@@ -653,44 +691,6 @@
       "description_excerpt": "Job Location: Dhaka (with frequent field travel) Employment Type: Full-time Job Summary: The Data Analyst under MRM Unit will strengthen SAJIDA Foundation’s capacity to manage, analyse, interpret, and use program data for evidence-based decision-making. The position will support the MRM team and Development Programs in data management, statistical analysis, visualization, assessments, and reportin"
     },
     {
-      "id": "linkedin-4481158660",
-      "title": "Security Software Engineer",
-      "company": "Pipeline Co., Ltd.",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/security-software-engineer-at-pipeline-co-ltd-4481158660",
-      "posted_at": "2026-10-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We’re hiring: Security Software Engineer 📍 Dhaka, Bangladesh | Full-time At PIPELINE, we build cybersecurity solutions that help organizations understand security risks and take action. We’re looking for an engineer who enjoys building software, exploring security problems and turning ideas into useful features. You will work with our development team and security experts to improve and develop ne"
-    },
-    {
-      "id": "linkedin-4481171145",
-      "title": "Customer Success Specialist",
-      "company": "Pipeline Co., Ltd.",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/customer-success-specialist-at-pipeline-co-ltd-4481171145",
-      "posted_at": "2026-10-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We’re hiring: Customer Success & Account Growth Specialist — Cybersecurity 📍 Dhaka, Bangladesh | Full-time PIPELINE is looking for a proactive customer success professional who can help customers succeed, retain their business and grow existing accounts. This role combines customer onboarding and relationship management with a clear commercial focus on renewals, upselling and expansion. You will a"
-    },
-    {
       "id": "linkedin-4477348901",
       "title": "Embedded Systems & SBC Engineer",
       "company": "Worksprout",
@@ -729,6 +729,44 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     },
     {
+      "id": "linkedin-4481158660",
+      "title": "Security Software Engineer",
+      "company": "Pipeline Co., Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/security-software-engineer-at-pipeline-co-ltd-4481158660",
+      "posted_at": "2026-10-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We’re hiring: Security Software Engineer 📍 Dhaka, Bangladesh | Full-time At PIPELINE, we build cybersecurity solutions that help organizations understand security risks and take action. We’re looking for an engineer who enjoys building software, exploring security problems and turning ideas into useful features. You will work with our development team and security experts to improve and develop ne"
+    },
+    {
+      "id": "linkedin-4481171145",
+      "title": "Customer Success Specialist",
+      "company": "Pipeline Co., Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-specialist-at-pipeline-co-ltd-4481171145",
+      "posted_at": "2026-10-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We’re hiring: Customer Success & Account Growth Specialist — Cybersecurity 📍 Dhaka, Bangladesh | Full-time PIPELINE is looking for a proactive customer success professional who can help customers succeed, retain their business and grow existing accounts. This role combines customer onboarding and relationship management with a clear commercial focus on renewals, upselling and expansion. You will a"
+    },
+    {
       "id": "linkedin-4479947196",
       "title": "Growth & Outreach Intern (Remote) – SaaS Startup",
       "company": "Writova Ltd",
@@ -746,44 +784,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Writova Ltd is an AI-powered content automation platform designed for SEO teams, bloggers, marketers, and businesses that rely on scalable content production. The platform enables users to generate high-quality articles, manage end-to-end content campaigns, and optimize content for search engines from a single modern dashboard. Writova also streamlines publishing workflows, hel"
-    },
-    {
-      "id": "linkedin-4479957829",
-      "title": "Cyber Security Expert",
-      "company": "Famous IT Solutions",
-      "location": "Netrakona, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cyber-security-expert-at-famous-it-solutions-4479957829",
-      "posted_at": "2026-10-19",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Famous IT Solutions is a modern IT company delivering high-quality digital solutions for businesses across the globe. The organization specializes in custom web and software development, business automation systems, cybersecurity solutions, UI/UX and graphic design, and booking and inventory management systems. Its mission is to help startups, hotels, agencies, and enterprises "
-    },
-    {
-      "id": "linkedin-4485153710",
-      "title": "Intern",
-      "company": "Bengal Software",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-at-bengal-software-4485153710",
-      "posted_at": "2026-10-31",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Note: It's an unpaid internship. Please use only email ( hr@bengalsoftware.com ) to apply. Don't apply for an academic/university internship. We are offering a comprehensive internship in software development & sales/marketing. This internship offers practical training and skill development in two main areas: 1. Software Development 2. Software Sales/Marketing Intern Type: Unpaid Office Time: 11 a"
     }
   ]
 }
