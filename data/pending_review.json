@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-11-05T14:36:59+00:00",
+  "built_at": "2026-11-05T22:02:24+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-05T14:36:59+00:00",
+  "dataset_generated_at": "2026-11-05T22:02:24+00:00",
   "total_jobs": 166,
   "needing_review": 112,
   "in_this_batch": 40,
@@ -105,26 +105,6 @@
       "location": "Dhaka, Bangladesh",
       "url": "https://bd.linkedin.com/jobs/view/network-administrator-at-gildan-4476575423",
       "posted_at": "2026-10-07",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4476146894",
-      "title": "System Administrator (Linux/Unix)",
-      "company": "Gildan",
-      "location": "Gulshan, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/system-administrator-linux-unix-at-gildan-4476146894",
-      "posted_at": "2026-10-06",
       "regex_job_type": "Fresher job",
       "regex_category": "Cloud, Infrastructure & DevOps",
       "regex_experience_text": "",
@@ -274,25 +254,6 @@
       "description_excerpt": "PlanPost AI is an AI-powered social media content creation and marketing automation platform designed to help businesses, marketers, and entrepreneurs simplify their digital marketing activities. Our platform enables users to generate engaging social media content, create AI-powered graphics, manage content calendars, schedule posts, and publish across multiple social media platforms. We are conti"
     },
     {
-      "id": "linkedin-4485779638",
-      "title": "n8n Automation & AI Workflow Developer (Intern)",
-      "company": "sbmbd-it",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4485779638",
-      "posted_at": "2026-11-02",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
-    },
-    {
       "id": "linkedin-4485445387",
       "title": "AI Policy Specialist (QA Annotation)",
       "company": "Thoth AI",
@@ -310,6 +271,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Position: Policy Labeler & Policy QA (Bangladesh) Job Type: Full-time Position Arrangement: Fully On-Site (Dhaka, Bangladesh) Work Contents We are seeking a detail-oriented QA professional to ensure accuracy and consistency in daily operations by reviewing agents’ work, handling case disputes, and tracking performance. You will monitor quality trends, identify risks, and support continuous improve"
+    },
+    {
+      "id": "linkedin-4485779638",
+      "title": "n8n Automation & AI Workflow Developer (Intern)",
+      "company": "sbmbd-it",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4485779638",
+      "posted_at": "2026-11-02",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
     },
     {
       "id": "linkedin-4483237904",
@@ -785,6 +765,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
+    },
+    {
+      "id": "linkedin-4474899743",
+      "title": "AI-Integrated Full-Stack Engineer",
+      "company": "Codiora Tech",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-integrated-full-stack-engineer-at-codiora-tech-4474899743",
+      "posted_at": "2026-10-09",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Home /Careers /AI-Integrated Full-Stack Engineer ← Back to Careers Selected Role Talent Pool AI-Integrated Full-Stack Engineer Position LevelMid to Senior Level Employment TypeFull-Time (Hybrid / On-site) LocationDhaka, Bangladesh DepartmentEngineering & AI Labs At Codiora Tech, we build scalable, intelligent software solutions and AI-driven platforms for modern businesses. As an AI-Integrated Ful"
     }
   ]
 }
