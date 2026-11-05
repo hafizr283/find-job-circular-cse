@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-11-05T01:30:37+00:00",
+  "built_at": "2026-11-05T14:36:59+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-05T01:30:37+00:00",
+  "dataset_generated_at": "2026-11-05T14:36:59+00:00",
   "total_jobs": 166,
   "needing_review": 112,
   "in_this_batch": 40,
@@ -67,6 +67,26 @@
       "posted_at": "2026-10-08",
       "regex_job_type": "Fresher job",
       "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4476584642",
+      "title": "Analyst, IT Cyber Security",
+      "company": "Gildan",
+      "location": "Gulshan, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/analyst-it-cyber-security-at-gildan-4476584642",
+      "posted_at": "2026-10-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -691,25 +711,6 @@
       "description_excerpt": "This job is provided by apna.co Job Description: IT Executive - Chemist Box Private Limited. About Chemist Box Private Limited: Chemist Box Private Limited, a prominent multi-outlet retail pharmacy chain in Bihar, With 16-17 physical stores. Position: IT Executive Location: Patna Objectives Of This Role Maintain essential IT operations, including operating systems, security tools, applications, se"
     },
     {
-      "id": "linkedin-4480789892",
-      "title": "Cybersecurity, AI & Tech Business Consultant",
-      "company": "Kaosar Ahmed",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-ai-tech-business-consultant-at-kaosar-ahmed-4480789892",
-      "posted_at": "2026-10-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
-    },
-    {
       "id": "linkedin-4478985804",
       "title": "Product Designer",
       "company": "PEN Global",
@@ -727,6 +728,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
+    },
+    {
+      "id": "linkedin-4480789892",
+      "title": "Cybersecurity, AI & Tech Business Consultant",
+      "company": "Kaosar Ahmed",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-ai-tech-business-consultant-at-kaosar-ahmed-4480789892",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
     },
     {
       "id": "linkedin-4479947196",
@@ -765,25 +785,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
-    },
-    {
-      "id": "linkedin-4474899743",
-      "title": "AI-Integrated Full-Stack Engineer",
-      "company": "Codiora Tech",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-integrated-full-stack-engineer-at-codiora-tech-4474899743",
-      "posted_at": "2026-10-09",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Home /Careers /AI-Integrated Full-Stack Engineer ← Back to Careers Selected Role Talent Pool AI-Integrated Full-Stack Engineer Position LevelMid to Senior Level Employment TypeFull-Time (Hybrid / On-site) LocationDhaka, Bangladesh DepartmentEngineering & AI Labs At Codiora Tech, we build scalable, intelligent software solutions and AI-driven platforms for modern businesses. As an AI-Integrated Ful"
     }
   ]
 }
