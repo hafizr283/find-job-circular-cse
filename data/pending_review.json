@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-06T07:56:44+00:00",
+  "built_at": "2026-11-06T18:00:03+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-06T07:56:44+00:00",
-  "total_jobs": 165,
-  "needing_review": 110,
+  "dataset_generated_at": "2026-11-06T18:00:03+00:00",
+  "total_jobs": 166,
+  "needing_review": 111,
   "in_this_batch": 40,
-  "remaining_after_batch": 70,
+  "remaining_after_batch": 71,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -27,6 +27,26 @@
       "posted_at": "2026-11-01",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4482661749",
+      "title": "IT Executive",
+      "company": "Chemist Box",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/it-executive-at-chemist-box-4482661749",
+      "posted_at": "2026-10-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -157,6 +177,25 @@
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4484677799",
+      "title": "Android Developer",
+      "company": "Eptics Inc.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/android-developer-at-eptics-inc-4484677799",
+      "posted_at": "2026-11-06",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary: 20,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Mobile Developer (React Native and Android) with PHP, Part-Time, Remote About Eptics Inc. Eptics Inc. provides end-to-end software development for startups and growing businesses, acting as a virtual CTO from first idea through MVP, launch and long-term support. We build custom software, Android and iOS apps, and AR/VR experiences. We work in small agile teams and focus on long-term client partner"
     },
     {
       "id": "linkedin-4486338382",
@@ -746,44 +785,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
-    },
-    {
-      "id": "linkedin-4474899743",
-      "title": "AI-Integrated Full-Stack Engineer",
-      "company": "Codiora Tech",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-integrated-full-stack-engineer-at-codiora-tech-4474899743",
-      "posted_at": "2026-10-09",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Home /Careers /AI-Integrated Full-Stack Engineer ← Back to Careers Selected Role Talent Pool AI-Integrated Full-Stack Engineer Position LevelMid to Senior Level Employment TypeFull-Time (Hybrid / On-site) LocationDhaka, Bangladesh DepartmentEngineering & AI Labs At Codiora Tech, we build scalable, intelligent software solutions and AI-driven platforms for modern businesses. As an AI-Integrated Ful"
-    },
-    {
-      "id": "linkedin-4475780578",
-      "title": "Digital Support Associate (Contractual)",
-      "company": "MetLife Bangladesh",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/digital-support-associate-contractual-at-metlife-bangladesh-4475780578",
-      "posted_at": "2026-10-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Scope The incumbent will be responsible for providing technical and logistical support to financial associates over the phone or virtually. This position is located outside Dhaka (Anywhere in Bangladesh). Key Responsibilities Providing technical assistance and support to financial associates over the phone or through remote desktop tools. Troubleshooting and resolving technical issues related "
     }
   ]
 }
