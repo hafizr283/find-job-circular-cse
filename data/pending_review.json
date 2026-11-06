@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-05T22:02:24+00:00",
+  "built_at": "2026-11-06T07:56:44+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-05T22:02:24+00:00",
-  "total_jobs": 166,
-  "needing_review": 112,
+  "dataset_generated_at": "2026-11-06T07:56:44+00:00",
+  "total_jobs": 165,
+  "needing_review": 110,
   "in_this_batch": 40,
-  "remaining_after_batch": 72,
+  "remaining_after_batch": 70,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -254,25 +254,6 @@
       "description_excerpt": "PlanPost AI is an AI-powered social media content creation and marketing automation platform designed to help businesses, marketers, and entrepreneurs simplify their digital marketing activities. Our platform enables users to generate engaging social media content, create AI-powered graphics, manage content calendars, schedule posts, and publish across multiple social media platforms. We are conti"
     },
     {
-      "id": "linkedin-4485445387",
-      "title": "AI Policy Specialist (QA Annotation)",
-      "company": "Thoth AI",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-policy-specialist-qa-annotation-at-thoth-ai-4485445387",
-      "posted_at": "2026-11-02",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Position: Policy Labeler & Policy QA (Bangladesh) Job Type: Full-time Position Arrangement: Fully On-Site (Dhaka, Bangladesh) Work Contents We are seeking a detail-oriented QA professional to ensure accuracy and consistency in daily operations by reviewing agents’ work, handling case disputes, and tracking performance. You will monitor quality trends, identify risks, and support continuous improve"
-    },
-    {
       "id": "linkedin-4485779638",
       "title": "n8n Automation & AI Workflow Developer (Intern)",
       "company": "sbmbd-it",
@@ -290,6 +271,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
+    },
+    {
+      "id": "linkedin-4485445387",
+      "title": "AI Policy Specialist (QA Annotation)",
+      "company": "Thoth AI",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-policy-specialist-qa-annotation-at-thoth-ai-4485445387",
+      "posted_at": "2026-11-02",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Position: Policy Labeler & Policy QA (Bangladesh) Job Type: Full-time Position Arrangement: Fully On-Site (Dhaka, Bangladesh) Work Contents We are seeking a detail-oriented QA professional to ensure accuracy and consistency in daily operations by reviewing agents’ work, handling case disputes, and tracking performance. You will monitor quality trends, identify risks, and support continuous improve"
     },
     {
       "id": "linkedin-4483237904",
@@ -482,25 +482,6 @@
       "description_excerpt": "Build Scalable Cloud Infrastructure for AI-Powered CRM, CMS & SaaS Platforms Company: Voice Pro LLC Position: Mid-Level DevOps Engineer Employment Type: Full-Time, On-Site Location: Mirpur DOHS, Dhaka, Bangladesh Work Schedule: Monday–Friday, 9:00 PM–6:00 AM (Bangladesh Time)/ Night shift Salary: BDT 60,000–75,000 per month Hiring: Immediately Compensation & Benefits Monthly Salary: BDT 60,000–75,"
     },
     {
-      "id": "linkedin-4484916538",
-      "title": "PhD Data Partner - Technical Writer - Asia",
-      "company": "TELUS Digital",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/phd-data-partner-technical-writer-asia-at-telus-digital-4484916538",
-      "posted_at": "2026-10-29",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Click here to Apply! Are you ready to use your domain knowledge to advance AI? Join us as a PhD Data Partner and work remotely with flexible hours. We are seeking highly knowledgeable Subject Matter Expert to design advanced, domain-specific questions and solutions. The role involves creating challenging problem sets that test deep reasoning and expertise in the assigned field. TELUS Digital AI Co"
-    },
-    {
       "id": "linkedin-4474783624",
       "title": "System Administrator",
       "company": "Binary Quest Limited",
@@ -518,6 +499,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
+    },
+    {
+      "id": "linkedin-4484916538",
+      "title": "PhD Data Partner - Technical Writer - Asia",
+      "company": "TELUS Digital",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/phd-data-partner-technical-writer-asia-at-telus-digital-4484916538",
+      "posted_at": "2026-10-29",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Click here to Apply! Are you ready to use your domain knowledge to advance AI? Join us as a PhD Data Partner and work remotely with flexible hours. We are seeking highly knowledgeable Subject Matter Expert to design advanced, domain-specific questions and solutions. The role involves creating challenging problem sets that test deep reasoning and expertise in the assigned field. TELUS Digital AI Co"
     },
     {
       "id": "linkedin-4462778194",
@@ -596,44 +596,6 @@
       "description_excerpt": "Company Description The waresun Limited is an IT and software development company based in Bangladesh, established on July 7, 2017. The company delivers international freelancing jobs and a wide range of services including web and graphics design, web and software applications, networking, domain, and hosting. With a focus on quality, reliability, and affordability, The waresun Limited aims for 10"
     },
     {
-      "id": "linkedin-4481699148",
-      "title": "Competitive Programming Intern",
-      "company": "DeshIT-BD",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-deshit-bd-4481699148",
-      "posted_at": "2026-10-23",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Competitive Programming Intern 📍 Work Mode: Hybrid ⏳ Duration: 6 Months We’re lo o king for passionate problem-solvers interested in algorithms, data structures, and competitive programming. What You ’ ll Do: * Solve a lgorithmic problems using platforms like Codeforces, LeetCode, and CodeChef.* Practic e Data Structures & Algorithms (DSA).* Partici pate in coding contests and problem-solving sess"
-    },
-    {
-      "id": "linkedin-4481949077",
-      "title": "Investment Research Intern",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/investment-research-intern-at-gaotek-inc-4481949077",
-      "posted_at": "2026-10-23",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: Aperture Venture Studio sister company of GAOTek Inc. Position Type: Internship Field: Investment Research, Investor Identification, AI and Physical AI Location: Remote About the Role We are seeking motivated Investment Research Interns to help identify major investors, investment firms, and funding opportunities for AI and Physical AI ventures. You will support investor research, databas"
-    },
-    {
       "id": "linkedin-4477348901",
       "title": "Embedded Systems & SBC Engineer",
       "company": "Worksprout",
@@ -672,14 +634,33 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     },
     {
-      "id": "linkedin-4482661749",
-      "title": "IT Executive",
-      "company": "Chemist Box",
+      "id": "linkedin-4481699148",
+      "title": "Competitive Programming Intern",
+      "company": "DeshIT-BD",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/competitive-programming-intern-at-deshit-bd-4481699148",
+      "posted_at": "2026-10-23",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Competitive Programming Intern 📍 Work Mode: Hybrid ⏳ Duration: 6 Months We’re lo o king for passionate problem-solvers interested in algorithms, data structures, and competitive programming. What You ’ ll Do: * Solve a lgorithmic problems using platforms like Codeforces, LeetCode, and CodeChef.* Practic e Data Structures & Algorithms (DSA).* Partici pate in coding contests and problem-solving sess"
+    },
+    {
+      "id": "linkedin-4481949077",
+      "title": "Investment Research Intern",
+      "company": "GAOTek Inc.",
       "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-executive-at-chemist-box-4482661749",
-      "posted_at": "2026-10-24",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
+      "url": "https://bd.linkedin.com/jobs/view/investment-research-intern-at-gaotek-inc-4481949077",
+      "posted_at": "2026-10-23",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -688,7 +669,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "This job is provided by apna.co Job Description: IT Executive - Chemist Box Private Limited. About Chemist Box Private Limited: Chemist Box Private Limited, a prominent multi-outlet retail pharmacy chain in Bihar, With 16-17 physical stores. Position: IT Executive Location: Patna Objectives Of This Role Maintain essential IT operations, including operating systems, security tools, applications, se"
+      "description_excerpt": "Company: Aperture Venture Studio sister company of GAOTek Inc. Position Type: Internship Field: Investment Research, Investor Identification, AI and Physical AI Location: Remote About the Role We are seeking motivated Investment Research Interns to help identify major investors, investment firms, and funding opportunities for AI and Physical AI ventures. You will support investor research, databas"
     },
     {
       "id": "linkedin-4478985804",
@@ -784,6 +765,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Home /Careers /AI-Integrated Full-Stack Engineer ← Back to Careers Selected Role Talent Pool AI-Integrated Full-Stack Engineer Position LevelMid to Senior Level Employment TypeFull-Time (Hybrid / On-site) LocationDhaka, Bangladesh DepartmentEngineering & AI Labs At Codiora Tech, we build scalable, intelligent software solutions and AI-driven platforms for modern businesses. As an AI-Integrated Ful"
+    },
+    {
+      "id": "linkedin-4475780578",
+      "title": "Digital Support Associate (Contractual)",
+      "company": "MetLife Bangladesh",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/digital-support-associate-contractual-at-metlife-bangladesh-4475780578",
+      "posted_at": "2026-10-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Scope The incumbent will be responsible for providing technical and logistical support to financial associates over the phone or virtually. This position is located outside Dhaka (Anywhere in Bangladesh). Key Responsibilities Providing technical assistance and support to financial associates over the phone or through remote desktop tools. Troubleshooting and resolving technical issues related "
     }
   ]
 }
