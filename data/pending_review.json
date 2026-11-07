@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-11-07T00:57:25+00:00",
+  "built_at": "2026-11-07T07:08:04+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-07T00:57:24+00:00",
-  "total_jobs": 168,
+  "dataset_generated_at": "2026-11-07T07:08:04+00:00",
+  "total_jobs": 169,
   "needing_review": 113,
   "in_this_batch": 40,
   "remaining_after_batch": 73,
@@ -178,6 +178,44 @@
       "description_excerpt": "Mobile Developer (React Native and Android) with PHP, Part-Time, Remote About Eptics Inc. Eptics Inc. provides end-to-end software development for startups and growing businesses, acting as a virtual CTO from first idea through MVP, launch and long-term support. We build custom software, Android and iOS apps, and AR/VR experiences. We work in small agile teams and focus on long-term client partner"
     },
     {
+      "id": "linkedin-4488483535",
+      "title": "Technical Talent Acquisition Intern (Bangladesh)",
+      "company": "Athelas",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-talent-acquisition-intern-bangladesh-at-athelas-4488483535",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
+    },
+    {
+      "id": "linkedin-4487331741",
+      "title": "Data Analyst",
+      "company": "Code Nexus Tech Solution",
+      "location": "Bogra District, Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/data-analyst-at-code-nexus-tech-solution-4487331741",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Code Nexus Tech Solution specializes in staffing high-performing Data Analysts, Data Scientists, and Business Intelligence professionals who help organizations make better, data-driven decisions. The company partners with clients seeking to leverage data for strategic growth, operational efficiency, and competitive advantage. As part of this focus, Code Nexus Tech Solution offe"
+    },
+    {
       "id": "linkedin-4486338382",
       "title": "Executive - Technical Support & Network Solution",
       "company": "TICON SYSTEM LIMITED",
@@ -273,25 +311,6 @@
       "description_excerpt": "PlanPost AI is an AI-powered social media content creation and marketing automation platform designed to help businesses, marketers, and entrepreneurs simplify their digital marketing activities. Our platform enables users to generate engaging social media content, create AI-powered graphics, manage content calendars, schedule posts, and publish across multiple social media platforms. We are conti"
     },
     {
-      "id": "linkedin-4485779638",
-      "title": "n8n Automation & AI Workflow Developer (Intern)",
-      "company": "sbmbd-it",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4485779638",
-      "posted_at": "2026-11-02",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
-    },
-    {
       "id": "linkedin-4485445387",
       "title": "AI Policy Specialist (QA Annotation)",
       "company": "Thoth AI",
@@ -309,6 +328,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Position: Policy Labeler & Policy QA (Bangladesh) Job Type: Full-time Position Arrangement: Fully On-Site (Dhaka, Bangladesh) Work Contents We are seeking a detail-oriented QA professional to ensure accuracy and consistency in daily operations by reviewing agents’ work, handling case disputes, and tracking performance. You will monitor quality trends, identify risks, and support continuous improve"
+    },
+    {
+      "id": "linkedin-4485779638",
+      "title": "n8n Automation & AI Workflow Developer (Intern)",
+      "company": "sbmbd-it",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4485779638",
+      "posted_at": "2026-11-02",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
     },
     {
       "id": "linkedin-4483237904",
@@ -482,6 +520,25 @@
       "description_excerpt": "Company Description Graphic Design is a Web and Mobile App design, development, marketing, and branding company established in 2020. The organization focuses on bringing clients’ online presence to life through innovative, visually compelling digital solutions. With teams based in the USA, Canada, and India, Graphic Design serves a global client base and emphasizes creativity, quality, and impact."
     },
     {
+      "id": "linkedin-4487337440",
+      "title": "AI Creative & Prompt Engineering Intern",
+      "company": "Zqtion",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-creative-prompt-engineering-intern-at-zqtion-4487337440",
+      "posted_at": "2026-11-06",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "AI Creative & Prompt Engineering Intern Zqtion Launchpad | Remote-first | 12-Week Apprenticeship Zqtion is a creative and technology studio working across AI-assisted creative production, digital products, and practical automation. We are looking for curious visual thinkers who want to learn how to turn creative ideas into high-quality AI-assisted visuals and storytelling. What You'll Learn and Pr"
+    },
+    {
       "id": "linkedin-4483289476",
       "title": "Full-Stack Software Engineer (Python or Node.js)",
       "company": "Affpilot",
@@ -518,25 +575,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Type: Internship Duration: 3–6 Months Location: Remote GAO Group & Aperture Venture Studio are seeking Master’s & PhD students for a 3–6 month AI & IoT Research Internship. Join our R&D team and contribute to Physical AI, AIoT, IoT, AI/ML, intelligent sensing, Edge AI, connected systems, and emerging technologies through research, experiments, prototypes, and proof-of-concepts. Research Areas "
-    },
-    {
-      "id": "linkedin-4487337440",
-      "title": "AI Creative & Prompt Engineering Intern",
-      "company": "Zqtion",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-creative-prompt-engineering-intern-at-zqtion-4487337440",
-      "posted_at": "2026-11-06",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "AI Creative & Prompt Engineering Intern Zqtion Launchpad | Remote-first | 12-Week Apprenticeship Zqtion is a creative and technology studio working across AI-assisted creative production, digital products, and practical automation. We are looking for curious visual thinkers who want to learn how to turn creative ideas into high-quality AI-assisted visuals and storytelling. What You'll Learn and Pr"
     },
     {
       "id": "linkedin-4462778194",
@@ -746,44 +784,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
-    },
-    {
-      "id": "linkedin-4479947196",
-      "title": "Growth & Outreach Intern (Remote) – SaaS Startup",
-      "company": "Writova Ltd",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/growth-outreach-intern-remote-%E2%80%93-saas-startup-at-writova-ltd-4479947196",
-      "posted_at": "2026-10-19",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Writova Ltd is an AI-powered content automation platform designed for SEO teams, bloggers, marketers, and businesses that rely on scalable content production. The platform enables users to generate high-quality articles, manage end-to-end content campaigns, and optimize content for search engines from a single modern dashboard. Writova also streamlines publishing workflows, hel"
-    },
-    {
-      "id": "linkedin-4477930021",
-      "title": "IT Support Engineer – IT Operations, Software & Automation (Remote)",
-      "company": "TheHiveCareers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-it-operations-software-automation-remote-at-thehivecareers-4477930021",
-      "posted_at": "2026-10-12",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
     }
   ]
 }
