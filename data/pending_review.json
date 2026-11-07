@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-07T07:08:04+00:00",
+  "built_at": "2026-11-07T16:58:32+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-07T07:08:04+00:00",
-  "total_jobs": 169,
-  "needing_review": 113,
+  "dataset_generated_at": "2026-11-07T16:58:32+00:00",
+  "total_jobs": 171,
+  "needing_review": 116,
   "in_this_batch": 40,
-  "remaining_after_batch": 73,
+  "remaining_after_batch": 76,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,6 +18,26 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4487601555",
+      "title": "Software Developers, QA and AI Engineer (multiple positions, remote)",
+      "company": "SaskIT Inc",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-developers-qa-and-ai-engineer-multiple-positions-remote-at-saskit-inc-4487601555",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "fresh graduates welcome",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry",
+        "title bundles several unrelated roles"
+      ],
+      "description_excerpt": "SaskIT Inc. (Saskatoon, Canada) builds secure, self-hosted software for law firms, accounting firms, municipalities, and payroll and HR. This is a remote role from Bangladesh, working in our Canadian development environment with modern tools including AI-assisted coding (Claude Code). We are hiring for several positions through this single posting: Lead Developer, Senior Developer (platform and se"
+    },
     {
       "id": "linkedin-4485411634",
       "title": "Cybersecurity Expert",
@@ -176,6 +196,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Mobile Developer (React Native and Android) with PHP, Part-Time, Remote About Eptics Inc. Eptics Inc. provides end-to-end software development for startups and growing businesses, acting as a virtual CTO from first idea through MVP, launch and long-term support. We build custom software, Android and iOS apps, and AR/VR experiences. We work in small agile teams and focus on long-term client partner"
+    },
+    {
+      "id": "linkedin-4486644644",
+      "title": "Artificial Intelligence Intern",
+      "company": "ELITE.Org",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
     },
     {
       "id": "linkedin-4488483535",
@@ -442,25 +481,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We're Hiring Software Engineer Intern - Onsite Location: Signboard, Narayanganj Employment Type: #Internship 3–6 months (with possibility of full-time offer) Department: Engineering About Brainify Technology #Brainify_Technology_LLC is an innovative and fast-growing #software_company delivering modern digital solutions for both local and global clients. We actively work on #AI_driven solutions and"
-    },
-    {
-      "id": "linkedin-4481628141",
-      "title": "Hiring: Mid-Level DevOps Engineer",
-      "company": "Global Softel, Inc.",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/hiring-mid-level-devops-engineer-at-global-softel-inc-4481628141",
-      "posted_at": "2026-10-22",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary: BDT 60,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Build Scalable Cloud Infrastructure for AI-Powered CRM, CMS & SaaS Platforms Company: Voice Pro LLC Position: Mid-Level DevOps Engineer Employment Type: Full-Time, On-Site Location: Mirpur DOHS, Dhaka, Bangladesh Work Schedule: Monday–Friday, 9:00 PM–6:00 AM (Bangladesh Time)/ Night shift Salary: BDT 60,000–75,000 per month Hiring: Immediately Compensation & Benefits Monthly Salary: BDT 60,000–75,"
     },
     {
       "id": "linkedin-4474783624",
@@ -765,25 +785,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
-    },
-    {
-      "id": "linkedin-4480789892",
-      "title": "Cybersecurity, AI & Tech Business Consultant",
-      "company": "Kaosar Ahmed",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-ai-tech-business-consultant-at-kaosar-ahmed-4480789892",
-      "posted_at": "2026-10-21",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
     }
   ]
 }
