@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-08T07:29:03+00:00",
+  "built_at": "2026-11-08T17:05:10+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-08T07:29:03+00:00",
-  "total_jobs": 170,
-  "needing_review": 117,
+  "dataset_generated_at": "2026-11-08T17:05:10+00:00",
+  "total_jobs": 166,
+  "needing_review": 111,
   "in_this_batch": 40,
-  "remaining_after_batch": 77,
+  "remaining_after_batch": 71,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -176,6 +176,44 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Mobile Developer (React Native and Android) with PHP, Part-Time, Remote About Eptics Inc. Eptics Inc. provides end-to-end software development for startups and growing businesses, acting as a virtual CTO from first idea through MVP, launch and long-term support. We build custom software, Android and iOS apps, and AR/VR experiences. We work in small agile teams and focus on long-term client partner"
+    },
+    {
+      "id": "linkedin-4487650582",
+      "title": "Business Analyst Intern",
+      "company": "MezX",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/business-analyst-intern-at-mezx-4487650582",
+      "posted_at": "2026-11-08",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description MezX is an accounting software company focused on detecting financial irregularities in seconds and helping organizations maintain robust financial compliance. The platform verifies results against multiple financial and accounting standards and methods tailored to regional taxation laws, VAT, and customs policies. MezX supports global standards and frameworks such as IFRS, GAA"
+    },
+    {
+      "id": "linkedin-4486695161",
+      "title": "Frontend Developer",
+      "company": "HiJob.work",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/frontend-developer-at-hijob-work-4486695161",
+      "posted_at": "2026-11-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Frontend Developer — New Opportunity We’re supporting a partner company in hiring a Frontend Developer with strong experience in Next.js, HTML, and CSS . This role is ideal for developers who enjoy building clean, scalable user interfaces and working on real production products , not demos. What you’ll be working on • Developing and supporting frontend features in Next.js for live production envir"
     },
     {
       "id": "linkedin-4488483535",
@@ -444,25 +482,6 @@
       "description_excerpt": "We're looking for detail-oriented reviewers to quality-check pre-recorded customer service conversations for an AI data project. You'll correct and validate transcripts, check that the agent in each conversation followed the required policy rules, and decide whether each item is ready for delivery or should be flagged for further review. This is part-time, remote work. Success looks like consisten"
     },
     {
-      "id": "linkedin-4477775805",
-      "title": "Software Engineer Intern",
-      "company": "Brainify Technology",
-      "location": "Nārāyanganj, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-intern-at-brainify-technology-4477775805",
-      "posted_at": "2026-10-24",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Paid internship",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We're Hiring Software Engineer Intern - Onsite Location: Signboard, Narayanganj Employment Type: #Internship 3–6 months (with possibility of full-time offer) Department: Engineering About Brainify Technology #Brainify_Technology_LLC is an innovative and fast-growing #software_company delivering modern digital solutions for both local and global clients. We actively work on #AI_driven solutions and"
-    },
-    {
       "id": "linkedin-4474783624",
       "title": "System Administrator",
       "company": "Binary Quest Limited",
@@ -691,25 +710,6 @@
       "description_excerpt": "Competitive Programming Intern 📍 Work Mode: Hybrid ⏳ Duration: 6 Months We’re lo o king for passionate problem-solvers interested in algorithms, data structures, and competitive programming. What You ’ ll Do: * Solve a lgorithmic problems using platforms like Codeforces, LeetCode, and CodeChef.* Practic e Data Structures & Algorithms (DSA).* Partici pate in coding contests and problem-solving sess"
     },
     {
-      "id": "linkedin-4481949077",
-      "title": "Investment Research Intern",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/investment-research-intern-at-gaotek-inc-4481949077",
-      "posted_at": "2026-10-23",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: Aperture Venture Studio sister company of GAOTek Inc. Position Type: Internship Field: Investment Research, Investor Identification, AI and Physical AI Location: Remote About the Role We are seeking motivated Investment Research Interns to help identify major investors, investment firms, and funding opportunities for AI and Physical AI ventures. You will support investor research, databas"
-    },
-    {
       "id": "linkedin-4478985804",
       "title": "Product Designer",
       "company": "PEN Global",
@@ -727,25 +727,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
-    },
-    {
-      "id": "linkedin-4479947196",
-      "title": "Growth & Outreach Intern (Remote) – SaaS Startup",
-      "company": "Writova Ltd",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/growth-outreach-intern-remote-%E2%80%93-saas-startup-at-writova-ltd-4479947196",
-      "posted_at": "2026-10-19",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Writova Ltd is an AI-powered content automation platform designed for SEO teams, bloggers, marketers, and businesses that rely on scalable content production. The platform enables users to generate high-quality articles, manage end-to-end content campaigns, and optimize content for search engines from a single modern dashboard. Writova also streamlines publishing workflows, hel"
     },
     {
       "id": "linkedin-4477930021",
@@ -784,6 +765,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Home /Careers /AI-Integrated Full-Stack Engineer ← Back to Careers Selected Role Talent Pool AI-Integrated Full-Stack Engineer Position LevelMid to Senior Level Employment TypeFull-Time (Hybrid / On-site) LocationDhaka, Bangladesh DepartmentEngineering & AI Labs At Codiora Tech, we build scalable, intelligent software solutions and AI-driven platforms for modern businesses. As an AI-Integrated Ful"
+    },
+    {
+      "id": "linkedin-4475780578",
+      "title": "Digital Support Associate (Contractual)",
+      "company": "MetLife Bangladesh",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/digital-support-associate-contractual-at-metlife-bangladesh-4475780578",
+      "posted_at": "2026-10-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Scope The incumbent will be responsible for providing technical and logistical support to financial associates over the phone or virtually. This position is located outside Dhaka (Anywhere in Bangladesh). Key Responsibilities Providing technical assistance and support to financial associates over the phone or through remote desktop tools. Troubleshooting and resolving technical issues related "
     }
   ]
 }
