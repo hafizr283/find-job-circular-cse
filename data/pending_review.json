@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-07T16:58:32+00:00",
+  "built_at": "2026-11-08T00:43:26+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-07T16:58:32+00:00",
-  "total_jobs": 171,
-  "needing_review": 116,
+  "dataset_generated_at": "2026-11-08T00:43:26+00:00",
+  "total_jobs": 169,
+  "needing_review": 115,
   "in_this_batch": 40,
-  "remaining_after_batch": 76,
+  "remaining_after_batch": 75,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -107,26 +107,6 @@
       "posted_at": "2026-10-07",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4476575423",
-      "title": "Network Administrator",
-      "company": "Gildan",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/network-administrator-at-gildan-4476575423",
-      "posted_at": "2026-10-07",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -350,25 +330,6 @@
       "description_excerpt": "PlanPost AI is an AI-powered social media content creation and marketing automation platform designed to help businesses, marketers, and entrepreneurs simplify their digital marketing activities. Our platform enables users to generate engaging social media content, create AI-powered graphics, manage content calendars, schedule posts, and publish across multiple social media platforms. We are conti"
     },
     {
-      "id": "linkedin-4485445387",
-      "title": "AI Policy Specialist (QA Annotation)",
-      "company": "Thoth AI",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-policy-specialist-qa-annotation-at-thoth-ai-4485445387",
-      "posted_at": "2026-11-02",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Position: Policy Labeler & Policy QA (Bangladesh) Job Type: Full-time Position Arrangement: Fully On-Site (Dhaka, Bangladesh) Work Contents We are seeking a detail-oriented QA professional to ensure accuracy and consistency in daily operations by reviewing agents’ work, handling case disputes, and tracking performance. You will monitor quality trends, identify risks, and support continuous improve"
-    },
-    {
       "id": "linkedin-4485779638",
       "title": "n8n Automation & AI Workflow Developer (Intern)",
       "company": "sbmbd-it",
@@ -386,6 +347,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
+    },
+    {
+      "id": "linkedin-4485445387",
+      "title": "AI Policy Specialist (QA Annotation)",
+      "company": "Thoth AI",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-policy-specialist-qa-annotation-at-thoth-ai-4485445387",
+      "posted_at": "2026-11-02",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Position: Policy Labeler & Policy QA (Bangladesh) Job Type: Full-time Position Arrangement: Fully On-Site (Dhaka, Bangladesh) Work Contents We are seeking a detail-oriented QA professional to ensure accuracy and consistency in daily operations by reviewing agents’ work, handling case disputes, and tracking performance. You will monitor quality trends, identify risks, and support continuous improve"
     },
     {
       "id": "linkedin-4483237904",
@@ -502,6 +482,25 @@
       "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
     },
     {
+      "id": "linkedin-4462778194",
+      "title": "IoT Hardware & Peripherals Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
+    },
+    {
       "id": "linkedin-4483492181",
       "title": "Full-Stack Developer Intern (Remote)",
       "company": "LuneCode",
@@ -597,25 +596,6 @@
       "description_excerpt": "Job Type: Internship Duration: 3–6 Months Location: Remote GAO Group & Aperture Venture Studio are seeking Master’s & PhD students for a 3–6 month AI & IoT Research Internship. Join our R&D team and contribute to Physical AI, AIoT, IoT, AI/ML, intelligent sensing, Edge AI, connected systems, and emerging technologies through research, experiments, prototypes, and proof-of-concepts. Research Areas "
     },
     {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
-    },
-    {
       "id": "linkedin-4484916538",
       "title": "PhD Data Partner - Technical Writer - Asia",
       "company": "TELUS Digital",
@@ -692,44 +672,6 @@
       "description_excerpt": "Company Description Nyktos is an end-to-end encrypted messenger built from the ground up to prioritize privacy and security. Each message leverages ephemeral keys (libsodium X25519), pairwise group encryption, and safety number verification to protect user communications. Nyktos does not rely on phone numbers, supporting anonymous and secure interactions. The product is built with modern web techn"
     },
     {
-      "id": "linkedin-4484050746",
-      "title": "Software Quality Assurance Engineer (SQA)",
-      "company": "Polygon Technology",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-quality-assurance-engineer-sqa-at-polygon-technology-4484050746",
-      "posted_at": "2026-10-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4483232511",
-      "title": "Php Laravel Developer",
-      "company": "The waresun Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/php-laravel-developer-at-the-waresun-limited-4483232511",
-      "posted_at": "2026-10-26",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description The waresun Limited is an IT and software development company based in Bangladesh, established on July 7, 2017. The company delivers international freelancing jobs and a wide range of services including web and graphics design, web and software applications, networking, domain, and hosting. With a focus on quality, reliability, and affordability, The waresun Limited aims for 10"
-    },
-    {
       "id": "linkedin-4481699148",
       "title": "Competitive Programming Intern",
       "company": "DeshIT-BD",
@@ -785,6 +727,63 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
+    },
+    {
+      "id": "linkedin-4480789892",
+      "title": "Cybersecurity, AI & Tech Business Consultant",
+      "company": "Kaosar Ahmed",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-ai-tech-business-consultant-at-kaosar-ahmed-4480789892",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Kaosar Ahmed is an independent consultant focused on cybersecurity, artificial intelligence, and technology-driven business transformation. The consultancy partners with organizations to assess digital risks, design secure architectures, and apply AI solutions to improve operations and decision-making. Clients range from growing businesses to established enterprises seeking pra"
+    },
+    {
+      "id": "linkedin-4479947196",
+      "title": "Growth & Outreach Intern (Remote) – SaaS Startup",
+      "company": "Writova Ltd",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/growth-outreach-intern-remote-%E2%80%93-saas-startup-at-writova-ltd-4479947196",
+      "posted_at": "2026-10-19",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Writova Ltd is an AI-powered content automation platform designed for SEO teams, bloggers, marketers, and businesses that rely on scalable content production. The platform enables users to generate high-quality articles, manage end-to-end content campaigns, and optimize content for search engines from a single modern dashboard. Writova also streamlines publishing workflows, hel"
+    },
+    {
+      "id": "linkedin-4477930021",
+      "title": "IT Support Engineer – IT Operations, Software & Automation (Remote)",
+      "company": "TheHiveCareers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-it-operations-software-automation-remote-at-thehivecareers-4477930021",
+      "posted_at": "2026-10-12",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company: Ingenuity Technologies / TheHiveCareers Work Arrangement: Remote Working Hours: Monday to Friday, 8:00 AM–5:00 PM Jamaica time (GMT -5) Role Overview We are seeking a skilled and organized IT Support Engineer to support our technology infrastructure, business applications, and remote workforce. The role combines IT administration and end-user support with software development, automation,"
     }
   ]
 }
