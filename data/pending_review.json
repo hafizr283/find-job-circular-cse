@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-11-09T00:53:34+00:00",
+  "built_at": "2026-11-09T07:59:21+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-09T00:53:34+00:00",
+  "dataset_generated_at": "2026-11-09T07:59:21+00:00",
   "total_jobs": 163,
   "needing_review": 109,
   "in_this_batch": 40,
@@ -216,25 +216,6 @@
       "description_excerpt": "Company Description MezX is an accounting software company focused on detecting financial irregularities in seconds and helping organizations maintain robust financial compliance. The platform verifies results against multiple financial and accounting standards and methods tailored to regional taxation laws, VAT, and customs policies. MezX supports global standards and frameworks such as IFRS, GAA"
     },
     {
-      "id": "linkedin-4486644644",
-      "title": "Artificial Intelligence Intern",
-      "company": "ELITE.Org",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
-      "posted_at": "2026-11-07",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
-    },
-    {
       "id": "linkedin-4488483535",
       "title": "Technical Talent Acquisition Intern (Bangladesh)",
       "company": "Athelas",
@@ -252,6 +233,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
+    },
+    {
+      "id": "linkedin-4486644644",
+      "title": "Artificial Intelligence Intern",
+      "company": "ELITE.Org",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
     },
     {
       "id": "linkedin-4487651822",
@@ -387,25 +387,6 @@
       "description_excerpt": "PlanPost AI is an AI-powered social media content creation and marketing automation platform designed to help businesses, marketers, and entrepreneurs simplify their digital marketing activities. Our platform enables users to generate engaging social media content, create AI-powered graphics, manage content calendars, schedule posts, and publish across multiple social media platforms. We are conti"
     },
     {
-      "id": "linkedin-4485779638",
-      "title": "n8n Automation & AI Workflow Developer (Intern)",
-      "company": "sbmbd-it",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4485779638",
-      "posted_at": "2026-11-02",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
-    },
-    {
       "id": "linkedin-4485445387",
       "title": "AI Policy Specialist (QA Annotation)",
       "company": "Thoth AI",
@@ -423,6 +404,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Position: Policy Labeler & Policy QA (Bangladesh) Job Type: Full-time Position Arrangement: Fully On-Site (Dhaka, Bangladesh) Work Contents We are seeking a detail-oriented QA professional to ensure accuracy and consistency in daily operations by reviewing agents’ work, handling case disputes, and tracking performance. You will monitor quality trends, identify risks, and support continuous improve"
+    },
+    {
+      "id": "linkedin-4485779638",
+      "title": "n8n Automation & AI Workflow Developer (Intern)",
+      "company": "sbmbd-it",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4485779638",
+      "posted_at": "2026-11-02",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
     },
     {
       "id": "linkedin-4483237904",
