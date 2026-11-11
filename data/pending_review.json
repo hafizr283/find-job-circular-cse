@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-11T07:49:14+00:00",
+  "built_at": "2026-11-11T18:42:54+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-11T07:49:14+00:00",
-  "total_jobs": 180,
-  "needing_review": 120,
+  "dataset_generated_at": "2026-11-11T18:42:54+00:00",
+  "total_jobs": 179,
+  "needing_review": 119,
   "in_this_batch": 40,
-  "remaining_after_batch": 80,
+  "remaining_after_batch": 79,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -119,26 +119,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4477462133",
-      "title": "System Administrator",
-      "company": "Gildan",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/system-administrator-at-gildan-4477462133",
-      "posted_at": "2026-10-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4476584642",
       "title": "Analyst, IT Cyber Security",
       "company": "Gildan",
@@ -179,26 +159,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4481406979",
-      "title": "Application Engineer - (For Particles Bangladesh Ltd.) - Job ID - 1548817",
-      "company": "Bdjobs.com",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/application-engineer-for-particles-bangladesh-ltd-job-id-1548817-at-bdjobs-com-4481406979",
-      "posted_at": "2026-10-26",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Other CSE",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "category unresolved",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4484677799",
       "title": "Android Developer",
       "company": "Eptics Inc.",
@@ -216,6 +176,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Mobile Developer (React Native and Android) with PHP, Part-Time, Remote About Eptics Inc. Eptics Inc. provides end-to-end software development for startups and growing businesses, acting as a virtual CTO from first idea through MVP, launch and long-term support. We build custom software, Android and iOS apps, and AR/VR experiences. We work in small agile teams and focus on long-term client partner"
+    },
+    {
+      "id": "linkedin-4487805997",
+      "title": "Cybersecurity Instructor (Remote)",
+      "company": "ImranTheExploitHunter",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-instructor-remote-at-imrantheexploithunter-4487805997",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description ImranTheExploitHunter, founded in 2015, is a proactive offensive security firm specializing in Vulnerability Assessment and Penetration Testing (VAPT) across web, mobile, network, and infrastructure environments. The organization focuses on identifying and remediating security weaknesses before they can be exploited by threat actors. Its services include advanced penetration te"
     },
     {
       "id": "linkedin-4486695161",
@@ -786,6 +765,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About LuneCode LuneCode is a software engineering agency focused on building modern web applications, scalable backend infrastructure, and intuitive digital interfaces. We emphasize clean architecture, type safety, modular design, and robust engineering practices. Interns work alongside experienced engineers across the entire application lifecycle. Role Overview We are looking for a proactive Full"
+    },
+    {
+      "id": "linkedin-4484856250",
+      "title": "Professional Graphic Designer And Web Developer",
+      "company": "Graphic Design",
+      "location": "Bogra District, Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/professional-graphic-designer-and-web-developer-at-graphic-design-4484856250",
+      "posted_at": "2026-10-30",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Graphic Design is a Web and Mobile App design, development, marketing, and branding company established in 2020. The organization focuses on bringing clients’ online presence to life through innovative, visually compelling digital solutions. With teams based in the USA, Canada, and India, Graphic Design serves a global client base and emphasizes creativity, quality, and impact."
     }
   ]
 }
