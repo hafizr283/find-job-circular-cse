@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-12T02:19:52+00:00",
+  "built_at": "2026-11-12T15:09:55+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-12T02:19:52+00:00",
-  "total_jobs": 177,
-  "needing_review": 118,
+  "dataset_generated_at": "2026-11-12T15:09:55+00:00",
+  "total_jobs": 175,
+  "needing_review": 116,
   "in_this_batch": 40,
-  "remaining_after_batch": 78,
+  "remaining_after_batch": 76,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -37,6 +37,26 @@
         "title bundles several unrelated roles"
       ],
       "description_excerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The "
+    },
+    {
+      "id": "linkedin-4489057748",
+      "title": "Software Developer (VB.Net)",
+      "company": "NEXUS / HDC",
+      "location": "Mohakhali, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-developer-vb-net-at-nexus-hdc-4489057748",
+      "posted_at": "2026-11-12",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4487601555",
@@ -235,14 +255,14 @@
       "description_excerpt": "Company Description MezX is an accounting software company focused on detecting financial irregularities in seconds and helping organizations maintain robust financial compliance. The platform verifies results against multiple financial and accounting standards and methods tailored to regional taxation laws, VAT, and customs policies. MezX supports global standards and frameworks such as IFRS, GAA"
     },
     {
-      "id": "linkedin-4488309317",
-      "title": "Management Trainee (Intern)",
+      "id": "linkedin-4488311255",
+      "title": "Node.js Developer (Shopify)",
       "company": "Startise",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/management-trainee-intern-at-startise-4488309317",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/node-js-developer-shopify-at-startise-4488311255",
       "posted_at": "2026-11-10",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -254,14 +274,33 @@
       "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
     },
     {
-      "id": "linkedin-4488311255",
-      "title": "Node.js Developer (Shopify)",
+      "id": "linkedin-4488310326",
+      "title": "Technical Support Engineer - xCloud Hosting (Night Shift)",
       "company": "Startise",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/node-js-developer-shopify-at-startise-4488311255",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-xcloud-hosting-night-shift-at-startise-4488310326",
       "posted_at": "2026-11-10",
       "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
+    },
+    {
+      "id": "linkedin-4488309317",
+      "title": "Management Trainee (Intern)",
+      "company": "Startise",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/management-trainee-intern-at-startise-4488309317",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -311,14 +350,14 @@
       "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Full Stack (Mern) Home Careers Full Stack (Mern) Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When seeking creative services for your business, it’s essential to choose experienced professionals or agencies with a stron"
     },
     {
-      "id": "linkedin-4488310326",
-      "title": "Technical Support Engineer - xCloud Hosting (Night Shift)",
-      "company": "Startise",
+      "id": "linkedin-4488483535",
+      "title": "Technical Talent Acquisition Intern (Bangladesh)",
+      "company": "Athelas",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-xcloud-hosting-night-shift-at-startise-4488310326",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
+      "url": "https://bd.linkedin.com/jobs/view/technical-talent-acquisition-intern-bangladesh-at-athelas-4488483535",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -327,7 +366,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
+      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     },
     {
       "id": "linkedin-4486644644",
@@ -347,25 +386,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
-    },
-    {
-      "id": "linkedin-4488483535",
-      "title": "Technical Talent Acquisition Intern (Bangladesh)",
-      "company": "Athelas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-talent-acquisition-intern-bangladesh-at-athelas-4488483535",
-      "posted_at": "2026-11-07",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     },
     {
       "id": "linkedin-4487651822",
@@ -577,25 +597,6 @@
       "description_excerpt": "PlanPost AI is an AI-powered social media content creation and marketing automation platform designed to help businesses, marketers, and entrepreneurs simplify their digital marketing activities. Our platform enables users to generate engaging social media content, create AI-powered graphics, manage content calendars, schedule posts, and publish across multiple social media platforms. We are conti"
     },
     {
-      "id": "linkedin-4485779638",
-      "title": "n8n Automation & AI Workflow Developer (Intern)",
-      "company": "sbmbd-it",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4485779638",
-      "posted_at": "2026-11-02",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
-    },
-    {
       "id": "linkedin-4485445387",
       "title": "AI Policy Specialist (QA Annotation)",
       "company": "Thoth AI",
@@ -613,6 +614,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Position: Policy Labeler & Policy QA (Bangladesh) Job Type: Full-time Position Arrangement: Fully On-Site (Dhaka, Bangladesh) Work Contents We are seeking a detail-oriented QA professional to ensure accuracy and consistency in daily operations by reviewing agents’ work, handling case disputes, and tracking performance. You will monitor quality trends, identify risks, and support continuous improve"
+    },
+    {
+      "id": "linkedin-4485779638",
+      "title": "n8n Automation & AI Workflow Developer (Intern)",
+      "company": "sbmbd-it",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-sbmbd-it-4485779638",
+      "posted_at": "2026-11-02",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description SBM (Software Beyond Modern) is a technology company focused on building scalable, secure, and user-friendly software solutions that help businesses succeed in the digital era. The team delivers end-to-end services, including custom software development, web and mobile app development, AI-driven solutions, cloud and database management, and UI/UX design with strong product stra"
     },
     {
       "id": "linkedin-4487869260",
@@ -746,25 +766,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "💼 Position MERN Stack Developer Intern 📌 Internship Details Duration: 6 Months Salary: Unpaid Internship Working Hours: 9:00 AM – 6:00 PM Weekly Holiday: Friday Government Holidays: All government holidays will be observed Work Type: Full-time Laptop: Candidates must have their own laptop. AI Tools Subscription: Candidates must have an active subscription to at least one of the following: ChatGPT "
-    },
-    {
-      "id": "linkedin-4483289476",
-      "title": "Full-Stack Software Engineer (Python or Node.js)",
-      "company": "Affpilot",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-software-engineer-python-or-node-js-at-affpilot-4483289476",
-      "posted_at": "2026-10-27",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Please read the requirements first. If you don’t meet the requirements, please don’t apply. We read every application, and we’d rather get ten good ones than three hundred random ones. This is a software engineering job. It is not a machine learning or data science job. We don’t train models. We build web products, and we use AI coding tools to build them fast. You must have: At least 3 years of f"
     },
     {
       "id": "linkedin-4478985804",
