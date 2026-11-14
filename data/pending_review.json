@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-11-14T13:30:07+00:00",
+  "built_at": "2026-11-14T20:44:23+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-14T13:30:07+00:00",
-  "total_jobs": 176,
+  "dataset_generated_at": "2026-11-14T20:44:23+00:00",
+  "total_jobs": 174,
   "needing_review": 119,
   "in_this_batch": 40,
   "remaining_after_batch": 79,
@@ -237,25 +237,6 @@
       "description_excerpt": "Mobile Developer (React Native and Android) with PHP, Part-Time, Remote About Eptics Inc. Eptics Inc. provides end-to-end software development for startups and growing businesses, acting as a virtual CTO from first idea through MVP, launch and long-term support. We build custom software, Android and iOS apps, and AR/VR experiences. We work in small agile teams and focus on long-term client partner"
     },
     {
-      "id": "linkedin-4489525205",
-      "title": "Cyber Security Engineer",
-      "company": "Dooit.ai",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cyber-security-engineer-at-dooit-ai-4489525205",
-      "posted_at": "2026-11-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About dooit.ai dooit.ai is building a world-class AI-native platform purpose-built for financial institutions, regulators, and enterprises that need real security, not just compliance theatre. We are now building the next generation: a single AI engine that automates the entire cybersecurity lifecycle for any organisation - from startups to sovereign governments. Think Vanta, Lacework, Wiz, CrowdS"
-    },
-    {
       "id": "linkedin-4488902806",
       "title": "Security Engineer",
       "company": "Asymmetric Research",
@@ -292,6 +273,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people love us . We bring data tools with the elegance and simplicity of consumer products to the crufty world of e"
+    },
+    {
+      "id": "linkedin-4489525205",
+      "title": "Cyber Security Engineer",
+      "company": "Dooit.ai",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cyber-security-engineer-at-dooit-ai-4489525205",
+      "posted_at": "2026-11-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About dooit.ai dooit.ai is building a world-class AI-native platform purpose-built for financial institutions, regulators, and enterprises that need real security, not just compliance theatre. We are now building the next generation: a single AI engine that automates the entire cybersecurity lifecycle for any organisation - from startups to sovereign governments. Think Vanta, Lacework, Wiz, CrowdS"
     },
     {
       "id": "linkedin-4487805997",
