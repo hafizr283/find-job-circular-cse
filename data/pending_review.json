@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-16T08:00:17+00:00",
+  "built_at": "2026-11-16T21:02:18+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-16T08:00:17+00:00",
-  "total_jobs": 174,
-  "needing_review": 120,
+  "dataset_generated_at": "2026-11-16T21:02:18+00:00",
+  "total_jobs": 178,
+  "needing_review": 124,
   "in_this_batch": 40,
-  "remaining_after_batch": 80,
+  "remaining_after_batch": 84,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -139,26 +139,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4478271666",
-      "title": "Information Security Engineer",
-      "company": "Deel",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/information-security-engineer-at-deel-4478271666",
-      "posted_at": "2026-10-19",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4476584642",
       "title": "Analyst, IT Cyber Security",
       "company": "Gildan",
@@ -218,6 +198,25 @@
       "description_excerpt": "𝐖𝐞 𝐀𝐫𝐞 𝐇𝐢𝐫𝐢𝐧𝐠 𝐂𝐥𝐢𝐞𝐧𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 Employment type: Full-time Workplace: On-site Experience: Freshers & experienced Location: Banasree, Dhaka Vacancies: 10 Probation Period: 6 Months About the opportunity Beuptech Agency is looking for motivated and confident individuals to join our team as Foreign Communication Executives. This role offers an opportunity to work with international clients, de"
     },
     {
+      "id": "linkedin-4489767973",
+      "title": "Project Manager Intern",
+      "company": "ArchioTech",
+      "location": "Khilkhet Thana, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-manager-intern-at-archiotech-4489767973",
+      "posted_at": "2026-11-16",
+      "regex_job_type": "Internship",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Title: Project Manager Intern Company: Archiotech Location: Hybrid (Dhaka) Job Type: Internship (3 to 6 Months) About the Opportunity Are you looking for an opportunity to build and develop your career in Project Management ? At Archiotech , we are looking for an enthusiastic and detail-oriented Project Manager Intern who wants to learn and gain hands-on experience managing real-world software"
+    },
+    {
       "id": "linkedin-4488618524",
       "title": "Customer Success Specialist",
       "company": "BPO Homes Inc",
@@ -235,6 +234,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description BPO Homes Inc. is a Real Estate Brokerage and Technology company geared at helping agents grow their business. What you’ll do Take over newly closed clients and guide them through onboarding and their first steps Respond to client questions by phone and email Check in regularly and track each client’s progress Spot clients who are struggling or at risk of leaving, and reach out"
+    },
+    {
+      "id": "linkedin-4490611094",
+      "title": "UI/UX Designer Intern",
+      "company": "Crevio - UX/UI Design Agency for Startups",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ui-ux-designer-intern-at-crevio-ux-ui-design-agency-for-startups-4490611094",
+      "posted_at": "2026-11-16",
+      "regex_job_type": "Internship",
+      "regex_category": "Product, Design & UI/UX",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Crevio is a full-service design agency focused on supporting startups and creative teams with high-impact digital products. The agency specializes in UI/UX design, web development, and branding, delivering conversion-driven solutions that turn ideas into measurable results. Crevio provides end-to-end product design, design systems, brand identity, and investor decks, helping cl"
     },
     {
       "id": "linkedin-4484677799",
@@ -389,33 +407,14 @@
       "description_excerpt": "Company Description MezX is an accounting software company focused on detecting financial irregularities in seconds and helping organizations maintain robust financial compliance. The platform verifies results against multiple financial and accounting standards and methods tailored to regional taxation laws, VAT, and customs policies. MezX supports global standards and frameworks such as IFRS, GAA"
     },
     {
-      "id": "linkedin-4488309317",
-      "title": "Management Trainee (Intern)",
-      "company": "Startise",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/management-trainee-intern-at-startise-4488309317",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
-    },
-    {
-      "id": "linkedin-4488311255",
-      "title": "Node.js Developer (Shopify)",
+      "id": "linkedin-4488310326",
+      "title": "Technical Support Engineer - xCloud Hosting (Night Shift)",
       "company": "Startise",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/node-js-developer-shopify-at-startise-4488311255",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-xcloud-hosting-night-shift-at-startise-4488310326",
       "posted_at": "2026-11-10",
       "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
+      "regex_category": "ITES, Support & Customer Success",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -446,14 +445,33 @@
       "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Full Stack (Mern) Home Careers Full Stack (Mern) Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When seeking creative services for your business, it’s essential to choose experienced professionals or agencies with a stron"
     },
     {
-      "id": "linkedin-4488310326",
-      "title": "Technical Support Engineer - xCloud Hosting (Night Shift)",
+      "id": "linkedin-4488309317",
+      "title": "Management Trainee (Intern)",
+      "company": "Startise",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/management-trainee-intern-at-startise-4488309317",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
+    },
+    {
+      "id": "linkedin-4488311255",
+      "title": "Node.js Developer (Shopify)",
       "company": "Startise",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-xcloud-hosting-night-shift-at-startise-4488310326",
+      "url": "https://bd.linkedin.com/jobs/view/node-js-developer-shopify-at-startise-4488311255",
       "posted_at": "2026-11-10",
       "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
+      "regex_category": "Freelance & Niche Tech",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -539,25 +557,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description StrategyByte is an AI-first technology company headquartered in Sydney, Australia, and the parent company of two AI product brands, ByteVoice and ByteForce, serving organisations across Australia, New Zealand, the UK, Canada and the USA. The company delivers tailored solutions across digital marketing, IT support, web development, process optimization, and related services for "
-    },
-    {
-      "id": "linkedin-4474783624",
-      "title": "System Administrator",
-      "company": "Binary Quest Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/system-administrator-at-binary-quest-limited-4474783624",
-      "posted_at": "2026-10-02",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Tk 40,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Binary Quest Software is hiring a System Administrator in Dhaka. You will keep our servers, Kubernetes cluster, and databases running for our own products and for clients in Bangladesh, Australia, and New Zealand. The role reports to the CTO. Responsibilities Install, configure, and maintain Ubuntu servers and Proxmox virtual machines, including storage, DNS, and firewalls Operate the RKE2 cluster"
     },
     {
       "id": "linkedin-4487651822",
@@ -674,6 +673,25 @@
       "description_excerpt": "KEY RESPONSIBILITIES 1. Network Infrastructure & Configuration • Install, configure, maintain, and troubleshoot LAN, WAN, Wi-Fi, routers, switches, and wireless access points. • Configure IP addressing, subnetting, VLANs, DHCP, DNS, and basic network security. • Perform structured cabling, cable termination, testing, and connectivity troubleshooting. • Support network infrastructure deployment and"
     },
     {
+      "id": "linkedin-4490298251",
+      "title": "n8n & AI Integration (Intern)",
+      "company": "DeshIT-BD",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/n8n-ai-integration-intern-at-deshit-bd-4490298251",
+      "posted_at": "2026-11-16",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company: DeshIT-BD Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months WorkMode: Onsite Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns. This opportunity is designed for aspiring developers who want to gain hands-on experience"
+    },
+    {
       "id": "linkedin-4477348901",
       "title": "Embedded Systems & SBC Engineer",
       "company": "Worksprout",
@@ -767,25 +785,6 @@
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4486335566",
-      "title": "Intern, IT",
-      "company": "Centric Brands",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-it-at-centric-brands-4486335566",
-      "posted_at": "2026-11-04",
-      "regex_job_type": "Internship",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About Us Centric Brands is a leading lifestyle brand collective that designs, sources, markets and sells high quality products in multiple segments, including women’s, men’s and kid’s apparel, accessories, entertainment and beauty. Centric Brands is focused on our customers and our brands that will drive the company’s future growth. We are defined by innovation as we seize new opportunities and th"
     }
   ]
 }
