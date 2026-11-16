@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-16T01:03:08+00:00",
+  "built_at": "2026-11-16T08:00:17+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-16T01:03:08+00:00",
-  "total_jobs": 173,
-  "needing_review": 119,
+  "dataset_generated_at": "2026-11-16T08:00:17+00:00",
+  "total_jobs": 174,
+  "needing_review": 120,
   "in_this_batch": 40,
-  "remaining_after_batch": 79,
+  "remaining_after_batch": 80,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -199,6 +199,25 @@
       "description_excerpt": ""
     },
     {
+      "id": "linkedin-4490274434",
+      "title": "Customer Success Executive",
+      "company": "Beuptech Agency",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-executive-at-beuptech-agency-4490274434",
+      "posted_at": "2026-11-16",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary: BDT 18,500",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "𝐖𝐞 𝐀𝐫𝐞 𝐇𝐢𝐫𝐢𝐧𝐠 𝐂𝐥𝐢𝐞𝐧𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 Employment type: Full-time Workplace: On-site Experience: Freshers & experienced Location: Banasree, Dhaka Vacancies: 10 Probation Period: 6 Months About the opportunity Beuptech Agency is looking for motivated and confident individuals to join our team as Foreign Communication Executives. This role offers an opportunity to work with international clients, de"
+    },
+    {
       "id": "linkedin-4488618524",
       "title": "Customer Success Specialist",
       "company": "BPO Homes Inc",
@@ -389,14 +408,14 @@
       "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
     },
     {
-      "id": "linkedin-4489465268",
-      "title": "Laravel Developer",
-      "company": "B2B Lead Shop",
-      "location": "Khulna, Khulna, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
+      "id": "linkedin-4488311255",
+      "title": "Node.js Developer (Shopify)",
+      "company": "Startise",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/node-js-developer-shopify-at-startise-4488311255",
       "posted_at": "2026-11-10",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
+      "regex_category": "Freelance & Niche Tech",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -405,7 +424,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
+      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
     },
     {
       "id": "linkedin-4489458767",
@@ -427,25 +446,6 @@
       "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Full Stack (Mern) Home Careers Full Stack (Mern) Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When seeking creative services for your business, it’s essential to choose experienced professionals or agencies with a stron"
     },
     {
-      "id": "linkedin-4488311255",
-      "title": "Node.js Developer (Shopify)",
-      "company": "Startise",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/node-js-developer-shopify-at-startise-4488311255",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
-    },
-    {
       "id": "linkedin-4488310326",
       "title": "Technical Support Engineer - xCloud Hosting (Night Shift)",
       "company": "Startise",
@@ -465,14 +465,14 @@
       "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
     },
     {
-      "id": "linkedin-4486644644",
-      "title": "Artificial Intelligence Intern",
-      "company": "ELITE.Org",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
-      "posted_at": "2026-11-07",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
+      "id": "linkedin-4489465268",
+      "title": "Laravel Developer",
+      "company": "B2B Lead Shop",
+      "location": "Khulna, Khulna, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -481,7 +481,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
+      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
     },
     {
       "id": "linkedin-4488483535",
@@ -501,6 +501,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
+    },
+    {
+      "id": "linkedin-4486644644",
+      "title": "Artificial Intelligence Intern",
+      "company": "ELITE.Org",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
     },
     {
       "id": "linkedin-4483295292",
@@ -767,25 +786,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About Us Centric Brands is a leading lifestyle brand collective that designs, sources, markets and sells high quality products in multiple segments, including women’s, men’s and kid’s apparel, accessories, entertainment and beauty. Centric Brands is focused on our customers and our brands that will drive the company’s future growth. We are defined by innovation as we seize new opportunities and th"
-    },
-    {
-      "id": "linkedin-4483007547",
-      "title": "Audio Data QA – Transcription & Policy Review",
-      "company": "Pasiflora AI",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/audio-data-qa-%E2%80%93-transcription-policy-review-at-pasiflora-ai-4483007547",
-      "posted_at": "2026-10-29",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We're looking for detail-oriented reviewers to quality-check pre-recorded customer service conversations for an AI data project. You'll correct and validate transcripts, check that the agent in each conversation followed the required policy rules, and decide whether each item is ready for delivery or should be flagged for further review. This is part-time, remote work. Success looks like consisten"
     }
   ]
 }
