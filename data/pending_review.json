@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-17T03:56:27+00:00",
+  "built_at": "2026-11-17T15:58:21+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-17T03:56:27+00:00",
-  "total_jobs": 169,
-  "needing_review": 115,
+  "dataset_generated_at": "2026-11-17T15:58:21+00:00",
+  "total_jobs": 173,
+  "needing_review": 118,
   "in_this_batch": 40,
-  "remaining_after_batch": 75,
+  "remaining_after_batch": 78,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -196,23 +196,42 @@
       "description_excerpt": "Company Description BPO Homes Inc. is a Real Estate Brokerage and Technology company geared at helping agents grow their business. What you’ll do Take over newly closed clients and guide them through onboarding and their first steps Respond to client questions by phone and email Check in regularly and track each client’s progress Spot clients who are struggling or at risk of leaving, and reach out"
     },
     {
-      "id": "linkedin-4484677799",
-      "title": "Android Developer",
-      "company": "Eptics Inc.",
+      "id": "linkedin-4490193765",
+      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
+      "company": "BRAC University",
       "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/android-developer-at-eptics-inc-4484677799",
-      "posted_at": "2026-11-06",
+      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-contractual-for-brac-university-job-id-1556652-at-brac-university-4490193765",
+      "posted_at": "2026-11-17",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Salary: 20,000",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Mobile Developer (React Native and Android) with PHP, Part-Time, Remote About Eptics Inc. Eptics Inc. provides end-to-end software development for startups and growing businesses, acting as a virtual CTO from first idea through MVP, launch and long-term support. We build custom software, Android and iOS apps, and AR/VR experiences. We work in small agile teams and focus on long-term client partner"
+      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
+    },
+    {
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-11-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4490611094",
@@ -232,6 +251,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Crevio is a full-service design agency focused on supporting startups and creative teams with high-impact digital products. The agency specializes in UI/UX design, web development, and branding, delivering conversion-driven solutions that turn ideas into measurable results. Crevio provides end-to-end product design, design systems, brand identity, and investor decks, helping cl"
+    },
+    {
+      "id": "linkedin-4484677799",
+      "title": "Android Developer",
+      "company": "Eptics Inc.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/android-developer-at-eptics-inc-4484677799",
+      "posted_at": "2026-11-06",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary: 20,000",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Mobile Developer (React Native and Android) with PHP, Part-Time, Remote About Eptics Inc. Eptics Inc. provides end-to-end software development for startups and growing businesses, acting as a virtual CTO from first idea through MVP, launch and long-term support. We build custom software, Android and iOS apps, and AR/VR experiences. We work in small agile teams and focus on long-term client partner"
     },
     {
       "id": "linkedin-4488902806",
@@ -367,25 +405,6 @@
       "description_excerpt": "Company Description MezX is an accounting software company focused on detecting financial irregularities in seconds and helping organizations maintain robust financial compliance. The platform verifies results against multiple financial and accounting standards and methods tailored to regional taxation laws, VAT, and customs policies. MezX supports global standards and frameworks such as IFRS, GAA"
     },
     {
-      "id": "linkedin-4489458767",
-      "title": "Full Stack (Mern)",
-      "company": "B2B Lead Shop",
-      "location": "Khulna, Khulna, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-mern-at-b2b-lead-shop-4489458767",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Full Stack (Mern) Home Careers Full Stack (Mern) Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When seeking creative services for your business, it’s essential to choose experienced professionals or agencies with a stron"
-    },
-    {
       "id": "linkedin-4488309317",
       "title": "Management Trainee (Intern)",
       "company": "Startise",
@@ -403,25 +422,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
-    },
-    {
-      "id": "linkedin-4489465268",
-      "title": "Laravel Developer",
-      "company": "B2B Lead Shop",
-      "location": "Khulna, Khulna, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
     },
     {
       "id": "linkedin-4488311255",
@@ -462,14 +462,14 @@
       "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
     },
     {
-      "id": "linkedin-4486644644",
-      "title": "Artificial Intelligence Intern",
-      "company": "ELITE.Org",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
-      "posted_at": "2026-11-07",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
+      "id": "linkedin-4489458767",
+      "title": "Full Stack (Mern)",
+      "company": "B2B Lead Shop",
+      "location": "Khulna, Khulna, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-mern-at-b2b-lead-shop-4489458767",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -478,7 +478,26 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
+      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Full Stack (Mern) Home Careers Full Stack (Mern) Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When seeking creative services for your business, it’s essential to choose experienced professionals or agencies with a stron"
+    },
+    {
+      "id": "linkedin-4489465268",
+      "title": "Laravel Developer",
+      "company": "B2B Lead Shop",
+      "location": "Khulna, Khulna, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
     },
     {
       "id": "linkedin-4488483535",
@@ -498,6 +517,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
+    },
+    {
+      "id": "linkedin-4486644644",
+      "title": "Artificial Intelligence Intern",
+      "company": "ELITE.Org",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
     },
     {
       "id": "linkedin-4483237904",
@@ -745,44 +783,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Who we are Gildan is a leading apparel manufacturing company, with a strong portfolio of brands, including Gildan®, American Apparel®, Comfort Colors®, GOLDTOE®, Peds®, and under the Under Armour® brand through a sock licensing agreement. With close to four decades of developing global manufacturing expertise, Gildan is one of the world’s most efficient, ethical, and sustainable apparel manufactur"
-    },
-    {
-      "id": "linkedin-4489866449",
-      "title": "n8n Automation & AI Workflow Developer (Intern)",
-      "company": "DeshIT-BD",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/n8n-automation-ai-workflow-developer-intern-at-deshit-bd-4489866449",
-      "posted_at": "2026-11-14",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: SBM Position: n8n Automation & AI Workflow Developer InternInternship Duration: 6 Months Work Mode: Onsite Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns. This opportunity is designed for aspiring developers who want to gain hands-on experience in AI"
-    },
-    {
-      "id": "linkedin-4488001816",
-      "title": "Linux System Administrator (3–5 Years)",
-      "company": "Flyte Solutions Ltd.",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/linux-system-administrator-3%E2%80%935-years-at-flyte-solutions-ltd-4488001816",
-      "posted_at": "2026-11-05",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
     }
   ]
 }
