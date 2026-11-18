@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-17T23:32:59+00:00",
+  "built_at": "2026-11-18T08:37:48+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-17T23:32:59+00:00",
-  "total_jobs": 174,
-  "needing_review": 119,
+  "dataset_generated_at": "2026-11-18T08:37:48+00:00",
+  "total_jobs": 171,
+  "needing_review": 117,
   "in_this_batch": 40,
-  "remaining_after_batch": 79,
+  "remaining_after_batch": 77,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -105,6 +105,26 @@
       "location": "Gulshan, Dhaka, Bangladesh",
       "url": "https://bd.linkedin.com/jobs/view/system-administrator-linux-unix-at-gildan-4488756906",
       "posted_at": "2026-11-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4481565904",
+      "title": "Cloud Engineer",
+      "company": "UPSTRA Communications Ltd.",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cloud-engineer-at-upstra-communications-ltd-4481565904",
+      "posted_at": "2026-10-20",
       "regex_job_type": "Fresher job",
       "regex_category": "Cloud, Infrastructure & DevOps",
       "regex_experience_text": "",
@@ -405,6 +425,25 @@
       "description_excerpt": "Company Description MezX is an accounting software company focused on detecting financial irregularities in seconds and helping organizations maintain robust financial compliance. The platform verifies results against multiple financial and accounting standards and methods tailored to regional taxation laws, VAT, and customs policies. MezX supports global standards and frameworks such as IFRS, GAA"
     },
     {
+      "id": "linkedin-4489465268",
+      "title": "Laravel Developer",
+      "company": "B2B Lead Shop",
+      "location": "Khulna, Khulna, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
+    },
+    {
       "id": "linkedin-4488309317",
       "title": "Management Trainee (Intern)",
       "company": "Startise",
@@ -481,14 +520,14 @@
       "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Full Stack (Mern) Home Careers Full Stack (Mern) Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When seeking creative services for your business, it’s essential to choose experienced professionals or agencies with a stron"
     },
     {
-      "id": "linkedin-4489465268",
-      "title": "Laravel Developer",
-      "company": "B2B Lead Shop",
-      "location": "Khulna, Khulna, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
+      "id": "linkedin-4486644644",
+      "title": "Artificial Intelligence Intern",
+      "company": "ELITE.Org",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -497,7 +536,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
+      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
     },
     {
       "id": "linkedin-4488483535",
@@ -517,25 +556,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
-    },
-    {
-      "id": "linkedin-4486644644",
-      "title": "Artificial Intelligence Intern",
-      "company": "ELITE.Org",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
-      "posted_at": "2026-11-07",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
     },
     {
       "id": "linkedin-4483237904",
@@ -614,6 +634,25 @@
       "description_excerpt": "Job Type: Internship (Unpaid) Work Mode: Hybrid We are looking for enthusiastic students interested in AI, Data Science, and Automation. Candidates should have basic knowledge of AI tools, a willingness to learn, and problem-solving skills. Requirements: Interest in AI, Data Science, and Automation. Basic programming knowledge is a plus. Must have an active Claude subscription (paid plan). Willing"
     },
     {
+      "id": "linkedin-4485598449",
+      "title": "AI Training Specialist - Python Developer",
+      "company": "Rise Data Labs",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-training-specialist-python-developer-at-rise-data-labs-4485598449",
+      "posted_at": "2026-11-05",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About Rise Data Labs Rise Data Labs is a leading AI training and data annotation company that specializes in creating high-quality training data for artificial intelligence systems. We work with top AI companies and research institutions to improve machine learning models through expert human annotation and validation. Our team of domain specialists, subject matter experts, and quality assurance p"
+    },
+    {
       "id": "linkedin-4487331741",
       "title": "Data Analyst",
       "company": "Code Nexus Tech Solution",
@@ -631,44 +670,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Code Nexus Tech Solution specializes in staffing high-performing Data Analysts, Data Scientists, and Business Intelligence professionals who help organizations make better, data-driven decisions. The company partners with clients seeking to leverage data for strategic growth, operational efficiency, and competitive advantage. As part of this focus, Code Nexus Tech Solution offe"
-    },
-    {
-      "id": "linkedin-4486338382",
-      "title": "Executive - Technical Support & Network Solution",
-      "company": "TICON SYSTEM LIMITED",
-      "location": "Uttara, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/executive-technical-support-network-solution-at-ticon-system-limited-4486338382",
-      "posted_at": "2026-11-04",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "KEY RESPONSIBILITIES 1. Network Infrastructure & Configuration • Install, configure, maintain, and troubleshoot LAN, WAN, Wi-Fi, routers, switches, and wireless access points. • Configure IP addressing, subnetting, VLANs, DHCP, DNS, and basic network security. • Perform structured cabling, cable termination, testing, and connectivity troubleshooting. • Support network infrastructure deployment and"
-    },
-    {
-      "id": "linkedin-4490298251",
-      "title": "n8n & AI Integration (Intern)",
-      "company": "DeshIT-BD",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/n8n-ai-integration-intern-at-deshit-bd-4490298251",
-      "posted_at": "2026-11-16",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company: DeshIT-BD Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months WorkMode: Onsite Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns. This opportunity is designed for aspiring developers who want to gain hands-on experience"
     },
     {
       "id": "linkedin-4477348901",
@@ -709,14 +710,14 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     },
     {
-      "id": "linkedin-4484355829",
-      "title": "Web content uploading Virtual Internship",
-      "company": "GAOTek Inc.",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/web-content-uploading-virtual-internship-at-gaotek-inc-4484355829",
-      "posted_at": "2026-11-02",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
+      "id": "linkedin-4486338382",
+      "title": "Executive - Technical Support & Network Solution",
+      "company": "TICON SYSTEM LIMITED",
+      "location": "Uttara, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/executive-technical-support-network-solution-at-ticon-system-limited-4486338382",
+      "posted_at": "2026-11-04",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -725,7 +726,26 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Job Title: Web content uploading Internship Location: Virtual/Remote Duration: 3-6 months The GAO Group, USA & Canada www.TheGAOGroup.com The GAO Group is headquartered in NYC, USA, and Toronto, Canada, and its member companies are incorporated in both USA & Canada, and its member companies are leading suppliers of advanced electronics and network products for engineers worldwide. Key Responsibili"
+      "description_excerpt": "KEY RESPONSIBILITIES 1. Network Infrastructure & Configuration • Install, configure, maintain, and troubleshoot LAN, WAN, Wi-Fi, routers, switches, and wireless access points. • Configure IP addressing, subnetting, VLANs, DHCP, DNS, and basic network security. • Perform structured cabling, cable termination, testing, and connectivity troubleshooting. • Support network infrastructure deployment and"
+    },
+    {
+      "id": "linkedin-4490298251",
+      "title": "n8n & AI Integration (Intern)",
+      "company": "DeshIT-BD",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/n8n-ai-integration-intern-at-deshit-bd-4490298251",
+      "posted_at": "2026-11-16",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Unpaid",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company: DeshIT-BD Position: n8n Automation & AI Workflow Developer Intern Internship Duration: 6 Months WorkMode: Onsite Compensation: Unpaid Internship About the Role Tecklyne is seeking motivated, curious, and technology-driven individuals to join our team as n8n Automation & AI Workflow Developer Interns. This opportunity is designed for aspiring developers who want to gain hands-on experience"
     },
     {
       "id": "linkedin-4483007547",
@@ -764,25 +784,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Product Designer Organization: PEN Global (concern of PEN Group) Position: Product Designer Location: On-Site, Agrabad, Chattogram, Bangladesh (no remote or hybrid option) Salary Range: 65,000- to 74,000- BDT Per month (Higher for an exceptional portfolio) Employment Type: Full-Time Reports to: Design Lead Before you apply: this role is fully on-site in Chattogram. If you live elsewhere"
-    },
-    {
-      "id": "linkedin-4475527657",
-      "title": "Engineer, IT Support",
-      "company": "Gildan",
-      "location": "Gulshan, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/engineer-it-support-at-gildan-4475527657",
-      "posted_at": "2026-10-05",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Who we are Gildan is a leading apparel manufacturing company, with a strong portfolio of brands, including Gildan®, American Apparel®, Comfort Colors®, GOLDTOE®, Peds®, and under the Under Armour® brand through a sock licensing agreement. With close to four decades of developing global manufacturing expertise, Gildan is one of the world’s most efficient, ethical, and sustainable apparel manufactur"
     }
   ]
 }
