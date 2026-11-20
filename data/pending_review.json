@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-19T23:17:06+00:00",
+  "built_at": "2026-11-20T08:41:19+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-19T23:17:06+00:00",
-  "total_jobs": 172,
-  "needing_review": 118,
+  "dataset_generated_at": "2026-11-20T08:41:18+00:00",
+  "total_jobs": 169,
+  "needing_review": 116,
   "in_this_batch": 40,
-  "remaining_after_batch": 78,
+  "remaining_after_batch": 76,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -18,6 +18,26 @@
     "Other CSE"
   ],
   "pending": [
+    {
+      "id": "linkedin-4491120172",
+      "title": "Software Engineer",
+      "company": "TransMedia Inc.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-transmedia-inc-4491120172",
+      "posted_at": "2026-11-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
     {
       "id": "linkedin-4490293766",
       "title": "Full-Stack Software Engineer (UI and Backend)",
@@ -197,6 +217,25 @@
       "description_excerpt": "Job Title: Project Manager Intern Company: Archiotech Location: Hybrid (Dhaka) Job Type: Internship (3 to 6 Months) About the Opportunity Are you looking for an opportunity to build and develop your career in Project Management ? At Archiotech , we are looking for an enthusiastic and detail-oriented Project Manager Intern who wants to learn and gain hands-on experience managing real-world software"
     },
     {
+      "id": "linkedin-4491806854",
+      "title": "Intern Django Developer",
+      "company": "Universe Soft Tech",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-django-developer-at-universe-soft-tech-4491806854",
+      "posted_at": "2026-11-18",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Universe Soft Tech is a growing technology company focused on building reliable, scalable software solutions for a variety of clients. The team emphasizes modern web technologies, collaborative problem-solving, and continuous learning. Interns at Universe Soft Tech have the opportunity to work closely with experienced developers and gain hands-on experience with real projects. "
+    },
+    {
       "id": "linkedin-4491836522",
       "title": "Assoc Dir, Software Development",
       "company": "IQVIA",
@@ -235,25 +274,6 @@
       "description_excerpt": "About The Opportunity Gramian is participating in an exclusive, invite-only code licensing program with a leading AI lab. The program allows software developers, engineers, and organizations to earn compensation by licensing existing software repositories for AI training and research purposes. This is a non-exclusive licensing opportunity , meaning code owners retain their intellectual property an"
     },
     {
-      "id": "linkedin-4491806854",
-      "title": "Intern Django Developer",
-      "company": "Universe Soft Tech",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-django-developer-at-universe-soft-tech-4491806854",
-      "posted_at": "2026-11-18",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Universe Soft Tech is a growing technology company focused on building reliable, scalable software solutions for a variety of clients. The team emphasizes modern web technologies, collaborative problem-solving, and continuous learning. Interns at Universe Soft Tech have the opportunity to work closely with experienced developers and gain hands-on experience with real projects. "
-    },
-    {
       "id": "linkedin-4488618524",
       "title": "Customer Success Specialist",
       "company": "BPO Homes Inc",
@@ -273,25 +293,6 @@
       "description_excerpt": "Company Description BPO Homes Inc. is a Real Estate Brokerage and Technology company geared at helping agents grow their business. What you’ll do Take over newly closed clients and guide them through onboarding and their first steps Respond to client questions by phone and email Check in regularly and track each client’s progress Spot clients who are struggling or at risk of leaving, and reach out"
     },
     {
-      "id": "linkedin-4481537456",
-      "title": "Technical Support Engineer",
-      "company": "Imou",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
-      "posted_at": "2026-11-17",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
-    },
-    {
       "id": "linkedin-4490193765",
       "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
       "company": "BRAC University",
@@ -309,6 +310,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
+    },
+    {
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-11-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4490611094",
@@ -482,6 +502,44 @@
       "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its th"
     },
     {
+      "id": "linkedin-4483237904",
+      "title": "Full Stack Developer",
+      "company": "Lab3",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-at-lab3-4483237904",
+      "posted_at": "2026-10-26",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Allowance or benefit mentioned",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
+    },
+    {
+      "id": "linkedin-4462778194",
+      "title": "IoT Hardware & Peripherals Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
+    },
+    {
       "id": "linkedin-4486695161",
       "title": "Frontend Developer",
       "company": "HiJob.work",
@@ -520,42 +578,23 @@
       "description_excerpt": "Company Description MezX is an accounting software company focused on detecting financial irregularities in seconds and helping organizations maintain robust financial compliance. The platform verifies results against multiple financial and accounting standards and methods tailored to regional taxation laws, VAT, and customs policies. MezX supports global standards and frameworks such as IFRS, GAA"
     },
     {
-      "id": "linkedin-4483237904",
-      "title": "Full Stack Developer",
-      "company": "Lab3",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-at-lab3-4483237904",
-      "posted_at": "2026-10-26",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Allowance or benefit mentioned",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
-    },
-    {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
+      "id": "linkedin-4489465268",
+      "title": "Laravel Developer",
+      "company": "B2B Lead Shop",
+      "location": "Khulna, Khulna, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
+      "posted_at": "2026-11-10",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
+      "pay_text": "Pay not stated",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
+      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
     },
     {
       "id": "linkedin-4488309317",
@@ -634,44 +673,6 @@
       "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Full Stack (Mern) Home Careers Full Stack (Mern) Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When seeking creative services for your business, it’s essential to choose experienced professionals or agencies with a stron"
     },
     {
-      "id": "linkedin-4489465268",
-      "title": "Laravel Developer",
-      "company": "B2B Lead Shop",
-      "location": "Khulna, Khulna, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
-    },
-    {
-      "id": "linkedin-4488483535",
-      "title": "Technical Talent Acquisition Intern (Bangladesh)",
-      "company": "Athelas",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-talent-acquisition-intern-bangladesh-at-athelas-4488483535",
-      "posted_at": "2026-11-07",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
-    },
-    {
       "id": "linkedin-4486644644",
       "title": "Artificial Intelligence Intern",
       "company": "ELITE.Org",
@@ -691,15 +692,15 @@
       "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
     },
     {
-      "id": "linkedin-4487651822",
-      "title": "Softzency is Hiring: Data Scientist",
-      "company": "Softzency",
+      "id": "linkedin-4488483535",
+      "title": "Technical Talent Acquisition Intern (Bangladesh)",
+      "company": "Athelas",
       "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/softzency-is-hiring-data-scientist-at-softzency-4487651822",
-      "posted_at": "2026-11-08",
-      "regex_job_type": "Fresher job",
+      "url": "https://bd.linkedin.com/jobs/view/technical-talent-acquisition-intern-bangladesh-at-athelas-4488483535",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Internship",
       "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -707,7 +708,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Softzency is seeking a highly skilled data scientist to lead the development and deployment of an explainable credit scoring solution designed to support microfinance institutions Key Responsibilities: -Collect, harmonise, and analyse financial and credit-related datasets. -Develop, train, and validate machine learning models for credit scoring. -Implement model explainability, fairness assessment"
+      "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
     },
     {
       "id": "linkedin-4477348901",
@@ -748,6 +749,25 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     },
     {
+      "id": "linkedin-4487651822",
+      "title": "Softzency is Hiring: Data Scientist",
+      "company": "Softzency",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/softzency-is-hiring-data-scientist-at-softzency-4487651822",
+      "posted_at": "2026-11-08",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Softzency is seeking a highly skilled data scientist to lead the development and deployment of an explainable credit scoring solution designed to support microfinance institutions Key Responsibilities: -Collect, harmonise, and analyse financial and credit-related datasets. -Develop, train, and validate machine learning models for credit scoring. -Implement model explainability, fairness assessment"
+    },
+    {
       "id": "linkedin-4490223098",
       "title": "AI & Machine Learning (Intern)",
       "company": "sbmbd-it",
@@ -765,25 +785,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Type: Internship (Unpaid) Work Mode: Hybrid We are looking for enthusiastic students interested in AI, Data Science, and Automation. Candidates should have basic knowledge of AI tools, a willingness to learn, and problem-solving skills. Requirements: Interest in AI, Data Science, and Automation. Basic programming knowledge is a plus. Must have an active Claude subscription (paid plan). Willing"
-    },
-    {
-      "id": "linkedin-4485598449",
-      "title": "AI Training Specialist - Python Developer",
-      "company": "Rise Data Labs",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-training-specialist-python-developer-at-rise-data-labs-4485598449",
-      "posted_at": "2026-11-05",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About Rise Data Labs Rise Data Labs is a leading AI training and data annotation company that specializes in creating high-quality training data for artificial intelligence systems. We work with top AI companies and research institutions to improve machine learning models through expert human annotation and validation. Our team of domain specialists, subject matter experts, and quality assurance p"
     }
   ]
 }
