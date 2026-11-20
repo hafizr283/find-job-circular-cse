@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-20T08:41:19+00:00",
+  "built_at": "2026-11-20T19:28:06+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-20T08:41:18+00:00",
-  "total_jobs": 169,
-  "needing_review": 116,
+  "dataset_generated_at": "2026-11-20T19:28:06+00:00",
+  "total_jobs": 173,
+  "needing_review": 120,
   "in_this_batch": 40,
-  "remaining_after_batch": 76,
+  "remaining_after_batch": 80,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -19,12 +19,32 @@
   ],
   "pending": [
     {
-      "id": "linkedin-4491120172",
-      "title": "Software Engineer",
-      "company": "TransMedia Inc.",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineer-at-transmedia-inc-4491120172",
-      "posted_at": "2026-11-17",
+      "id": "linkedin-4490256530",
+      "title": "Mobile App Developer - Android",
+      "company": "NEXT Ventures",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/mobile-app-developer-android-at-next-ventures-4490256530",
+      "posted_at": "2026-11-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4491836522",
+      "title": "Assoc Dir, Software Development",
+      "company": "IQVIA",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/assoc-dir-software-development-at-iqvia-4491836522",
+      "posted_at": "2026-11-18",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
@@ -119,26 +139,6 @@
       "description_excerpt": "SaskIT Inc. (Saskatoon, Canada) builds secure, self-hosted software for law firms, accounting firms, municipalities, and payroll and HR. This is a remote role from Bangladesh, working in our Canadian development environment with modern tools including AI-assisted coding (Claude Code). We are hiring for several positions through this single posting: Lead Developer, Senior Developer (platform and se"
     },
     {
-      "id": "linkedin-4488778024",
-      "title": "System Administrator (SCCM)",
-      "company": "Gildan",
-      "location": "Gulshan, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/system-administrator-sccm-at-gildan-4488778024",
-      "posted_at": "2026-11-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cloud, Infrastructure & DevOps",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4488756906",
       "title": "System Administrator (Linux/Unix)",
       "company": "Gildan",
@@ -159,14 +159,14 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4476584642",
-      "title": "Analyst, IT Cyber Security",
+      "id": "linkedin-4488778024",
+      "title": "System Administrator (SCCM)",
       "company": "Gildan",
       "location": "Gulshan, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/analyst-it-cyber-security-at-gildan-4476584642",
-      "posted_at": "2026-10-07",
+      "url": "https://bd.linkedin.com/jobs/view/system-administrator-sccm-at-gildan-4488778024",
+      "posted_at": "2026-11-08",
       "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
+      "regex_category": "Cloud, Infrastructure & DevOps",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -177,6 +177,45 @@
         "description missing, classification rests on the title alone"
       ],
       "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4484411975",
+      "title": "DevOps Engineer (Junior / Mid-Level)",
+      "company": "Newroz Technologies Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/devops-engineer-junior-mid-level-at-newroz-technologies-limited-4484411975",
+      "posted_at": "2026-10-28",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4492909229",
+      "title": "National Project Officer/ Associate (Natural, Social and Human Sciences)",
+      "company": "UNESCO Dhaka",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/national-project-officer-associate-natural-social-and-human-sciences-at-unesco-dhaka-4492909229",
+      "posted_at": "2026-11-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "JOB DETAILS Type of contract : Service Contract Level : SC8 Hiring Unit : Social and Human Sciences Sector (SHS) Duty Station : Dhaka Work location : On site Duration of contract : 12 months Hiring open to : External candidates Application deadline (Midnight UTC+6 Time) : 09/12/2026 UNESCO Core Values: Commitment to the Organization, Integrity, Respect for Diversity, Professionalism ORGANIZATIONAL"
     },
     {
       "id": "linkedin-4490274434",
@@ -198,6 +237,25 @@
       "description_excerpt": "𝐖𝐞 𝐀𝐫𝐞 𝐇𝐢𝐫𝐢𝐧𝐠 𝐂𝐥𝐢𝐞𝐧𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 Employment type: Full-time Workplace: On-site Experience: Freshers & experienced Location: Banasree, Dhaka Vacancies: 10 Probation Period: 6 Months About the opportunity Beuptech Agency is looking for motivated and confident individuals to join our team as Foreign Communication Executives. This role offers an opportunity to work with international clients, de"
     },
     {
+      "id": "linkedin-4492784206",
+      "title": "Junior Cybersecurity Analyst - AI Evaluation (Non-US)",
+      "company": "Braintrust",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/junior-cybersecurity-analyst-ai-evaluation-non-us-at-braintrust-4492784206",
+      "posted_at": "2026-11-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About The Opportunity Help evaluate AI-generated answers on cybersecurity tasks. You’ll read code, apply the assigned policy to each case, and write concise notes that explain your labels. You’ll switch between policy sets as assignments change, flag issues in AI output, and support investigations through consistent case review. What You’ll Do Review standard cases using the assigned policy. Escal"
+    },
+    {
       "id": "linkedin-4489767973",
       "title": "Project Manager Intern",
       "company": "ArchioTech",
@@ -215,44 +273,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Title: Project Manager Intern Company: Archiotech Location: Hybrid (Dhaka) Job Type: Internship (3 to 6 Months) About the Opportunity Are you looking for an opportunity to build and develop your career in Project Management ? At Archiotech , we are looking for an enthusiastic and detail-oriented Project Manager Intern who wants to learn and gain hands-on experience managing real-world software"
-    },
-    {
-      "id": "linkedin-4491806854",
-      "title": "Intern Django Developer",
-      "company": "Universe Soft Tech",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/intern-django-developer-at-universe-soft-tech-4491806854",
-      "posted_at": "2026-11-18",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description Universe Soft Tech is a growing technology company focused on building reliable, scalable software solutions for a variety of clients. The team emphasizes modern web technologies, collaborative problem-solving, and continuous learning. Interns at Universe Soft Tech have the opportunity to work closely with experienced developers and gain hands-on experience with real projects. "
-    },
-    {
-      "id": "linkedin-4491836522",
-      "title": "Assoc Dir, Software Development",
-      "company": "IQVIA",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/assoc-dir-software-development-at-iqvia-4491836522",
-      "posted_at": "2026-11-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Role Summary We are hiring a Senior AWS DevOps Engineer to own, secure, and scale the infrastructure for our Orchestrated Analytics SaaS platform. This role bridges application development and operations—focusing on building bulletproof CI/CD pipelines , managing Kubernetes clusters, driving Terraform automation, and embedding DevSecOps security layers. Technical Profile Matrix Primary Cloud (Must"
     },
     {
       "id": "linkedin-4492087047",
@@ -274,6 +294,25 @@
       "description_excerpt": "About The Opportunity Gramian is participating in an exclusive, invite-only code licensing program with a leading AI lab. The program allows software developers, engineers, and organizations to earn compensation by licensing existing software repositories for AI training and research purposes. This is a non-exclusive licensing opportunity , meaning code owners retain their intellectual property an"
     },
     {
+      "id": "linkedin-4491806854",
+      "title": "Intern Django Developer",
+      "company": "Universe Soft Tech",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/intern-django-developer-at-universe-soft-tech-4491806854",
+      "posted_at": "2026-11-18",
+      "regex_job_type": "Internship",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Universe Soft Tech is a growing technology company focused on building reliable, scalable software solutions for a variety of clients. The team emphasizes modern web technologies, collaborative problem-solving, and continuous learning. Interns at Universe Soft Tech have the opportunity to work closely with experienced developers and gain hands-on experience with real projects. "
+    },
+    {
       "id": "linkedin-4488618524",
       "title": "Customer Success Specialist",
       "company": "BPO Homes Inc",
@@ -293,25 +332,6 @@
       "description_excerpt": "Company Description BPO Homes Inc. is a Real Estate Brokerage and Technology company geared at helping agents grow their business. What you’ll do Take over newly closed clients and guide them through onboarding and their first steps Respond to client questions by phone and email Check in regularly and track each client’s progress Spot clients who are struggling or at risk of leaving, and reach out"
     },
     {
-      "id": "linkedin-4490193765",
-      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
-      "company": "BRAC University",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-contractual-for-brac-university-job-id-1556652-at-brac-university-4490193765",
-      "posted_at": "2026-11-17",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
-    },
-    {
       "id": "linkedin-4481537456",
       "title": "Technical Support Engineer",
       "company": "Imou",
@@ -329,6 +349,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
+    },
+    {
+      "id": "linkedin-4490193765",
+      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
+      "company": "BRAC University",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-contractual-for-brac-university-job-id-1556652-at-brac-university-4490193765",
+      "posted_at": "2026-11-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
     },
     {
       "id": "linkedin-4490611094",
@@ -578,25 +617,6 @@
       "description_excerpt": "Company Description MezX is an accounting software company focused on detecting financial irregularities in seconds and helping organizations maintain robust financial compliance. The platform verifies results against multiple financial and accounting standards and methods tailored to regional taxation laws, VAT, and customs policies. MezX supports global standards and frameworks such as IFRS, GAA"
     },
     {
-      "id": "linkedin-4489465268",
-      "title": "Laravel Developer",
-      "company": "B2B Lead Shop",
-      "location": "Khulna, Khulna, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
-    },
-    {
       "id": "linkedin-4488309317",
       "title": "Management Trainee (Intern)",
       "company": "Startise",
@@ -635,25 +655,6 @@
       "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
     },
     {
-      "id": "linkedin-4488310326",
-      "title": "Technical Support Engineer - xCloud Hosting (Night Shift)",
-      "company": "Startise",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-xcloud-hosting-night-shift-at-startise-4488310326",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
-    },
-    {
       "id": "linkedin-4489458767",
       "title": "Full Stack (Mern)",
       "company": "B2B Lead Shop",
@@ -673,14 +674,14 @@
       "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Full Stack (Mern) Home Careers Full Stack (Mern) Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When seeking creative services for your business, it’s essential to choose experienced professionals or agencies with a stron"
     },
     {
-      "id": "linkedin-4486644644",
-      "title": "Artificial Intelligence Intern",
-      "company": "ELITE.Org",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
-      "posted_at": "2026-11-07",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
+      "id": "linkedin-4489465268",
+      "title": "Laravel Developer",
+      "company": "B2B Lead Shop",
+      "location": "Khulna, Khulna, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
@@ -689,7 +690,26 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
+      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
+    },
+    {
+      "id": "linkedin-4488310326",
+      "title": "Technical Support Engineer - xCloud Hosting (Night Shift)",
+      "company": "Startise",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-xcloud-hosting-night-shift-at-startise-4488310326",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
     },
     {
       "id": "linkedin-4488483535",
@@ -709,6 +729,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati"
+    },
+    {
+      "id": "linkedin-4486644644",
+      "title": "Artificial Intelligence Intern",
+      "company": "ELITE.Org",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/artificial-intelligence-intern-at-elite-org-4486644644",
+      "posted_at": "2026-11-07",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Description: We are a Global organisation dedicated to enlightening, empowering, and elevating learners around the world providing a digital platform that supports accessible, knowledge-driven growth for diverse communities. A focused four-week internship designed to accelerate your AI acedamic concepts to hands-on projects. Mail your updated resumes to:applications@elite-an.org with AI Enthusiast"
     },
     {
       "id": "linkedin-4477348901",
@@ -747,44 +786,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
-    },
-    {
-      "id": "linkedin-4487651822",
-      "title": "Softzency is Hiring: Data Scientist",
-      "company": "Softzency",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/softzency-is-hiring-data-scientist-at-softzency-4487651822",
-      "posted_at": "2026-11-08",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Softzency is seeking a highly skilled data scientist to lead the development and deployment of an explainable credit scoring solution designed to support microfinance institutions Key Responsibilities: -Collect, harmonise, and analyse financial and credit-related datasets. -Develop, train, and validate machine learning models for credit scoring. -Implement model explainability, fairness assessment"
-    },
-    {
-      "id": "linkedin-4490223098",
-      "title": "AI & Machine Learning (Intern)",
-      "company": "sbmbd-it",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-machine-learning-intern-at-sbmbd-it-4490223098",
-      "posted_at": "2026-11-15",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Unpaid",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Type: Internship (Unpaid) Work Mode: Hybrid We are looking for enthusiastic students interested in AI, Data Science, and Automation. Candidates should have basic knowledge of AI tools, a willingness to learn, and problem-solving skills. Requirements: Interest in AI, Data Science, and Automation. Basic programming knowledge is a plus. Must have an active Claude subscription (paid plan). Willing"
     }
   ]
 }
