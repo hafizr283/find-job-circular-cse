@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-21T14:44:18+00:00",
+  "built_at": "2026-11-21T21:48:26+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-21T14:44:18+00:00",
-  "total_jobs": 179,
-  "needing_review": 126,
+  "dataset_generated_at": "2026-11-21T21:48:26+00:00",
+  "total_jobs": 177,
+  "needing_review": 124,
   "in_this_batch": 40,
-  "remaining_after_batch": 86,
+  "remaining_after_batch": 84,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -179,6 +179,26 @@
       "description_excerpt": ""
     },
     {
+      "id": "linkedin-4480409105",
+      "title": "Site Reliability & DevOps Engineer",
+      "company": "Pipeline Co., Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/site-reliability-devops-engineer-at-pipeline-co-ltd-4480409105",
+      "posted_at": "2026-10-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cloud, Infrastructure & DevOps",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
       "id": "linkedin-4492892223",
       "title": "React & Django Developer Intern",
       "company": "Ricbond",
@@ -253,6 +273,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About The Opportunity Help evaluate AI-generated answers on cybersecurity tasks. You’ll read code, apply the assigned policy to each case, and write concise notes that explain your labels. You’ll switch between policy sets as assignments change, flag issues in AI output, and support investigations through consistent case review. What You’ll Do Review standard cases using the assigned policy. Escal"
+    },
+    {
+      "id": "linkedin-4493107194",
+      "title": "Cyber Security Specialist",
+      "company": "Cyber Avenzor",
+      "location": "Chattogram, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cyber-security-specialist-at-cyber-avenzor-4493107194",
+      "posted_at": "2026-11-21",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Cyber Avenzor is a cybersecurity-focused agency dedicated to helping businesses and digital professionals strengthen their overall security posture. The organization specializes in identifying vulnerabilities, investigating security incidents, and protecting websites, web applications, and digital assets. Core service areas include cybersecurity assessments, website security, p"
     },
     {
       "id": "linkedin-4491919322",
@@ -424,25 +463,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Company Description Crevio is a full-service design agency focused on supporting startups and creative teams with high-impact digital products. The agency specializes in UI/UX design, web development, and branding, delivering conversion-driven solutions that turn ideas into measurable results. Crevio provides end-to-end product design, design systems, brand identity, and investor decks, helping cl"
-    },
-    {
-      "id": "linkedin-4484677799",
-      "title": "Android Developer",
-      "company": "Eptics Inc.",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/android-developer-at-eptics-inc-4484677799",
-      "posted_at": "2026-11-06",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary: 20,000",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Mobile Developer (React Native and Android) with PHP, Part-Time, Remote About Eptics Inc. Eptics Inc. provides end-to-end software development for startups and growing businesses, acting as a virtual CTO from first idea through MVP, launch and long-term support. We build custom software, Android and iOS apps, and AR/VR experiences. We work in small agile teams and focus on long-term client partner"
     },
     {
       "id": "linkedin-4488914288",
@@ -692,25 +712,6 @@
       "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
     },
     {
-      "id": "linkedin-4488311255",
-      "title": "Node.js Developer (Shopify)",
-      "company": "Startise",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/node-js-developer-shopify-at-startise-4488311255",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
-    },
-    {
       "id": "linkedin-4488310326",
       "title": "Technical Support Engineer - xCloud Hosting (Night Shift)",
       "company": "Startise",
@@ -749,6 +750,25 @@
       "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Full Stack (Mern) Home Careers Full Stack (Mern) Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When seeking creative services for your business, it’s essential to choose experienced professionals or agencies with a stron"
     },
     {
+      "id": "linkedin-4488311255",
+      "title": "Node.js Developer (Shopify)",
+      "company": "Startise",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/node-js-developer-shopify-at-startise-4488311255",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Freelance & Niche Tech",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
+    },
+    {
       "id": "linkedin-4489465268",
       "title": "Laravel Developer",
       "company": "B2B Lead Shop",
@@ -766,25 +786,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
-    },
-    {
-      "id": "linkedin-4477348901",
-      "title": "Embedded Systems & SBC Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4477348901",
-      "posted_at": "2026-10-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
     }
   ]
 }
