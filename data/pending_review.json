@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-22T08:03:00+00:00",
+  "built_at": "2026-11-22T18:38:53+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-22T08:02:59+00:00",
-  "total_jobs": 173,
-  "needing_review": 121,
+  "dataset_generated_at": "2026-11-22T18:38:52+00:00",
+  "total_jobs": 179,
+  "needing_review": 127,
   "in_this_batch": 40,
-  "remaining_after_batch": 81,
+  "remaining_after_batch": 87,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -77,6 +77,26 @@
         "title bundles several unrelated roles"
       ],
       "description_excerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The "
+    },
+    {
+      "id": "linkedin-4488922087",
+      "title": "Security Engineer",
+      "company": "Flox",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-flox-4488922087",
+      "posted_at": "2026-11-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4489057748",
@@ -198,6 +218,25 @@
       "description_excerpt": "Position: React & Django Developer Intern Location: Mirpur 11, Dhaka Duration: 4 Months Stipend: BDT 10,000 during the internship We are looking for a motivated and enthusiastic *React & Django Developer Intern* to join our development team. This internship is ideal for someone who wants hands-on experience building modern web applications using *React.js* for the frontend and *Django/Django REST "
     },
     {
+      "id": "linkedin-4493176196",
+      "title": "Cybersecurity Trainer",
+      "company": "Applomo",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-trainer-at-applomo-4493176196",
+      "posted_at": "2026-11-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Applomo is hiring a part-time Cybersecurity Trainer to deliver practical online training. The role is remote within Bangladesh, with preference for candidates based in Dhaka. Show more Show less Seniority level Entry level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Applomo by 2x See who you know"
+    },
+    {
       "id": "linkedin-4492909229",
       "title": "National Project Officer/ Associate (Natural, Social and Human Sciences)",
       "company": "UNESCO Dhaka",
@@ -253,6 +292,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "About The Opportunity Help evaluate AI-generated answers on cybersecurity tasks. You’ll read code, apply the assigned policy to each case, and write concise notes that explain your labels. You’ll switch between policy sets as assignments change, flag issues in AI output, and support investigations through consistent case review. What You’ll Do Review standard cases using the assigned policy. Escal"
+    },
+    {
+      "id": "linkedin-4493185122",
+      "title": "Technical Support Officer",
+      "company": "Mental Health :)",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-officer-at-mental-health-4493185122",
+      "posted_at": "2026-11-22",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "প্রতিষ্ঠান: মনের খবর কর্মস্থল: মগবাজার, ঢাকা চাকরির ধরন: Full-time স্যলারি- অভিজ্ঞতা ও যোগ্যতা অনুযায়ী আলোচনা সাপেক্ষে প্রতিষ্ঠান পরিচিতি: মনের খবর একটি মানসিক স্বাস্থ্যবিষয়ক প্রতিষ্ঠান। প্রধান দায়িত্বসমূহ (Core Responsibilities): * Live Streaming (Zoom, Google Meet, OBS Studio, StreamYard, etc.) * Hardware troubleshooting and maintenance * Live broadcast management, Overlay setup and management *"
     },
     {
       "id": "linkedin-4493158349",
@@ -331,6 +389,25 @@
       "description_excerpt": "Job Title: Project Manager Intern Company: Archiotech Location: Hybrid (Dhaka) Job Type: Internship (3 to 6 Months) About the Opportunity Are you looking for an opportunity to build and develop your career in Project Management ? At Archiotech , we are looking for an enthusiastic and detail-oriented Project Manager Intern who wants to learn and gain hands-on experience managing real-world software"
     },
     {
+      "id": "linkedin-4492087047",
+      "title": "Software Engineers & Code Owners - AI Code Licensing Program",
+      "company": "Gramian Consulting",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineers-code-owners-ai-code-licensing-program-at-gramian-consulting-4492087047",
+      "posted_at": "2026-11-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About The Opportunity Gramian is participating in an exclusive, invite-only code licensing program with a leading AI lab. The program allows software developers, engineers, and organizations to earn compensation by licensing existing software repositories for AI training and research purposes. This is a non-exclusive licensing opportunity , meaning code owners retain their intellectual property an"
+    },
+    {
       "id": "linkedin-4491836522",
       "title": "Assoc Dir, Software Development",
       "company": "IQVIA",
@@ -369,25 +446,6 @@
       "description_excerpt": "Company Description Universe Soft Tech is a growing technology company focused on building reliable, scalable software solutions for a variety of clients. The team emphasizes modern web technologies, collaborative problem-solving, and continuous learning. Interns at Universe Soft Tech have the opportunity to work closely with experienced developers and gain hands-on experience with real projects. "
     },
     {
-      "id": "linkedin-4492087047",
-      "title": "Software Engineers & Code Owners - AI Code Licensing Program",
-      "company": "Gramian Consulting",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineers-code-owners-ai-code-licensing-program-at-gramian-consulting-4492087047",
-      "posted_at": "2026-11-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About The Opportunity Gramian is participating in an exclusive, invite-only code licensing program with a leading AI lab. The program allows software developers, engineers, and organizations to earn compensation by licensing existing software repositories for AI training and research purposes. This is a non-exclusive licensing opportunity , meaning code owners retain their intellectual property an"
-    },
-    {
       "id": "linkedin-4488618524",
       "title": "Customer Success Specialist",
       "company": "BPO Homes Inc",
@@ -407,25 +465,6 @@
       "description_excerpt": "Company Description BPO Homes Inc. is a Real Estate Brokerage and Technology company geared at helping agents grow their business. What you’ll do Take over newly closed clients and guide them through onboarding and their first steps Respond to client questions by phone and email Check in regularly and track each client’s progress Spot clients who are struggling or at risk of leaving, and reach out"
     },
     {
-      "id": "linkedin-4490193765",
-      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
-      "company": "BRAC University",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-contractual-for-brac-university-job-id-1556652-at-brac-university-4490193765",
-      "posted_at": "2026-11-17",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
-    },
-    {
       "id": "linkedin-4481537456",
       "title": "Technical Support Engineer",
       "company": "Imou",
@@ -443,6 +482,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
+    },
+    {
+      "id": "linkedin-4490193765",
+      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
+      "company": "BRAC University",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-contractual-for-brac-university-job-id-1556652-at-brac-university-4490193765",
+      "posted_at": "2026-11-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
     },
     {
       "id": "linkedin-4490611094",
@@ -654,6 +712,25 @@
       "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its th"
     },
     {
+      "id": "linkedin-4490570096",
+      "title": "Trainee AI/ML Engineer",
+      "company": "Next Solution Lab",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/trainee-ai-ml-engineer-at-next-solution-lab-4490570096",
+      "posted_at": "2026-11-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
       "id": "linkedin-4477348901",
       "title": "Embedded Systems & SBC Engineer",
       "company": "Worksprout",
@@ -709,82 +786,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Frontend Developer — New Opportunity We’re supporting a partner company in hiring a Frontend Developer with strong experience in Next.js, HTML, and CSS . This role is ideal for developers who enjoy building clean, scalable user interfaces and working on real production products , not demos. What you’ll be working on • Developing and supporting frontend features in Next.js for live production envir"
-    },
-    {
-      "id": "linkedin-4487650582",
-      "title": "Business Analyst Intern",
-      "company": "MezX",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/business-analyst-intern-at-mezx-4487650582",
-      "posted_at": "2026-11-08",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description MezX is an accounting software company focused on detecting financial irregularities in seconds and helping organizations maintain robust financial compliance. The platform verifies results against multiple financial and accounting standards and methods tailored to regional taxation laws, VAT, and customs policies. MezX supports global standards and frameworks such as IFRS, GAA"
-    },
-    {
-      "id": "linkedin-4489465268",
-      "title": "Laravel Developer",
-      "company": "B2B Lead Shop",
-      "location": "Khulna, Khulna, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/laravel-developer-at-b2b-lead-shop-4489465268",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Contact Us Home About Portfolio Our Services Blog Contact Hire Now Get In Touch Laravel Developer For businesses with digital products or services, ensuring a user-friendly and visually appealing interface is vital. Home Careers Laravel Developer Post: Web Developer Time: Full Time Salare: $700 No of Vacancy: 05 Apply Now When se"
-    },
-    {
-      "id": "linkedin-4488309317",
-      "title": "Management Trainee (Intern)",
-      "company": "Startise",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/management-trainee-intern-at-startise-4488309317",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Internship",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
-    },
-    {
-      "id": "linkedin-4488311255",
-      "title": "Node.js Developer (Shopify)",
-      "company": "Startise",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/node-js-developer-shopify-at-startise-4488311255",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Freelance & Niche Tech",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Startise is a beacon of innovation and the dynamic parent company of WPDeveloper and many other subsidiaries. With a diverse portfolio of brands, we are committed to evolving and fostering excellence to help millions globally in their pursuit of growth and success across a wide range of ventures. We strongly believe ‘good for the… Show more Show less Seniority level Not Applicable Employment type "
     }
   ]
 }
