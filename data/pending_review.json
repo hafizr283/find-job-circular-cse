@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-23T18:09:18+00:00",
+  "built_at": "2026-11-24T05:28:47+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-23T18:09:18+00:00",
+  "dataset_generated_at": "2026-11-24T05:28:47+00:00",
   "total_jobs": 178,
-  "needing_review": 126,
+  "needing_review": 125,
   "in_this_batch": 40,
-  "remaining_after_batch": 86,
+  "remaining_after_batch": 85,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -99,26 +99,6 @@
       "description_excerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The "
     },
     {
-      "id": "linkedin-4488922087",
-      "title": "Security Engineer",
-      "company": "Flox",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-flox-4488922087",
-      "posted_at": "2026-11-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4487601555",
       "title": "Software Developers, QA and AI Engineer (multiple positions, remote)",
       "company": "SaskIT Inc",
@@ -139,6 +119,26 @@
       "description_excerpt": "SaskIT Inc. (Saskatoon, Canada) builds secure, self-hosted software for law firms, accounting firms, municipalities, and payroll and HR. This is a remote role from Bangladesh, working in our Canadian development environment with modern tools including AI-assisted coding (Claude Code). We are hiring for several positions through this single posting: Lead Developer, Senior Developer (platform and se"
     },
     {
+      "id": "linkedin-4488922087",
+      "title": "Security Engineer",
+      "company": "Flox",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-flox-4488922087",
+      "posted_at": "2026-11-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
       "id": "linkedin-4489057748",
       "title": "Software Developer (VB.Net)",
       "company": "NEXUS / HDC",
@@ -147,6 +147,26 @@
       "posted_at": "2026-11-12",
       "regex_job_type": "Fresher job",
       "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
+    },
+    {
+      "id": "linkedin-4488310326",
+      "title": "Technical Support Engineer - xCloud Hosting (Night Shift)",
+      "company": "Startise",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-xcloud-hosting-night-shift-at-startise-4488310326",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -274,6 +294,44 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Applomo is hiring a part-time Cybersecurity Trainer to deliver practical online training. The role is remote within Bangladesh, with preference for candidates based in Dhaka. Show more Show less Seniority level Entry level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Applomo by 2x See who you know"
+    },
+    {
+      "id": "linkedin-4493792700",
+      "title": "Game Developer",
+      "company": "Job Vacancy in Bangladesh",
+      "location": "Mirpur Model Thana, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/game-developer-at-job-vacancy-in-bangladesh-4493792700",
+      "posted_at": "2026-11-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description Job Vacancy in Bangladesh is a career-focused platform dedicated to helping people find jobs and build sustainable futures. The organization offers CV/Resume writing, headhunting, job placement, job posting, and promotion and advertising services tailored to the Bangladeshi job market. It connects talented individuals with suitable employment opportunities through personalized "
+    },
+    {
+      "id": "linkedin-4494308087",
+      "title": "Assistant Manager Technical Support",
+      "company": "Shark Limited",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/assistant-manager-technical-support-at-shark-limited-4494308087",
+      "posted_at": "2026-11-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description SHARK Ltd. is an engineering solution provider specializing in HVAC, power, and IT-related services and solutions. The company delivers original branded products sourced from Europe, the USA, Canada, Australia, and Asia, ensuring quality and reliability for clients. SHARK Ltd. focuses on combining advanced technology with practical engineering expertise to meet diverse customer"
     },
     {
       "id": "linkedin-4492909229",
@@ -428,25 +486,6 @@
       "description_excerpt": "Job Title: Project Manager Intern Company: Archiotech Location: Hybrid (Dhaka) Job Type: Internship (3 to 6 Months) About the Opportunity Are you looking for an opportunity to build and develop your career in Project Management ? At Archiotech , we are looking for an enthusiastic and detail-oriented Project Manager Intern who wants to learn and gain hands-on experience managing real-world software"
     },
     {
-      "id": "linkedin-4492087047",
-      "title": "Software Engineers & Code Owners - AI Code Licensing Program",
-      "company": "Gramian Consulting",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineers-code-owners-ai-code-licensing-program-at-gramian-consulting-4492087047",
-      "posted_at": "2026-11-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About The Opportunity Gramian is participating in an exclusive, invite-only code licensing program with a leading AI lab. The program allows software developers, engineers, and organizations to earn compensation by licensing existing software repositories for AI training and research purposes. This is a non-exclusive licensing opportunity , meaning code owners retain their intellectual property an"
-    },
-    {
       "id": "linkedin-4491836522",
       "title": "Assoc Dir, Software Development",
       "company": "IQVIA",
@@ -485,6 +524,25 @@
       "description_excerpt": "Company Description Universe Soft Tech is a growing technology company focused on building reliable, scalable software solutions for a variety of clients. The team emphasizes modern web technologies, collaborative problem-solving, and continuous learning. Interns at Universe Soft Tech have the opportunity to work closely with experienced developers and gain hands-on experience with real projects. "
     },
     {
+      "id": "linkedin-4492087047",
+      "title": "Software Engineers & Code Owners - AI Code Licensing Program",
+      "company": "Gramian Consulting",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineers-code-owners-ai-code-licensing-program-at-gramian-consulting-4492087047",
+      "posted_at": "2026-11-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About The Opportunity Gramian is participating in an exclusive, invite-only code licensing program with a leading AI lab. The program allows software developers, engineers, and organizations to earn compensation by licensing existing software repositories for AI training and research purposes. This is a non-exclusive licensing opportunity , meaning code owners retain their intellectual property an"
+    },
+    {
       "id": "linkedin-4488618524",
       "title": "Customer Success Specialist",
       "company": "BPO Homes Inc",
@@ -504,25 +562,6 @@
       "description_excerpt": "Company Description BPO Homes Inc. is a Real Estate Brokerage and Technology company geared at helping agents grow their business. What you’ll do Take over newly closed clients and guide them through onboarding and their first steps Respond to client questions by phone and email Check in regularly and track each client’s progress Spot clients who are struggling or at risk of leaving, and reach out"
     },
     {
-      "id": "linkedin-4481537456",
-      "title": "Technical Support Engineer",
-      "company": "Imou",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
-      "posted_at": "2026-11-17",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
-    },
-    {
       "id": "linkedin-4490193765",
       "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
       "company": "BRAC University",
@@ -540,6 +579,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
+    },
+    {
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-11-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4490611094",
@@ -618,25 +676,6 @@
       "description_excerpt": "About dooit.ai dooit.ai is building a world-class AI-native platform purpose-built for financial institutions, regulators, and enterprises that need real security, not just compliance theatre. We are now building the next generation: a single AI engine that automates the entire cybersecurity lifecycle for any organisation - from startups to sovereign governments. Think Vanta, Lacework, Wiz, CrowdS"
     },
     {
-      "id": "linkedin-4490225210",
-      "title": "AI-POWERED CAREER ACCELERATION INTERNSHIP",
-      "company": "Sticker Visa",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-powered-career-acceleration-internship-at-sticker-visa-4490225210",
-      "posted_at": "2026-11-15",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Accelerate Your Thinking. Upgrade Your Skills. Deliver Real Results. Sticker Visa | Mirpur DOHS, Dhaka | Full-Time, On-Site We are looking for ambitious individuals who want to accelerate their professional growth by working with Artificial Intelligence, business research, digital creativity, and real operational challenges. This is not a passive internship. You will receive practical assignments "
-    },
-    {
       "id": "linkedin-4483237904",
       "title": "Full Stack Developer",
       "company": "Lab3",
@@ -675,6 +714,44 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
+      "id": "linkedin-4490225210",
+      "title": "AI-POWERED CAREER ACCELERATION INTERNSHIP",
+      "company": "Sticker Visa",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/ai-powered-career-acceleration-internship-at-sticker-visa-4490225210",
+      "posted_at": "2026-11-15",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Accelerate Your Thinking. Upgrade Your Skills. Deliver Real Results. Sticker Visa | Mirpur DOHS, Dhaka | Full-Time, On-Site We are looking for ambitious individuals who want to accelerate their professional growth by working with Artificial Intelligence, business research, digital creativity, and real operational challenges. This is not a passive internship. You will receive practical assignments "
+    },
+    {
+      "id": "linkedin-4489370804",
+      "title": "Security Engineer",
+      "company": "LiteLLM",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-litellm-4489370804",
+      "posted_at": "2026-11-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Security Engineer LiteLLM is the world’s most popular AI Gateway, trusted by companies like Adobe, Netflix, and NASA. Our platform gives developers secure, reliable access to LLMs and adjacent services. We’re looking for our first Security Engineer to help secure LiteLLM’s application, infrastructure, "
+    },
+    {
       "id": "linkedin-4492868648",
       "title": "AI & Machine Learning (Intern)",
       "company": "sbm",
@@ -711,82 +788,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Você deveria fazer parte do Jusbrasil Transformar o sistema de Justiça com tecnologia não é trivial. Estamos construindo uma inteligência artificial dentro de casa: o Jus IA tem 43% menos alucinações que IAs generalistas. Essa é a prova concreta de que aqui tecnologia não é discurso, e sustenta a nossa"
-    },
-    {
-      "id": "linkedin-4487805997",
-      "title": "Cybersecurity Instructor (Remote)",
-      "company": "ImranTheExploitHunter",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cybersecurity-instructor-remote-at-imrantheexploithunter-4487805997",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description ImranTheExploitHunter, founded in 2015, is a proactive offensive security firm specializing in Vulnerability Assessment and Penetration Testing (VAPT) across web, mobile, network, and infrastructure environments. The organization focuses on identifying and remediating security weaknesses before they can be exploited by threat actors. Its services include advanced penetration te"
-    },
-    {
-      "id": "linkedin-4488553994",
-      "title": "AI Security Engineer",
-      "company": "BJAK",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-security-engineer-at-bjak-4488553994",
-      "posted_at": "2026-11-12",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its th"
-    },
-    {
-      "id": "linkedin-4477348901",
-      "title": "Embedded Systems & SBC Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4477348901",
-      "posted_at": "2026-10-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
-    },
-    {
-      "id": "linkedin-4462774205",
-      "title": "Computer Vision & Robotics Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
     }
   ]
 }
