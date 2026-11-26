@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-26T03:39:20+00:00",
+  "built_at": "2026-11-26T16:56:39+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-26T03:39:19+00:00",
-  "total_jobs": 182,
-  "needing_review": 131,
+  "dataset_generated_at": "2026-11-26T16:56:38+00:00",
+  "total_jobs": 187,
+  "needing_review": 134,
   "in_this_batch": 40,
-  "remaining_after_batch": 91,
+  "remaining_after_batch": 94,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -239,6 +239,25 @@
       "description_excerpt": ""
     },
     {
+      "id": "linkedin-4493499822",
+      "title": "Business Growth Intern",
+      "company": "GetUp Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/business-growth-intern-at-getup-limited-4493499822",
+      "posted_at": "2026-11-26",
+      "regex_job_type": "Internship",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Paid internship",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company: GetUp Limited (A Concern of SoftifyBD) Product: GetCommerce Department: Business Development Job Type: Paid Internship Workplace: Office-based Working Days: Sunday – Thursday Office Hours: 10:00 AM – 7:00 PM Weekly Holidays: Friday & Saturday Location: Gulshan, Dhaka About the Company GetUp Limited is a technology-driven company specializing in eCommerce solutions, business automation and"
+    },
+    {
       "id": "linkedin-4493544301",
       "title": "Full Stack Engineer",
       "company": "HyperOdd",
@@ -332,6 +351,44 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Applomo is hiring a part-time Cybersecurity Trainer to deliver practical online training. The role is remote within Bangladesh, with preference for candidates based in Dhaka. Show more Show less Seniority level Entry level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Applomo by 2x See who you know"
+    },
+    {
+      "id": "linkedin-4494109501",
+      "title": "Project Analyst (Gender) [Open to internal and external applicants]",
+      "company": "UNDP Careers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-gender-open-to-internal-and-external-applicants-at-undp-careers-4494109501",
+      "posted_at": "2026-11-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+    },
+    {
+      "id": "linkedin-4494110851",
+      "title": "Project Analyst (Gender) [Open to internal and external applicants]",
+      "company": "International Civil Aviation Organization",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-gender-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4494110851",
+      "posted_at": "2026-11-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
       "id": "linkedin-4493792700",
@@ -638,25 +695,6 @@
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
     },
     {
-      "id": "linkedin-4490193765",
-      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
-      "company": "BRAC University",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-contractual-for-brac-university-job-id-1556652-at-brac-university-4490193765",
-      "posted_at": "2026-11-17",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
-    },
-    {
       "id": "linkedin-4481537456",
       "title": "Technical Support Engineer",
       "company": "Imou",
@@ -674,6 +712,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
+    },
+    {
+      "id": "linkedin-4490193765",
+      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
+      "company": "BRAC University",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-contractual-for-brac-university-job-id-1556652-at-brac-university-4490193765",
+      "posted_at": "2026-11-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
     },
     {
       "id": "linkedin-4490611094",
@@ -731,63 +788,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Asymmetric Research Asymmetric Research is a specialized security firm focused on long-term, integrated partnerships with L1/L2 blockchains and DeFi protocols. We help teams build resilient systems, strengthen security posture, and proactively address emerging threats. About The Role We are seeking a S"
-    },
-    {
-      "id": "linkedin-4489525205",
-      "title": "Cyber Security Engineer",
-      "company": "Dooit.ai",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/cyber-security-engineer-at-dooit-ai-4489525205",
-      "posted_at": "2026-11-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About dooit.ai dooit.ai is building a world-class AI-native platform purpose-built for financial institutions, regulators, and enterprises that need real security, not just compliance theatre. We are now building the next generation: a single AI engine that automates the entire cybersecurity lifecycle for any organisation - from startups to sovereign governments. Think Vanta, Lacework, Wiz, CrowdS"
-    },
-    {
-      "id": "linkedin-4490225210",
-      "title": "AI-POWERED CAREER ACCELERATION INTERNSHIP",
-      "company": "Sticker Visa",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/ai-powered-career-acceleration-internship-at-sticker-visa-4490225210",
-      "posted_at": "2026-11-15",
-      "regex_job_type": "Internship",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Accelerate Your Thinking. Upgrade Your Skills. Deliver Real Results. Sticker Visa | Mirpur DOHS, Dhaka | Full-Time, On-Site We are looking for ambitious individuals who want to accelerate their professional growth by working with Artificial Intelligence, business research, digital creativity, and real operational challenges. This is not a passive internship. You will receive practical assignments "
-    },
-    {
-      "id": "linkedin-4489370804",
-      "title": "Security Engineer",
-      "company": "LiteLLM",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-litellm-4489370804",
-      "posted_at": "2026-11-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Security Engineer LiteLLM is the world’s most popular AI Gateway, trusted by companies like Adobe, Netflix, and NASA. Our platform gives developers secure, reliable access to LLMs and adjacent services. We’re looking for our first Security Engineer to help secure LiteLLM’s application, infrastructure, "
     }
   ]
 }
