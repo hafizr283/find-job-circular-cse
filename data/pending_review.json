@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-25T17:15:42+00:00",
+  "built_at": "2026-11-26T03:39:20+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-25T17:15:42+00:00",
-  "total_jobs": 186,
-  "needing_review": 130,
+  "dataset_generated_at": "2026-11-26T03:39:19+00:00",
+  "total_jobs": 182,
+  "needing_review": 131,
   "in_this_batch": 40,
-  "remaining_after_batch": 90,
+  "remaining_after_batch": 91,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -524,6 +524,25 @@
       "description_excerpt": "Job Title: Project Manager Intern Company: Archiotech Location: Hybrid (Dhaka) Job Type: Internship (3 to 6 Months) About the Opportunity Are you looking for an opportunity to build and develop your career in Project Management ? At Archiotech , we are looking for an enthusiastic and detail-oriented Project Manager Intern who wants to learn and gain hands-on experience managing real-world software"
     },
     {
+      "id": "linkedin-4488618524",
+      "title": "Customer Success Specialist",
+      "company": "BPO Homes Inc",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-specialist-at-bpo-homes-inc-4488618524",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "salary",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description BPO Homes Inc. is a Real Estate Brokerage and Technology company geared at helping agents grow their business. What you’ll do Take over newly closed clients and guide them through onboarding and their first steps Respond to client questions by phone and email Check in regularly and track each client’s progress Spot clients who are struggling or at risk of leaving, and reach out"
+    },
+    {
       "id": "linkedin-4492087047",
       "title": "Software Engineers & Code Owners - AI Code Licensing Program",
       "company": "Gramian Consulting",
@@ -581,63 +600,6 @@
       "description_excerpt": "Company Description Universe Soft Tech is a growing technology company focused on building reliable, scalable software solutions for a variety of clients. The team emphasizes modern web technologies, collaborative problem-solving, and continuous learning. Interns at Universe Soft Tech have the opportunity to work closely with experienced developers and gain hands-on experience with real projects. "
     },
     {
-      "id": "linkedin-4488618524",
-      "title": "Customer Success Specialist",
-      "company": "BPO Homes Inc",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/customer-success-specialist-at-bpo-homes-inc-4488618524",
-      "posted_at": "2026-11-10",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "salary",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Company Description BPO Homes Inc. is a Real Estate Brokerage and Technology company geared at helping agents grow their business. What you’ll do Take over newly closed clients and guide them through onboarding and their first steps Respond to client questions by phone and email Check in regularly and track each client’s progress Spot clients who are struggling or at risk of leaving, and reach out"
-    },
-    {
-      "id": "linkedin-4481537456",
-      "title": "Technical Support Engineer",
-      "company": "Imou",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
-      "posted_at": "2026-11-17",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
-    },
-    {
-      "id": "linkedin-4490193765",
-      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
-      "company": "BRAC University",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-contractual-for-brac-university-job-id-1556652-at-brac-university-4490193765",
-      "posted_at": "2026-11-17",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
-    },
-    {
       "id": "linkedin-4483237904",
       "title": "Full Stack Developer",
       "company": "Lab3",
@@ -674,6 +636,44 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
+    },
+    {
+      "id": "linkedin-4490193765",
+      "title": "Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) - (For BRAC University) - Job ID - 1556652",
+      "company": "BRAC University",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/administrative-officer-graphic-design-and-technical-support-brac-business-school-contractual-for-brac-university-job-id-1556652-at-brac-university-4490193765",
+      "posted_at": "2026-11-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
+    },
+    {
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-11-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4490611094",
@@ -752,25 +752,6 @@
       "description_excerpt": "About dooit.ai dooit.ai is building a world-class AI-native platform purpose-built for financial institutions, regulators, and enterprises that need real security, not just compliance theatre. We are now building the next generation: a single AI engine that automates the entire cybersecurity lifecycle for any organisation - from startups to sovereign governments. Think Vanta, Lacework, Wiz, CrowdS"
     },
     {
-      "id": "linkedin-4489370804",
-      "title": "Security Engineer",
-      "company": "LiteLLM",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-litellm-4489370804",
-      "posted_at": "2026-11-15",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Security Engineer LiteLLM is the world’s most popular AI Gateway, trusted by companies like Adobe, Netflix, and NASA. Our platform gives developers secure, reliable access to LLMs and adjacent services. We’re looking for our first Security Engineer to help secure LiteLLM’s application, infrastructure, "
-    },
-    {
       "id": "linkedin-4490225210",
       "title": "AI-POWERED CAREER ACCELERATION INTERNSHIP",
       "company": "Sticker Visa",
@@ -788,6 +769,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Accelerate Your Thinking. Upgrade Your Skills. Deliver Real Results. Sticker Visa | Mirpur DOHS, Dhaka | Full-Time, On-Site We are looking for ambitious individuals who want to accelerate their professional growth by working with Artificial Intelligence, business research, digital creativity, and real operational challenges. This is not a passive internship. You will receive practical assignments "
+    },
+    {
+      "id": "linkedin-4489370804",
+      "title": "Security Engineer",
+      "company": "LiteLLM",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-litellm-4489370804",
+      "posted_at": "2026-11-15",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Security Engineer LiteLLM is the world’s most popular AI Gateway, trusted by companies like Adobe, Netflix, and NASA. Our platform gives developers secure, reliable access to LLMs and adjacent services. We’re looking for our first Security Engineer to help secure LiteLLM’s application, infrastructure, "
     }
   ]
 }
