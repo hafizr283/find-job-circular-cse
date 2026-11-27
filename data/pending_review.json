@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-26T16:56:39+00:00",
+  "built_at": "2026-11-27T03:43:17+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-26T16:56:38+00:00",
-  "total_jobs": 187,
-  "needing_review": 134,
+  "dataset_generated_at": "2026-11-27T03:43:17+00:00",
+  "total_jobs": 181,
+  "needing_review": 130,
   "in_this_batch": 40,
-  "remaining_after_batch": 94,
+  "remaining_after_batch": 90,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -59,26 +59,6 @@
       "description_excerpt": ""
     },
     {
-      "id": "linkedin-4490293766",
-      "title": "Full-Stack Software Engineer (UI and Backend)",
-      "company": "Sheba Technologies Limited",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-software-engineer-ui-and-backend-at-sheba-technologies-limited-4490293766",
-      "posted_at": "2026-11-16",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
       "id": "linkedin-4487861723",
       "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
       "company": "Canonical",
@@ -117,6 +97,26 @@
         "title bundles several unrelated roles"
       ],
       "description_excerpt": "SaskIT Inc. (Saskatoon, Canada) builds secure, self-hosted software for law firms, accounting firms, municipalities, and payroll and HR. This is a remote role from Bangladesh, working in our Canadian development environment with modern tools including AI-assisted coding (Claude Code). We are hiring for several positions through this single posting: Lead Developer, Senior Developer (platform and se"
+    },
+    {
+      "id": "linkedin-4490293766",
+      "title": "Full-Stack Software Engineer (UI and Backend)",
+      "company": "Sheba Technologies Limited",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-software-engineer-ui-and-backend-at-sheba-technologies-limited-4490293766",
+      "posted_at": "2026-11-16",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "unknown",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "posting status not confirmed open",
+        "company not in the reputation registry",
+        "description missing, classification rests on the title alone"
+      ],
+      "description_excerpt": ""
     },
     {
       "id": "linkedin-4488922087",
@@ -353,44 +353,6 @@
       "description_excerpt": "Applomo is hiring a part-time Cybersecurity Trainer to deliver practical online training. The role is remote within Bangladesh, with preference for candidates based in Dhaka. Show more Show less Seniority level Entry level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Applomo by 2x See who you know"
     },
     {
-      "id": "linkedin-4494109501",
-      "title": "Project Analyst (Gender) [Open to internal and external applicants]",
-      "company": "UNDP Careers",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-analyst-gender-open-to-internal-and-external-applicants-at-undp-careers-4494109501",
-      "posted_at": "2026-11-24",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
-    },
-    {
-      "id": "linkedin-4494110851",
-      "title": "Project Analyst (Gender) [Open to internal and external applicants]",
-      "company": "International Civil Aviation Organization",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/project-analyst-gender-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4494110851",
-      "posted_at": "2026-11-24",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
-    },
-    {
       "id": "linkedin-4493792700",
       "title": "Game Developer",
       "company": "Job Vacancy in Bangladesh",
@@ -446,6 +408,44 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "JOB DETAILS Type of contract : Service Contract Level : SC8 Hiring Unit : Social and Human Sciences Sector (SHS) Duty Station : Dhaka Work location : On site Duration of contract : 12 months Hiring open to : External candidates Application deadline (Midnight UTC+6 Time) : 09/12/2026 UNESCO Core Values: Commitment to the Organization, Integrity, Respect for Diversity, Professionalism ORGANIZATIONAL"
+    },
+    {
+      "id": "linkedin-4494109501",
+      "title": "Project Analyst (Gender) [Open to internal and external applicants]",
+      "company": "UNDP Careers",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-gender-open-to-internal-and-external-applicants-at-undp-careers-4494109501",
+      "posted_at": "2026-11-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+    },
+    {
+      "id": "linkedin-4494110851",
+      "title": "Project Analyst (Gender) [Open to internal and external applicants]",
+      "company": "International Civil Aviation Organization",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/project-analyst-gender-open-to-internal-and-external-applicants-at-international-civil-aviation-organization-4494110851",
+      "posted_at": "2026-11-24",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
     },
     {
       "id": "linkedin-4490274434",
@@ -543,6 +543,25 @@
       "description_excerpt": "Company Description Cyber Avenzor is a cybersecurity-focused agency dedicated to helping businesses and digital professionals strengthen their overall security posture. The organization specializes in identifying vulnerabilities, investigating security incidents, and protecting websites, web applications, and digital assets. Core service areas include cybersecurity assessments, website security, p"
     },
     {
+      "id": "linkedin-4488618524",
+      "title": "Customer Success Specialist",
+      "company": "BPO Homes Inc",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/customer-success-specialist-at-bpo-homes-inc-4488618524",
+      "posted_at": "2026-11-10",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Seniority level Entry level",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "salary",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Company Description BPO Homes Inc. is a Real Estate Brokerage and Technology company geared at helping agents grow their business. What you’ll do Take over newly closed clients and guide them through onboarding and their first steps Respond to client questions by phone and email Check in regularly and track each client’s progress Spot clients who are struggling or at risk of leaving, and reach out"
+    },
+    {
       "id": "linkedin-4491919322",
       "title": "React & AI Application Developer",
       "company": "PEN Group",
@@ -581,42 +600,23 @@
       "description_excerpt": "Job Title: Project Manager Intern Company: Archiotech Location: Hybrid (Dhaka) Job Type: Internship (3 to 6 Months) About the Opportunity Are you looking for an opportunity to build and develop your career in Project Management ? At Archiotech , we are looking for an enthusiastic and detail-oriented Project Manager Intern who wants to learn and gain hands-on experience managing real-world software"
     },
     {
-      "id": "linkedin-4488618524",
-      "title": "Customer Success Specialist",
-      "company": "BPO Homes Inc",
+      "id": "linkedin-4483237904",
+      "title": "Full Stack Developer",
+      "company": "Lab3",
       "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/customer-success-specialist-at-bpo-homes-inc-4488618524",
-      "posted_at": "2026-11-10",
+      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-at-lab3-4483237904",
+      "posted_at": "2026-10-26",
       "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
+      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "Seniority level Entry level",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
-      "pay_text": "salary",
+      "pay_text": "Allowance or benefit mentioned",
       "review_reasons": [
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "Company Description BPO Homes Inc. is a Real Estate Brokerage and Technology company geared at helping agents grow their business. What you’ll do Take over newly closed clients and guide them through onboarding and their first steps Respond to client questions by phone and email Check in regularly and track each client’s progress Spot clients who are struggling or at risk of leaving, and reach out"
-    },
-    {
-      "id": "linkedin-4492087047",
-      "title": "Software Engineers & Code Owners - AI Code Licensing Program",
-      "company": "Gramian Consulting",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineers-code-owners-ai-code-licensing-program-at-gramian-consulting-4492087047",
-      "posted_at": "2026-11-18",
-      "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "About The Opportunity Gramian is participating in an exclusive, invite-only code licensing program with a leading AI lab. The program allows software developers, engineers, and organizations to earn compensation by licensing existing software repositories for AI training and research purposes. This is a non-exclusive licensing opportunity , meaning code owners retain their intellectual property an"
+      "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
     },
     {
       "id": "linkedin-4491836522",
@@ -657,53 +657,15 @@
       "description_excerpt": "Company Description Universe Soft Tech is a growing technology company focused on building reliable, scalable software solutions for a variety of clients. The team emphasizes modern web technologies, collaborative problem-solving, and continuous learning. Interns at Universe Soft Tech have the opportunity to work closely with experienced developers and gain hands-on experience with real projects. "
     },
     {
-      "id": "linkedin-4483237904",
-      "title": "Full Stack Developer",
-      "company": "Lab3",
+      "id": "linkedin-4492087047",
+      "title": "Software Engineers & Code Owners - AI Code Licensing Program",
+      "company": "Gramian Consulting",
       "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/full-stack-developer-at-lab3-4483237904",
-      "posted_at": "2026-10-26",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineers-code-owners-ai-code-licensing-program-at-gramian-consulting-4492087047",
+      "posted_at": "2026-11-18",
       "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
-      "regex_experience_text": "Seniority level Entry level",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Allowance or benefit mentioned",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
-    },
-    {
-      "id": "linkedin-4462778194",
-      "title": "IoT Hardware & Peripherals Engineer",
-      "company": "Worksprout",
-      "location": "Rajshahi, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/iot-hardware-peripherals-engineer-at-worksprout-4462778194",
-      "posted_at": "2026-09-03",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
+      "regex_category": "AI, Data & Machine Learning",
       "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Salary negotiable",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT IoT Hardware & Peripherals Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Sol"
-    },
-    {
-      "id": "linkedin-4481537456",
-      "title": "Technical Support Engineer",
-      "company": "Imou",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
-      "posted_at": "2026-11-17",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -711,7 +673,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
+      "description_excerpt": "About The Opportunity Gramian is participating in an exclusive, invite-only code licensing program with a leading AI lab. The program allows software developers, engineers, and organizations to earn compensation by licensing existing software repositories for AI training and research purposes. This is a non-exclusive licensing opportunity , meaning code owners retain their intellectual property an"
     },
     {
       "id": "linkedin-4490193765",
@@ -733,6 +695,25 @@
       "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
     },
     {
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-11-17",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
+    },
+    {
       "id": "linkedin-4490611094",
       "title": "UI/UX Designer Intern",
       "company": "Crevio - UX/UI Design Agency for Startups",
@@ -752,6 +733,44 @@
       "description_excerpt": "Company Description Crevio is a full-service design agency focused on supporting startups and creative teams with high-impact digital products. The agency specializes in UI/UX design, web development, and branding, delivering conversion-driven solutions that turn ideas into measurable results. Crevio provides end-to-end product design, design systems, brand identity, and investor decks, helping cl"
     },
     {
+      "id": "linkedin-4477348901",
+      "title": "Embedded Systems & SBC Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/embedded-systems-sbc-engineer-at-worksprout-4477348901",
+      "posted_at": "2026-10-16",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Software Development & Engineering",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Hardware & IoT Embedded Systems & SBC Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, IoT Solutio"
+    },
+    {
+      "id": "linkedin-4462774205",
+      "title": "Computer Vision & Robotics Engineer",
+      "company": "Worksprout",
+      "location": "Rajshahi, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/computer-vision-robotics-engineer-at-worksprout-4462774205",
+      "posted_at": "2026-09-03",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Salary negotiable",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Back to all opportunities JOB OPPORTUNITY: Robotics & Automation Computer Vision & Robotics Engineer Rajshahi, Bangladesh (Onsite) Full-time 08:00 – 17:00 (BST) Onsite 2 Openings Apply for This Role About WorkSprout WorkSprout is a deep-tech engineering and design partner across twelve practice areas — TinyML & Edge AI, Custom AI Development, AI Automation & Agents, Data Engineering & Collection, "
+    },
+    {
       "id": "linkedin-4488914288",
       "title": "Security Engineer",
       "company": "Metabase",
@@ -769,25 +788,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people love us . We bring data tools with the elegance and simplicity of consumer products to the crufty world of e"
-    },
-    {
-      "id": "linkedin-4488902806",
-      "title": "Security Engineer",
-      "company": "Asymmetric Research",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-asymmetric-research-4488902806",
-      "posted_at": "2026-11-13",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Asymmetric Research Asymmetric Research is a specialized security firm focused on long-term, integrated partnerships with L1/L2 blockchains and DeFi protocols. We help teams build resilient systems, strengthen security posture, and proactively address emerging threats. About The Role We are seeking a S"
     }
   ]
 }
