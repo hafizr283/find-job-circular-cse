@@ -1,11 +1,11 @@
 {
-  "built_at": "2026-11-27T03:43:17+00:00",
+  "built_at": "2026-11-27T16:45:11+00:00",
   "review_version": 1,
-  "dataset_generated_at": "2026-11-27T03:43:17+00:00",
+  "dataset_generated_at": "2026-11-27T16:45:11+00:00",
   "total_jobs": 181,
-  "needing_review": 130,
+  "needing_review": 129,
   "in_this_batch": 40,
-  "remaining_after_batch": 90,
+  "remaining_after_batch": 89,
   "valid_categories": [
     "Software Development & Engineering",
     "AI, Data & Machine Learning",
@@ -127,26 +127,6 @@
       "posted_at": "2026-11-13",
       "regex_job_type": "Fresher job",
       "regex_category": "Cybersecurity & Risk",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "unknown",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "posting status not confirmed open",
-        "company not in the reputation registry",
-        "description missing, classification rests on the title alone"
-      ],
-      "description_excerpt": ""
-    },
-    {
-      "id": "linkedin-4489057748",
-      "title": "Software Developer (VB.Net)",
-      "company": "NEXUS / HDC",
-      "location": "Mohakhali, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-developer-vb-net-at-nexus-hdc-4489057748",
-      "posted_at": "2026-11-12",
-      "regex_job_type": "Fresher job",
-      "regex_category": "Software Development & Engineering",
       "regex_experience_text": "",
       "regex_experience_years_min": null,
       "regex_posting_status": "unknown",
@@ -391,25 +371,6 @@
       "description_excerpt": "Company Description SHARK Ltd. is an engineering solution provider specializing in HVAC, power, and IT-related services and solutions. The company delivers original branded products sourced from Europe, the USA, Canada, Australia, and Asia, ensuring quality and reliability for clients. SHARK Ltd. focuses on combining advanced technology with practical engineering expertise to meet diverse customer"
     },
     {
-      "id": "linkedin-4492909229",
-      "title": "National Project Officer/ Associate (Natural, Social and Human Sciences)",
-      "company": "UNESCO Dhaka",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/national-project-officer-associate-natural-social-and-human-sciences-at-unesco-dhaka-4492909229",
-      "posted_at": "2026-11-20",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "JOB DETAILS Type of contract : Service Contract Level : SC8 Hiring Unit : Social and Human Sciences Sector (SHS) Duty Station : Dhaka Work location : On site Duration of contract : 12 months Hiring open to : External candidates Application deadline (Midnight UTC+6 Time) : 09/12/2026 UNESCO Core Values: Commitment to the Organization, Integrity, Respect for Diversity, Professionalism ORGANIZATIONAL"
-    },
-    {
       "id": "linkedin-4494109501",
       "title": "Project Analyst (Gender) [Open to internal and external applicants]",
       "company": "UNDP Careers",
@@ -446,6 +407,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Job Description Tiered Approach In Line With The Commitment To Safeguard Capacity And Support Personnel Already In The Organization, a Majority Of UNDP UNCDF/UNV Vacancies Are Advertised Using a Tiered Application Process Whereby Tier 0: UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (FTA) appointments, whose posts will be abolished, or contracts will be terminated or not renewed du"
+    },
+    {
+      "id": "linkedin-4492909229",
+      "title": "National Project Officer/ Associate (Natural, Social and Human Sciences)",
+      "company": "UNESCO Dhaka",
+      "location": "Dhaka, Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/national-project-officer-associate-natural-social-and-human-sciences-at-unesco-dhaka-4492909229",
+      "posted_at": "2026-11-20",
+      "regex_job_type": "Fresher job",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "JOB DETAILS Type of contract : Service Contract Level : SC8 Hiring Unit : Social and Human Sciences Sector (SHS) Duty Station : Dhaka Work location : On site Duration of contract : 12 months Hiring open to : External candidates Application deadline (Midnight UTC+6 Time) : 09/12/2026 UNESCO Core Values: Commitment to the Organization, Integrity, Respect for Diversity, Professionalism ORGANIZATIONAL"
     },
     {
       "id": "linkedin-4490274434",
@@ -619,6 +599,25 @@
       "description_excerpt": "Lab3 is looking for a sharp, adaptable Full-Stack Developer who thrives in fast-moving environments and knows how to ship features without cutting corners. You'll work across our stack — React, Vite, Node.js, and Firebase/Firestore — building and iterating on products that matter. This isn't a role where you sit back and wait for specs. You'll need strong judgment, the ability to context-switch be"
     },
     {
+      "id": "linkedin-4492087047",
+      "title": "Software Engineers & Code Owners - AI Code Licensing Program",
+      "company": "Gramian Consulting",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/software-engineers-code-owners-ai-code-licensing-program-at-gramian-consulting-4492087047",
+      "posted_at": "2026-11-18",
+      "regex_job_type": "Fresher job",
+      "regex_category": "AI, Data & Machine Learning",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "About The Opportunity Gramian is participating in an exclusive, invite-only code licensing program with a leading AI lab. The program allows software developers, engineers, and organizations to earn compensation by licensing existing software repositories for AI training and research purposes. This is a non-exclusive licensing opportunity , meaning code owners retain their intellectual property an"
+    },
+    {
       "id": "linkedin-4491836522",
       "title": "Assoc Dir, Software Development",
       "company": "IQVIA",
@@ -657,15 +656,15 @@
       "description_excerpt": "Company Description Universe Soft Tech is a growing technology company focused on building reliable, scalable software solutions for a variety of clients. The team emphasizes modern web technologies, collaborative problem-solving, and continuous learning. Interns at Universe Soft Tech have the opportunity to work closely with experienced developers and gain hands-on experience with real projects. "
     },
     {
-      "id": "linkedin-4492087047",
-      "title": "Software Engineers & Code Owners - AI Code Licensing Program",
-      "company": "Gramian Consulting",
-      "location": "Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/software-engineers-code-owners-ai-code-licensing-program-at-gramian-consulting-4492087047",
-      "posted_at": "2026-11-18",
+      "id": "linkedin-4481537456",
+      "title": "Technical Support Engineer",
+      "company": "Imou",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
+      "posted_at": "2026-11-17",
       "regex_job_type": "Fresher job",
-      "regex_category": "AI, Data & Machine Learning",
-      "regex_experience_text": "",
+      "regex_category": "ITES, Support & Customer Success",
+      "regex_experience_text": "Entry level indicated",
       "regex_experience_years_min": null,
       "regex_posting_status": "open",
       "pay_text": "Pay not stated",
@@ -673,7 +672,7 @@
         "no experience floor parsed from the description",
         "company not in the reputation registry"
       ],
-      "description_excerpt": "About The Opportunity Gramian is participating in an exclusive, invite-only code licensing program with a leading AI lab. The program allows software developers, engineers, and organizations to earn compensation by licensing existing software repositories for AI training and research purposes. This is a non-exclusive licensing opportunity , meaning code owners retain their intellectual property an"
+      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4490193765",
@@ -693,25 +692,6 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "BRAC University is looking for Administrative Officer - Graphic Design and Technical Support, BRAC Business School (Contractual) Job Description / Responsibility BRAC University (BRACU) follows a liberal arts approach to education which nurtures fresh ideas and gives new impetus to the field of tertiary education. It ensures a high quality of education and aims to meet the demands of contemporary "
-    },
-    {
-      "id": "linkedin-4481537456",
-      "title": "Technical Support Engineer",
-      "company": "Imou",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://bd.linkedin.com/jobs/view/technical-support-engineer-at-imou-4481537456",
-      "posted_at": "2026-11-17",
-      "regex_job_type": "Fresher job",
-      "regex_category": "ITES, Support & Customer Success",
-      "regex_experience_text": "Entry level indicated",
-      "regex_experience_years_min": null,
-      "regex_posting_status": "open",
-      "pay_text": "Pay not stated",
-      "review_reasons": [
-        "no experience floor parsed from the description",
-        "company not in the reputation registry"
-      ],
-      "description_excerpt": "We are currently searching for a Technical Support Engineer to support our business development in Bangladesh . This is for our Smart Home brand IMOU (Pronounced: I-Moe). 1, Who Are We? IMOU is a global leader in Smart Home segment and we have built a reputation in overseas market as the go to vendor for Smart Security & Smart Home. Set up as a subsidiary of Dahua Group which is the second largest"
     },
     {
       "id": "linkedin-4490611094",
@@ -788,6 +768,25 @@
         "company not in the reputation registry"
       ],
       "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people love us . We bring data tools with the elegance and simplicity of consumer products to the crufty world of e"
+    },
+    {
+      "id": "linkedin-4488902806",
+      "title": "Security Engineer",
+      "company": "Asymmetric Research",
+      "location": "Bangladesh",
+      "url": "https://bd.linkedin.com/jobs/view/security-engineer-at-asymmetric-research-4488902806",
+      "posted_at": "2026-11-13",
+      "regex_job_type": "Fresher job",
+      "regex_category": "Cybersecurity & Risk",
+      "regex_experience_text": "",
+      "regex_experience_years_min": null,
+      "regex_posting_status": "open",
+      "pay_text": "Pay not stated",
+      "review_reasons": [
+        "no experience floor parsed from the description",
+        "company not in the reputation registry"
+      ],
+      "description_excerpt": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs. Asymmetric Research Asymmetric Research is a specialized security firm focused on long-term, integrated partnerships with L1/L2 blockchains and DeFi protocols. We help teams build resilient systems, strengthen security posture, and proactively address emerging threats. About The Role We are seeking a S"
     }
   ]
 }
